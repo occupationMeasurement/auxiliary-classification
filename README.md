@@ -14,12 +14,13 @@ Ein zusammenfassende Darstellung ist publiziert in
 Schierholz, Malte (2018): Eine Hilfsklassifikation mit Tätigkeitsbeschreibungen für Zwecke der Berufskodierung. AStA Wirtschafts- und Sozialstatistisches Archiv 12. 14. S. https://doi.org/10.1007/s11943-018-0231-2
 
 # Verwendung
-Die Datei hilfsklassifikation.xml enthält die Hilfsklassifikation. Zur übersichtlichen Darstellung derselben Inhalte die Datei erstelle_hilfskategorien_abgrenzungen_folgefragen_aus_hilfsklassifikation.R in R ausgeführt werden um verschiedene .csv-Dateien zu erstellen. Vergleiche auch die Kommentare dort.
+Die Datei hilfsklassifikation.xml enthält die Hilfsklassifikation. Zur übersichtlichen Darstellung (nahezu) derselben Inhalte können mit dem R-Skript vier Excel-Tabellen (csv) erstellt werden. Vergleiche auch die Kommentare dort.
+
+Der folgende Code kann in R ausgeführt werden um die vier Excel-Tabellen im aktuellen Working Directory zu erstellen.
 
 ```
 install.packages(c("xml2", "data.table", "stringdist"))
 source("https://raw.githubusercontent.com/malsch/occupationCodingAuxco/master/erstelle_hilfskategorien_abgrenzungen_folgefragen_aus_hilfsklassifikation.R")
-
 ```
 
 # Changelog
