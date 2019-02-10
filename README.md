@@ -16,6 +16,12 @@ Schierholz, Malte (2018): Eine Hilfsklassifikation mit Tätigkeitsbeschreibungen
 # Verwendung
 Die Datei hilfsklassifikation.xml enthält die Hilfsklassifikation. Zur übersichtlichen Darstellung derselben Inhalte die Datei erstelle_hilfskategorien_abgrenzungen_folgefragen_aus_hilfsklassifikation.R in R ausgeführt werden um verschiedene .csv-Dateien zu erstellen. Vergleiche auch die Kommentare dort.
 
+```
+install.packages(c("xml2", "data.table", "stringdist"))
+source("https://raw.githubusercontent.com/malsch/occupationCodingAuxco/master/erstelle_hilfskategorien_abgrenzungen_folgefragen_aus_hilfsklassifikation.R")
+
+```
+
 # Changelog
 Seit der ursprünglichen Publikation wurden zahlreiche Verbesserungen und Erweiterungen vorgenommen.
 
