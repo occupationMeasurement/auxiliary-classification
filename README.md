@@ -4,7 +4,7 @@ Dieser Ordner enthält den elektronischen Anhang zu folgender Publikation:
 
 Schierholz, Malte; Brenner, Lorraine; Cohausz, Lea; Damminger, Lisa; Fast, Lisa; Hörig, Ann-Kathrin; Huber, Anna-Lena; Ludwig, Theresa; Petry, Annabell; Tschischka, Laura (2018):
  Vorstellung einer Hilfsklassifikation mit Tätigkeitsbeschreibungen für Zwecke der Berufskodierung.
- (IAB-Discussion Paper, 2018), Nuremberg, 45 S.
+ (IAB-Discussion Paper, 2018), Nürnberg, 45 S.
 
 Das genannte Discussion-Paper ist online verfügbar unter 
 https://www.iab.de/183/section.aspx/Publikation/k180509301
@@ -19,7 +19,12 @@ Die Datei hilfsklassifikation.xml enthält die Hilfsklassifikation. Zur übersic
 # Changelog
 Seit der ursprünglichen Publikation wurden zahlreiche Verbesserungen und Erweiterungen vorgenommen.
 
-18.09.2018: Standardisierung und Überarbeitung der "Taetigkeit"-Formulierungen; Zusammenfügen von Kategorien, Einfügen von Folgefragen und weitere kleinere Änderungen
+* 18.09.2018: Standardisierung und Überarbeitung der "Taetigkeit"-Formulierungen; Zusammenfügen von Kategorien, Einfügen von Folgefragen und weitere kleinere Änderungen
+
+* 07.02.2019: Kleinere Anpassungen und Korrekturen (hauptsächlich bei zugeordneten ISCO-Codes). Außerdem: Veränderte Syntax der Hilfsklassifikation:
+    * Jeder tag <fragetext> hat nun das "typ"-Attribut
+    * Fragetexte sind nun unterteilt in zwei Tags <folgefrageAktuellerBeruf> und <folgefrageVergangenerBeruf>
+    * <antwort>-Tags haben ein optionales Attribut follow-up="FALSE" wenn nach Auswahl dieser Antwort keine weitere Follow-Up Frage benötigt wird. (bereits seit dem September-Upgrade)
 
 
 # Mitwirkende

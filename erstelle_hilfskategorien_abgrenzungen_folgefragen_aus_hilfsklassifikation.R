@@ -82,17 +82,22 @@ for (cat_num in seq_along(ids)) { #
   
   for (folgefrage_node in xml_find_all(category_node, xpath = "./untergliederung/child::*")) {
     if (xml_name(folgefrage_node) == "fragetext") {
-      res <- rbind(res, cbind(data.table(id, fragetext = xml_text(folgefrage_node), antwort.pos = "", antwort.text = "", antwort.kldb = "", antwort.isco = "")))
+      typ <- xml_attr(folgefrage_node, "typ")
+      fragetextAktuellerBeruf <- xml_text(xml_find_all(folgefrage_node, xpath = "./folgefrageAktuellerBeruf"))
+      fragetextVergangenerBeruf <- xml_text(xml_find_all(folgefrage_node, xpath = "./folgefrageVergangenerBeruf"))
+      
+      res <- rbind(res, cbind(data.table(id, typ = typ, fragetextAktuellerBeruf = fragetextAktuellerBeruf, fragetextVergangenerBeruf = fragetextVergangenerBeruf, antwort.pos = "", antwort.text = "", antwort.kldb = "", antwort.isco = "", followUp = "")))
     }
     if (xml_name(folgefrage_node) == "antwort") {
       pos <- xml_attr(folgefrage_node, "position")
+      followUp <- xml_attr(folgefrage_node, "follow-up")
       ant.text <- xml_text(xml_find_all(folgefrage_node, xpath = "./text"))
       ant.kldb <- xml_attr(xml_find_all(folgefrage_node, xpath = "./kldb"), "schluessel")
       if (length(ant.kldb) == 0) ant.kldb <- ""
       ant.isco <- xml_attr(xml_find_all(folgefrage_node, xpath = "./isco"), "schluessel")
       if (length(ant.isco) == 0) ant.isco <- ""
   
-      res <- rbind(res, cbind(data.table(id, fragetext = "", antwort.pos = pos, antwort.text = ant.text, antwort.kldb = ant.kldb, antwort.isco = ant.isco)))
+      res <- rbind(res, cbind(data.table(id, typ = "", fragetextAktuellerBeruf = "", fragetextVergangenerBeruf = "", antwort.pos = pos, antwort.text = ant.text, antwort.kldb = ant.kldb, antwort.isco = ant.isco, followUp = followUp)))
     }
   }
 }
