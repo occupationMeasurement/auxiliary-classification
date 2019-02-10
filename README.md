@@ -29,9 +29,9 @@ Seit der ursprünglichen Publikation wurden zahlreiche Verbesserungen und Erweit
 * 18.09.2018: Standardisierung und Überarbeitung der "Taetigkeit"-Formulierungen; Zusammenfügen von Kategorien, Einfügen von Folgefragen und weitere kleinere Änderungen
 
 * 07.02.2019: Kleinere Anpassungen und Korrekturen (hauptsächlich bei zugeordneten ISCO-Codes). Außerdem: Veränderte Syntax der Hilfsklassifikation:
-    * Jeder tag <fragetext> hat nun das "typ"-Attribut
-    * Fragetexte sind nun unterteilt in zwei Tags <folgefrageAktuellerBeruf> und <folgefrageVergangenerBeruf>
-    * <antwort>-Tags haben ein optionales Attribut follow-up="FALSE" wenn nach Auswahl dieser Antwort keine weitere Follow-Up Frage benötigt wird. (bereits seit dem September-Upgrade)
+    * Jeder `<fragetext>`-Tag hat nun das `typ`-Attribut
+    * Fragetexte sind nun unterteilt in zwei Tags `<folgefrageAktuellerBeruf>` und `<folgefrageVergangenerBeruf>`
+    * `<antwort>`-Tags haben ein optionales Attribut `follow-up="FALSE"` wenn nach Auswahl dieser Antwort keine weitere Follow-Up Frage benötigt wird. (bereits seit dem September-Upgrade)
 
 
 # Mitwirkende
