@@ -1,0 +1,2 @@
+# occupationCodingAuxco
+Berufs-Hilfsklassifikation mit Tätigkeitsbeschreibungen
