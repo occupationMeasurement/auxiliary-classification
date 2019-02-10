@@ -19,8 +19,11 @@ Die Datei hilfsklassifikation.xml enthält die Hilfsklassifikation. Zur übersic
 # Changelog
 Seit der ursprünglichen Publikation wurden zahlreiche Verbesserungen und Erweiterungen vorgenommen.
 
+18.09.2018: Standardisierung und Überarbeitung der "Taetigkeit"-Formulierungen; Zusammenfügen von Kategorien, Einfügen von Folgefragen und weitere kleinere Änderungen
+
+
 # Mitwirkende
 Folgende Personen waren bei der Erstellung beteiligt.
 
-Brenner, Lorraine; Cohausz, Lea; Damminger, Lisa; Fast, Lisa; Hörig, Ann-Kathrin; Huber, Anna-Lena; Ludwig, Theresa; Petry, Annabell; Schierholz, Malte; Tschischka, Laura
+Bauriegel, Mario; Brenner, Lorraine; Cohausz, Lea; Damminger, Lisa; Digiser, Marie-Luise; Fast, Lisa; Hörig, Ann-Kathrin; Huber, Anna-Lena; Ludwig, Theresa; Petry, Annabell; Rosebrock, Antje; Schierholz, Malte; Tschischka, Laura
 
