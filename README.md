@@ -14,7 +14,7 @@ Ein zusammenfassende Darstellung ist publiziert in
 Schierholz, Malte (2018): Eine Hilfsklassifikation mit Tätigkeitsbeschreibungen für Zwecke der Berufskodierung. AStA Wirtschafts- und Sozialstatistisches Archiv 12. 14. S. https://doi.org/10.1007/s11943-018-0231-2
 
 # Verwendung
-Die Datei hilfsklassifikation.xml enthält die Hilfsklassifikation. Zur übersichtlichen Darstellung der Inhalte können mittels der Datei erstelle_hilfskategorien_abgrenzungen_folgefragen_aus_hilfsklassifikation.R verschiedene .csv-Datei erstellt werden. Vergleiche auch die Kommentare dort.
+Die Datei hilfsklassifikation.xml enthält die Hilfsklassifikation. Zur übersichtlichen Darstellung derselben Inhalte die Datei erstelle_hilfskategorien_abgrenzungen_folgefragen_aus_hilfsklassifikation.R in R ausgeführt werden um verschiedene .csv-Dateien zu erstellen. Vergleiche auch die Kommentare dort.
 
 # Changelog
 Seit der ursprünglichen Publikation wurden zahlreiche Verbesserungen und Erweiterungen vorgenommen.
