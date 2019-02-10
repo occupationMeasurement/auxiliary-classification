@@ -115,7 +115,7 @@ res[, questionNumber := cumsum(fragetextAktuellerBeruf != ""), by = id]
 res <- res[order(id)]
 res[, laufindexFolge := 1:.N]
 
-write.csv2(res[, list(laufindexFolge, id, questionNumber, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)], row.names = FALSE, file = "folgefragen.csv", fileEncoding = "UTF-8")
+write.csv2(res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)], row.names = FALSE, file = "folgefragen.csv", fileEncoding = "UTF-8")
 
 
 ##############################################
