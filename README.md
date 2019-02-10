@@ -11,7 +11,7 @@ https://www.iab.de/183/section.aspx/Publikation/k180509301
 
 Ein zusammenfassende Darstellung ist publiziert in
 
-Schierholz, Malte (2018): Eine Hilfsklassifikation mit Tätigkeitsbeschreibungen für Zwecke der Berufskodierung. AStA Wirtschafts- und Sozialstatistisches Archiv 12. 14. S. https://doi.org/10.1007/s11943-018-0231-2
+Schierholz, Malte (2018): Eine Hilfsklassifikation mit Tätigkeitsbeschreibungen für Zwecke der Berufskodierung. AStA Wirtschafts- und Sozialstatistisches Archiv 12(3-4). 14 S. https://doi.org/10.1007/s11943-018-0231-2
 
 # Verwendung
 Die Datei hilfsklassifikation.xml enthält die Hilfsklassifikation. Zur übersichtlichen Darstellung (nahezu) derselben Inhalte können mit dem R-Skript vier Excel-Tabellen (csv) erstellt werden. Vergleiche auch die Kommentare dort.
