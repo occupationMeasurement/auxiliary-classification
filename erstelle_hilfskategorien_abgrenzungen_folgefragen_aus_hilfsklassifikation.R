@@ -112,9 +112,10 @@ for (cat_num in seq_along(ids)) { #
 
 # number rows and number questions per id
 res[, questionNumber := cumsum(fragetextAktuellerBeruf != ""), by = id]
+res <- res[order(id)]
 res[, laufindexFolge := 1:.N]
 
-write.csv2(res[order(id), list(laufindexFolge, id, questionNumber, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)], row.names = FALSE, file = "folgefragen.csv", fileEncoding = "UTF-8")
+write.csv2(res[, list(laufindexFolge, id, questionNumber, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)], row.names = FALSE, file = "folgefragen.csv", fileEncoding = "UTF-8")
 
 
 ##############################################
