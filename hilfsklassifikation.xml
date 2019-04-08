@@ -1979,7 +1979,7 @@
         <folgefrageAktuellerBeruf>Welche Aufgaben führen Sie dabei in der Regel aus?</folgefrageAktuellerBeruf>
         <folgefrageVergangenerBeruf>Welche Aufgaben haben Sie dabei in der Regel ausgeführt?</folgefrageVergangenerBeruf>
       </fragetext>
-      <antwort position="3">
+      <antwort position="1">
         <text>sprengberechtigte Fachkräfte unterstützen</text>
         <kldb schluessel="21122">Berufe in der Sprengtechnik - fachlich ausgerichtete Tätigkeiten</kldb>
         <isco schluessel="7542">Shotfirers and blasters</isco>
@@ -5473,7 +5473,7 @@
   </kategorie>
   <kategorie>
     <id>2105</id>
-    <taetigkeit>Planung, Koordination und Optimierung von Anlagen zur Energiegewinnung aus fossilen Brenntoffen oder mittels Kernspaltung</taetigkeit>
+    <taetigkeit>Planung, Koordination und Optimierung von Anlagen zur Energiegewinnung aus fossilen Brennstoffen oder mittels Kernspaltung</taetigkeit>
     <taetigkeitsbeschreibung>z.B. elektrotechnische Anlagen und Maschinen der Kraftwerks- und Reaktortechnik planen, berechnen und konstruieren; Umspann- und Schaltanlagen sowie Freileitungs- und Kabelnetze von Großanlagen planen; Betriebsbereitschaft der technischen Einrichtungen in Kraftwerken sicherstellen; wissenschaftliche Versuche und Forschung zur Effizienz und Zuverlässigkeit von Energieerzeugungsanlagen durchführen</taetigkeitsbeschreibung>
     <bezeichnung>Kraftwerksingenieur/in</bezeichnung>
     <untergliederung>
@@ -5947,7 +5947,7 @@
   </kategorie>
   <kategorie>
     <id>2139</id>
-    <taetigkeit>Erforschung und Entwicklung von von optoelektronischen Geräten und Anwendungen</taetigkeit>
+    <taetigkeit>Erforschung und Entwicklung von optoelektronischen Geräten und Anwendungen</taetigkeit>
     <taetigkeitsbeschreibung>z.B. optoelektronische Anwendungen entwickeln, konstruieren und fertigen; Geräte und Verfahren der optischen Nachrichtentechnik entwickeln; Prüfvorschriften und Qualitätsstandards vorgeben</taetigkeitsbeschreibung>
     <bezeichnung>Optoelektronikingenieur/in</bezeichnung>
     <untergliederung>
@@ -6622,7 +6622,7 @@
         <dkz codenr="28112-128" refid="90023">Textilgestalter/in im Handwerk - Sticken</dkz>
       </antwort>
       <antwort position="4">
-        <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+        <text>ein abgeschlossenes Bachelorstudium</text>
         <kldb schluessel="28113">Textilgestaltung - Spezialist</kldb>
         <isco schluessel="2163">Product and garment designers</isco>
         <dkz codenr="28112-109" refid="8463">Textilmustergestalter/in - Handstickerei</dkz>
@@ -6883,7 +6883,7 @@
         <kldb schluessel="28222">Bekleidungsherstellung - Fachkraft</kldb>
         <isco schluessel="8153">Sewing machine operators</isco>
       </antwort>
-      <antwort position="1">
+      <antwort position="2">
         <text>Nein</text>
         <kldb schluessel="28221">Berufe in der Bekleidungs-, Hut- und Mützenherstellung - Helfer-/Anlerntätigkeiten</kldb>
         <isco schluessel="8153">Sewing machine operators</isco>
@@ -7115,7 +7115,7 @@
         <dkz codenr="28312-111" refid="90021">Fachkraft - Lederverarbeitung</dkz>
         <dkz codenr="28312-178" refid="126793">Fachkraft - Lederherstellung und Gerbereitechnik</dkz>
       </antwort>
-      <antwort position="1">
+      <antwort position="2">
         <text>Nein</text>
         <kldb schluessel="28301">Leder-,Pelzherstell.,-verarb.(oS)-Helfer</kldb>
         <isco schluessel="8155">Fur and leather preparing machine operators</isco>
@@ -7644,7 +7644,7 @@
   </kategorie>
   <kategorie>
     <id>9005</id>
-    <taetigkeit>Führunsaufgaben mit Personalverantwortung bei der Getränkeherstellung</taetigkeit>
+    <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Getränkeherstellung</taetigkeit>
     <taetigkeitsbeschreibung>z.B. die Getränkeproduktion planen und überwachen; für die Einhaltung von Produktions- und Qualitätszielen sorgen; Kosten- und Zeitplan sicherstellen; Produktionsergebnisse überwachen; Arbeitskräfte auswählen und deren Einsatz organisieren; Schulungen und Fortbildungen für Mitarbeiter organisieren</taetigkeitsbeschreibung>
     <bezeichnung>Getränkeproduktionsleiter/in</bezeichnung>
     <untergliederung>
@@ -8535,7 +8535,7 @@
   </kategorie>
   <kategorie>
     <id>5252</id>
-    <taetigkeit>Planung und Überwachung des Baus von Bauwerken aus aus architektonisch-gestalterischer Perspektive</taetigkeit>
+    <taetigkeit>Planung und Überwachung des Baus von Bauwerken aus architektonisch-gestalterischer Perspektive</taetigkeit>
     <taetigkeitsbeschreibung>z.B. Auftraggeber beraten und informieren; Entwürfe für Bauvorhaben unter Einbeziehung der Vorstellungen und Wünsche der Auftraggeber entwickeln und erstellen; Skizzen, Maßstabzeichnungen und Modelle anfertigen; geschätzte Bauzeit und Materialbedarf ermitteln; Kostenkalkulationen durchführen; Modelle der Bauvorhaben anfertigen; die Bauausführung und -abwicklung kontrollieren; Standorte inspizieren; Gebäudestandorte, Umweltaspekte und soziale Aspekte für geplante Bauvorhaben analysieren; neue und verbesserte Architekturtheorien- und methoden entwickeln</taetigkeitsbeschreibung>
     <bezeichnung>Architekt/in</bezeichnung>
     <untergliederung>
@@ -11246,7 +11246,7 @@
   </kategorie>
   <kategorie>
     <id>4999</id>
-    <taetigkeit>Präparierung von pflanzlichem oder tierischem Gewebe sowie von Fossillien für Museumsausstellungen</taetigkeit>
+    <taetigkeit>Präparierung von pflanzlichem oder tierischem Gewebe sowie von Fossilien für Museumsausstellungen</taetigkeit>
     <taetigkeitsbeschreibung>z.B. Präparate zu Ausstellungszwecken für naturkundliche Museen herstellen; Exponate katalogisieren; Tier- und Pflanzenmaterial objektspezifisch konservieren und aufarbeiten</taetigkeitsbeschreibung>
     <bezeichnung>Fachkraft für Präparation in naturkundlichen Museen</bezeichnung>
     <untergliederung>
@@ -11544,8 +11544,8 @@
         <isco schluessel="2113">Chemists</isco>
       </default>
       <fragetext typ="spezialisierung">
-        <folgefrageAktuellerBeruf>Mit welchem spezifischen Fachbgebiet beschäftigen Sie sich?</folgefrageAktuellerBeruf>
-        <folgefrageVergangenerBeruf>Mit welchem spezifischen Fachbgebiet haben Sie sich beschäftigt?</folgefrageVergangenerBeruf>
+        <folgefrageAktuellerBeruf>Mit welchem spezifischen Fachgebiet beschäftigen Sie sich?</folgefrageAktuellerBeruf>
+        <folgefrageVergangenerBeruf>Mit welchem spezifischen Fachgebiet haben Sie sich beschäftigt?</folgefrageVergangenerBeruf>
       </fragetext>
       <antwort position="1">
         <text>Eigenschaften und Herstellung von Polymeren</text>
@@ -12668,7 +12668,7 @@
   </kategorie>
   <kategorie>
     <id>4049</id>
-    <taetigkeit>Vetrieb von Computerhardware, Software und speziellen Dienstleistungen der Kommunikationstechnologie</taetigkeit>
+    <taetigkeit>Vertrieb von Computerhardware, Software und speziellen Dienstleistungen der Kommunikationstechnologie</taetigkeit>
     <taetigkeitsbeschreibung>z.B. Kunden bei der Auswahl von IT-Services beraten; Bedarf der Kunden analysieren; Produkte präsentieren und verkaufen; Testphase von Software beim Kunden begleiten; Leistungserstellung überwachen</taetigkeitsbeschreibung>
     <bezeichnung>IT-System-Kaufmann/ -frau</bezeichnung>
     <untergliederung>
@@ -12686,7 +12686,7 @@
   </kategorie>
   <kategorie>
     <id>4251</id>
-    <taetigkeit>Führungsaufgaben mit Personalverantwortung im IT-Vetrieb und in der IT-Anwendungsberatung</taetigkeit>
+    <taetigkeit>Führungsaufgaben mit Personalverantwortung im IT-Vertrieb und in der IT-Anwendungsberatung</taetigkeit>
     <taetigkeitsbeschreibung>z.B. Vertriebs- und Supportteams leiten; Kundenstamm betreuen; Neukunden werben; Produkte und Technologien auf Fachmessen präsentieren; Werkzeuge und Methoden für die Beratungstätigkeit entwickeln; Verkaufsstrategien entwickeln; Mitarbeiter führen und anleiten; Kostenplanung erstellen</taetigkeitsbeschreibung>
     <bezeichnung>Leiter/in - IT-Vertrieb und -Anwendungsberatung</bezeichnung>
     <untergliederung>
@@ -12862,7 +12862,7 @@
   </kategorie>
   <kategorie>
     <id>5099</id>
-    <taetigkeit>Sicherstellung der Betriebssicherheit und Verkehrtauglichkeit von Eisenbahnzügen vor der Abfahrt</taetigkeit>
+    <taetigkeit>Sicherstellung der Betriebssicherheit und Verkehrstauglichkeit von Eisenbahnzügen vor der Abfahrt</taetigkeit>
     <taetigkeitsbeschreibung>z.B. die Betriebssicherheit und Verkehrstauglichkeit von Wagen, Zügen und Ladungen vor der Abfahrt überprüfen; augenscheinliche Kontrollen von Wagenuntergestell, Bremsen, Federung, Zug- und Stoß-einrichtungen, Klimaanlagen und Heizsystemen, durchführen; festgestellte Mängel und Schäden an den Zugsystemen nach Anweisung beheben</taetigkeitsbeschreibung>
     <bezeichnung>Wagenuntersucher/in (Eisenbahn)</bezeichnung>
     <untergliederung>
@@ -14294,7 +14294,7 @@
   </kategorie>
   <kategorie>
     <id>5055</id>
-    <taetigkeit>Bedienung und Instandhaltung von Baggern, Radladern, Planierraupen, Rammmschinen und ähnlichen Fahrzeugen zur Erdbewegung</taetigkeit>
+    <taetigkeit>Bedienung und Instandhaltung von Baggern, Radladern, Planierraupen, Rammmaschinen und ähnlichen Fahrzeugen zur Erdbewegung</taetigkeit>
     <taetigkeitsbeschreibung>z.B. Planier- und Laderaupen, Bagger, Rammmaschinen sowie andere fahrbare Baumaschinen bedienen, fahren und warten; Maschinen entsprechend der Bodenbeschaffenheit ein- bzw. umrüsten; Maschinen zum Einsatzort befördern und diese nach Anleitung aufstellen bzw. einrichten; Baggern, Graben, Schaufeln, Bohren und Aushub verladen; Maschinen reinigen, warten und pflegen und ggf. Reparaturarbeiten durchführen; Sicherheits-, Unfallverhütungs- und Umweltschutzvorschriften beachten</taetigkeitsbeschreibung>
     <bezeichnung>Baumaschinenführer/in</bezeichnung>
     <untergliederung>
@@ -16533,7 +16533,7 @@
   </kategorie>
   <kategorie>
     <id>6072</id>
-    <taetigkeit>Zubereitung und Servieren von alkoholischen und nicht alkoholisschen Getränken an Theken</taetigkeit>
+    <taetigkeit>Zubereitung und Servieren von alkoholischen und nicht alkoholischen Getränken an Theken</taetigkeit>
     <taetigkeitsbeschreibung>z.B. (nicht-)alkoholische Cocktails und andere Getränke nach internationalen fachlichen Richtlinien und Rezepturen zubereiten; eigene Cocktails kreiren; Getränke dekorieren; kleine Speisen und Snacks zubereiten; Kunden beraten, informieren und deren Bestellungen aufnehmen; sich mit den Gästen unterhalten; Rechnungen stellen und abkassieren; Warenbestände prüfen und ggf. Nachbestellungen aufgeben; Hygienevorschriften einhalten und auf Ordnund und Sauberkeit achten; Abrechnungen erstellen und Einnahmen überprüfen</taetigkeitsbeschreibung>
     <bezeichnung>Barkeeper/in</bezeichnung>
     <untergliederung>
@@ -21405,7 +21405,7 @@
   </kategorie>
   <kategorie>
     <id>8022</id>
-    <taetigkeit>Vorbereitung des Kirchraums und der Sakristei für den Gottestdienst</taetigkeit>
+    <taetigkeit>Vorbereitung des Kirchraums und der Sakristei für den Gottesdienst</taetigkeit>
     <taetigkeitsbeschreibung>z.B. Kanzeln und Altäre dem Anlass entsprechend schmücken; Kerzen anzünden; Bücher und Gewänder vorbereiten; Faltblätter auslegen; Auskünfte zu den Gottesdiensten in Kirchen erteilen</taetigkeitsbeschreibung>
     <bezeichnung>Küster/in</bezeichnung>
     <untergliederung>
@@ -21607,7 +21607,7 @@
   </kategorie>
   <kategorie>
     <id>8034</id>
-    <taetigkeit>Erteilung von berufstheoretischem und berufspraktiktischem Unterricht an Berufsschulen</taetigkeit>
+    <taetigkeit>Erteilung von berufstheoretischem und berufspraktischem Unterricht an Berufsschulen</taetigkeit>
     <taetigkeitsbeschreibung>z.B. theoretische Kenntnisse und berufspraktische Fertigkeiten vermitteln; Unterricht vorbereiten und Unterrichtsmaterial auswählen; mit betrieblichen Ausbildern kooperieren; die Arbeit der Schüler beobachten, evaluieren und Feedback geben; Leistungsnachweise durchführen</taetigkeitsbeschreibung>
     <bezeichnung>Berufsschullehrer/in</bezeichnung>
     <untergliederung>
@@ -23521,7 +23521,7 @@
   </kategorie>
   <kategorie>
     <id>5152</id>
-    <taetigkeit>Gravur von Schmuck, Ziergegenständen oder Gebrauchgegenständen aus Metall, Kunststoff oder Porzellan</taetigkeit>
+    <taetigkeit>Gravur von Schmuck, Ziergegenständen oder Gebrauchsgegenständen aus Metall, Kunststoff oder Porzellan</taetigkeit>
     <taetigkeitsbeschreibung>z.B. Zier-, Schmuck- und Gebrauchsgegenstände bearbeiten; Kunden beraten; Gravierwerkzeuge auswählen und scharfschleifen, dabei die Werkstoffeigenschaften des zu bearbeitenden Gegenstands berücksichtigen; Verzierungen in Metalloberflächen einätzen, metallfärben, guillochieren und tauschieren; Schilder, Front- und Bedientafeln gravieren; Schmuckstanzen, Münzen und Medaillen prägen</taetigkeitsbeschreibung>
     <bezeichnung>Graveur/in</bezeichnung>
     <untergliederung>
@@ -23557,7 +23557,7 @@
   </kategorie>
   <kategorie>
     <id>5154</id>
-    <taetigkeit>Herstellung und Reparatur von verschiedenen Musikinstrumenten sowie Überprüfung der Klanqualität</taetigkeit>
+    <taetigkeit>Herstellung und Reparatur von verschiedenen Musikinstrumenten sowie Überprüfung der Klangqualität</taetigkeit>
     <taetigkeitsbeschreibung>z.B. Instrumententeile herstellen; Ton- und Resonanzhölzer auswählen, zuschneiden und in Form biegen; Instrumententeile zusammensetzen; Oberflächen schleifen oder polieren; Mundstücke und Klappen einarbeiten; Blechkörper ausbeulen; beschädigte Holzdecken oder Lackierungen erneuern; Verschleißteile austauschen</taetigkeitsbeschreibung>
     <bezeichnung>Musikinstrumentenbauer/in</bezeichnung>
     <untergliederung>
@@ -27693,7 +27693,7 @@
   </kategorie>
   <kategorie>
     <id>1708</id>
-    <taetigkeit>Erforschung und Entwicklung von von kybernetischen Geräten und Anwendungen</taetigkeit>
+    <taetigkeit>Erforschung und Entwicklung von kybernetischen Geräten und Anwendungen</taetigkeit>
     <taetigkeitsbeschreibung>z.B. neue Verfahren zur Automatisierung von Prozessen, Baugruppen, Geräten, Anlagen und Systemen in der technischen Kybernetik entwickeln; Entwurfs- und Simulationswerkzeuge anwenden, fachspezifische Anwendungssoftware entwickeln und anpassen; Steuer- und Regelanlagen verantwortlich überwachen, Betriebsbereitschaft der technischen Einrichtungen sicherstellen</taetigkeitsbeschreibung>
     <bezeichnung>Kybernetikingenieur/in</bezeichnung>
     <untergliederung>
