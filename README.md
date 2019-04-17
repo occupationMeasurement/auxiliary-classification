@@ -23,6 +23,19 @@ install.packages(c("xml2", "data.table", "stringdist"))
 source("https://raw.githubusercontent.com/malsch/occupationCodingAuxco/master/erstelle_hilfskategorien_abgrenzungen_folgefragen_aus_hilfsklassifikation.R")
 ```
 
+Alternativ kann die Hilfsklassifikation auch mithilfe eines interaktiven Explorers erkundet werden. 
+
+```
+install.packages(c("xml2", "data.table", "readxl", "shiny", "jsonlite"))
+
+# Notizen werden nur gespeichert, wenn folgendes gemacht wird:
+# 1. Kopiere https://raw.githubusercontent.com/malsch/occupationCodingAuxco/master/auxco_explorer_notes.txt in das lokale Filesystem
+# 2. Gebe den Pfadnamen an, wo die Notizen gespeichert werden:
+# auxco_notes_filename <- "path/to/auxco_explorer_notes.txt"
+
+source("https://raw.githubusercontent.com/malsch/occupationCodingAuxco/master/auxCoExplorer.R")
+```
+
 # Changelog
 Seit der ursprünglichen Publikation wurden zahlreiche Verbesserungen und Erweiterungen vorgenommen.
 
@@ -32,6 +45,8 @@ Seit der ursprünglichen Publikation wurden zahlreiche Verbesserungen und Erweit
     * Jeder `<fragetext>`-Tag hat nun das `typ`-Attribut
     * Fragetexte sind nun unterteilt in zwei Tags `<folgefrageAktuellerBeruf>` und `<folgefrageVergangenerBeruf>`
     * `<antwort>`-Tags haben ein optionales Attribut `follow-up="FALSE"` wenn nach Auswahl dieser Antwort keine weitere Follow-Up Frage benötigt wird. (bereits seit dem September-Upgrade)
+    
+* 17.04.2019: AuxCo-Explorer hinzugefügt.
 
 
 # Mitwirkende
