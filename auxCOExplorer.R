@@ -15,7 +15,7 @@
 # - Berufsbezeichnungen aus dem BERUFENET (verfügbar unter https://berufenet.arbeitsagentur.de/, Datenstand: 28.08.2017): http://doku.iab.de/discussionpapers/2018/dp1318_hilfsklassifikation.zip
 #
 # Zur Darstellung der Trees wird das JQuery-Plugin von https://www.jstree.com/ verwendet.
-
+#
 # Malte Schierholz
 # 17. April 2019
 ####################################################################################
