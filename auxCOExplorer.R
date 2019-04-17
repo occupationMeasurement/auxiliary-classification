@@ -364,7 +364,7 @@ server <- function(input, output, session) {
       session$sendCustomMessage("hilfskategorie_id_submitted", taetigkeit)
       
     return(list(
-      textInput("notes", paste("Notiz zur ID", id), value = if (auxco_notes[ids == id, is.na(notes)]) "" else auxco_notes[ids == id, notes]),
+      textInput("notes", paste("Notiz zur ID", id), value = if (auxco_notes[ids == id, is.na(notes)]) "" else auxco_notes[ids == id, notes], width = '100%'),
       actionButton("notesSubmitted", "Notiz speichern/aktualisieren"),
       hr(),
       p("Tätigkeit:"), p(tags$b(taetigkeit)), p(paste0(id, ": ", bezeichnung)), p("Tätigkeitsbeschreibung:", taetigkeitsbeschreibung),
