@@ -1,21 +1,21 @@
 ################################################
-# Der folgende Code lÃ¤dt die Hilfsklassifikation. Mithilfe einer interaktiven Darstellung kÃ¶nnen die ZusammenhÃ¤nge
+# Der folgende Code lädt die Hilfsklassifikation. Mithilfe einer interaktiven Darstellung können die Zusammenhänge
 # zwischen der Hilfsklassifikation und den offiziellen Klassifikationen KldB 2010 und ISCO-08 erkundet werden.
 #
-# Der AuxCo-Explorer erlaubt das Anlegen von Notizen zu einzelnen Hilfskategorien. DafÃ¼r muss eine lokale Kopie der Datei https://raw.githubusercontent.com/malsch/occupationCodingAuxco/master/auxco_explorer_notes.txt erstellt werden.
+# Der AuxCo-Explorer erlaubt das Anlegen von Notizen zu einzelnen Hilfskategorien. Dafür muss eine lokale Kopie der Datei https://raw.githubusercontent.com/malsch/occupationCodingAuxco/master/auxco_explorer_notes.txt erstellt werden.
 # Die Pfad zu dieser lokalen Datei muss in folgender Variablen abgelegt werden.
 # auxco_notes_filename <- "path/to/file"
 #
-# Weiterhin greift der AuxCo-Explorer auf die folgenden Dateien im Internet zurÃ¼ck:
+# Weiterhin greift der AuxCo-Explorer auf die folgenden Dateien im Internet zurück:
 # - Hilfsklassifikation: hilfsklassifikation.xml (aktuellste Version vom Github-Repository)
 # - KldB 2010: https://www.klassifikationsserver.de/klassService/jsp/variant/downloadexport?type=EXPORT_CSV_VARIANT&variant=kldb2010&language=DE
-# - KldB 2010 UmsteigeschlÃ¼ssel zur ISCO-08: https://statistik.arbeitsagentur.de/Statischer-Content/Grundlagen/Klassifikation-der-Berufe/KldB2010/Arbeitshilfen/Umsteigeschluessel/Generische-Publikation/Umsteigeschluessel-KldB2010-ISCO-08.xls
+# - KldB 2010 Umsteigeschlüssel zur ISCO-08: https://statistik.arbeitsagentur.de/Statischer-Content/Grundlagen/Klassifikation-der-Berufe/KldB2010/Arbeitshilfen/Umsteigeschluessel/Generische-Publikation/Umsteigeschluessel-KldB2010-ISCO-08.xls
 # - ISCO-08: http://www.statistik.at/kdb/downloads/csv/ISCO08_EN_COT_20151120_150801.txt
-# - ISCO-08 (deutsche Ãœbersetzung): http://www.statistik.at/kdb/downloads/csv/ISCO08_DE_COT_20151120_150453.txt
-# - Berufsbezeichnungen aus dem BERUFENET (verfÃ¼gbar unter https://berufenet.arbeitsagentur.de/, Datenstand: 28.08.2017): http://doku.iab.de/discussionpapers/2018/dp1318_hilfsklassifikation.zip
+# - ISCO-08 (deutsche Übersetzung): http://www.statistik.at/kdb/downloads/csv/ISCO08_DE_COT_20151120_150453.txt
+# - Berufsbezeichnungen aus dem BERUFENET (verfügbar unter https://berufenet.arbeitsagentur.de/, Datenstand: 28.08.2017): http://doku.iab.de/discussionpapers/2018/dp1318_hilfsklassifikation.zip
 #
 # Zur Darstellung der Trees wird das JQuery-Plugin von https://www.jstree.com/ verwendet.
-#
+
 # Malte Schierholz
 # 17. April 2019
 ####################################################################################
@@ -28,7 +28,7 @@ library(jsonlite)
 
 temp_dir <- tempdir()
 
-### auxco-notes-file Ã¶ffnen
+### auxco-notes-file öffnen
 if (!exists("auxco_notes_filename")) {
   auxco_notes_filename <- "https://raw.githubusercontent.com/malsch/occupationCodingAuxco/master/auxco_explorer_notes.txt"
 }
@@ -59,13 +59,13 @@ names(kldb2010)[1] <- "kldb_id"
 names(kldb2010)[4] <- "erlaeuterungstitel"
 names(kldb2010)[9] <- "Umfasst"
 names(kldb2010)[11] <- "Excludes"
-# setnames(kldb, "ErlÃƒÂ¤uterungstitel", "")
+# setnames(kldb, "ErlÃ¤uterungstitel", "")
 setnames(kldb2010, "Allgemeine Bemerkungen", "Inhalt")
 setnames(kldb2010, "Umfasst ferner", "Includes")
 
 
 ###############################
-# Lade UmsteigeschlÃ¼ssel KldB 2010 -> ISCO-08
+# Lade Umsteigeschlüssel KldB 2010 -> ISCO-08
 ###############################
 temp <- tempfile(tmpdir = temp_dir)
 download.file("https://statistik.arbeitsagentur.de/Statischer-Content/Grundlagen/Klassifikation-der-Berufe/KldB2010/Arbeitshilfen/Umsteigeschluessel/Generische-Publikation/Umsteigeschluessel-KldB2010-ISCO-08.xls", temp, mode = "wb")
@@ -78,7 +78,7 @@ setnames(schluessel, "Bezeichnungen der ISCO-08 (4-Steller)", "isco_titel")
 setnames(schluessel, "Umstieg eindeutig (1);\nnicht eindeutig (0)", "Eindeutig")
 setnames(schluessel, "Schwerpunkt (1) und \nAnzahl der Alternativen", "Schwerpunkt")
 
-# als zusÃ¤tzliche Spalte bei der KldB 2010 hinzufÃ¼gen
+# als zusätzliche Spalte bei der KldB 2010 hinzufügen
 schluessel[, iscos := paste(isco_id, collapse = ","), by = kldb_id]
 kldb2010 <- merge(kldb2010, schluessel[!duplicated(kldb_id, iscos), .(kldb_id, iscos)], by = "kldb_id", all.x = TRUE)
 kldb2010[is.na(iscos), iscos := "-"]
@@ -89,10 +89,10 @@ isco08_en <- fread("http://www.statistik.at/kdb/downloads/csv/ISCO08_EN_COT_2015
 isco08_de <- fread("http://www.statistik.at/kdb/downloads/csv/ISCO08_DE_COT_20151120_150453.txt", colClasses = "character")
 setnames(isco08_en, "Ebene Erl.", "erl_ebene")
 names(isco08_en)[5] <- "erl_text"
-# setnames(isco08_en, "Titel/ErlÃ¤uterungstext", "erl_text")
+# setnames(isco08_en, "Titel/Erläuterungstext", "erl_text")
 setnames(isco08_de, "Ebene Erl.", "erl_ebene")
 names(isco08_de)[5] <- "erl_text"
-# setnames(isco08_de, "Titel/ErlÃ¤uterungstext", "erl_text")
+# setnames(isco08_de, "Titel/Erläuterungstext", "erl_text")
 isco08_en[Code == "2261" | Code == "2351"] # here is some information missing (erl_ebene = 001, 002, ...)
 isco08_en <- rbind(isco08_en, data.table("Ebene" = 4, "EDV-Code" = c("2261", "2351"), "Code" = c("2261", "2351"), "erl_ebene" = "001", "erl_text" = "Please refer to official documentation"))
 
@@ -125,7 +125,7 @@ isco08_de[erl_ebene == "000", type := "title"]
 isco08_de[erl_ebene == "001", type := "firstStatement"]
 isco08_de[erl_ebene == "002" & Ebene != 4, type := "secondStatement"] # overwrite below if different
 isco08_de[erl_text == "Anmerkungen", type := "Notes"]
-isco08_de[erl_text == "Beispiele fÃ¼r hier zugeordnete Berufe:", type := "occupations"]
+isco08_de[erl_text == "Beispiele für hier zugeordnete Berufe:", type := "occupations"]
 isco08_de[erl_text == "Aufgaben umfassen -", type := "tasks"]
 isco08_de[erl_text == "Nicht in dieser Berufsgattung klassifizierte Berufe:", type := "excluded"]
 isco08_de[erl_text == "Die Berufe dieser Untergruppe werden in folgende Berufsgattungen unterteilt:", type := "examples"]
@@ -310,8 +310,8 @@ tags$script("
 
 )), 
                  tabPanel("Kategorie erstellen", p("ToDo")),
-                 tabPanel("Kategorie lÃ¶schen", p("ToDo")),
-                 tabPanel("Kategorien zusammenfÃ¼gen", p("ToDo"))
+                 tabPanel("Kategorie löschen", p("ToDo")),
+                 tabPanel("Kategorien zusammenfügen", p("ToDo"))
 )
 
 
@@ -335,7 +335,7 @@ server <- function(input, output, session) {
         abgrenzungen_text <- ""
       }
       
-      # folgefragen und antworten sind hier bisher sehr hÃ¤sslich umgesetzt/dargestellt.
+      # folgefragen und antworten sind hier bisher sehr hässlich umgesetzt/dargestellt.
       folgefragen <- xml_text(xml_find_all(category_node, xpath = "./untergliederung/fragetext/folgefrageAktuellerBeruf"))
       
       antworten <- NULL
@@ -360,14 +360,14 @@ server <- function(input, output, session) {
         folgefragen.text <- ""
       }
       
-      # Schicke an JavaScript eine Nachricht, damit dort die Suche nach der TÃ¤tigkeit im Tree beginnen kann
+      # Schicke an JavaScript eine Nachricht, damit dort die Suche nach der Tätigkeit im Tree beginnen kann
       session$sendCustomMessage("hilfskategorie_id_submitted", taetigkeit)
       
     return(list(
       textInput("notes", paste("Notiz zur ID", id), value = if (auxco_notes[ids == id, is.na(notes)]) "" else auxco_notes[ids == id, notes], width = '100%'),
       actionButton("notesSubmitted", "Notiz speichern/aktualisieren"),
       hr(),
-      p("TÃ¤tigkeit:"), p(tags$b(taetigkeit)), p(paste0(id, ": ", bezeichnung)), p("TÃ¤tigkeitsbeschreibung:", taetigkeitsbeschreibung),
+      p("Tätigkeit:"), p(tags$b(taetigkeit)), p(paste0(id, ": ", bezeichnung)), p("Tätigkeitsbeschreibung:", taetigkeitsbeschreibung),
       p("Abgrenzungen:"),
       HTML(paste("<ul>", abgrenzungen_text, "</ul>")),
       p("Folgefrage(n):"),
@@ -380,7 +380,7 @@ server <- function(input, output, session) {
     }
   })
   
-  # Notizen wurden ergÃ¤nzt
+  # Notizen wurden ergänzt
   observeEvent(input$notesSubmitted, {
     
     # we cannot write to file if it in the web (default plcae)
@@ -398,7 +398,7 @@ server <- function(input, output, session) {
   session$sendCustomMessage("showHtmlPopup", paste("<html><head><title>", kldb2010[input$kldbIdClicked == kldb_id, paste(kldb_id, Titel)], "</title></head>
     <body>
     <h1>", kldb2010[input$kldbIdClicked == kldb_id, paste(kldb_id, Titel)], "</h1>
-    <p>Zugeordnete ISCO-Kategorien laut KldB-UmsteigeschlÃ¼ssel:", kldb2010[input$kldbIdClicked == kldb_id, iscos], "</p>
+    <p>Zugeordnete ISCO-Kategorien laut KldB-Umsteigeschlüssel:", kldb2010[input$kldbIdClicked == kldb_id, iscos], "</p>
     <p>", kldb2010[input$kldbIdClicked == kldb_id, Inhalt], "</p>
     <p>", kldb2010[input$kldbIdClicked == kldb_id, Umfasst], "</p>
     <p>", kldb2010[input$kldbIdClicked == kldb_id, Includes], "</p>
