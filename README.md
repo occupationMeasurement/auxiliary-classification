@@ -33,7 +33,7 @@ install.packages(c("xml2", "data.table", "readxl", "shiny", "jsonlite"))
 # 2. Gebe den Pfadnamen an, wo die Notizen gespeichert werden:
 # auxco_notes_filename <- "path/to/auxco_explorer_notes.txt"
 
-source("https://raw.githubusercontent.com/malsch/occupationCodingAuxco/master/auxCoExplorer.R")
+source("https://raw.githubusercontent.com/malsch/occupationCodingAuxco/master/auxCOExplorer.R")
 ```
 
 # Changelog
