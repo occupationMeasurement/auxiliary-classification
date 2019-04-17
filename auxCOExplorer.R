@@ -173,7 +173,7 @@ for (cat_num in seq_along(ids)) {
   }
 
 # prepare kldb tree
-kldb <- rbind(kldb2010[, .(kldb_id, Ebene, Titel = paste(kldb_id, Titel), erlaeuterungstitel, Kurztitel, Mitteltitel, Langtitel, Inhalt, Umfasst, Includes, Excludes, Maßeinheit)], 
+kldb <- rbind(kldb2010[, .(kldb_id, Ebene, Titel = paste(kldb_id, Titel), erlaeuterungstitel, Kurztitel, Mitteltitel, Langtitel, Inhalt, Umfasst, Includes, Excludes)], 
               berufenet[, .(kldb_id, Ebene, Titel = paste("DKZ:", title2), Inhalt = taetigkeit, cat_id = paste0("DKZ-", title2))],
               unique(hilfsklassifikation_by_kldb_id[, .(kldb_id = kldb, Ebene = 6, Titel = paste0("AuxCo (", id, "): ", taetigkeit), Inhalt = taetigkeitsbeschreibung, Kurztitel = bezeichnung, cat_id = paste0("auxco-", id))]),
               fill = TRUE)
