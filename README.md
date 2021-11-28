@@ -48,6 +48,7 @@ Seit der ursprünglichen Publikation wurden zahlreiche Verbesserungen und Erweit
     
 * 17.04.2019: AuxCo-Explorer hinzugefügt.
 
+* 27.11.2021 xml-File als SQLite-Datebase gespeichert (ungeprüft & ungetestet!!). Neues Feature: Gültigkeitszeitraum des Eintrags
 
 # Mitwirkende
 Folgende Personen waren bei der Erstellung beteiligt.
