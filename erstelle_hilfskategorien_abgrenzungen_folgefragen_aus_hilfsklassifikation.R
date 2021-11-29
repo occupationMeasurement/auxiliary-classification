@@ -56,7 +56,9 @@ for (cat_num in seq_along(ids)) {
   res <- rbind(res, data.table(id, bezeichnung, kldb_default = kldb_id_default, kldb_folgefrage = paste(kldb_id_folgefrage, collapse = ", "), isco_default = isco_id_default, isco_folgefrage = paste(isco_id_folgefrage, collapse = ", "), taetigkeit, taetigkeitsbeschreibung))
 }
 
-write.csv2(res[order(id)], row.names = FALSE, file = "hilfskategorien_sortiert_nach_id.csv", fileEncoding = "UTF-8")
+
+hilfskategorien <- res[order(id)]
+# write.csv2(res[order(id)], row.names = FALSE, file = "hilfskategorien_sortiert_nach_id.csv", fileEncoding = "UTF-8")
 
 ###############################################
 ### Write data to excel file, listing all abgrenzungen
@@ -76,7 +78,8 @@ for (cat_num in seq_along(ids)) {
   }
 }
 
-write.csv2(res[order(kldb_id_default)], row.names = FALSE, file = "abgrenzungen_sortiert_nach_kldb.csv", fileEncoding = "UTF-8")
+abgrenzungen <- res[order(kldb_id_default)]
+# write.csv2(res[order(kldb_id_default)], row.names = FALSE, file = "abgrenzungen_sortiert_nach_kldb.csv", fileEncoding = "UTF-8")
 
 ###############################################
 ### Write data to excel file, listing all Folgefragen
@@ -115,7 +118,8 @@ res[, questionNumber := cumsum(fragetextAktuellerBeruf != ""), by = id]
 res <- res[order(id)]
 res[, laufindexFolge := 1:.N]
 
-write.csv2(res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)], row.names = FALSE, file = "folgefragen.csv", fileEncoding = "UTF-8")
+folgefragen <- res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)]
+# write.csv2(res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)], row.names = FALSE, file = "folgefragen.csv", fileEncoding = "UTF-8")
 
 
 ##############################################
@@ -153,4 +157,5 @@ res <- rbind(res,
 
 res <- unique(res)
 
-write.csv2(res, row.names = FALSE, file = "hilfskategorien_kldb_mit_id.csv", fileEncoding = "UTF-8")
+map_kldb_to_auxcoid <- res
+# write.csv2(res, row.names = FALSE, file = "hilfskategorien_kldb_mit_id.csv", fileEncoding = "UTF-8")
