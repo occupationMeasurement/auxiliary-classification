@@ -2,15 +2,17 @@
 
 - answerOption: contains all answer options
 - abstammung: contains links between predecessor and succesor answer options (they may change over time)
-- abgrenzungen: contains answer options that are (highly) similar to another
+- abgrenzung: contains answer options that are (highly) similar to another
 
 - folgefrage: contains follow-up questions
 
 - map_kldb_to_auxcoid: a mapping from kldb-categories to auxco-answer options
-- map_auxco_to_kldb_isco: a mapping from auxco answer options/follow up questions to KldB-/ISCO-categories
 
 ## Description of table ``answerOption``
 
+Main table. Contains all answer options from the auxiliary classification.
+
+Attributes:
 - id: primary key, unique (updated with every change)
 - cid: concept id, not unique (generated when a new concept gets defined, but not updated if the concept changes. Not sure if useful)
 - valid_from, valid_until: time span during which this id was valid. If currently valid, valid_until = "9999-01-01"
@@ -34,10 +36,9 @@ Every KldB is linked to at least one answerOption$id. KldB-categories must not b
 
 ## Description of table ``folgefrage``
 
-Each row corresponds to an answer from a folgefrage.
+Each row corresponds to an answer from a folgefrage. If `answerOption == id` gets selected, all folgefragen that have this ``id`` can/should be asked.
 
-If `answerOption == id` gets selected, all folgefragen that have this ``id`` can/should be asked.
-
+Attributes:
 - fragetextAktuellerBeruf, fragetextVergangenerBeruf: exact question wording in present/past tense
 - antworttext: wording of answers
 
@@ -66,7 +67,7 @@ library(DBI)
 con <- dbConnect(RSQLite::SQLite(), "hilfsklassifikation.sqlite3")
 
 # example queries to get data that is valid at :date
-dbGetQuery(con, 'SELECT * FROM answeroption WHERE :date BETWEEN valid_from AND valid_until LIMIT 5', params = list(date = as.Date("2022-02-01")))
+answeroption <- dbGetQuery(con, 'SELECT * FROM answeroption WHERE :date BETWEEN valid_from AND valid_until LIMIT 5', params = list(date = as.Date("2022-02-01")))
 dbGetQuery(con, 'SELECT * FROM answeroption ao LEFT JOIN abgrenzung ab ON ao.id = ab.id WHERE :date BETWEEN valid_from AND valid_until LIMIT 5', params = list(date = as.Date("2022-02-01")))
 dbGetQuery(con, 'SELECT * FROM abstammung')
 dbGetQuery(con, 'SELECT * FROM abgrenzung ab LEFT JOIN answeroption ao ON ab.id = ao.id WHERE :date BETWEEN valid_from AND valid_until LIMIT 5', params = list(date = as.Date("2022-02-01")))
@@ -75,3 +76,5 @@ dbGetQuery(con, 'SELECT * FROM map_kldb_to_auxco kl LEFT JOIN answeroption ao ON
 
 dbDisconnect(con)
 ```
+
+ToDo: We probably don't want to query invalid information (see table answer option). Do we need fields valid_from, valid_until in every table?
