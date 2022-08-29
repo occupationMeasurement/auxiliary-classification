@@ -97,32 +97,41 @@ write.csv2(
 ### Create file: auxco_distinctions.csv
 ###############################################
 
-res <- NULL
+auxco_distinctions <- NULL
 for (cat_num in seq_along(ids)) {
-  category_node <- xml_find_all(src, xpath = paste0("//klassifikation/*[", cat_num, "]"))
-  id <- xml_text(xml_find_all(category_node, xpath = "./id"))
-  bezeichnung <- xml_text(xml_find_all(category_node, xpath = "./bezeichnung"))
-  kldb_id_default <- xml_attr(xml_find_all(category_node, xpath = ".//default/kldb"), "schluessel")
+  category_node <- xml_find_all(
+    src,
+    xpath = paste0("//klassifikation/*[", cat_num, "]")
+  )
+  auxco_id <- xml_find_all(category_node, xpath = "./id") |>
+    xml_text()
+  title <- xml_find_all(category_node, xpath = "./bezeichnung") |>
+    xml_text()
+  default_kldb_id <- xml_find_all(category_node, xpath = ".//default/kldb") |>
+    xml_attr("schluessel")
+  distinction_categories <- xml_find_all(category_node, xpath = "./abgrenzung")
 
-  abgrenzungen <- xml_find_all(category_node, xpath = "./abgrenzung")
-  if (length(abgrenzungen) > 0) {
-    res <- rbind(
-      res,
+  if (length(distinction_categories) > 0) {
+    auxco_distinctions <- rbind(
+      auxco_distinctions,
       data.table(
-        kldb_id_default,
-        id,
-        bezeichnung,
-        refid = xml_attr(abgrenzungen, "refid"),
-        refbezeichnung = xml_text(abgrenzungen),
-        typ = xml_attr(abgrenzungen, "typ")
+        auxco_id,
+        title,
+        similar_auxco_id = distinction_categories |> xml_attr("refid"),
+        similar_title = distinction_categories |> xml_text(),
+        similarity = distinction_categories |> xml_attr("typ"),
+        default_kldb_id
       )
     )
   }
 }
 
-abgrenzungen <- res[order(kldb_id_default)]
+# Order by kldb_id, since it's better at showing similar categories
+# next to each other
+auxco_distinctions <- auxco_distinctions[order(default_kldb_id)]
+
 write.csv2(
-  res[order(kldb_id_default)],
+  auxco_distinctions,
   row.names = FALSE,
   file = file.path(output_dir, "auxco_distinctions.csv"),
   fileEncoding = "UTF-8"
