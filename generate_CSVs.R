@@ -85,11 +85,10 @@ for (cat_num in seq_along(ids)) {
 # Order by id
 auxco_categories <- auxco_categories[order(auxco_id)]
 
-write.csv2(
+fwrite(
   auxco_categories,
   row.names = FALSE,
-  file = file.path(output_dir, "auxco_categories.csv"),
-  fileEncoding = "UTF-8"
+  file = file.path(output_dir, "auxco_categories.csv")
 )
 
 ###############################################
@@ -130,11 +129,10 @@ for (cat_num in seq_along(ids)) {
 # next to each other
 auxco_distinctions <- auxco_distinctions[order(default_kldb_id)]
 
-write.csv2(
+fwrite(
   auxco_distinctions,
   row.names = FALSE,
-  file = file.path(output_dir, "auxco_distinctions.csv"),
-  fileEncoding = "UTF-8"
+  file = file.path(output_dir, "auxco_distinctions.csv")
 )
 
 ###############################################
@@ -241,11 +239,10 @@ auxco_followup_questions[
 ]
 auxco_followup_questions[, explicit_has_followup := NULL]
 
-write.csv2(
+fwrite(
   auxco_followup_questions,
   row.names = FALSE,
-  file = file.path(output_dir, "auxco_followup_questions.csv"),
-  fileEncoding = "UTF-8"
+  file = file.path(output_dir, "auxco_followup_questions.csv")
 )
 
 
@@ -328,9 +325,8 @@ auxco_mapping_from_kldb <- rbind(
 
 auxco_mapping_from_kldb <- unique(auxco_mapping_from_kldb)
 
-write.csv2(
+fwrite(
   auxco_mapping_from_kldb,
   row.names = FALSE,
-  file = file.path(output_dir, "auxco_mapping_from_kldb.csv"),
-  fileEncoding = "UTF-8"
+  file = file.path(output_dir, "auxco_mapping_from_kldb.csv")
 )
