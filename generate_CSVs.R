@@ -257,7 +257,7 @@ create_mapping <- function(target_name) {
       xml_find_all(xpath = paste0("//klassifikation/*[", cat_num, "]"))
     auxco_id <- xml_find_all(category_node, xpath = "./id") |>
       xml_text()
-    title <- xml_find_all(category_node, xpath = "./bezeichnung") |>
+    auxco_title <- xml_find_all(category_node, xpath = "./bezeichnung") |>
       xml_text()
     target_id_default <- category_node |>
       xml_find_all(xpath = paste0(".//default/", target_name)) |>
@@ -265,6 +265,12 @@ create_mapping <- function(target_name) {
     target_id_folgefrage <- category_node |>
       xml_find_all(xpath = paste0(".//antwort/", target_name)) |>
       xml_attr("schluessel")
+    target_text_default <- category_node |>
+      xml_find_all(xpath = paste0(".//default/", target_name)) |>
+      xml_text()
+    target_text_folgefrage <- category_node |>
+      xml_find_all(xpath = paste0(".//antwort/", target_name)) |>
+      xml_text()
 
     # Create the mapping table manually, as we have to generate some colnames
     mapping_to_add <- data.table()
@@ -273,7 +279,11 @@ create_mapping <- function(target_name) {
       target_id_folgefrage
     )]
     mapping_to_add[, auxco_id := auxco_id]
-    mapping_to_add[, title := title]
+    mapping_to_add[, auxco_title := auxco_title]
+    mapping_to_add[, (paste0(target_name, "_title")) := c(
+      target_text_default,
+      target_text_folgefrage
+    )]
 
     # Combine mappin_to_add with the overall mapping
     mapping <- rbind(
@@ -342,15 +352,14 @@ manual_mapping_additions <- rbind(
 # with the existing auxco mapping
 manual_mapping_additions <- merge(
   manual_mapping_additions,
-  auxco_mapping_from_kldb[, list(auxco_id, title)],
+  auxco_mapping_from_kldb[, list(auxco_id, auxco_title, kldb_title)],
   by = "auxco_id"
 )
+setcolorder(manual_mapping_additions, colnames(auxco_mapping_from_kldb))
 auxco_mapping_from_kldb <- rbind(
   auxco_mapping_from_kldb,
   manual_mapping_additions
 )
-
-# TODO: Add kldb_title via join
 
 auxco_mapping_from_kldb <- unique(auxco_mapping_from_kldb)
 
