@@ -24,6 +24,9 @@ library(xml2)
 library(data.table)
 library(stringdist)
 
+output_dir <- "output"
+dir.create(output_dir, showWarnings = FALSE)
+
 # read auxiliary classification
 src <- read_xml("./hilfsklassifikation.xml")
 
@@ -58,7 +61,7 @@ for (cat_num in seq_along(ids)) {
 
 
 hilfskategorien <- res[order(id)]
-# write.csv2(res[order(id)], row.names = FALSE, file = "hilfskategorien_sortiert_nach_id.csv", fileEncoding = "UTF-8")
+write.csv2(res[order(id)], row.names = FALSE, file = file.path(output_dir, "hilfskategorien_sortiert_nach_id.csv"), fileEncoding = "UTF-8")
 
 ###############################################
 ### Write data to excel file, listing all abgrenzungen
@@ -79,7 +82,7 @@ for (cat_num in seq_along(ids)) {
 }
 
 abgrenzungen <- res[order(kldb_id_default)]
-# write.csv2(res[order(kldb_id_default)], row.names = FALSE, file = "abgrenzungen_sortiert_nach_kldb.csv", fileEncoding = "UTF-8")
+write.csv2(res[order(kldb_id_default)], row.names = FALSE, file = file.path(output_dir, "abgrenzungen_sortiert_nach_kldb.csv"), fileEncoding = "UTF-8")
 
 ###############################################
 ### Write data to excel file, listing all Folgefragen
@@ -119,7 +122,7 @@ res <- res[order(id)]
 res[, laufindexFolge := 1:.N]
 
 folgefragen <- res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)]
-# write.csv2(res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)], row.names = FALSE, file = "folgefragen.csv", fileEncoding = "UTF-8")
+write.csv2(res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)], row.names = FALSE, file = file.path(output_dir, "folgefragen.csv"), fileEncoding = "UTF-8")
 
 
 ##############################################
@@ -167,4 +170,4 @@ res <- rbind(
 res <- unique(res)
 
 map_kldb_to_auxcoid <- res
-# write.csv2(res, row.names = FALSE, file = "hilfskategorien_kldb_mit_id.csv", fileEncoding = "UTF-8")
+write.csv2(res, row.names = FALSE, file = file.path(output_dir, "hilfskategorien_kldb_mit_id.csv"), fileEncoding = "UTF-8")
