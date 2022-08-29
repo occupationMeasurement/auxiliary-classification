@@ -65,17 +65,17 @@ for (cat_num in seq_along(ids)) {
     xpath = "./taetigkeitsbeschreibung"
   ) |>
     xml_text()
-  default_kldb <- xml_find_all(category_node, xpath = ".//default/kldb") |>
+  default_kldb_id <- xml_find_all(category_node, xpath = ".//default/kldb") |>
     xml_attr("schluessel")
-  default_isco <- xml_find_all(category_node, xpath = ".//default/isco") |>
+  default_isco_id <- xml_find_all(category_node, xpath = ".//default/isco") |>
     xml_attr("schluessel")
   auxco_categories <- rbind(
     auxco_categories,
     data.table(
       auxco_id,
       title,
-      default_kldb,
-      default_isco,
+      default_kldb_id,
+      default_isco_id,
       task,
       task_description
     )
@@ -142,92 +142,107 @@ write.csv2(
 ### Create file: auxco_followup_questions.csv
 ###############################################
 
-res <- NULL
+auxco_followup_questions <- NULL
 for (cat_num in seq_along(ids)) { #
-  category_node <- xml_find_all(src, xpath = paste0("//klassifikation/*[", cat_num, "]"))
-  id <- xml_text(xml_find_all(category_node, xpath = "./id"))
+  category_node <- src |>
+    xml_find_all(xpath = paste0("//klassifikation/*[", cat_num, "]"))
+  auxco_id <- xml_find_all(category_node, xpath = "./id") |>
+    xml_text()
 
-  for (folgefrage_node in xml_find_all(category_node, xpath = "./untergliederung/child::*")) {
+  for (
+    folgefrage_node in category_node |>
+      xml_find_all(xpath = "./untergliederung/child::*")
+  ) {
+    # Handle questions
     if (xml_name(folgefrage_node) == "fragetext") {
-      typ <- xml_attr(folgefrage_node, "typ")
-      fragetextAktuellerBeruf <- xml_text(xml_find_all(folgefrage_node, xpath = "./folgefrageAktuellerBeruf"))
-      fragetextVergangenerBeruf <- xml_text(xml_find_all(folgefrage_node, xpath = "./folgefrageVergangenerBeruf"))
+      question_type <- xml_attr(folgefrage_node, "typ")
+      question_text_present <- folgefrage_node |>
+        xml_find_all(xpath = "./folgefrageAktuellerBeruf") |>
+        xml_text()
+      question_text_past <- folgefrage_node |>
+        xml_find_all(xpath = "./folgefrageVergangenerBeruf") |>
+        xml_text()
 
-      res <- rbind(
-        res,
+      auxco_followup_questions <- rbind(
+        auxco_followup_questions,
         cbind(
           data.table(
-            id,
-            typ = typ,
-            fragetextAktuellerBeruf = fragetextAktuellerBeruf,
-            fragetextVergangenerBeruf = fragetextVergangenerBeruf,
-            antwort.pos = "",
-            antwort.text = "",
-            antwort.kldb = "",
-            antwort.isco = "",
-            followUp = ""
+            auxco_id,
+            entry_type = "question",
+            question_type,
+            question_text_present,
+            question_text_past,
+            answer_id = "",
+            answer_text = "",
+            answer_kldb_id = "",
+            answer_isco_id = "",
+            explicit_has_followup = ""
           )
         )
       )
     }
+    # Handle answers / answer options
     if (xml_name(folgefrage_node) == "antwort") {
-      pos <- xml_attr(folgefrage_node, "position")
-      followUp <- xml_attr(folgefrage_node, "follow-up")
-      ant.text <- xml_text(xml_find_all(folgefrage_node, xpath = "./text"))
-      ant.kldb <- xml_attr(xml_find_all(folgefrage_node, xpath = "./kldb"), "schluessel")
-      if (length(ant.kldb) == 0) ant.kldb <- ""
-      ant.isco <- xml_attr(xml_find_all(folgefrage_node, xpath = "./isco"), "schluessel")
-      if (length(ant.isco) == 0) ant.isco <- ""
+      answer_id <- xml_attr(folgefrage_node, "position")
+      explicit_has_followup <- xml_attr(folgefrage_node, "follow-up") |>
+        as.logical()
+      answer_text <- xml_find_all(folgefrage_node, xpath = "./text") |>
+        xml_text()
+      answer_kldb_id <- xml_find_all(folgefrage_node, xpath = "./kldb") |>
+        xml_attr("schluessel")
+      if (length(answer_kldb_id) == 0) answer_kldb_id <- ""
+      answer_isco_id <- xml_find_all(folgefrage_node, xpath = "./isco") |>
+        xml_attr("schluessel")
+      if (length(answer_isco_id) == 0) answer_isco_id <- ""
 
-      res <- rbind(
-        res,
-        cbind(data.table(id,
-          typ = "",
-          fragetextAktuellerBeruf = "",
-          fragetextVergangenerBeruf = "",
-          antwort.pos = pos,
-          antwort.text = ant.text,
-          antwort.kldb = ant.kldb,
-          antwort.isco = ant.isco,
-          followUp = followUp
+      auxco_followup_questions <- rbind(
+        auxco_followup_questions,
+        cbind(data.table(
+          auxco_id,
+          entry_type = "answer_option",
+          question_type = "",
+          question_text_present = "",
+          question_text_past = "",
+          answer_id,
+          answer_text,
+          answer_kldb_id,
+          answer_isco_id,
+          explicit_has_followup
         ))
       )
     }
   }
 }
 
-# number rows and number questions per id
-res[, questionNumber := cumsum(fragetextAktuellerBeruf != ""), by = id]
-res <- res[order(id)]
-res[, laufindexFolge := 1:.N]
+# Add unique question_ids
+auxco_followup_questions[
+  ,
+  question_index := cumsum(entry_type == "question"),
+  by = auxco_id
+]
+auxco_followup_questions[, question_id := paste0(auxco_id, "_", question_index)]
+auxco_followup_questions <- auxco_followup_questions[order(auxco_id)]
 
-folgefragen <- res[, list(
-  laufindexFolge,
-  id,
-  questionNumber,
-  typ,
-  fragetextAktuellerBeruf,
-  fragetextVergangenerBeruf,
-  antwort.pos,
-  antwort.text,
-  antwort.kldb,
-  antwort.isco,
-  followUp
-)]
+# Move the question_id forward in the column order
+setcolorder(
+  auxco_followup_questions,
+  c("auxco_id", "question_id", "question_index")
+)
+
+# Compute a more intuitive "last_question" column in place of the
+# explicit_has_followup from the xml.
+auxco_followup_questions[
+  entry_type == "answer_option",
+  last_question :=
+    (question_index == max(question_index)) |
+    (!is.na(explicit_has_followup) & explicit_has_followup == FALSE)
+  ,
+  by = auxco_id
+]
+auxco_followup_questions[, explicit_has_followup := NULL]
+
 write.csv2(
-  res[, list(
-    laufindexFolge,
-    id,
-    questionNumber,
-    typ,
-    fragetextAktuellerBeruf,
-    fragetextVergangenerBeruf,
-    antwort.pos,
-    antwort.text,
-    antwort.kldb,
-    antwort.isco,
-    followUp
-  )],
+  auxco_followup_questions,
   row.names = FALSE,
   file = file.path(output_dir, "auxco_followup_questions.csv"),
   fileEncoding = "UTF-8"
