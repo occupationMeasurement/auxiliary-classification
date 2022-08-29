@@ -48,37 +48,45 @@ ids <- as.numeric(xml_text(xml_find_all(src, xpath = "//id")))
 ### Create file: auxco_categories.csv
 ##############################################
 
-res <- NULL
+auxco_categories <- NULL
 for (cat_num in seq_along(ids)) {
-  category_node <- xml_find_all(src, xpath = paste0("//klassifikation/*[", cat_num, "]"))
-  id <- xml_text(xml_find_all(category_node, xpath = "./id"))
-  taetigkeit <- xml_text(xml_find_all(category_node, xpath = "./taetigkeit"))
-  taetigkeitsbeschreibung <- xml_text(xml_find_all(category_node, xpath = "./taetigkeitsbeschreibung"))
-  bezeichnung <- xml_text(xml_find_all(category_node, xpath = "./bezeichnung"))
-  kldb_id_default <- xml_attr(xml_find_all(category_node, xpath = ".//default/kldb"), "schluessel")
-  isco_id_default <- xml_attr(xml_find_all(category_node, xpath = ".//default/isco"), "schluessel")
-  kldb_id_folgefrage <- xml_attr(xml_find_all(category_node, xpath = ".//antwort/kldb"), "schluessel")
-  isco_id_folgefrage <- xml_attr(xml_find_all(category_node, xpath = ".//antwort/isco"), "schluessel")
-  res <- rbind(
-    res,
+  category_node <- xml_find_all(
+    src,
+    xpath = paste0("//klassifikation/*[", cat_num, "]")
+  )
+  auxco_id <- xml_find_all(category_node, xpath = "./id") |>
+    xml_text()
+  title <- xml_find_all(category_node, xpath = "./bezeichnung") |>
+    xml_text()
+  task <- xml_find_all(category_node, xpath = "./taetigkeit") |>
+    xml_text()
+  task_description <- xml_find_all(
+    category_node,
+    xpath = "./taetigkeitsbeschreibung"
+  ) |>
+    xml_text()
+  default_kldb <- xml_find_all(category_node, xpath = ".//default/kldb") |>
+    xml_attr("schluessel")
+  default_isco <- xml_find_all(category_node, xpath = ".//default/isco") |>
+    xml_attr("schluessel")
+  auxco_categories <- rbind(
+    auxco_categories,
     data.table(
-      id,
-      bezeichnung,
-      kldb_default = kldb_id_default,
-      kldb_folgefrage = paste(kldb_id_folgefrage, collapse = ", "),
-      isco_default = isco_id_default,
-      isco_folgefrage = paste(isco_id_folgefrage,
-        collapse = ", "
-      ),
-      taetigkeit, taetigkeitsbeschreibung
+      auxco_id,
+      title,
+      default_kldb,
+      default_isco,
+      task,
+      task_description
     )
   )
 }
 
+# Order by id
+auxco_categories <- auxco_categories[order(auxco_id)]
 
-hilfskategorien <- res[order(id)]
 write.csv2(
-  res[order(id)],
+  auxco_categories,
   row.names = FALSE,
   file = file.path(output_dir, "auxco_categories.csv"),
   fileEncoding = "UTF-8"
