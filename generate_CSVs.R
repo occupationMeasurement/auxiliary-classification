@@ -25,7 +25,7 @@ library(data.table)
 library(stringdist)
 
 # read auxiliary classification
-src <- read_xml("https://raw.githubusercontent.com/malsch/occupationCodingAuxco/master/hilfsklassifikation.xml")
+src <- read_xml("./hilfsklassifikation.xml")
 
 # remove all answer options that ask for an open-ended answer
 # Not yet implemented, but it may be worth to look at this again.
