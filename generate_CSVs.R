@@ -2,22 +2,22 @@
 # Der folgende Code lädt die Datei hilfsklassifikation.xml.
 #
 # Daraus werden im nachfolgenden Code die folgenden Dateien erstellt:
-# - hilfskategorien_sortiert_nach_id.csv
-# - abgrenzungen_sortiert_nach_kldb.csv
-# - folgefragen.csv
-# - hilfskategorien_kldb_mit_id.csv
+# - auxco_categories.csv
+# - auxco_distinctions.csv
+# - auxco_followup_questions.csv
+# - auxco_mapping_from_kldb.csv
 # Sie stellen ausgewählte Inhalte übersichtlicher dar.
 #
-# hilfskategorien_sortiert_nach_id.csv enthält zu jeder Hilfskategorie die ID, die Bezeichnung, die Tätigkeit, die Tätigkeitsbeschreibung sowie zugeordnete Berufskategorien aus der KldB 2010 sowie aus ISCO-08.
-# abgrenzungen_sortiert_nach_kldb.csv enthält die Abgrenzungen von allen Hilfskategorien. Zu jeder ID sind alle Abgrenzungen (REFID) und ihr jeweiliger TYP einzeln angegeben.
-# folgefragen.csv enthält sämtliche Folgefragen. Dargestellt sind die Fragetexte, die einzelnen Antwortoptionen sowie die ihnen zugeordneten Berufskategorien aus der KldB 2010 und aus ISCO-08.
-# hilfskategorien_kldb_mit_id.csv enthält zu jeder Hilfskategorie die zugeordneten KldB-Kategorien (Default-Kategorie und Kategorie aus Folgefrage). Und selbst für nicht in der Hilfsklassifikation enthaltene KldBs werden dort passende IDs aus der Hilfsklassifikation benannt.
+# auxco_categories.csv enthält zu jeder Hilfskategorie die ID, die Bezeichnung, die Tätigkeit, die Tätigkeitsbeschreibung sowie zugeordnete Berufskategorien aus der KldB 2010 sowie aus ISCO-08.
+# auxco_distinctions.csv enthält die Abgrenzungen von allen Hilfskategorien. Zu jeder ID sind alle Abgrenzungen (REFID) und ihr jeweiliger TYP einzeln angegeben.
+# auxco_followup_questions.csv enthält sämtliche Folgefragen. Dargestellt sind die Fragetexte, die einzelnen Antwortoptionen sowie die ihnen zugeordneten Berufskategorien aus der KldB 2010 und aus ISCO-08.
+# auxco_mapping_from_kldb.csv enthält zu jeder Hilfskategorie die zugeordneten KldB-Kategorien (Default-Kategorie und Kategorie aus Folgefrage). Und selbst für nicht in der Hilfsklassifikation enthaltene KldBs werden dort passende IDs aus der Hilfsklassifikation benannt.
 #
 # Eine weitere Datei vergleich_hilfsklassifikation_berufenet.csv ist nur unter https://www.iab.de/183/section.aspx/Publikation/k180509301 verlinkt. Dort werden die Hilfskategorien der Hilfskategorien mit den Berufsbezeichnungen aus dem BERUFENET verglichen.
 #
 # Malte Schierholz
 # 23. Februar 2018 (Ursprungsversion von https://www.iab.de/183/section.aspx/Publikation/k180509301)
-# 10. Februar 2019 (Anpassung für Github, Berücksichtigung der Folgefragen-Syntax vom 7.2.2019, hilfskategorien_kldb_mit_id.csv hinzugefügt)
+# 10. Februar 2019 (Anpassung für Github, Berücksichtigung der Folgefragen-Syntax vom 7.2.2019, auxco_mapping_from_kldb.csv hinzugefügt)
 ####################################################################################
 
 library(xml2)
@@ -42,7 +42,7 @@ ids <- as.numeric(xml_text(xml_find_all(src, xpath = "//id")))
 ##############################################
 ### Write data to excel file, listing all auxiliary categories order by id
 ### Every category from the auxiliary classification must appear exactly once
-### Create file: hilfskategorien_sortiert_nach_id.csv
+### Create file: auxco_categories.csv
 ##############################################
 
 res <- NULL
@@ -61,11 +61,11 @@ for (cat_num in seq_along(ids)) {
 
 
 hilfskategorien <- res[order(id)]
-write.csv2(res[order(id)], row.names = FALSE, file = file.path(output_dir, "hilfskategorien_sortiert_nach_id.csv"), fileEncoding = "UTF-8")
+write.csv2(res[order(id)], row.names = FALSE, file = file.path(output_dir, "auxco_categories.csv"), fileEncoding = "UTF-8")
 
 ###############################################
 ### Write data to excel file, listing all abgrenzungen
-### Create file: abgrenzungen_sortiert_nach_kldb.csv
+### Create file: auxco_distinctions.csv
 ###############################################
 
 res <- NULL
@@ -82,11 +82,11 @@ for (cat_num in seq_along(ids)) {
 }
 
 abgrenzungen <- res[order(kldb_id_default)]
-write.csv2(res[order(kldb_id_default)], row.names = FALSE, file = file.path(output_dir, "abgrenzungen_sortiert_nach_kldb.csv"), fileEncoding = "UTF-8")
+write.csv2(res[order(kldb_id_default)], row.names = FALSE, file = file.path(output_dir, "auxco_distinctions.csv"), fileEncoding = "UTF-8")
 
 ###############################################
 ### Write data to excel file, listing all Folgefragen
-### Create file: folgefragen.csv
+### Create file: auxco_followup_questions.csv
 ###############################################
 
 res <- NULL
@@ -122,12 +122,12 @@ res <- res[order(id)]
 res[, laufindexFolge := 1:.N]
 
 folgefragen <- res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)]
-write.csv2(res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)], row.names = FALSE, file = file.path(output_dir, "folgefragen.csv"), fileEncoding = "UTF-8")
+write.csv2(res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)], row.names = FALSE, file = file.path(output_dir, "auxco_followup_questions.csv"), fileEncoding = "UTF-8")
 
 
 ##############################################
 # write data to excel file, listing all kldb categories (default and folgefrage) and their associated category ids
-# Create file: hilfskategorien_kldb_mit_id.csv
+# Create file: auxco_mapping_from_kldb.csv
 ##############################################
 
 res <- NULL
@@ -170,4 +170,4 @@ res <- rbind(
 res <- unique(res)
 
 map_kldb_to_auxcoid <- res
-write.csv2(res, row.names = FALSE, file = file.path(output_dir, "hilfskategorien_kldb_mit_id.csv"), fileEncoding = "UTF-8")
+write.csv2(res, row.names = FALSE, file = file.path(output_dir, "auxco_mapping_from_kldb.csv"), fileEncoding = "UTF-8")
