@@ -33,7 +33,10 @@ src <- read_xml("./hilfsklassifikation.xml")
 # remove all answer options that ask for an open-ended answer
 # Not yet implemented, but it may be worth to look at this again.
 # What if people do not find an answer option in follow-up questions that is appropriate for them?
-category_node <- xml_find_all(src, xpath = paste0("//isco[@schluessel='????']/parent::antwort"))
+category_node <- xml_find_all(
+  src,
+  xpath = paste0("//isco[@schluessel='????']/parent::antwort")
+)
 xml_remove(category_node)
 
 # select IDs
@@ -56,12 +59,30 @@ for (cat_num in seq_along(ids)) {
   isco_id_default <- xml_attr(xml_find_all(category_node, xpath = ".//default/isco"), "schluessel")
   kldb_id_folgefrage <- xml_attr(xml_find_all(category_node, xpath = ".//antwort/kldb"), "schluessel")
   isco_id_folgefrage <- xml_attr(xml_find_all(category_node, xpath = ".//antwort/isco"), "schluessel")
-  res <- rbind(res, data.table(id, bezeichnung, kldb_default = kldb_id_default, kldb_folgefrage = paste(kldb_id_folgefrage, collapse = ", "), isco_default = isco_id_default, isco_folgefrage = paste(isco_id_folgefrage, collapse = ", "), taetigkeit, taetigkeitsbeschreibung))
+  res <- rbind(
+    res,
+    data.table(
+      id,
+      bezeichnung,
+      kldb_default = kldb_id_default,
+      kldb_folgefrage = paste(kldb_id_folgefrage, collapse = ", "),
+      isco_default = isco_id_default,
+      isco_folgefrage = paste(isco_id_folgefrage,
+        collapse = ", "
+      ),
+      taetigkeit, taetigkeitsbeschreibung
+    )
+  )
 }
 
 
 hilfskategorien <- res[order(id)]
-write.csv2(res[order(id)], row.names = FALSE, file = file.path(output_dir, "auxco_categories.csv"), fileEncoding = "UTF-8")
+write.csv2(
+  res[order(id)],
+  row.names = FALSE,
+  file = file.path(output_dir, "auxco_categories.csv"),
+  fileEncoding = "UTF-8"
+)
 
 ###############################################
 ### Write data to excel file, listing all abgrenzungen
@@ -77,12 +98,27 @@ for (cat_num in seq_along(ids)) {
 
   abgrenzungen <- xml_find_all(category_node, xpath = "./abgrenzung")
   if (length(abgrenzungen) > 0) {
-    res <- rbind(res, data.table(kldb_id_default, id, bezeichnung, refid = xml_attr(abgrenzungen, "refid"), refbezeichnung = xml_text(abgrenzungen), typ = xml_attr(abgrenzungen, "typ")))
+    res <- rbind(
+      res,
+      data.table(
+        kldb_id_default,
+        id,
+        bezeichnung,
+        refid = xml_attr(abgrenzungen, "refid"),
+        refbezeichnung = xml_text(abgrenzungen),
+        typ = xml_attr(abgrenzungen, "typ")
+      )
+    )
   }
 }
 
 abgrenzungen <- res[order(kldb_id_default)]
-write.csv2(res[order(kldb_id_default)], row.names = FALSE, file = file.path(output_dir, "auxco_distinctions.csv"), fileEncoding = "UTF-8")
+write.csv2(
+  res[order(kldb_id_default)],
+  row.names = FALSE,
+  file = file.path(output_dir, "auxco_distinctions.csv"),
+  fileEncoding = "UTF-8"
+)
 
 ###############################################
 ### Write data to excel file, listing all Folgefragen
@@ -100,7 +136,22 @@ for (cat_num in seq_along(ids)) { #
       fragetextAktuellerBeruf <- xml_text(xml_find_all(folgefrage_node, xpath = "./folgefrageAktuellerBeruf"))
       fragetextVergangenerBeruf <- xml_text(xml_find_all(folgefrage_node, xpath = "./folgefrageVergangenerBeruf"))
 
-      res <- rbind(res, cbind(data.table(id, typ = typ, fragetextAktuellerBeruf = fragetextAktuellerBeruf, fragetextVergangenerBeruf = fragetextVergangenerBeruf, antwort.pos = "", antwort.text = "", antwort.kldb = "", antwort.isco = "", followUp = "")))
+      res <- rbind(
+        res,
+        cbind(
+          data.table(
+            id,
+            typ = typ,
+            fragetextAktuellerBeruf = fragetextAktuellerBeruf,
+            fragetextVergangenerBeruf = fragetextVergangenerBeruf,
+            antwort.pos = "",
+            antwort.text = "",
+            antwort.kldb = "",
+            antwort.isco = "",
+            followUp = ""
+          )
+        )
+      )
     }
     if (xml_name(folgefrage_node) == "antwort") {
       pos <- xml_attr(folgefrage_node, "position")
@@ -111,7 +162,19 @@ for (cat_num in seq_along(ids)) { #
       ant.isco <- xml_attr(xml_find_all(folgefrage_node, xpath = "./isco"), "schluessel")
       if (length(ant.isco) == 0) ant.isco <- ""
 
-      res <- rbind(res, cbind(data.table(id, typ = "", fragetextAktuellerBeruf = "", fragetextVergangenerBeruf = "", antwort.pos = pos, antwort.text = ant.text, antwort.kldb = ant.kldb, antwort.isco = ant.isco, followUp = followUp)))
+      res <- rbind(
+        res,
+        cbind(data.table(id,
+          typ = "",
+          fragetextAktuellerBeruf = "",
+          fragetextVergangenerBeruf = "",
+          antwort.pos = pos,
+          antwort.text = ant.text,
+          antwort.kldb = ant.kldb,
+          antwort.isco = ant.isco,
+          followUp = followUp
+        ))
+      )
     }
   }
 }
@@ -121,8 +184,37 @@ res[, questionNumber := cumsum(fragetextAktuellerBeruf != ""), by = id]
 res <- res[order(id)]
 res[, laufindexFolge := 1:.N]
 
-folgefragen <- res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)]
-write.csv2(res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)], row.names = FALSE, file = file.path(output_dir, "auxco_followup_questions.csv"), fileEncoding = "UTF-8")
+folgefragen <- res[, list(
+  laufindexFolge,
+  id,
+  questionNumber,
+  typ,
+  fragetextAktuellerBeruf,
+  fragetextVergangenerBeruf,
+  antwort.pos,
+  antwort.text,
+  antwort.kldb,
+  antwort.isco,
+  followUp
+)]
+write.csv2(
+  res[, list(
+    laufindexFolge,
+    id,
+    questionNumber,
+    typ,
+    fragetextAktuellerBeruf,
+    fragetextVergangenerBeruf,
+    antwort.pos,
+    antwort.text,
+    antwort.kldb,
+    antwort.isco,
+    followUp
+  )],
+  row.names = FALSE,
+  file = file.path(output_dir, "auxco_followup_questions.csv"),
+  fileEncoding = "UTF-8"
+)
 
 
 ##############################################
@@ -170,4 +262,9 @@ res <- rbind(
 res <- unique(res)
 
 map_kldb_to_auxcoid <- res
-write.csv2(res, row.names = FALSE, file = file.path(output_dir, "auxco_mapping_from_kldb.csv"), fileEncoding = "UTF-8")
+write.csv2(
+  res,
+  row.names = FALSE,
+  file = file.path(output_dir, "auxco_mapping_from_kldb.csv"),
+  fileEncoding = "UTF-8"
+)
