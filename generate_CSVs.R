@@ -245,36 +245,65 @@ fwrite(
   file = file.path(output_dir, "auxco_followup_questions.csv")
 )
 
+##############################################
+# ===== Mappings to other Coding Systems =====
+##############################################
+
+create_mapping <- function(target_name) {
+  mapping <- NULL
+
+  for (cat_num in seq_along(ids)) {
+    category_node <- src |>
+      xml_find_all(xpath = paste0("//klassifikation/*[", cat_num, "]"))
+    auxco_id <- xml_find_all(category_node, xpath = "./id") |>
+      xml_text()
+    title <- xml_find_all(category_node, xpath = "./bezeichnung") |>
+      xml_text()
+    target_id_default <- category_node |>
+      xml_find_all(xpath = paste0(".//default/", target_name)) |>
+      xml_attr("schluessel")
+    target_id_folgefrage <- category_node |>
+      xml_find_all(xpath = paste0(".//antwort/", target_name)) |>
+      xml_attr("schluessel")
+
+    # Create the mapping table manually, as we have to generate some colnames
+    mapping_to_add <- data.table()
+    mapping_to_add[, (paste0(target_name, "_id")) := c(
+      target_id_default,
+      target_id_folgefrage
+    )]
+    mapping_to_add[, auxco_id := auxco_id]
+    mapping_to_add[, title := title]
+
+    # Combine mappin_to_add with the overall mapping
+    mapping <- rbind(
+      mapping,
+      mapping_to_add
+    )
+  }
+
+  return(mapping)
+}
+
+##############################################
+# Mapping of all ISCO categories (default and folgefrage) to auxco_ids
+# Create file: auxco_mapping_from_isco.csv
+##############################################
+
+auxco_mapping_from_isco <- create_mapping("isco")
+
+fwrite(
+  auxco_mapping_from_isco,
+  row.names = FALSE,
+  file = file.path(output_dir, "auxco_mapping_from_isco.csv")
+)
 
 ##############################################
 # Mapping of all kldb categories (default and folgefrage) to auxco_ids
 # Create file: auxco_mapping_from_kldb.csv
 ##############################################
 
-auxco_mapping_from_kldb <- NULL
-for (cat_num in seq_along(ids)) {
-  category_node <- src |>
-    xml_find_all(xpath = paste0("//klassifikation/*[", cat_num, "]"))
-  auxco_id <- xml_find_all(category_node, xpath = "./id") |>
-    xml_text()
-  title <- xml_find_all(category_node, xpath = "./bezeichnung") |>
-    xml_text()
-  kldb_id_default <- category_node |>
-    xml_find_all(xpath = ".//default/kldb") |>
-    xml_attr("schluessel")
-  kldb_id_folgefrage <- category_node |>
-    xml_find_all(xpath = ".//antwort/kldb") |>
-    xml_attr("schluessel")
-
-  auxco_mapping_from_kldb <- rbind(
-    auxco_mapping_from_kldb,
-    data.table(
-      auxco_id,
-      kldb_id = c(kldb_id_default, kldb_id_folgefrage),
-      title
-    )
-  )
-}
+auxco_mapping_from_kldb <- create_mapping("kldb")
 
 # TODO: These manual additions should live in the XML or at least a CSV
 
