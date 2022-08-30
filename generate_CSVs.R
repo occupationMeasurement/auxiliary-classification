@@ -271,10 +271,10 @@ for (cat_num in seq_along(ids)) {
     data.table(
       auxco_id,
       title,
-      default_kldb_id,
-      default_isco_id,
       task,
-      task_description
+      task_description,
+      default_kldb_id,
+      default_isco_id
     )
   )
 }
