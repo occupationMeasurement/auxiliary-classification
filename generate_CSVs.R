@@ -42,6 +42,203 @@ xml_remove(category_node)
 # select IDs
 ids <- as.numeric(xml_text(xml_find_all(src, xpath = "//id")))
 
+# Preparation: Download KldB 10
+load_kldb_raw <- function() {
+  terms_of_use <- "
+    © Statistik der Bundesagentur für Arbeit
+    Sie können Informationen speichern, (auch auszugsweise) mit Quellenangabe
+    weitergeben, vervielfältigen und verbreiten. Die Inhalte dürfen nicht
+    verändert oder verfälscht werden. Eigene Berechnungen sind erlaubt, jedoch
+    als solche kenntlich zu machen. Im Falle einer Zugänglichmachung im
+    Internet soll dies in Form einer Verlinkung auf die Homepage der Statistik
+    der Bundesagentur für Arbeit erfolgen. Die Nutzung der Inhalte für
+    gewerbliche Zwecke, ausgenommen Presse, Rundfunk und Fernsehen und
+    wissenschaftliche Publikationen, bedarf der Genehmigung durch die Statistik
+    der Bundesagentur für Arbeit.
+  "
+
+  # Create cache dir if it doesn't exist yet
+  cache_path <- file.path("cache")
+  dir.create(cache_path, showWarnings = FALSE)
+
+  kldb_archive_path <- file.path(cache_path, "kldb_2010_archive.zip")
+  if (!file.exists(kldb_archive_path)) {
+    print(paste(
+      "Using a modified version of the KldB 2010.",
+      "Please mind the terms of use of the original KldB dataset (German):",
+      terms_of_use,
+      sep = "\n"
+    ))
+
+    # Download the kldb file (which is a zip archive)
+    url <- "https://www.klassifikationsserver.de/klassService/jsp/variant/downloadexport?type=EXPORT_CSV_VARIANT&variant=kldb2010&language=DE"
+    download.file(url, destfile = kldb_archive_path, mode = "wb")
+  }
+
+  # Get the CSV filename
+  # (R cannot extract the file directly due to special characters in the name)
+  filename_in_zip <- unzip(zipfile = kldb_archive_path, list = TRUE)[1, "Name"]
+
+  # Unzip the file in-place and read its' contents
+  # (fread does not support reading from this kind of stream)
+  kldb_df <- read.csv2(
+    unz(kldb_archive_path, filename_in_zip),
+    skip = 8,
+    sep = ";",
+    encoding = "UTF-8",
+    check.names = FALSE
+  )
+
+  return(as.data.table(kldb_df))
+}
+
+#' Clean & Load KldB 2010 dataset.
+#'
+#' Use load_kldb_raw() to load the whole dataset.
+#'
+#' @return A cleaned / slimmed version of the KldB 2010.
+#' @export
+load_kldb <- function() {
+  # nolint start
+
+  kldb_data <- load_kldb_raw()
+
+  kldb_new_names <- c(
+    # old name => new name
+    "Schlüssel KldB 2010" = "kldb_id",
+    "Ebene" = "level",
+    "Titel" = "title",
+    "Allgemeine Bemerkungen" = "description",
+    "Ausschlüsse" = "excludes"
+  )
+
+  setnames(
+    kldb_data,
+    old = names(kldb_new_names),
+    new = kldb_new_names
+  )
+
+  # Only keep the new kldb columns
+  # If you want to look at the whole dataset, use load_kldb_raw()
+  kldb_data <- kldb_data[, ..kldb_new_names]
+
+  # Generate Clean level-4 Job Titles (i.e. labels)
+  kldb_data[
+    level == 4 & grepl("Berufe", title),
+    label := gsub(
+      "Berufe in der |Berufe im Bereich |Berufe im |Berufe in |Berufe für ",
+      "",
+      title
+    )
+  ]
+  kldb_data[
+    level == 4 & grepl("^[[:lower:]]", label),
+    label := gsub(
+      "technischen Laboratorium", "technisches Laboratorium",
+      label,
+      perl = TRUE
+    )
+  ]
+  kldb_data[
+    level == 4 & grepl("^[[:lower:]]", label),
+    label := gsub("^([[:lower:]-]{1,})(n )", "\\1 ", label, perl = TRUE)
+  ]
+  kldb_data[
+    label == "technische Eisenbahnbetrieb",
+    label := "technischer Eisenbahnbetrieb"
+  ]
+  kldb_data[
+    label == "technische Luftverkehrsbetrieb",
+    label := "technischer Luftverkehrsbetrieb"
+  ]
+  kldb_data[
+    label == "technische Schiffsverkehrsbetrieb",
+    label := "technischer Schiffsverkehrsbetrieb"
+  ]
+  kldb_data[
+    label == "technische Betrieb des Eisenbahn-, Luft- und Schiffsverkehrs (sonstige spezifische Tätigkeitsangabe)",
+    label := "technischer Betrieb des Eisenbahn-, Luft- und Schiffsverkehrs (sonstige spezifische Tätigkeitsangabe)"
+  ]
+  kldb_data[
+    label == "visuelle Marketing",
+    label := "visuelles Marketing"
+  ]
+  kldb_data[
+    title == "Verwaltende Berufe im Sozial- und Gesundheitswesen",
+    label := "Verwaltung im Sozial- und Gesundheitswesen"
+  ]
+  kldb_data[
+    label == "kaufmännischen und technischen Betriebswirtschaft (ohne Spezialisierung)",
+    label := "kaufmännische und technische Betriebswirtschaft (ohne Spezialisierung)"
+  ]
+  kldb_data[
+    label == "öffentlichen Verwaltung (ohne Spezialisierung)",
+    label := "Öffentliche Verwaltung (ohne Spezialisierung)"
+  ]
+  kldb_data[
+    label == "öffentlichen Verwaltung (sonstige spezifische Tätigkeitsangabe)",
+    label := "Öffentliche Verwaltung (sonstige spezifische Tätigkeitsangabe)"
+  ]
+  kldb_data[
+    label == "operations-/medizintechnischen Assistenz",
+    label := "operations-/medizintechnische Assistenz"
+  ]
+  kldb_data[
+    label == "nicht klinischen Psychologie",
+    label := "nicht klinische Psychologie"
+  ]
+  kldb_data[
+    label == "nicht ärztlichen Psychotherapie",
+    label := "nicht ärztliche Psychotherapie"
+  ]
+  kldb_data[
+    label == "nicht ärztlichen Therapie und Heilkunde (sonstige spezifische Tätigkeitsangabe)",
+    label := "nicht ärztliche Therapie und Heilkunde (sonstige spezifische Tätigkeitsangabe)"
+  ]
+  # Uppercase the first letter
+  kldb_data[
+    level == 4,
+    label := gsub("^([[:lower:]])", "\\U\\1", label, perl = TRUE)
+  ]
+  kldb_data[
+    level == 4 & is.na(label),
+    label := title
+  ]
+  kldb_data[
+    level == 4,
+    label := gsub(" \\(sonstige spezifische Tätigkeitsangabe\\)", "", label)
+  ]
+  # Handle titles for Leitungsfunktion
+  kldb_data[
+    level == 4 & substr(kldb_id, 4, 4) == 9,
+    label := paste(
+      gsub(
+        "Aufsichts- und Führungskräfte - |Aufsichtskräfte - |Führungskräfte - ",
+        "",
+        label
+      ),
+      "(Führungskraft)"
+    )
+  ]
+
+  # Convert kldb_id to character for overall consistency, joins etc.
+  kldb_data[, kldb_id := as.character(kldb_id)]
+
+  # Only export the standard set of columns
+  # Note: Column "excludes" is currently still used, but can hopefully be
+  # dropped in the future or be handled in a more generic usecase
+  # Note: Using two separate columns, label & title here.
+  # We might want to only use one going forward,
+  # but both are needed atm. to support previous code
+  kldb_data <- kldb_data[
+    ,
+    c("kldb_id", "level", "label", "description", "excludes", "title")
+  ]
+
+  return(kldb_data)
+  # nolint end
+}
+
 ##############################################
 ### Write data to excel file, listing all auxiliary categories order by id
 ### Every category from the auxiliary classification must appear exactly once
@@ -84,6 +281,224 @@ for (cat_num in seq_along(ids)) {
 
 # Order by id
 auxco_categories <- auxco_categories[order(auxco_id)]
+
+# Add kldb_title_short by joining with the KldB 10 and
+# shortening titles from there
+kldb_10 <- load_kldb()
+
+# Match with titles using level-4 KldB Ids
+auxco_categories[
+  ,
+  kldb_id_to_match := substring(default_kldb_id, 1, 4)
+]
+auxco_categories <- merge(
+  auxco_categories,
+  kldb_10[level == 4, list(kldb_id, label)],
+  by.x = "kldb_id_to_match",
+  by.y = "kldb_id"
+)
+setnames(auxco_categories, "label", "kldb_title_short")
+
+# Remove "(ohne Spezialisierung)" but correct this default for some titles
+# Zentrales Kriterium: Der Zusatz "ohne Spezialisierung" wird beibehalten,
+# wenn es stärker spezialsierte Berufe gibt. Wünschenswert wäre es in solchen
+# Fällen, wenn sich Befragte auf einer genaueren Ebene einordnen könnten
+# (was aber wohl nicht immer möglich ist)
+auxco_categories[
+  ,
+  kldb_title_short := gsub(
+    " \\(ohne Spezialisierung\\)",
+    "",
+    kldb_title_short
+  )
+]
+auxco_categories[
+  title == "Landwirt/in",
+  kldb_title_short := "Landwirtschaft (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Acker- und Erntehelfer/in",
+  kldb_title_short := "Landwirtschaft (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Agraringenieur/in",
+  kldb_title_short := "Landwirtschaft (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Helfer/in - Tierwirtschaft und im Ackerbau",
+  kldb_title_short := "Landwirtschaft (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Landwirtschaftsberater/in",
+  kldb_title_short := "Landwirtschaft (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Tierpflegehelfer/in",
+  kldb_title_short := "Tierpflege (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Tierpfleger/in",
+  kldb_title_short := "Tierpflege (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Gärtner/in",
+  kldb_title_short := "Gartenbau (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Gartenbautechniker/in",
+  kldb_title_short := "Gartenbau (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Helfer/in - Baustoffherstellung",
+  kldb_title_short := "Baustoffherstellung"
+]
+auxco_categories[
+  title == "Helfer/in - Rohkohlenaufbereitung",
+  kldb_title_short := "Naturstein- und Mineralaufbereitung"
+]
+auxco_categories[
+  title == "Helfer/in - Mineralgewinnung, -aufbereitung",
+  kldb_title_short := "Naturstein- und Mineralaufbereitung"
+]
+auxco_categories[
+  auxco_id %in% as.character(5185:5188),
+  kldb_title_short := "Farb- und Lacktechnik (ohne Spezialisierung)"
+]
+auxco_categories[
+  auxco_id %in% as.character(5192:5195),
+  kldb_title_short := "Holzbe- und -verarbeitung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Gießereihelfer/in",
+  kldb_title_short := "Metallerzeugung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Metallbearbeitungshelfer/in",
+  kldb_title_short := "Metallbearbeitung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Metallbearbeitungstechniker/in",
+  kldb_title_short := "Metallbearbeitung (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "2510",
+  kldb_title_short := "Maschinenbau- und Betriebstechnik (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Maschinenbau- und Betriebstechnik (ohne Spezialisierung)",
+  kldb_title_short := "Kraftfahrzeugtechnik"
+]
+auxco_categories[
+  kldb_id_to_match == "2630",
+  kldb_title_short := "Elektrotechnik (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Bediener/in von Lederzurichtungsmaschinen",
+  kldb_title_short := "Lederherstellung"
+]
+auxco_categories[
+  title == "Lederverarbeitungshelfer/in",
+  kldb_title_short := "Lederherstellung und -verarbeitung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Pelzverarbeitungshelfer/in",
+  kldb_title_short := "Pelzbe- und -verarbeitung"
+]
+auxco_categories[
+  kldb_id_to_match == "2910",
+  kldb_title_short := "Getränkeherstellung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Helfer/in - Lebensmitteltechnik",
+  kldb_title_short := "Lebensmittelherstellung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Bautechniker/in",
+  kldb_title_short := "Bauplanung und -überwachung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Bauingenieur/in",
+  kldb_title_short := "Bauplanung und -überwachung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Hochbauarbeiter/in",
+  kldb_title_short := "Hochbau (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Bauhelfer/in",
+  kldb_title_short := "Hochbau, Tiefbau (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "3310",
+  kldb_title_short := "Bodenverlegung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Chemiker/in",
+  kldb_title_short := "Chemie (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Physiker/in",
+  kldb_title_short := "Physik (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Informatiker/in",
+  kldb_title_short := "Informatik (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Betriebs- und Verkehrstechniker/in",
+  kldb_title_short := "Überwachung und Steuerung des Verkehrsbetriebs (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Lebensmittelfachverkäufer/in",
+  kldb_title_short := "Verkauf von Lebensmitteln (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Fast-Food- und Imbisskoch/-köchin",
+  kldb_title_short := "Gastronomieservice (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "7130",
+  kldb_title_short := "Kaufmännische und technische Betriebswirtschaft (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Bürohilfskraft",
+  kldb_title_short := "Büro- und Sekretariatskräfte (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Sekretär/in",
+  kldb_title_short := "Büro- und Sekretariatskräfte (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "7320",
+  kldb_title_short := "Öffentliche Verwaltung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Allgemeinarzt /-ärztin",
+  kldb_title_short := "Ärzte/Ärztinnen (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Dozent/in - Erwachsenenbildung",
+  kldb_title_short := "Erwachsenenbildung (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "8450",
+  kldb_title_short := "Sportlehrer/innen (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "9330",
+  kldb_title_short := "Kunsthandwerk und bildende Kunst (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "9360",
+  kldb_title_short := "Musikinstrumentenbau (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Entertainer/in",
+  kldb_title_short := "Moderation und Unterhaltung (ohne Spezialisierung)"
+]
+
+# Remove the level 4 kldb_ids again
+auxco_categories[, kldb_id_to_match := NULL]
 
 fwrite(
   auxco_categories,
@@ -233,8 +648,7 @@ auxco_followup_questions[
   entry_type == "answer_option",
   last_question :=
     (question_index == max(question_index)) |
-    (!is.na(explicit_has_followup) & explicit_has_followup == FALSE)
-  ,
+      (!is.na(explicit_has_followup) & explicit_has_followup == FALSE),
   by = auxco_id
 ]
 auxco_followup_questions[, explicit_has_followup := NULL]
