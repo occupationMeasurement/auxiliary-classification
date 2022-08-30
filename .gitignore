@@ -1,3 +1,6 @@
 /renv/
+.Rhistory
 .Rprofile
 .Rproj.user
+cache/*
+output/*

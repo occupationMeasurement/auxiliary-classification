@@ -2,169 +2,783 @@
 # Der folgende Code lädt die Datei hilfsklassifikation.xml.
 #
 # Daraus werden im nachfolgenden Code die folgenden Dateien erstellt:
-# - hilfskategorien_sortiert_nach_id.csv
-# - abgrenzungen_sortiert_nach_kldb.csv
-# - folgefragen.csv
-# - hilfskategorien_kldb_mit_id.csv
+# - auxco_categories.csv
+# - auxco_distinctions.csv
+# - auxco_followup_questions.csv
+# - auxco_mapping_from_kldb.csv
 # Sie stellen ausgewählte Inhalte übersichtlicher dar.
 #
-# hilfskategorien_sortiert_nach_id.csv enthält zu jeder Hilfskategorie die ID, die Bezeichnung, die Tätigkeit, die Tätigkeitsbeschreibung sowie zugeordnete Berufskategorien aus der KldB 2010 sowie aus ISCO-08.
-# abgrenzungen_sortiert_nach_kldb.csv enthält die Abgrenzungen von allen Hilfskategorien. Zu jeder ID sind alle Abgrenzungen (REFID) und ihr jeweiliger TYP einzeln angegeben.
-# folgefragen.csv enthält sämtliche Folgefragen. Dargestellt sind die Fragetexte, die einzelnen Antwortoptionen sowie die ihnen zugeordneten Berufskategorien aus der KldB 2010 und aus ISCO-08.
-# hilfskategorien_kldb_mit_id.csv enthält zu jeder Hilfskategorie die zugeordneten KldB-Kategorien (Default-Kategorie und Kategorie aus Folgefrage). Und selbst für nicht in der Hilfsklassifikation enthaltene KldBs werden dort passende IDs aus der Hilfsklassifikation benannt.
+# auxco_categories.csv enthält zu jeder Hilfskategorie die ID, die Bezeichnung, die Tätigkeit, die Tätigkeitsbeschreibung sowie zugeordnete Berufskategorien aus der KldB 2010 sowie aus ISCO-08.
+# auxco_distinctions.csv enthält die Abgrenzungen von allen Hilfskategorien. Zu jeder ID sind alle Abgrenzungen (REFID) und ihr jeweiliger TYP einzeln angegeben.
+# auxco_followup_questions.csv enthält sämtliche Folgefragen. Dargestellt sind die Fragetexte, die einzelnen Antwortoptionen sowie die ihnen zugeordneten Berufskategorien aus der KldB 2010 und aus ISCO-08.
+# auxco_mapping_from_kldb.csv enthält zu jeder Hilfskategorie die zugeordneten KldB-Kategorien (Default-Kategorie und Kategorie aus Folgefrage). Und selbst für nicht in der Hilfsklassifikation enthaltene KldBs werden dort passende IDs aus der Hilfsklassifikation benannt.
 #
 # Eine weitere Datei vergleich_hilfsklassifikation_berufenet.csv ist nur unter https://www.iab.de/183/section.aspx/Publikation/k180509301 verlinkt. Dort werden die Hilfskategorien der Hilfskategorien mit den Berufsbezeichnungen aus dem BERUFENET verglichen.
 #
 # Malte Schierholz
 # 23. Februar 2018 (Ursprungsversion von https://www.iab.de/183/section.aspx/Publikation/k180509301)
-# 10. Februar 2019 (Anpassung für Github, Berücksichtigung der Folgefragen-Syntax vom 7.2.2019, hilfskategorien_kldb_mit_id.csv hinzugefügt)
+# 10. Februar 2019 (Anpassung für Github, Berücksichtigung der Folgefragen-Syntax vom 7.2.2019, auxco_mapping_from_kldb.csv hinzugefügt)
 ####################################################################################
 
 library(xml2)
 library(data.table)
 library(stringdist)
 
+output_dir <- "output"
+dir.create(output_dir, showWarnings = FALSE)
+
 # read auxiliary classification
-src <- read_xml("https://raw.githubusercontent.com/malsch/occupationCodingAuxco/master/hilfsklassifikation.xml")
+src <- read_xml("./hilfsklassifikation.xml")
 
 # remove all answer options that ask for an open-ended answer
 # Not yet implemented, but it may be worth to look at this again.
 # What if people do not find an answer option in follow-up questions that is appropriate for them?
-category_node <- xml_find_all(src, xpath = paste0("//isco[@schluessel='????']/parent::antwort"))
+category_node <- xml_find_all(
+  src,
+  xpath = paste0("//isco[@schluessel='????']/parent::antwort")
+)
 xml_remove(category_node)
 
 # select IDs
 ids <- as.numeric(xml_text(xml_find_all(src, xpath = "//id")))
 
+# Preparation: Download KldB 10
+load_kldb_raw <- function() {
+  terms_of_use <- "
+    © Statistik der Bundesagentur für Arbeit
+    Sie können Informationen speichern, (auch auszugsweise) mit Quellenangabe
+    weitergeben, vervielfältigen und verbreiten. Die Inhalte dürfen nicht
+    verändert oder verfälscht werden. Eigene Berechnungen sind erlaubt, jedoch
+    als solche kenntlich zu machen. Im Falle einer Zugänglichmachung im
+    Internet soll dies in Form einer Verlinkung auf die Homepage der Statistik
+    der Bundesagentur für Arbeit erfolgen. Die Nutzung der Inhalte für
+    gewerbliche Zwecke, ausgenommen Presse, Rundfunk und Fernsehen und
+    wissenschaftliche Publikationen, bedarf der Genehmigung durch die Statistik
+    der Bundesagentur für Arbeit.
+  "
+
+  # Create cache dir if it doesn't exist yet
+  cache_path <- file.path("cache")
+  dir.create(cache_path, showWarnings = FALSE)
+
+  kldb_archive_path <- file.path(cache_path, "kldb_2010_archive.zip")
+  if (!file.exists(kldb_archive_path)) {
+    print(paste(
+      "Using a modified version of the KldB 2010.",
+      "Please mind the terms of use of the original KldB dataset (German):",
+      terms_of_use,
+      sep = "\n"
+    ))
+
+    # Download the kldb file (which is a zip archive)
+    url <- "https://www.klassifikationsserver.de/klassService/jsp/variant/downloadexport?type=EXPORT_CSV_VARIANT&variant=kldb2010&language=DE"
+    download.file(url, destfile = kldb_archive_path, mode = "wb")
+  }
+
+  # Get the CSV filename
+  # (R cannot extract the file directly due to special characters in the name)
+  filename_in_zip <- unzip(zipfile = kldb_archive_path, list = TRUE)[1, "Name"]
+
+  # Unzip the file in-place and read its' contents
+  # (fread does not support reading from this kind of stream)
+  kldb_df <- read.csv2(
+    unz(kldb_archive_path, filename_in_zip),
+    skip = 8,
+    sep = ";",
+    encoding = "UTF-8",
+    check.names = FALSE
+  )
+
+  return(as.data.table(kldb_df))
+}
+
+#' Clean & Load KldB 2010 dataset.
+#'
+#' Use load_kldb_raw() to load the whole dataset.
+#'
+#' @return A cleaned / slimmed version of the KldB 2010.
+#' @export
+load_kldb <- function() {
+  # nolint start
+
+  kldb_data <- load_kldb_raw()
+
+  kldb_new_names <- c(
+    # old name => new name
+    "Schlüssel KldB 2010" = "kldb_id",
+    "Ebene" = "level",
+    "Titel" = "title",
+    "Allgemeine Bemerkungen" = "description",
+    "Ausschlüsse" = "excludes"
+  )
+
+  setnames(
+    kldb_data,
+    old = names(kldb_new_names),
+    new = kldb_new_names
+  )
+
+  # Only keep the new kldb columns
+  # If you want to look at the whole dataset, use load_kldb_raw()
+  kldb_data <- kldb_data[, ..kldb_new_names]
+
+  # Generate Clean level-4 Job Titles (i.e. labels)
+  kldb_data[
+    level == 4 & grepl("Berufe", title),
+    label := gsub(
+      "Berufe in der |Berufe im Bereich |Berufe im |Berufe in |Berufe für ",
+      "",
+      title
+    )
+  ]
+  kldb_data[
+    level == 4 & grepl("^[[:lower:]]", label),
+    label := gsub(
+      "technischen Laboratorium", "technisches Laboratorium",
+      label,
+      perl = TRUE
+    )
+  ]
+  kldb_data[
+    level == 4 & grepl("^[[:lower:]]", label),
+    label := gsub("^([[:lower:]-]{1,})(n )", "\\1 ", label, perl = TRUE)
+  ]
+  kldb_data[
+    label == "technische Eisenbahnbetrieb",
+    label := "technischer Eisenbahnbetrieb"
+  ]
+  kldb_data[
+    label == "technische Luftverkehrsbetrieb",
+    label := "technischer Luftverkehrsbetrieb"
+  ]
+  kldb_data[
+    label == "technische Schiffsverkehrsbetrieb",
+    label := "technischer Schiffsverkehrsbetrieb"
+  ]
+  kldb_data[
+    label == "technische Betrieb des Eisenbahn-, Luft- und Schiffsverkehrs (sonstige spezifische Tätigkeitsangabe)",
+    label := "technischer Betrieb des Eisenbahn-, Luft- und Schiffsverkehrs (sonstige spezifische Tätigkeitsangabe)"
+  ]
+  kldb_data[
+    label == "visuelle Marketing",
+    label := "visuelles Marketing"
+  ]
+  kldb_data[
+    title == "Verwaltende Berufe im Sozial- und Gesundheitswesen",
+    label := "Verwaltung im Sozial- und Gesundheitswesen"
+  ]
+  kldb_data[
+    label == "kaufmännischen und technischen Betriebswirtschaft (ohne Spezialisierung)",
+    label := "kaufmännische und technische Betriebswirtschaft (ohne Spezialisierung)"
+  ]
+  kldb_data[
+    label == "öffentlichen Verwaltung (ohne Spezialisierung)",
+    label := "Öffentliche Verwaltung (ohne Spezialisierung)"
+  ]
+  kldb_data[
+    label == "öffentlichen Verwaltung (sonstige spezifische Tätigkeitsangabe)",
+    label := "Öffentliche Verwaltung (sonstige spezifische Tätigkeitsangabe)"
+  ]
+  kldb_data[
+    label == "operations-/medizintechnischen Assistenz",
+    label := "operations-/medizintechnische Assistenz"
+  ]
+  kldb_data[
+    label == "nicht klinischen Psychologie",
+    label := "nicht klinische Psychologie"
+  ]
+  kldb_data[
+    label == "nicht ärztlichen Psychotherapie",
+    label := "nicht ärztliche Psychotherapie"
+  ]
+  kldb_data[
+    label == "nicht ärztlichen Therapie und Heilkunde (sonstige spezifische Tätigkeitsangabe)",
+    label := "nicht ärztliche Therapie und Heilkunde (sonstige spezifische Tätigkeitsangabe)"
+  ]
+  # Uppercase the first letter
+  kldb_data[
+    level == 4,
+    label := gsub("^([[:lower:]])", "\\U\\1", label, perl = TRUE)
+  ]
+  kldb_data[
+    level == 4 & is.na(label),
+    label := title
+  ]
+  kldb_data[
+    level == 4,
+    label := gsub(" \\(sonstige spezifische Tätigkeitsangabe\\)", "", label)
+  ]
+  # Handle titles for Leitungsfunktion
+  kldb_data[
+    level == 4 & substr(kldb_id, 4, 4) == 9,
+    label := paste(
+      gsub(
+        "Aufsichts- und Führungskräfte - |Aufsichtskräfte - |Führungskräfte - ",
+        "",
+        label
+      ),
+      "(Führungskraft)"
+    )
+  ]
+
+  # Convert kldb_id to character for overall consistency, joins etc.
+  kldb_data[, kldb_id := as.character(kldb_id)]
+
+  # Only export the standard set of columns
+  # Note: Column "excludes" is currently still used, but can hopefully be
+  # dropped in the future or be handled in a more generic usecase
+  # Note: Using two separate columns, label & title here.
+  # We might want to only use one going forward,
+  # but both are needed atm. to support previous code
+  kldb_data <- kldb_data[
+    ,
+    c("kldb_id", "level", "label", "description", "excludes", "title")
+  ]
+
+  return(kldb_data)
+  # nolint end
+}
+
 ##############################################
 ### Write data to excel file, listing all auxiliary categories order by id
 ### Every category from the auxiliary classification must appear exactly once
-### Create file: hilfskategorien_sortiert_nach_id.csv
+### Create file: auxco_categories.csv
 ##############################################
 
-res <- NULL
+auxco_categories <- NULL
 for (cat_num in seq_along(ids)) {
-  category_node <- xml_find_all(src, xpath = paste0("//klassifikation/*[", cat_num, "]"))
-  id <- xml_text(xml_find_all(category_node, xpath = "./id"))
-  taetigkeit <- xml_text(xml_find_all(category_node, xpath = "./taetigkeit"))
-  taetigkeitsbeschreibung <- xml_text(xml_find_all(category_node, xpath = "./taetigkeitsbeschreibung"))
-  bezeichnung <- xml_text(xml_find_all(category_node, xpath = "./bezeichnung"))
-  kldb_id_default <- xml_attr(xml_find_all(category_node, xpath = ".//default/kldb"), "schluessel")
-  isco_id_default <- xml_attr(xml_find_all(category_node, xpath = ".//default/isco"), "schluessel")
-  kldb_id_folgefrage <- xml_attr(xml_find_all(category_node, xpath = ".//antwort/kldb"), "schluessel")
-  isco_id_folgefrage <- xml_attr(xml_find_all(category_node, xpath = ".//antwort/isco"), "schluessel")
-  res <- rbind(res, data.table(id, bezeichnung, kldb_default = kldb_id_default, kldb_folgefrage = paste(kldb_id_folgefrage, collapse = ", "), isco_default = isco_id_default, isco_folgefrage = paste(isco_id_folgefrage, collapse = ", "), taetigkeit, taetigkeitsbeschreibung))
+  category_node <- xml_find_all(
+    src,
+    xpath = paste0("//klassifikation/*[", cat_num, "]")
+  )
+  auxco_id <- xml_find_all(category_node, xpath = "./id") |>
+    xml_text()
+  title <- xml_find_all(category_node, xpath = "./bezeichnung") |>
+    xml_text()
+  task <- xml_find_all(category_node, xpath = "./taetigkeit") |>
+    xml_text()
+  task_description <- xml_find_all(
+    category_node,
+    xpath = "./taetigkeitsbeschreibung"
+  ) |>
+    xml_text()
+  default_kldb_id <- xml_find_all(category_node, xpath = ".//default/kldb") |>
+    xml_attr("schluessel")
+  default_isco_id <- xml_find_all(category_node, xpath = ".//default/isco") |>
+    xml_attr("schluessel")
+  auxco_categories <- rbind(
+    auxco_categories,
+    data.table(
+      auxco_id,
+      title,
+      task,
+      task_description,
+      default_kldb_id,
+      default_isco_id
+    )
+  )
 }
 
+# Order by id
+auxco_categories <- auxco_categories[order(auxco_id)]
 
-hilfskategorien <- res[order(id)]
-# write.csv2(res[order(id)], row.names = FALSE, file = "hilfskategorien_sortiert_nach_id.csv", fileEncoding = "UTF-8")
+# Add kldb_title_short by joining with the KldB 10 and
+# shortening titles from there
+kldb_10 <- load_kldb()
+
+# Match with titles using level-4 KldB Ids
+auxco_categories[
+  ,
+  kldb_id_to_match := substring(default_kldb_id, 1, 4)
+]
+auxco_categories <- merge(
+  auxco_categories,
+  kldb_10[level == 4, list(kldb_id, label)],
+  by.x = "kldb_id_to_match",
+  by.y = "kldb_id"
+)
+setnames(auxco_categories, "label", "kldb_title_short")
+
+# Remove "(ohne Spezialisierung)" but correct this default for some titles
+# Zentrales Kriterium: Der Zusatz "ohne Spezialisierung" wird beibehalten,
+# wenn es stärker spezialsierte Berufe gibt. Wünschenswert wäre es in solchen
+# Fällen, wenn sich Befragte auf einer genaueren Ebene einordnen könnten
+# (was aber wohl nicht immer möglich ist)
+auxco_categories[
+  ,
+  kldb_title_short := gsub(
+    " \\(ohne Spezialisierung\\)",
+    "",
+    kldb_title_short
+  )
+]
+auxco_categories[
+  title == "Landwirt/in",
+  kldb_title_short := "Landwirtschaft (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Acker- und Erntehelfer/in",
+  kldb_title_short := "Landwirtschaft (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Agraringenieur/in",
+  kldb_title_short := "Landwirtschaft (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Helfer/in - Tierwirtschaft und im Ackerbau",
+  kldb_title_short := "Landwirtschaft (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Landwirtschaftsberater/in",
+  kldb_title_short := "Landwirtschaft (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Tierpflegehelfer/in",
+  kldb_title_short := "Tierpflege (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Tierpfleger/in",
+  kldb_title_short := "Tierpflege (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Gärtner/in",
+  kldb_title_short := "Gartenbau (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Gartenbautechniker/in",
+  kldb_title_short := "Gartenbau (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Helfer/in - Baustoffherstellung",
+  kldb_title_short := "Baustoffherstellung"
+]
+auxco_categories[
+  title == "Helfer/in - Rohkohlenaufbereitung",
+  kldb_title_short := "Naturstein- und Mineralaufbereitung"
+]
+auxco_categories[
+  title == "Helfer/in - Mineralgewinnung, -aufbereitung",
+  kldb_title_short := "Naturstein- und Mineralaufbereitung"
+]
+auxco_categories[
+  auxco_id %in% as.character(5185:5188),
+  kldb_title_short := "Farb- und Lacktechnik (ohne Spezialisierung)"
+]
+auxco_categories[
+  auxco_id %in% as.character(5192:5195),
+  kldb_title_short := "Holzbe- und -verarbeitung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Gießereihelfer/in",
+  kldb_title_short := "Metallerzeugung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Metallbearbeitungshelfer/in",
+  kldb_title_short := "Metallbearbeitung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Metallbearbeitungstechniker/in",
+  kldb_title_short := "Metallbearbeitung (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "2510",
+  kldb_title_short := "Maschinenbau- und Betriebstechnik (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Maschinenbau- und Betriebstechnik (ohne Spezialisierung)",
+  kldb_title_short := "Kraftfahrzeugtechnik"
+]
+auxco_categories[
+  kldb_id_to_match == "2630",
+  kldb_title_short := "Elektrotechnik (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Bediener/in von Lederzurichtungsmaschinen",
+  kldb_title_short := "Lederherstellung"
+]
+auxco_categories[
+  title == "Lederverarbeitungshelfer/in",
+  kldb_title_short := "Lederherstellung und -verarbeitung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Pelzverarbeitungshelfer/in",
+  kldb_title_short := "Pelzbe- und -verarbeitung"
+]
+auxco_categories[
+  kldb_id_to_match == "2910",
+  kldb_title_short := "Getränkeherstellung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Helfer/in - Lebensmitteltechnik",
+  kldb_title_short := "Lebensmittelherstellung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Bautechniker/in",
+  kldb_title_short := "Bauplanung und -überwachung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Bauingenieur/in",
+  kldb_title_short := "Bauplanung und -überwachung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Hochbauarbeiter/in",
+  kldb_title_short := "Hochbau (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Bauhelfer/in",
+  kldb_title_short := "Hochbau, Tiefbau (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "3310",
+  kldb_title_short := "Bodenverlegung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Chemiker/in",
+  kldb_title_short := "Chemie (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Physiker/in",
+  kldb_title_short := "Physik (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Informatiker/in",
+  kldb_title_short := "Informatik (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Betriebs- und Verkehrstechniker/in",
+  kldb_title_short := "Überwachung und Steuerung des Verkehrsbetriebs (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Lebensmittelfachverkäufer/in",
+  kldb_title_short := "Verkauf von Lebensmitteln (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Fast-Food- und Imbisskoch/-köchin",
+  kldb_title_short := "Gastronomieservice (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "7130",
+  kldb_title_short := "Kaufmännische und technische Betriebswirtschaft (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Bürohilfskraft",
+  kldb_title_short := "Büro- und Sekretariatskräfte (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Sekretär/in",
+  kldb_title_short := "Büro- und Sekretariatskräfte (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "7320",
+  kldb_title_short := "Öffentliche Verwaltung (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Allgemeinarzt /-ärztin",
+  kldb_title_short := "Ärzte/Ärztinnen (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Dozent/in - Erwachsenenbildung",
+  kldb_title_short := "Erwachsenenbildung (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "8450",
+  kldb_title_short := "Sportlehrer/innen (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "9330",
+  kldb_title_short := "Kunsthandwerk und bildende Kunst (ohne Spezialisierung)"
+]
+auxco_categories[
+  kldb_id_to_match == "9360",
+  kldb_title_short := "Musikinstrumentenbau (ohne Spezialisierung)"
+]
+auxco_categories[
+  title == "Entertainer/in",
+  kldb_title_short := "Moderation und Unterhaltung (ohne Spezialisierung)"
+]
+
+# Remove the level 4 kldb_ids again
+auxco_categories[, kldb_id_to_match := NULL]
+
+fwrite(
+  auxco_categories,
+  row.names = FALSE,
+  file = file.path(output_dir, "auxco_categories.csv")
+)
 
 ###############################################
 ### Write data to excel file, listing all abgrenzungen
-### Create file: abgrenzungen_sortiert_nach_kldb.csv
+### Create file: auxco_distinctions.csv
 ###############################################
 
-res <- NULL
+auxco_distinctions <- NULL
 for (cat_num in seq_along(ids)) {
-  category_node <- xml_find_all(src, xpath = paste0("//klassifikation/*[", cat_num, "]"))
-  id <- xml_text(xml_find_all(category_node, xpath = "./id"))
-  bezeichnung <- xml_text(xml_find_all(category_node, xpath = "./bezeichnung"))
-  kldb_id_default <- xml_attr(xml_find_all(category_node, xpath = ".//default/kldb"), "schluessel")
+  category_node <- xml_find_all(
+    src,
+    xpath = paste0("//klassifikation/*[", cat_num, "]")
+  )
+  auxco_id <- xml_find_all(category_node, xpath = "./id") |>
+    xml_text()
+  title <- xml_find_all(category_node, xpath = "./bezeichnung") |>
+    xml_text()
+  default_kldb_id <- xml_find_all(category_node, xpath = ".//default/kldb") |>
+    xml_attr("schluessel")
+  distinction_categories <- xml_find_all(category_node, xpath = "./abgrenzung")
 
-  abgrenzungen <- xml_find_all(category_node, xpath = "./abgrenzung")
-  if (length(abgrenzungen) > 0) {
-    res <- rbind(res, data.table(kldb_id_default, id, bezeichnung, refid = xml_attr(abgrenzungen, "refid"), refbezeichnung = xml_text(abgrenzungen), typ = xml_attr(abgrenzungen, "typ")))
+  if (length(distinction_categories) > 0) {
+    auxco_distinctions <- rbind(
+      auxco_distinctions,
+      data.table(
+        auxco_id,
+        title,
+        similar_auxco_id = distinction_categories |> xml_attr("refid"),
+        similar_title = distinction_categories |> xml_text(),
+        similarity = distinction_categories |> xml_attr("typ"),
+        default_kldb_id
+      )
+    )
   }
 }
 
-abgrenzungen <- res[order(kldb_id_default)]
-# write.csv2(res[order(kldb_id_default)], row.names = FALSE, file = "abgrenzungen_sortiert_nach_kldb.csv", fileEncoding = "UTF-8")
+# Order by kldb_id, since it's better at showing similar categories
+# next to each other
+auxco_distinctions <- auxco_distinctions[order(default_kldb_id)]
+
+fwrite(
+  auxco_distinctions,
+  row.names = FALSE,
+  file = file.path(output_dir, "auxco_distinctions.csv")
+)
 
 ###############################################
 ### Write data to excel file, listing all Folgefragen
-### Create file: folgefragen.csv
+### Create file: auxco_followup_questions.csv
 ###############################################
 
-res <- NULL
+auxco_followup_questions <- NULL
 for (cat_num in seq_along(ids)) { #
-  category_node <- xml_find_all(src, xpath = paste0("//klassifikation/*[", cat_num, "]"))
-  id <- xml_text(xml_find_all(category_node, xpath = "./id"))
+  category_node <- src |>
+    xml_find_all(xpath = paste0("//klassifikation/*[", cat_num, "]"))
+  auxco_id <- xml_find_all(category_node, xpath = "./id") |>
+    xml_text()
 
-  for (folgefrage_node in xml_find_all(category_node, xpath = "./untergliederung/child::*")) {
+  for (
+    folgefrage_node in category_node |>
+      xml_find_all(xpath = "./untergliederung/child::*")
+  ) {
+    # Handle questions
     if (xml_name(folgefrage_node) == "fragetext") {
-      typ <- xml_attr(folgefrage_node, "typ")
-      fragetextAktuellerBeruf <- xml_text(xml_find_all(folgefrage_node, xpath = "./folgefrageAktuellerBeruf"))
-      fragetextVergangenerBeruf <- xml_text(xml_find_all(folgefrage_node, xpath = "./folgefrageVergangenerBeruf"))
+      question_type <- xml_attr(folgefrage_node, "typ")
+      question_text_present <- folgefrage_node |>
+        xml_find_all(xpath = "./folgefrageAktuellerBeruf") |>
+        xml_text()
+      question_text_past <- folgefrage_node |>
+        xml_find_all(xpath = "./folgefrageVergangenerBeruf") |>
+        xml_text()
 
-      res <- rbind(res, cbind(data.table(id, typ = typ, fragetextAktuellerBeruf = fragetextAktuellerBeruf, fragetextVergangenerBeruf = fragetextVergangenerBeruf, antwort.pos = "", antwort.text = "", antwort.kldb = "", antwort.isco = "", followUp = "")))
+      auxco_followup_questions <- rbind(
+        auxco_followup_questions,
+        cbind(
+          data.table(
+            auxco_id,
+            entry_type = "question",
+            question_type,
+            question_text_present,
+            question_text_past,
+            answer_id = "",
+            answer_text = "",
+            answer_kldb_id = "",
+            answer_isco_id = "",
+            explicit_has_followup = ""
+          )
+        )
+      )
     }
+    # Handle answers / answer options
     if (xml_name(folgefrage_node) == "antwort") {
-      pos <- xml_attr(folgefrage_node, "position")
-      followUp <- xml_attr(folgefrage_node, "follow-up")
-      ant.text <- xml_text(xml_find_all(folgefrage_node, xpath = "./text"))
-      ant.kldb <- xml_attr(xml_find_all(folgefrage_node, xpath = "./kldb"), "schluessel")
-      if (length(ant.kldb) == 0) ant.kldb <- ""
-      ant.isco <- xml_attr(xml_find_all(folgefrage_node, xpath = "./isco"), "schluessel")
-      if (length(ant.isco) == 0) ant.isco <- ""
+      answer_id <- xml_attr(folgefrage_node, "position")
+      explicit_has_followup <- xml_attr(folgefrage_node, "follow-up") |>
+        as.logical()
+      answer_text <- xml_find_all(folgefrage_node, xpath = "./text") |>
+        xml_text()
+      answer_kldb_id <- xml_find_all(folgefrage_node, xpath = "./kldb") |>
+        xml_attr("schluessel")
+      if (length(answer_kldb_id) == 0) answer_kldb_id <- ""
+      answer_isco_id <- xml_find_all(folgefrage_node, xpath = "./isco") |>
+        xml_attr("schluessel")
+      if (length(answer_isco_id) == 0) answer_isco_id <- ""
 
-      res <- rbind(res, cbind(data.table(id, typ = "", fragetextAktuellerBeruf = "", fragetextVergangenerBeruf = "", antwort.pos = pos, antwort.text = ant.text, antwort.kldb = ant.kldb, antwort.isco = ant.isco, followUp = followUp)))
+      auxco_followup_questions <- rbind(
+        auxco_followup_questions,
+        cbind(data.table(
+          auxco_id,
+          entry_type = "answer_option",
+          question_type = "",
+          question_text_present = "",
+          question_text_past = "",
+          answer_id,
+          answer_text,
+          answer_kldb_id,
+          answer_isco_id,
+          explicit_has_followup
+        ))
+      )
     }
   }
 }
 
-# number rows and number questions per id
-res[, questionNumber := cumsum(fragetextAktuellerBeruf != ""), by = id]
-res <- res[order(id)]
-res[, laufindexFolge := 1:.N]
+# Add unique question_ids
+auxco_followup_questions[
+  ,
+  question_index := cumsum(entry_type == "question"),
+  by = auxco_id
+]
+auxco_followup_questions[, question_id := paste0(auxco_id, "_", question_index)]
+auxco_followup_questions <- auxco_followup_questions[order(auxco_id)]
 
-folgefragen <- res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)]
-# write.csv2(res[, list(laufindexFolge, id, questionNumber, typ, fragetextAktuellerBeruf, fragetextVergangenerBeruf, antwort.pos, antwort.text, antwort.kldb, antwort.isco, followUp)], row.names = FALSE, file = "folgefragen.csv", fileEncoding = "UTF-8")
+# Move the question_id forward in the column order
+setcolorder(
+  auxco_followup_questions,
+  c("auxco_id", "question_id", "question_index")
+)
 
+# Compute a more intuitive "last_question" column in place of the
+# explicit_has_followup from the xml.
+auxco_followup_questions[
+  entry_type == "answer_option",
+  last_question :=
+    (question_index == max(question_index)) |
+      (!is.na(explicit_has_followup) & explicit_has_followup == FALSE),
+  by = auxco_id
+]
+auxco_followup_questions[, explicit_has_followup := NULL]
+
+fwrite(
+  auxco_followup_questions,
+  row.names = FALSE,
+  file = file.path(output_dir, "auxco_followup_questions.csv")
+)
 
 ##############################################
-# write data to excel file, listing all kldb categories (default and folgefrage) and their associated category ids
-# Create file: hilfskategorien_kldb_mit_id.csv
+# ===== Mappings to other Coding Systems =====
 ##############################################
 
-res <- NULL
-for (cat_num in seq_along(ids)) {
-  category_node <- xml_find_all(src, xpath = paste0("//klassifikation/*[", cat_num, "]"))
-  id <- xml_text(xml_find_all(category_node, xpath = "./id"))
-  kldb_id_default <- xml_attr(xml_find_all(category_node, xpath = ".//default/kldb"), "schluessel")
-  kldb_id_folgefrage <- xml_attr(xml_find_all(category_node, xpath = ".//antwort/kldb"), "schluessel")
-  res <- rbind(res, data.table(id, kldb = c(kldb_id_default, kldb_id_folgefrage)))
+create_mapping <- function(target_name) {
+  mapping <- NULL
+
+  for (cat_num in seq_along(ids)) {
+    category_node <- src |>
+      xml_find_all(xpath = paste0("//klassifikation/*[", cat_num, "]"))
+    auxco_id <- xml_find_all(category_node, xpath = "./id") |>
+      xml_text()
+    auxco_title <- xml_find_all(category_node, xpath = "./bezeichnung") |>
+      xml_text()
+    target_id_default <- category_node |>
+      xml_find_all(xpath = paste0(".//default/", target_name)) |>
+      xml_attr("schluessel")
+    target_id_folgefrage <- category_node |>
+      xml_find_all(xpath = paste0(".//antwort/", target_name)) |>
+      xml_attr("schluessel")
+    target_text_default <- category_node |>
+      xml_find_all(xpath = paste0(".//default/", target_name)) |>
+      xml_text()
+    target_text_folgefrage <- category_node |>
+      xml_find_all(xpath = paste0(".//antwort/", target_name)) |>
+      xml_text()
+
+    # Create the mapping table manually, as we have to generate some colnames
+    mapping_to_add <- data.table()
+    mapping_to_add[, (paste0(target_name, "_id")) := c(
+      target_id_default,
+      target_id_folgefrage
+    )]
+    mapping_to_add[, auxco_id := auxco_id]
+    mapping_to_add[, auxco_title := auxco_title]
+    mapping_to_add[, (paste0(target_name, "_title")) := c(
+      target_text_default,
+      target_text_folgefrage
+    )]
+
+    # Combine mappin_to_add with the overall mapping
+    mapping <- rbind(
+      mapping,
+      mapping_to_add
+    )
+  }
+
+  return(mapping)
 }
 
-# nicht alle kldbs stehen in der Hilfsklassifikation, denn einzelne Kategorien in der KldB unterscheiden sich kaum. Für nicht enthaltene KldBs (Spalte kldb) füge Verknüpfungen zu sehr ähnlichen kldbs (Spalte aehnlich_zu) und zu den zugehörigen IDs aus der Hilfsklassifikation (Spalte id) hinzu. Dies ermöglicht Hilfskategorien vorzuschlagen, auch wenn die jeweilige KldB nicht in der Hilfsklassifikation steht.
-res <- rbind(
-  res,
+##############################################
+# Mapping of all ISCO categories (default and folgefrage) to auxco_ids
+# Create file: auxco_mapping_from_isco.csv
+##############################################
+
+auxco_mapping_from_isco <- create_mapping("isco")
+
+fwrite(
+  auxco_mapping_from_isco,
+  row.names = FALSE,
+  file = file.path(output_dir, "auxco_mapping_from_isco.csv")
+)
+
+##############################################
+# Mapping of all kldb categories (default and folgefrage) to auxco_ids
+# Create file: auxco_mapping_from_kldb.csv
+##############################################
+
+auxco_mapping_from_kldb <- create_mapping("kldb")
+
+# TODO: These manual additions should live in the XML or at least a CSV
+
+# nicht alle kldbs stehen in der Hilfsklassifikation, denn einzelne Kategorien
+# in der KldB unterscheiden sich kaum. Für nicht enthaltene KldBs (Spalte kldb)
+# füge Verknüpfungen zu sehr ähnlichen kldbs (Spalte aehnlich_zu) und zu den
+# zugehörigen IDs aus der Hilfsklassifikation (Spalte id) hinzu. Dies ermöglicht
+# Hilfskategorien vorzuschlagen, auch wenn die jeweilige KldB nicht in der
+# Hilfsklassifikation steht.
+manual_mapping_additions <- data.table(
+  auxco_id = c("1014", "1015", "1519", "1518", "5178", "5179", "1716", "1716", "2115", "1733", "1734", "1790", "3205", "3206", "3205", "3206", "3573", "3570", "3550", "3550", "3546", "3542", "7005", "3551", "3552", "3541", "7104", "7043", "7043", "7053", "1828", "1112"),
+  kldb_id = c("11183", "11183", "11402", "11402", "22182", "22182", "22183", "22184", "26382", "26383", "26383", "41383", "71382", "71382", "71383", "71383", "72214", "72214", "73282", "73283", "73284", "73293", "73293", "73293", "73293", "73293", "81382", "81783", "81784", "81784", "82283", "91484")
+)
+# Weitere KldBs stehen nicht mehr in der Hilfsklassifikation (in der
+# Ursprungsversion waren sie noch enthalten), da diese Kategorien sehr allgemein
+# gehalten sind und wir glauben, dass sich Beschäftigte im allgemeinen genauer
+# einordnen können
+manual_mapping_additions <- rbind(
+  manual_mapping_additions,
   data.table(
-    id = c("1014", "1015", "1519", "1518", "5178", "5179", "1716", "1716", "2115", "1733", "1734", "1790", "3205", "3206", "3205", "3206", "3573", "3570", "3550", "3550", "3546", "3542", "7005", "3551", "3552", "3541", "7104", "7043", "7043", "7053", "1828", "1112"),
-    kldb = c("11183", "11183", "11402", "11402", "22182", "22182", "22183", "22184", "26382", "26383", "26383", "41383", "71382", "71382", "71383", "71383", "72214", "72214", "73282", "73283", "73284", "73293", "73293", "73293", "73293", "73293", "81382", "81783", "81784", "81784", "82283", "91484") # ,
-    #                       aehnlich_zu =  c("11103", "11104", "11412", "11422", "22102", "22102", "22103", "22104", "26302", "26303", "26303", "41303", "71302", "71302", "71302", "71302", "72234", "72294", "73202", "73203", "73204", "73214", "73224", "73234", "73244", "73254", "81302", "81713", "81714", "81783", "82233", "91404")
+    auxco_id = c("2093", "2018", "1853", "2022", "2023", "2029", "2034", "1722", "1722", "9041", "9096", "9087", "9063", "9065", "9067", "9069", "9040", "9049", "9076", "9097", "9062", "9064", "9066", "9068", "9070", "9049", "9047", "9076", "4002", "4002", "4002", "4004", "4005", "4006", "4007", "4008", "4210", "4211", "4212", "4213", "4214", "1799", "1785", "6030", "1750", "3205", "3206", "3208", "3210", "3211", "3599", "3531", "3530", "3532", "3533", "3530", "3537", "3599", "5128", "5141"),
+    kldb_id = c("24202", "24202", "24202", "24202", "24202", "24202", "24202", "27103", "27104", "29202", "29202", "29202", "29202", "29202", "29202", "29202", "29202", "29203", "29203", "29203", "29203", "29203", "29203", "29203", "29203", "29204", "29204", "29204", "41203", "41283", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "42283", "42283", "62103", "62103", "71304", "71304", "71304", "71304", "71304", "71304", "73104", "73104", "73104", "73104", "73104", "73104", "73104", "93383", "93383")
   )
 )
-# Weitere KldBs stehen nicht mehr in der Hilfsklassifikation (in der Ursprungsversion waren sie noch enthalten), da diese Kategorien sehr allgemein gehalten sind und wir glauben, dass sich Beschäftigte im allgemeinen genauer einordnen können
-res <- rbind(
-  res,
+# Andere KldBs werden nicht erkannt (siehe Hilfsklassifikation),
+# weil sie abhängig von zwei Folgefragen sind
+manual_mapping_additions <- rbind(
+  manual_mapping_additions,
   data.table(
-    id = c("2093", "2018", "1853", "2022", "2023", "2029", "2034", "1722", "1722", "9041", "9096", "9087", "9063", "9065", "9067", "9069", "9040", "9049", "9076", "9097", "9062", "9064", "9066", "9068", "9070", "9049", "9047", "9076", "4002", "4002", "4002", "4004", "4005", "4006", "4007", "4008", "4210", "4211", "4212", "4213", "4214", "1799", "1785", "6030", "1750", "3205", "3206", "3208", "3210", "3211", "3599", "3531", "3530", "3532", "3533", "3530", "3537", "3599", "5128", "5141"),
-    kldb = c("24202", "24202", "24202", "24202", "24202", "24202", "24202", "27103", "27104", "29202", "29202", "29202", "29202", "29202", "29202", "29202", "29202", "29203", "29203", "29203", "29203", "29203", "29203", "29203", "29203", "29204", "29204", "29204", "41203", "41283", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "42283", "42283", "62103", "62103", "71304", "71304", "71304", "71304", "71304", "71304", "73104", "73104", "73104", "73104", "73104", "73104", "73104", "93383", "93383") # ,
-    #                       aehnlich_zu =  c("24201", "24203", "24212", "24222", "24232", "24302", "24412", "25103", "25104", "29201", "29212", "29222", "29232", "29242", "29252", "29262", "29282", "29283", "29293", "29213", "29223", "29233", "29243", "29253", "29263", "29283", "29284", "29294", "41213", "41213", "41214", "41234", "41244", "41254", "41264", "41274", "41284", "41284", "41284", "41284", "41284", "42203", "34313", "62102", "62193", "71303", "71303", "71314", "71394", "71394", "71594", "73124", "73134", "73144", "73154", "73183", "73194", "71394", "93303", "93393")
-  )
-)
-# Andere KldBs werden nicht erkannt (siehe Hilfsklassifikation), weil sie abhängig von zwei Folgefragen sind
-res <- rbind(
-  res,
-  data.table(
-    id = c("1748", "1749", "1748", "1749"),
-    kldb = c("61204", "61214", "61284", "61284")
+    auxco_id = c("1748", "1749", "1748", "1749"),
+    kldb_id = c("61204", "61214", "61284", "61284")
   )
 )
 
+# Add title information and then combine the manual mapping
+# with the existing auxco mapping
+manual_mapping_additions <- merge(
+  manual_mapping_additions,
+  auxco_mapping_from_kldb[, list(auxco_id, auxco_title, kldb_title)],
+  by = "auxco_id"
+)
+setcolorder(manual_mapping_additions, colnames(auxco_mapping_from_kldb))
+auxco_mapping_from_kldb <- rbind(
+  auxco_mapping_from_kldb,
+  manual_mapping_additions
+)
 
-res <- unique(res)
+auxco_mapping_from_kldb <- unique(auxco_mapping_from_kldb)
 
-map_kldb_to_auxcoid <- res
-# write.csv2(res, row.names = FALSE, file = "hilfskategorien_kldb_mit_id.csv", fileEncoding = "UTF-8")
+fwrite(
+  auxco_mapping_from_kldb,
+  row.names = FALSE,
+  file = file.path(output_dir, "auxco_mapping_from_kldb.csv")
+)
