@@ -86,8 +86,10 @@ load_kldb_raw <- function() {
     skip = 8,
     sep = ";",
     encoding = "UTF-8",
-    check.names = FALSE
+    check.names = FALSE,
+    colClasses = "character"
   )
+  kldb_df$Ebene <- as.integer(kldb_df$Ebene)
 
   return(as.data.table(kldb_df))
 }
