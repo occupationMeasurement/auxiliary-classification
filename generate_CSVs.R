@@ -6,18 +6,21 @@
 # - auxco_distinctions.csv
 # - auxco_followup_questions.csv
 # - auxco_mapping_from_kldb.csv
+# - auxco_mapping_from_isco.csv
 # Sie stellen ausgewählte Inhalte übersichtlicher dar.
 #
 # auxco_categories.csv enthält zu jeder Hilfskategorie die ID, die Bezeichnung, die Tätigkeit, die Tätigkeitsbeschreibung sowie zugeordnete Berufskategorien aus der KldB 2010 sowie aus ISCO-08.
 # auxco_distinctions.csv enthält die Abgrenzungen von allen Hilfskategorien. Zu jeder ID sind alle Abgrenzungen (REFID) und ihr jeweiliger TYP einzeln angegeben.
 # auxco_followup_questions.csv enthält sämtliche Folgefragen. Dargestellt sind die Fragetexte, die einzelnen Antwortoptionen sowie die ihnen zugeordneten Berufskategorien aus der KldB 2010 und aus ISCO-08.
 # auxco_mapping_from_kldb.csv enthält zu jeder Hilfskategorie die zugeordneten KldB-Kategorien (Default-Kategorie und Kategorie aus Folgefrage). Und selbst für nicht in der Hilfsklassifikation enthaltene KldBs werden dort passende IDs aus der Hilfsklassifikation benannt.
+# auxco_mapping_from_isco.csv enthält zu jeder Hilfskategorie die zugeordneten ISCO-Kategorien (Default-Kategorie und Kategorie aus Folgefrage). Einige ISCO-Kategorien fehlen, da einige Berufe in Deutschland nicht vorkommen.
+
 #
 # Eine weitere Datei vergleich_hilfsklassifikation_berufenet.csv ist nur unter https://www.iab.de/183/section.aspx/Publikation/k180509301 verlinkt. Dort werden die Hilfskategorien der Hilfskategorien mit den Berufsbezeichnungen aus dem BERUFENET verglichen.
 #
-# Malte Schierholz
 # 23. Februar 2018 (Ursprungsversion von https://www.iab.de/183/section.aspx/Publikation/k180509301)
 # 10. Februar 2019 (Anpassung für Github, Berücksichtigung der Folgefragen-Syntax vom 7.2.2019, auxco_mapping_from_kldb.csv hinzugefügt)
+# 31. August 2022 (Neue, standardisierte Bezeichnungen, auxco_mapping_from_isco.csv hinzugefügt)
 ####################################################################################
 
 library(xml2)
