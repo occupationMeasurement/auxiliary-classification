@@ -711,8 +711,9 @@ create_mapping <- function(target_name) {
     )
   }
 
-  # Remove duplicates
-  mapping <- unique(mapping)
+  # Remove duplicates, while ignoring misspelled titles
+  dup_ind <- duplicated(mapping[, .(auxco_id, get(paste0(target_name, "_id")))])
+  mapping <- mapping[!dup_ind]
 
   return(mapping)
 }
