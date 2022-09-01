@@ -706,6 +706,9 @@ create_mapping <- function(target_name) {
     )
   }
 
+  # Remove duplicates
+  mapping <- unique(mapping)
+
   return(mapping)
 }
 
@@ -764,11 +767,18 @@ manual_mapping_additions <- rbind(
 
 # Add title information and then combine the manual mapping
 # with the existing auxco mapping
-manual_mapping_additions <- merge(
-  manual_mapping_additions,
-  auxco_mapping_from_kldb[, list(auxco_id, auxco_title, kldb_title)],
-  by = "auxco_id"
-)
+manual_mapping_additions <- manual_mapping_additions |>
+  # Add auxco titles
+  merge(
+    auxco_categories[, list(auxco_id, auxco_title = title)],
+    by = "auxco_id"
+  ) |>
+  # Add KldB titles
+  merge(
+    kldb_10[, list(kldb_id, kldb_title = title)],
+    by = "kldb_id"
+  )
+
 setcolorder(manual_mapping_additions, colnames(auxco_mapping_from_kldb))
 auxco_mapping_from_kldb <- rbind(
   auxco_mapping_from_kldb,
