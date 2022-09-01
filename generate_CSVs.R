@@ -725,6 +725,16 @@ create_mapping <- function(target_name) {
 
 auxco_mapping_from_isco <- create_mapping("isco")
 
+# Andere ISCOs werden nicht erkannt (siehe Hilfsklassifikation),
+# weil sie abhängig von zwei Folgefragen sind
+manual_mapping_additions <- rbind(
+  manual_mapping_additions,
+  data.table(
+    auxco_id = c("1733", "1733"),
+    isco_id = c("2151", "2152")
+  )
+)
+
 fwrite(
   auxco_mapping_from_isco,
   row.names = FALSE,
