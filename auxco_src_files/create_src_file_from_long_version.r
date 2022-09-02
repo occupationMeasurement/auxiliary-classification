@@ -23,7 +23,7 @@ for (cat_num in 1:40) {
   category_node |> xml_add_child( 
       read_xml("<notes><note date='1970-01-01'>empty</note><note date='1970-01-01'>empty</note></notes>"))
 
-  # create child type
+  # generiere Infos zu Folgefragen und ihren Antworten
   auxco_followup_questions <- NULL
   for (
     folgefrage_node in category_node |>
@@ -51,8 +51,6 @@ for (cat_num in 1:40) {
         )
     }
   }
-    # auxco_followup_questions[, question_type := zoo::na.locf(question_type)]
-
 
 # Handle anforderungsniveau questions
 anf_ind <- which(auxco_followup_questions$entry_type == "answer" &
@@ -69,7 +67,7 @@ anf_ind <- which(auxco_followup_questions$entry_type == "answer" &
         xml_attr(anforderungsniveau_answer, "anforderungsniveau") <- substring(answer_kldb_id, 5, 5)
   }
 
-# Handle anforderungsniveau questions
+# Handle aufsicht questions
 aufsicht_ind <- which(auxco_followup_questions$entry_type == "answer" &
         auxco_followup_questions$question_type == "aufsicht")
 
