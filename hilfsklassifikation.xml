@@ -5713,13 +5713,9 @@
       </fragetext>
       <antwort position="1">
         <text>Elektrotechnik</text>
-        <kldb schluessel="26303">Berufe in der Elektrotechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
-        <isco schluessel="3113">Electrical engineering technicians</isco>
       </antwort>
       <antwort position="2">
         <text>Elektronik</text>
-        <kldb schluessel="26303">Berufe in der Elektrotechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
-        <isco schluessel="3114">Electronics engineering technicians</isco>
       </antwort>
       <fragetext typ="anforderungsniveau">
         <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
@@ -5727,14 +5723,28 @@
       </fragetext>
       <antwort position="1">
         <text>Ja</text>
-        <kldb schluessel="26304">Berufe in der Elektrotechnik (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
-        <isco schluessel="2151 bzw 2152">Electrical engineers bzw. Electronics engineers</isco>
       </antwort>
       <antwort position="2">
         <text>Nein</text>
-        <kldb schluessel="26303">Berufe in der Elektrotechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
-        <isco schluessel="3113 bzw 3114">Electrical engineering technicians bzw. Electronics engineering technicians</isco>
       </antwort>
+      <aggregation>
+        <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="1">
+          <isco schluessel="2151">Electrical engineers</isco>
+          <kldb schluessel="26304">Berufe in der Elektrotechnik (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+        </bedingung>
+        <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="2">
+          <isco schluessel="3113">Electrical engineering technicians</isco>
+          <kldb schluessel="26303">Berufe in der Elektrotechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+        </bedingung>
+        <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="1">
+          <isco schluessel="2152">Electronics engineers</isco>
+          <kldb schluessel="26304">Berufe in der Elektrotechnik (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+        </bedingung>
+        <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="2">
+          <isco schluessel="3114">Electronics engineering technicians</isco>
+          <kldb schluessel="26303">Berufe in der Elektrotechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+        </bedingung>
+      </aggregation>
     </untergliederung>
     <abgrenzung typ="mittel" refid="1707">Mikrotechnologe/-login</abgrenzung>
     <abgrenzung typ="hoch" refid="2115">Elektromechaniker/in</abgrenzung>
@@ -25403,13 +25413,9 @@
       </fragetext>
       <antwort position="1">
         <text>Ja</text>
-        <kldb schluessel="61203">Kaufleute im Handel (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
-        <isco schluessel="3324">Trade Brokers</isco>
       </antwort>
       <antwort position="2">
         <text>Nein</text>
-        <kldb schluessel="61283">Kaufleute im Handel (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
-        <isco schluessel="3324">Trade Brokers</isco>
       </antwort>
       <fragetext typ="anforderungsniveau">
         <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
@@ -25417,15 +25423,11 @@
       </fragetext>
       <antwort position="1">
         <text>Ja</text>
-        <kldb schluessel="61204 bzw 61284">Kaufleute im Handel (ohne Spezialisierung ODER sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
-        <isco schluessel="2433">Technical and medical sales professionals (excluding ICT)</isco>
         <dkz codenr="61204-102" refid="59195">Betriebswirt/in (Hochschule) - Handel</dkz>
         <dkz codenr="61284-101" refid="59185">Betriebswirt/in (Hochschule) - Automobilwirtschaft</dkz>
       </antwort>
       <antwort position="2">
         <text>Nein</text>
-        <kldb schluessel="61203 bzw 61283">Kaufleute im Handel (ohne Spezialisierung ODER sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
-        <isco schluessel="3324">Trade Brokers</isco>
         <dkz codenr="61203-101" refid="6529">Fachwirt/in - Handel</dkz>
         <dkz codenr="61203-103" refid="13948">Betriebswirt/in (Fachschule) - Handel</dkz>
         <dkz codenr="61204-102" refid="59195">Betriebswirt/in (Hochschule) - Handel</dkz>
@@ -25438,6 +25440,24 @@
         <dkz codenr="61283-107" refid="8005">Technische/r Fachkaufmann/-frau - Werkzeuge/Maschinen</dkz>
         <dkz codenr="61283-110" refid="14898">Technische/r Fachkaufmann/-frau - Beschlagtechnik</dkz>
       </antwort>
+      <aggregation>
+        <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="1">
+          <isco schluessel="2433">Technical and medical sales professionals (excluding ICT)</isco>
+          <kldb schluessel="61204">Kaufleute im Handel (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+        </bedingung>
+        <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="2">
+          <isco schluessel="3324">Trade Brokers</isco>
+          <kldb schluessel="61203">Kaufleute im Handel (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+        </bedingung>
+        <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="1">
+          <isco schluessel="2433">Technical and medical sales professionals (excluding ICT)</isco>
+          <kldb schluessel="61284">Kaufleute im Handel (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+        </bedingung>
+        <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="2">
+          <isco schluessel="3324">Trade Brokers</isco>
+          <kldb schluessel="61283">Kaufleute im Handel (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+        </bedingung>
+      </aggregation>
     </untergliederung>
     <abgrenzung typ="hoch" refid="1749">internationale/r Handelsagent/in</abgrenzung>
     <abgrenzung typ="hoch" refid="1747">Vertriebsspezialist/in</abgrenzung>
@@ -25460,13 +25480,9 @@
       </fragetext>
       <antwort position="1">
         <text>Ja</text>
-        <kldb schluessel="61213">Kaufleute im Groß- und Außenhandel - komplexe Spezialistentätigkeiten</kldb>
-        <isco schluessel="3324">Trade Brokers</isco>
       </antwort>
       <antwort position="2">
         <text>Nein</text>
-        <kldb schluessel="61283">Kaufleute im Handel (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
-        <isco schluessel="3324">Trade Brokers</isco>
       </antwort>
       <fragetext typ="anforderungsniveau">
         <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
@@ -25474,15 +25490,11 @@
       </fragetext>
       <antwort position="1">
         <text>Ja</text>
-        <kldb schluessel="61214 bzw 61284">Kaufleute im Groß- und Außenhandel ODER Kaufleute im Handel (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
-        <isco schluessel="2433">Technical and medical sales professionals (excluding ICT)</isco>
         <dkz codenr="61204-102" refid="59195">Betriebswirt/in (Hochschule) - Handel</dkz>
         <dkz codenr="61284-101" refid="59185">Betriebswirt/in (Hochschule) - Automobilwirtschaft</dkz>
       </antwort>
       <antwort position="2">
         <text>Nein</text>
-        <kldb schluessel="61213 bzw 61283">Kaufleute im Groß- und Außenhandel ODER Kaufleute im Handel (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
-        <isco schluessel="3324">Trade Brokers</isco>
         <dkz codenr="61213-100" refid="6545">Fachwirt/in - Außenhandel</dkz>
         <dkz codenr="61213-101" refid="6547">Fachkaufmann/-frau - Außenwirtschaft</dkz>
         <dkz codenr="61213-102" refid="6551">Betriebswirt/in (Fachschule/Ausbildung) - Außenwirtschaft</dkz>
@@ -25496,6 +25508,24 @@
         <dkz codenr="61283-107" refid="8005">Technische/r Fachkaufmann/-frau - Werkzeuge/Maschinen</dkz>
         <dkz codenr="61283-110" refid="14898">Technische/r Fachkaufmann/-frau - Beschlagtechnik</dkz>
       </antwort>
+      <aggregation>
+        <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="1">
+          <isco schluessel="2433">Technical and medical sales professionals (excluding ICT)</isco>
+          <kldb schluessel="61214">Kaufleute im Handel (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+        </bedingung>
+        <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="2">
+          <isco schluessel="3324">Trade Brokers</isco>
+          <kldb schluessel="61213">Kaufleute im Groß- und Außenhandel - komplexe Spezialistentätigkeiten</kldb>
+        </bedingung>
+        <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="1">
+          <isco schluessel="2433">Technical and medical sales professionals (excluding ICT)</isco>
+          <kldb schluessel="61284">Kaufleute im Handel (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+        </bedingung>
+        <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="2">
+          <isco schluessel="3324">Trade Brokers</isco>
+          <kldb schluessel="61283">Kaufleute im Handel (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+        </bedingung>
+      </aggregation>
     </untergliederung>
     <abgrenzung typ="mittel" refid="6002">Einkäufer/in</abgrenzung>
     <abgrenzung typ="hoch" refid="1747">Vertriebsspezialist/in</abgrenzung>

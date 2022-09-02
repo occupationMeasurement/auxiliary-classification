@@ -592,9 +592,11 @@ for (cat_num in seq_along(ids)) { #
             question_text_past,
             answer_id = "",
             answer_text = "",
+            answer_id_combination = "",
             answer_kldb_id = "",
             answer_isco_id = "",
-            explicit_has_followup = ""
+            explicit_has_followup = "",
+            list_of_answer_ids = NA
           )
         )
       )
@@ -623,23 +625,111 @@ for (cat_num in seq_along(ids)) { #
           question_text_past = "",
           answer_id,
           answer_text,
+          answer_id_combination = "",
           answer_kldb_id,
           answer_isco_id,
-          explicit_has_followup
+          explicit_has_followup,
+          list_of_answer_ids = NA
         ))
       )
+    }
+    # Handle aggregation info (combining multiple followup question answers)
+    if (xml_name(folgefrage_node) == "aggregation") {
+      current_auxco_id <- auxco_id
+      n_questions <- auxco_followup_questions[
+        auxco_id == current_auxco_id & entry_type == "question"
+      ] |> nrow()
+
+      conditions <- xml_find_all(folgefrage_node, xpath = "./bedingung")
+      for (condition_node in conditions) {
+        aggregated_answer_ids <- c()
+        for (question_number in 1:n_questions) {
+          aggregated_answer_ids <- c(
+            aggregated_answer_ids,
+            condition_node |>
+              xml_attr(paste0("frage_", question_number, "_antwort_pos"))
+          )
+        }
+
+        condition_kldb_id <- xml_find_all(condition_node, xpath = "./kldb") |>
+          xml_attr("schluessel")
+        if (length(condition_kldb_id) == 0) condition_kldb_id <- ""
+        condition_isco_id <- xml_find_all(condition_node, xpath = "./isco") |>
+          xml_attr("schluessel")
+        if (length(condition_isco_id) == 0) condition_isco_id <- ""
+
+        auxco_followup_questions <- rbind(
+          auxco_followup_questions,
+          data.table(
+            auxco_id,
+            entry_type = "aggregated_answer_encoding",
+            question_type = "",
+            question_text_present = "",
+            question_text_past = "",
+            answer_id = "",
+            answer_text = "",
+            answer_id_combination = NA,
+            answer_kldb_id = condition_kldb_id,
+            answer_isco_id = condition_isco_id,
+            explicit_has_followup = "",
+            list_of_answer_ids = list(aggregated_answer_ids)
+          )
+        )
+      }
     }
   }
 }
 
 # Add unique question_ids
+should_get_question_id <- auxco_followup_questions$entry_type %in% c(
+  "question", "answer_option"
+)
 auxco_followup_questions[
-  ,
+  should_get_question_id,
   question_index := cumsum(entry_type == "question"),
   by = auxco_id
 ]
-auxco_followup_questions[, question_id := paste0(auxco_id, "_", question_index)]
+auxco_followup_questions[
+  should_get_question_id,
+  question_id := paste0("Q", auxco_id, "_", question_index)
+]
 auxco_followup_questions <- auxco_followup_questions[order(auxco_id)]
+
+# Generate combined answer_ids in URL format e.g. 1749_1=1&1749_2=1
+auxco_followup_questions[
+  entry_type == "aggregated_answer_encoding",
+  # The column where the combined ids are saved *must* be different from the one
+  # where answer_ids are stored as a list, else typing issues will occur.
+  answer_id_combination := apply(
+    .SD,
+    1,
+    # Iterate over rows, as we need data from multiple columns
+    function(row) {
+      answer_ids <- row$list_of_answer_ids
+      # Get the correct question_ids
+      question_ids <- auxco_followup_questions[
+        auxco_id == row$auxco_id,
+        question_id
+      ] |>
+        unique() |>
+        na.omit()
+
+      # Check that the number of answer options matches
+      stopifnot(length(answer_ids) == length(question_ids))
+
+      # Convert into url format e.g. a=1&b=2
+      return(
+        question_ids |>
+          # Combine question and answer_ids with a =
+          paste0("=", answer_ids) |>
+          # Combine all questions-answer pairs with &
+          paste(collapse = "&")
+      )
+    }
+  )
+]
+# Remove helper column with separate answer_ids
+auxco_followup_questions[, list_of_answer_ids := NULL]
 
 # Move the question_id forward in the column order
 setcolorder(
@@ -681,27 +771,37 @@ create_mapping <- function(target_name) {
     target_id_default <- category_node |>
       xml_find_all(xpath = paste0(".//default/", target_name)) |>
       xml_attr("schluessel")
-    target_id_folgefrage <- category_node |>
-      xml_find_all(xpath = paste0(".//antwort/", target_name)) |>
-      xml_attr("schluessel")
     target_text_default <- category_node |>
       xml_find_all(xpath = paste0(".//default/", target_name)) |>
       xml_text()
-    target_text_folgefrage <- category_node |>
-      xml_find_all(xpath = paste0(".//antwort/", target_name)) |>
+    target_ids_followup <- category_node |>
+      xml_find_all(
+        xpath = paste0(
+          ".//*[name() = 'antwort' or name() = 'bedingung']/",
+          target_name
+        )
+      ) |>
+      xml_attr("schluessel")
+    target_texts_followup <- category_node |>
+      xml_find_all(
+        xpath = paste0(
+          ".//*[name() = 'antwort' or name() = 'bedingung']/",
+          target_name
+        )
+      ) |>
       xml_text()
 
     # Create the mapping table manually, as we have to generate some colnames
     mapping_to_add <- data.table()
     mapping_to_add[, (paste0(target_name, "_id")) := c(
       target_id_default,
-      target_id_folgefrage
+      target_ids_followup
     )]
     mapping_to_add[, auxco_id := auxco_id]
     mapping_to_add[, auxco_title := auxco_title]
     mapping_to_add[, (paste0(target_name, "_title")) := c(
       target_text_default,
-      target_text_folgefrage
+      target_texts_followup
     )]
 
     # Combine mappin_to_add with the overall mapping
