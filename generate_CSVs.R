@@ -769,8 +769,9 @@ create_mapping <- function(target_name) {
     )
   }
 
-  # Remove duplicates
-  mapping <- unique(mapping)
+  # Remove duplicates, while ignoring misspelled titles
+  dup_ind <- duplicated(mapping[, .(auxco_id, get(paste0(target_name, "_id")))])
+  mapping <- mapping[!dup_ind]
 
   return(mapping)
 }
@@ -781,6 +782,21 @@ create_mapping <- function(target_name) {
 ##############################################
 
 auxco_mapping_from_isco <- create_mapping("isco")
+
+# Andere ISCOs werden nicht erkannt (siehe Hilfsklassifikation),
+# weil sie abhängig von zwei Folgefragen sind
+manual_mapping_additions_isco <- rbind(
+  data.table(
+    auxco_id = c("1733", "1733"),
+    isco_id = c("2151", "2152")
+  )
+)
+
+auxco_mapping_from_isco <- rbind(
+  auxco_mapping_from_isco,
+  manual_mapping_additions_isco,
+  fill = TRUE
+)
 
 fwrite(
   auxco_mapping_from_isco,
