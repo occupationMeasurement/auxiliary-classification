@@ -25480,13 +25480,9 @@
       </fragetext>
       <antwort position="1">
         <text>Ja</text>
-        <kldb schluessel="61213">Kaufleute im Groß- und Außenhandel - komplexe Spezialistentätigkeiten</kldb>
-        <isco schluessel="3324">Trade Brokers</isco>
       </antwort>
       <antwort position="2">
         <text>Nein</text>
-        <kldb schluessel="61283">Kaufleute im Handel (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
-        <isco schluessel="3324">Trade Brokers</isco>
       </antwort>
       <fragetext typ="anforderungsniveau">
         <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
@@ -25494,15 +25490,11 @@
       </fragetext>
       <antwort position="1">
         <text>Ja</text>
-        <kldb schluessel="61214 bzw 61284">Kaufleute im Groß- und Außenhandel ODER Kaufleute im Handel (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
-        <isco schluessel="2433">Technical and medical sales professionals (excluding ICT)</isco>
         <dkz codenr="61204-102" refid="59195">Betriebswirt/in (Hochschule) - Handel</dkz>
         <dkz codenr="61284-101" refid="59185">Betriebswirt/in (Hochschule) - Automobilwirtschaft</dkz>
       </antwort>
       <antwort position="2">
         <text>Nein</text>
-        <kldb schluessel="61213 bzw 61283">Kaufleute im Groß- und Außenhandel ODER Kaufleute im Handel (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
-        <isco schluessel="3324">Trade Brokers</isco>
         <dkz codenr="61213-100" refid="6545">Fachwirt/in - Außenhandel</dkz>
         <dkz codenr="61213-101" refid="6547">Fachkaufmann/-frau - Außenwirtschaft</dkz>
         <dkz codenr="61213-102" refid="6551">Betriebswirt/in (Fachschule/Ausbildung) - Außenwirtschaft</dkz>
