@@ -592,10 +592,11 @@ for (cat_num in seq_along(ids)) { #
             question_text_past,
             answer_id = "",
             answer_text = "",
+            answer_id_combination = "",
             answer_kldb_id = "",
             answer_isco_id = "",
             explicit_has_followup = "",
-            aggregated_answer_id_combination = ""
+            list_of_answer_ids = NA
           )
         )
       )
@@ -624,10 +625,11 @@ for (cat_num in seq_along(ids)) { #
           question_text_past = "",
           answer_id,
           answer_text,
+          answer_id_combination = "",
           answer_kldb_id,
           answer_isco_id,
           explicit_has_followup,
-          aggregated_answer_id_combination = ""
+          list_of_answer_ids = NA
         ))
       )
     }
@@ -666,13 +668,11 @@ for (cat_num in seq_along(ids)) { #
             question_text_past = "",
             answer_id = "",
             answer_text = "",
+            answer_id_combination = NA,
             answer_kldb_id = condition_kldb_id,
             answer_isco_id = condition_isco_id,
             explicit_has_followup = "",
-            aggregated_answer_id_combination = paste(
-              aggregated_answer_ids,
-              collapse = ","
-            )
+            list_of_answer_ids = list(aggregated_answer_ids)
           )
         )
       }
@@ -681,13 +681,52 @@ for (cat_num in seq_along(ids)) { #
 }
 
 # Add unique question_ids
+should_get_question_id <- auxco_followup_questions$entry_type %in% c(
+  "question", "answer_option"
+)
 auxco_followup_questions[
-  ,
+  should_get_question_id,
   question_index := cumsum(entry_type == "question"),
   by = auxco_id
 ]
-auxco_followup_questions[, question_id := paste0(auxco_id, "_", question_index)]
+auxco_followup_questions[should_get_question_id, question_id := paste0(auxco_id, "_", question_index)]
 auxco_followup_questions <- auxco_followup_questions[order(auxco_id)]
+
+# Generate combined answer_ids in URL format e.g. 1749_1=1&1749_2=1
+auxco_followup_questions[
+  entry_type == "aggregated_answer_encoding",
+  # The column where the combined ids are saved *must* be different from the one
+  # where answer_ids are stored as a list, else typing issues will occur.
+  answer_id_combination := apply(
+    .SD,
+    1,
+    # Iterate over rows, as we need data from multiple columns
+    function(row) {
+      answer_ids <- row$list_of_answer_ids
+      # Get the correct question_ids
+      question_ids <- auxco_followup_questions[
+        auxco_id == row$auxco_id,
+        question_id
+      ] |>
+        unique() |>
+        na.omit()
+
+      # Check that the number of answer options matches
+      stopifnot(length(answer_ids) == length(question_ids))
+
+      # Convert into url format e.g. a=1&b=2
+      return(
+        question_ids |>
+          # Combine question and answer_ids with a =
+          paste0("=", answer_ids) |>
+          # Combine all questions-answer pairs with &
+          paste(collapse = "&")
+      )
+    }
+  )
+]
+# Remove helper column with separate answer_ids
+auxco_followup_questions[, list_of_answer_ids := NULL]
 
 # Move the question_id forward in the column order
 setcolorder(
