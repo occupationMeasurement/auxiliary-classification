@@ -729,27 +729,37 @@ create_mapping <- function(target_name) {
     target_id_default <- category_node |>
       xml_find_all(xpath = paste0(".//default/", target_name)) |>
       xml_attr("schluessel")
-    target_id_folgefrage <- category_node |>
-      xml_find_all(xpath = paste0(".//antwort/", target_name)) |>
-      xml_attr("schluessel")
     target_text_default <- category_node |>
       xml_find_all(xpath = paste0(".//default/", target_name)) |>
       xml_text()
-    target_text_folgefrage <- category_node |>
-      xml_find_all(xpath = paste0(".//antwort/", target_name)) |>
+    target_ids_followup <- category_node |>
+      xml_find_all(
+        xpath = paste0(
+          ".//*[name() = 'antwort' or name() = 'bedingung']/",
+          target_name
+        )
+      ) |>
+      xml_attr("schluessel")
+    target_texts_followup <- category_node |>
+      xml_find_all(
+        xpath = paste0(
+          ".//*[name() = 'antwort' or name() = 'bedingung']/",
+          target_name
+        )
+      ) |>
       xml_text()
 
     # Create the mapping table manually, as we have to generate some colnames
     mapping_to_add <- data.table()
     mapping_to_add[, (paste0(target_name, "_id")) := c(
       target_id_default,
-      target_id_folgefrage
+      target_ids_followup
     )]
     mapping_to_add[, auxco_id := auxco_id]
     mapping_to_add[, auxco_title := auxco_title]
     mapping_to_add[, (paste0(target_name, "_title")) := c(
       target_text_default,
-      target_text_folgefrage
+      target_texts_followup
     )]
 
     # Combine mappin_to_add with the overall mapping
