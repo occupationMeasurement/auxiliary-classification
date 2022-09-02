@@ -1,0 +1,20 @@
+<kategorie>
+  <id>1512</id>
+  <taetigkeit>Haltung und Zucht von Pelztieren sowie deren Schlachtung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Nerze, Füchse und andere Pelztiere halten und züchten; Zuchtbuch führen; Tiere töten und Pelze gewinnen und lagern; zeitgerechte Deckung der Pelztiere organisieren; Jungtiere aufziehen; Tiere artgerecht halten, versorgen und pflegen; Tierunterkünfte einrichten und reinigen; für die Produkte werben; Erlöse verbuchen</taetigkeitsbeschreibung>
+  <bezeichnung>Pelztierzüchter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11282">Berufe in der Tierwirtschaft (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6129">Animal producers not elsewhere classified</isco>
+      <dkz codenr="11282-101" refid="332">Tierwirt/in - Pelztierhaltung</dkz>
+      <dkz codenr="11282-102" refid="335">Pelztierzüchter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1511">Haustierzüchter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1503">Tierwirt/in - Nutztierhaltung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

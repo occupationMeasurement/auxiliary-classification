@@ -1,0 +1,20 @@
+<kategorie>
+  <id>1074</id>
+  <taetigkeit>Unterstützung von landwirtschaftlichen Betrieben beim Pflanzenschutz und bei der Schädlingsbekämpfung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. landwirtschaftliche Betriebe bei Pflanzenschutz und Schädlingsbekämpfung unterstützen; Düngemittel ausbringen; Schädlinge fernhalten; bei Frühwarndiensten mitwirken und Behandlungspläne umsetzen</taetigkeitsbeschreibung>
+  <bezeichnung>Pflanzenschützer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11182">Berufe in der Landwirtschaft (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3142">Agricultural technicians</isco>
+      <dkz codenr="11182-100" refid="286">Pflanzenschützer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1054">Gärtner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1014">Landwirtschaftsberater/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1076">Pflanzenarzt/-ärztin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

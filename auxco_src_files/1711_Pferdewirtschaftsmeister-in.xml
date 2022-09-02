@@ -1,0 +1,76 @@
+<kategorie>
+  <id>1711</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Pferdewirtschaft oder Pferdezucht</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Versorgung von Pferden sicherstellen; Zuchtpläne aufstellen; Pferde trainieren; Zuchtmarkt beobachten; kaufmännische und administrative Tätigkeiten durchführen; Arbeitsabläufe planen und kontrollieren; betriebliches Geschehen organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Pferdewirtschaftsmeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11393">Aufsichtskräfte - Pferdewirtschaft</kldb>
+      <isco schluessel="6121">Livestock and dairy producers</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" follow-up="FALSE" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="11394">Führungskräfte - Pferdewirtschaft</kldb>
+      <isco schluessel="1311">Agricultural and forestry production manager</isco>
+      <dkz codenr="11394-102" refid="90886">Gestütsleiter/in</dkz>
+      <dkz codenr="11394-101" refid="90796">Gestütsverwalter/in</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="11393">Aufsichtskräfte - Pferdewirtschaft</kldb>
+      <isco schluessel="6121">Livestock and dairy producers</isco>
+      <dkz codenr="11393-108" refid="34999">Pferdewirtschaftsmeister/in - Pferdezucht und -haltung</dkz>
+      <dkz codenr="11393-101" refid="8609">Pferdewirtschaftsmeister/in - Galopprenntraining</dkz>
+      <dkz codenr="11393-102" refid="8610">Pferdewirtschaftsmeister/in - Trabrenntraining</dkz>
+      <dkz codenr="11393-103" refid="8613">Pferdewirtschaftsmeister/in - Reitausbildung</dkz>
+    </antwort>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>In welchem Bereich sind Sie vorwiegend tätig?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>In welchem Bereich waren Sie vorwiegend tätig?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Pferdeversorgung und Administratives - z.B. Sicherstellen von Futter</text>
+      <kldb schluessel="11393">Aufsichtskräfte - Pferdewirtschaft</kldb>
+      <isco schluessel="6121">Livestock and dairy producers</isco>
+      <dkz codenr="11393-108" refid="34999">Pferdewirtschaftsmeister/in - Pferdezucht und -haltung</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Pferdezucht und -haltung - z.B. Zuchtpläne erstellen</text>
+      <kldb schluessel="11393">Aufsichtskräfte - Pferdewirtschaft</kldb>
+      <isco schluessel="3142">Agricultural technicians</isco>
+      <dkz codenr="11393-108" refid="34999">Pferdewirtschaftsmeister/in - Pferdezucht und -haltung</dkz>
+    </antwort>
+    <antwort position="3">
+      <text>Ausbildung und Pflege der Pferde - z.B. Pferde auf Tauglichkeit untersuchen</text>
+      <kldb schluessel="11393">Aufsichtskräfte - Pferdewirtschaft</kldb>
+      <isco schluessel="5164">Pet groomers and animal care workers</isco>
+      <dkz codenr="11393-101" refid="8609">Pferdewirtschaftsmeister/in - Galopprenntraining</dkz>
+      <dkz codenr="11393-102" refid="8610">Pferdewirtschaftsmeister/in - Trabrenntraining</dkz>
+      <dkz codenr="11393-103" refid="8613">Pferdewirtschaftsmeister/in - Reitausbildung</dkz>
+    </antwort>
+    <antwort position="4">
+      <text>Ausbildung von Reitern - z.B. Koordination und Durchführung von Reitkursen</text>
+      <kldb schluessel="11393">Aufsichtskräfte - Pferdewirtschaft</kldb>
+      <isco schluessel="3423">Fitness and Recreation Instructors and Programm Leaders</isco>
+      <dkz codenr="11393-103" refid="8613">Pferdewirtschaftsmeister/in - Reitausbildung</dkz>
+    </antwort>
+    <antwort position="5">
+      <text>Mehr als ein Aufgabenbereich trifft zu</text>
+      <kldb schluessel="11393">Aufsichtskräfte - Pferdewirtschaft</kldb>
+      <isco schluessel="6121">Livestock and dairy producers</isco>
+      <dkz codenr="11393-108" refid="34999">Pferdewirtschaftsmeister/in - Pferdezucht und -haltung</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1711">Pferdewirtschaftsmeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1710">Tierwirtschaftsmeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1712">Tierpflegemeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1038">Pferdewirt - Pferdereiten</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

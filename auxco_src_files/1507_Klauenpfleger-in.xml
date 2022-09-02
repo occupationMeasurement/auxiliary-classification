@@ -1,0 +1,20 @@
+<kategorie>
+  <id>1507</id>
+  <taetigkeit>Pflege der Klauen von Nutztieren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bein- und Klauenstellung beurteilen; Außen- und Innenklauen kürzen; überschüssiges Horn abtragen; Druckstellen entlasten; loses Horn und Hornfäulnis entfernen; Tierhygiene sicherstellen; durchgeführte Maßnahmen dokumentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Klauenpfleger/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11213">Berufe in der Nutztierhaltung  (außer Geflügelhaltung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="6121">Livestock and dairy producers</isco>
+      <dkz codenr="11213-109" refid="34991">Fachagrarwirt/in - Klauenpflege</dkz>
+      <dkz codenr="11213-110" refid="93275">Klauenpfleger/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1503">Tierwirt/in - Nutztierhaltung</abgrenzung>
+  <abgrenzung typ="hoch" refid="1039">Hufschmied/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

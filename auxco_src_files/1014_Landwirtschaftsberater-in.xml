@@ -1,0 +1,37 @@
+<kategorie>
+  <id>1014</id>
+  <taetigkeit>Beratung von landwirtschaftlichen Betrieben in betriebswirtschaftlichen und produktionstechnischen Angelegenheiten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. zu den Themen Pflanzenschutz, artgerechte Tierhaltung, Maschineneinsatz, Vermarktung der erzeugten Produkte, oder Aufstellen eines Wirtschaftsplans beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Landwirtschaftsberater/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11103">Berufe in der Landwirtschaft (o.S.) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2132">Farming, forestry and fisheries advisers</isco>
+      <dkz codenr="11103-100" refid="475">Landwirtschaftsberater/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="11104">Berufe in der Landwirtschaft (o.S.) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2132">Agrar-, Forst- und Fischereiwissenschaftler und -berater</isco>
+      <dkz codenr="11104-111" refid="58714">Ingenieur/in - Agrarwirtschaft</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="11103">Berufe in der Landwirtschaft (o.S.) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2132">Agrar-, Forst- und Fischereiwissenschaftler und -berater</isco>
+      <dkz codenr="11103-100" refid="475">Landwirtschaftsberater/in</dkz>
+      <dkz codenr="11103-101" refid="14101">Beamt(er/in) - Agrarverwaltung (geh. techn. Dienst)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1019">Beamter/ Beamtin - Agrarverwaltung</abgrenzung>
+  <abgrenzung typ="hoch" refid="1018">Landwirtschaftlicher Gutachter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1851">Landwirtschaftliche/r Betriebsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>
