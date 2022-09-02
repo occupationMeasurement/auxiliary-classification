@@ -594,7 +594,8 @@ for (cat_num in seq_along(ids)) { #
             answer_text = "",
             answer_kldb_id = "",
             answer_isco_id = "",
-            explicit_has_followup = ""
+            explicit_has_followup = "",
+            aggregated_answer_id_combination = ""
           )
         )
       )
@@ -625,9 +626,56 @@ for (cat_num in seq_along(ids)) { #
           answer_text,
           answer_kldb_id,
           answer_isco_id,
-          explicit_has_followup
+          explicit_has_followup,
+          aggregated_answer_id_combination = ""
         ))
       )
+    }
+    # Handle aggregation info (combining multiple followup question answers)
+    if (xml_name(folgefrage_node) == "aggregation") {
+      current_auxco_id <- auxco_id
+      n_questions <- auxco_followup_questions[
+        auxco_id == current_auxco_id & entry_type == "question"
+      ] |> nrow()
+
+      conditions <- xml_find_all(folgefrage_node, xpath = "./bedingung")
+      for (condition_node in conditions) {
+        aggregated_answer_ids <- c()
+        for (question_number in 1:n_questions) {
+          aggregated_answer_ids <- c(
+            aggregated_answer_ids,
+            condition_node |>
+              xml_attr(paste0("frage_", question_number, "_antwort_pos"))
+          )
+        }
+
+        condition_kldb_id <- xml_find_all(condition_node, xpath = "./kldb") |>
+          xml_attr("schluessel")
+        if (length(condition_kldb_id) == 0) condition_kldb_id <- ""
+        condition_isco_id <- xml_find_all(condition_node, xpath = "./isco") |>
+          xml_attr("schluessel")
+        if (length(condition_isco_id) == 0) condition_isco_id <- ""
+
+        auxco_followup_questions <- rbind(
+          auxco_followup_questions,
+          data.table(
+            auxco_id,
+            entry_type = "aggregated_answer_encoding",
+            question_type = "",
+            question_text_present = "",
+            question_text_past = "",
+            answer_id = "",
+            answer_text = "",
+            answer_kldb_id = condition_kldb_id,
+            answer_isco_id = condition_isco_id,
+            explicit_has_followup = "",
+            aggregated_answer_id_combination = paste(
+              aggregated_answer_ids,
+              collapse = ","
+            )
+          )
+        )
+      }
     }
   }
 }
