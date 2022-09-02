@@ -5730,14 +5730,14 @@
       <aggregation>
         <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="1">
           <isco schluessel="2151">Electrical engineers</isco>
-          <kldb schluessel="26303">Berufe in der Elektrotechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+          <kldb schluessel="26304">Berufe in der Elektrotechnik (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
         </bedingung>
         <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="2">
-          <isco schluessel="2152">Electronics engineers</isco>
+          <isco schluessel="3113">Electrical engineering technicians</isco>
           <kldb schluessel="26303">Berufe in der Elektrotechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
         </bedingung>
         <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="1">
-          <isco schluessel="3113">Electrical engineering technicians</isco>
+          <isco schluessel="2152">Electronics engineers</isco>
           <kldb schluessel="26304">Berufe in der Elektrotechnik (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
         </bedingung>
         <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="2">
