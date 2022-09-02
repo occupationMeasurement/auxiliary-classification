@@ -689,7 +689,10 @@ auxco_followup_questions[
   question_index := cumsum(entry_type == "question"),
   by = auxco_id
 ]
-auxco_followup_questions[should_get_question_id, question_id := paste0(auxco_id, "_", question_index)]
+auxco_followup_questions[
+  should_get_question_id,
+  question_id := paste0("Q", auxco_id, "_", question_index)
+]
 auxco_followup_questions <- auxco_followup_questions[order(auxco_id)]
 
 # Generate combined answer_ids in URL format e.g. 1749_1=1&1749_2=1
