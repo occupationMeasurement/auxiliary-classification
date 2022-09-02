@@ -366,11 +366,13 @@ auxco_categories[
   kldb_title_short := "Naturstein- und Mineralaufbereitung"
 ]
 auxco_categories[
-  auxco_id %in% as.character(5185:5188),
+  title %in% c("Lackiererhelfer/in", "Lackierer/in",
+   "Farb- und Lacktechniker/in", "Farb- und Lackingenieur/in"),
   kldb_title_short := "Farb- und Lacktechnik (ohne Spezialisierung)"
 ]
 auxco_categories[
-  auxco_id %in% as.character(5192:5195),
+  title %in% c("Helfer/in - Holz und Flechtwaren", 
+  "Holzbearbeitungsmechaniker/in", "Holztechniker/in", "Holzingenieur/in"),
   kldb_title_short := "Holzbe- und -verarbeitung (ohne Spezialisierung)"
 ]
 auxco_categories[
@@ -825,21 +827,6 @@ create_mapping <- function(target_name) {
 
 auxco_mapping_from_isco <- create_mapping("isco")
 
-# Andere ISCOs werden nicht erkannt (siehe Hilfsklassifikation),
-# weil sie abhängig von zwei Folgefragen sind
-manual_mapping_additions_isco <- rbind(
-  data.table(
-    auxco_id = c("1733", "1733"),
-    isco_id = c("2151", "2152")
-  )
-)
-
-auxco_mapping_from_isco <- rbind(
-  auxco_mapping_from_isco,
-  manual_mapping_additions_isco,
-  fill = TRUE
-)
-
 fwrite(
   auxco_mapping_from_isco,
   row.names = FALSE,
@@ -874,15 +861,6 @@ manual_mapping_additions <- rbind(
   data.table(
     auxco_id = c("2093", "2018", "1853", "2022", "2023", "2029", "2034", "1722", "1722", "9041", "9096", "9087", "9063", "9065", "9067", "9069", "9040", "9049", "9076", "9097", "9062", "9064", "9066", "9068", "9070", "9049", "9047", "9076", "4002", "4002", "4002", "4004", "4005", "4006", "4007", "4008", "4210", "4211", "4212", "4213", "4214", "1799", "1785", "6030", "1750", "3205", "3206", "3208", "3210", "3211", "3599", "3531", "3530", "3532", "3533", "3530", "3537", "3599", "5128", "5141"),
     kldb_id = c("24202", "24202", "24202", "24202", "24202", "24202", "24202", "27103", "27104", "29202", "29202", "29202", "29202", "29202", "29202", "29202", "29202", "29203", "29203", "29203", "29203", "29203", "29203", "29203", "29203", "29204", "29204", "29204", "41203", "41283", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "41204", "42283", "42283", "62103", "62103", "71304", "71304", "71304", "71304", "71304", "71304", "73104", "73104", "73104", "73104", "73104", "73104", "73104", "93383", "93383")
-  )
-)
-# Andere KldBs werden nicht erkannt (siehe Hilfsklassifikation),
-# weil sie abhängig von zwei Folgefragen sind
-manual_mapping_additions <- rbind(
-  manual_mapping_additions,
-  data.table(
-    auxco_id = c("1748", "1749", "1748", "1749"),
-    kldb_id = c("61204", "61214", "61284", "61284")
   )
 )
 

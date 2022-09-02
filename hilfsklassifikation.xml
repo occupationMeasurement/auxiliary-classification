@@ -25511,7 +25511,7 @@
       <aggregation>
         <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="1">
           <isco schluessel="2433">Technical and medical sales professionals (excluding ICT)</isco>
-          <kldb schluessel="61214">Kaufleute im Handel (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+          <kldb schluessel="61214">Kaufleute im Groß- und Außenhandel - hoch komplexe Tätigkeiten</kldb>
         </bedingung>
         <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="2">
           <isco schluessel="3324">Trade Brokers</isco>
