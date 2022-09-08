@@ -1,0 +1,19 @@
+<kategorie>
+  <id>6013</id>
+  <taetigkeit>Verkauf von Möbeln und Einrichtungsgegenständen im Einzelhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kundenwünsche ermitteln; Einrichtungsvorschläge skizzieren; Materialalternativen anbieten; den Verkaufsraum ansprechend dekorieren; Ware verpacken; Rechnungen erstellen und Zahlungsmittel entgegennehmen; Reservierungen und Reklamationen entgegennehmen und bearbeiten; bei der Lagerhaltung, bei Produktinventarisierungen und Bestandsaufnahmen helfen; Lieferscheine und Versandpapiere ausfertigen; Waren für den Versand vorbereiten</taetigkeitsbeschreibung>
+  <bezeichnung>Einrichtungsfachverkäufer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62252">Verkauf (Möbel, Einrichtung)-Fachkraft</kldb>
+      <isco schluessel="5223">Shop sales assistants</isco>
+      <dkz codenr="62252-100" refid="6577">Kaufmann/-frau - Einzelhandel (Wohnbed./Hausrat/Glas/Porz.)</dkz>
+      <dkz codenr="62252-102" refid="14780">Kaufmann/-frau - Einzelhandel (Küchenhandel)</dkz>
+      <dkz codenr="62252-101" refid="6637">Einrichtungsfachberater/in</dkz>
+      <dkz codenr="62252-103" refid="29390">Küchenplaner/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6015">Fachverkäufer/in - Elektro-, Elektronik- und Haushaltswaren</abgrenzung>
+  <abgrenzung typ="mittel" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+  <abgrenzung typ="mittel" refid="6043">Kunst- und Antiquitätenhändler/in</abgrenzung>
+</kategorie>

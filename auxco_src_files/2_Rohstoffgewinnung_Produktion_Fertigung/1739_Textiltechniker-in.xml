@@ -1,0 +1,72 @@
+<kategorie>
+  <id>1739</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Prozessen zur Produktion von Fäden, Garnen, Stoffen und Strickwaren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Muster planen und Musterkollektionen entwickeln; Arbeitsabläufe planen und überwachen; Betriebsbereitschaft der Produktionsanlagen gewährleisten; Wartungsarbeiten veranlassen und kontrollieren; Materialflüsse organisieren; qualitätssichernde Maßnahmen durchsetzen und Qualität überprüfen; Fehlerquellen ermitteln; Fertigungsmaschinen verbessern und Optimierung der Fertigungsprozesse durchführen; mit dem Einkauf zusammenarbeiten und Lieferanten erschließen; Zielgruppen analysieren und Marktlücken erkennen</taetigkeitsbeschreibung>
+  <bezeichnung>Textiltechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28103">Berufe in der Textiltechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" follow-up="FALSE" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="28104">Textiltechnik (o.S.) - Experte</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="28104-109" refid="58739">Ingenieur/in - Textiltechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="28103">Berufe in der Textiltechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="28133-100" refid="5897">Techniker/in - Textiltechnik (Spinnereitechnik)</dkz>
+      <dkz codenr="28123-100" refid="5893">Techniker/in - Textiltechnik (Webereitechnik)</dkz>
+      <dkz codenr="28123-101" refid="5894">Techniker/in - Textiltechnik (Vliesstofferzeugung)</dkz>
+      <dkz codenr="28123-104" refid="5899">Techniker/in - Textiltechnik (Maschentechnik)</dkz>
+      <dkz codenr="28123-106" refid="5906">Techniker/in - Textiltechnik (Textilerzeugung)</dkz>
+      <dkz codenr="28143-100" refid="5895">Techniker/in - Textiltechnik (Textilveredelung)</dkz>
+    </antwort>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>In welchem Bereich sind sie vorwiegend tätig?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>In welchem Bereich waren sie vorwiegend tätig?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Herstellung von Fäden, Garnen oder Zwirnen</text>
+      <kldb schluessel="28133">Berufe in der Garn- und Seilherstellung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="28133-100" refid="5897">Techniker/in - Textiltechnik (Spinnereitechnik)</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Herstellung von textilen Flächengebilden wie Gewebe, Gewirke oder Strickwaren</text>
+      <kldb schluessel="28123">Berufe in der Textilherstellung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="28123-100" refid="5893">Techniker/in - Textiltechnik (Webereitechnik)</dkz>
+      <dkz codenr="28123-101" refid="5894">Techniker/in - Textiltechnik (Vliesstofferzeugung)</dkz>
+      <dkz codenr="28123-104" refid="5899">Techniker/in - Textiltechnik (Maschentechnik)</dkz>
+      <dkz codenr="28123-106" refid="5906">Techniker/in - Textiltechnik (Textilerzeugung)</dkz>
+    </antwort>
+    <antwort position="3">
+      <text>Veredelung der Textilien durch Bleichen, Färben, Schrumpfen oder andere Behandlung</text>
+      <kldb schluessel="28143">Berufe in der Textilveredlung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="28143-100" refid="5895">Techniker/in - Textiltechnik (Textilveredelung)</dkz>
+    </antwort>
+    <antwort position="4">
+      <text>oder trifft mehr als eines zu?</text>
+      <kldb schluessel="28103">Berufe in der Textiltechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="28123-100" refid="5893">Techniker/in - Textiltechnik (Webereitechnik)</dkz>
+      <dkz codenr="28123-101" refid="5894">Techniker/in - Textiltechnik (Vliesstofferzeugung)</dkz>
+      <dkz codenr="28123-104" refid="5899">Techniker/in - Textiltechnik (Maschentechnik)</dkz>
+      <dkz codenr="28123-106" refid="5906">Techniker/in - Textiltechnik (Textilerzeugung)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9030">Textilmaschinenführer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9010">Textilproduktionsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9035">Seiler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9046">Leiter/in - Textilverarbeitung</abgrenzung>
+  <abgrenzung typ="hoch" refid="1741">Bekleidungstechniker/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,18 @@
+<kategorie>
+  <id>4001</id>
+  <taetigkeit>Durchführung von biologischen Laborversuchen zu Forschungszwecken oder in Produktionsbetrieben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Versuche mit Tieren Pflanzen und Mikroorganismen durchführen; diverse Messverfahren durchführen; Gewebeproben testen; Versuchsprotokolle führen</taetigkeitsbeschreibung>
+  <bezeichnung>Biologisch-Technische/r Assistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41212">Biologisch-techn. Laboratorium-Fachkraft</kldb>
+      <isco schluessel="3141">Biotechniker (ohne medizinische Fachberufe)</isco>
+      <dkz codenr="41212-101" refid="6310">Biologisch-technische/r Assistent/in</dkz>
+      <dkz codenr="41212-103" refid="6318">Biologielaborant/in</dkz>
+      <dkz codenr="41212-106" refid="6340">Milchwirtschaftliche/r Laborant/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1789">Biologisch-Technische/r Laborleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4002">Biotechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1024">Landwirtschaftlicher Labortechniker/-assistent</abgrenzung>
+</kategorie>

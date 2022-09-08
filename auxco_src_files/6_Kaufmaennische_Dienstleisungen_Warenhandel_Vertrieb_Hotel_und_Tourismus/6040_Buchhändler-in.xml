@@ -1,0 +1,17 @@
+<kategorie>
+  <id>6040</id>
+  <taetigkeit>Verkauf von Büchern und anderen Medien im Einzelhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Ware präsentieren; Kunden beraten; Zahlungsmittel entgegennehmen; bei der Sortimentsfestlegung mitbestimmen; Lagerbestände überwachen; Nachbestellungen tätigen; den Zwischenbuchhandel, Sortimentsbuchhandlungen und Bücherverkaufsstellen mit Büchern und Zeitschriften beliefern</taetigkeitsbeschreibung>
+  <bezeichnung>Buchhändler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62512">Buchhandel - Fachkraft</kldb>
+      <isco schluessel="5223">Verkäufer und Verkaufshilfskräfte in Handelsgeschäften</isco>
+      <dkz codenr="62512-101" refid="6689">Buchhändler/in - Antiquariat</dkz>
+      <dkz codenr="62512-102" refid="6690">Buchhändler/in - Sortiment</dkz>
+      <dkz codenr="62512-103" refid="13750">Buchhändler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6086">Vertriebsagent/in - Buchhandel</abgrenzung>
+  <abgrenzung typ="mittel" refid="6042">Buch- und Medienhandelsmanager/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,15 @@
+<kategorie>
+  <id>2033</id>
+  <taetigkeit>Behandlung von Metalloberflächen durch Verfahren wie Emaillieren oder Patinieren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Metalloberflächen durch Reinigen, Entfetten, Trocknen oder Glätten vorbehandeln; Werkstücke oder Oberflächen emaillieren, patinieren oder kadmieren; spezielle Mischverhältnisse ausarbeiten oder nach Vorgaben zusammenstellen; Qualitätskontrollen durchführen; Maschinen und Werkzeuge reinigen und warten</taetigkeitsbeschreibung>
+  <bezeichnung>Emaillierer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24382">Berufe in der Metalloberflächenbehandlung (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8122">Metal finishing, plating and coating machine operators</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2029">Oberflächenbeschichter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1845">Galvanotechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2033">Emaillierer/in</abgrenzung>
+</kategorie>

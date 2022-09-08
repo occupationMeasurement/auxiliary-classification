@@ -1,0 +1,19 @@
+<kategorie>
+  <id>6003</id>
+  <taetigkeit>Durchführung von Bürotätigkeiten beim Vertrieb von Waren und Dienstleistungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. im Innendienst des Unternehmens arbeiten; Bestellungen durch Computersoftware erfassen; Angebote von Lieferanten klassifizieren; Kostenkalkulation durchführen; Bestellungsvorgänge zwischen Lieferanten und Kunden veranlassen und kontrollieren</taetigkeitsbeschreibung>
+  <bezeichnung>Vertriebsassistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61122"> Vertrieb (außer IKT) - Fachkraft</kldb>
+      <isco schluessel="4311">Bürkokräfte im Rechnungswesen und ihrer Buchhaltung</isco>
+      <dkz codenr="61122-119" refid="57880">Mediengestalter/in Digital und Print - Beratung und Planung</dkz>
+      <dkz codenr="61122-100" refid="6609">Vertriebsassistent/in</dkz>
+      <dkz codenr="61122-101" refid="14587">Verkaufssachbearbeiter/in</dkz>
+      <dkz codenr="61122-118" refid="7015">Mediengestalter/in - Digital-/Printmedien - Medienberatung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1747">Vertriebsspezialist/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1002">Callcenteragent/in (Inbound)</abgrenzung>
+  <abgrenzung typ="mittel" refid="1748">Handelsagent/in</abgrenzung>
+</kategorie>

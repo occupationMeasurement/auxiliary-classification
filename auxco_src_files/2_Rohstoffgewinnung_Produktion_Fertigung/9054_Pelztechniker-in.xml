@@ -1,0 +1,17 @@
+<kategorie>
+  <id>9054</id>
+  <taetigkeit>Planung, Koordination und Überwachung von Fertigungsprozessen bei der Produktion von Pelzprodukten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Entwürfe und Spezifikationen von Pelzprodukten für Massen-, Chargen- und Einzelfertigung entwickeln; Arbeitsabläufe planen, organisieren und mit anderen Abteilungen abstimmen; Produktionsgruppen einzelner Abteilungen koordinieren; Qualität von zu verarbeitenden Fellen und Endprodukten kontrollieren; Verfahren der Pelzverarbeitung technisch weiterentwickeln, dabei ästhetische, funktionale und ökologischen Anforderungen beachten; Betriebsmitteleinsatz sowie die Verwendung der Rohstoffe und der Produktions- und Nähmaschinen planen und koordinieren; Einhaltung von Sicherheits-, Gesundheits- und Umweltvorschriften durchsetzen</taetigkeitsbeschreibung>
+  <bezeichnung>Pelztechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28343">Pelzbe- und -verarbeitung - Spezialist</kldb>
+      <isco schluessel="3119">Material- und ingenieurtechnische Fachkräfte, anderweitig nicht genannt</isco>
+      <dkz refid="90770" codenr="28343-100">Bekleidungsgestalter/in - Kürschnerei</dkz>
+      <dkz refid="90806" codenr="28343-101">Bekleidungsgestalter/in - Pelznähen</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9053">Pelzveredler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9506">Kürschner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9055">Leiter/in Leder- und Pelzbearbeitung</abgrenzung>
+</kategorie>

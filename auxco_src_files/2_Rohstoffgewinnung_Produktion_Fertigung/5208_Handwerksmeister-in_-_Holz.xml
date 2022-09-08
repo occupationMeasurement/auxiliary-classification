@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5208</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der handwerklichen Holzverarbeitung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Angebote und Kostenvoranschläge erstellen; Arbeitsverfahren und Materialien festlegen; einzelne Arbeitsschritte koordinieren; Entwürfe für die Fertigung von Erzeugnissen aus Holz erstellen; Verantwortung für die Umsetzung der Entwürfe tragen; die Einhaltung von Arbeitsschutz- und Unfallverhütungsvorschriften durchsetzen; Schulungs- Weiterbildungsmaßnahmen für Mitarbeiter organisieren und den betrieblichen Teil der Ausbildung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Handwerksmeister/in - Holz</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22393">Aufsicht - Holzbe-, -verarbeitung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="22393-102" refid="1579">Korb- und Flechtwerkgestaltermeister/in</dkz>
+      <dkz codenr="22393-103" refid="4455">Tischlermeister/in</dkz>
+      <dkz codenr="22393-134" refid="35220">Fertigungsplaner/in - Tischlerhandwerk</dkz>
+      <dkz codenr="22393-109" refid="4538">Böttchermeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1717">Industriemeister/in - Holz- und Sägeindustrie</abgrenzung>
+  <abgrenzung typ="hoch" refid="5194">Holztechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5293">Bautischler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5292">Zimmerer/Zimmerin</abgrenzung>
+</kategorie>

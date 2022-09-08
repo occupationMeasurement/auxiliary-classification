@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5147</id>
+  <taetigkeit>Anfertigung von Kunst- und Gebrauchsgegenständen aus Metall in Handarbeit</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Metallbearbeitungstechniken, wie Stanzen, Drücken, Treiben, Biegen, Pressen, Prägen, Schmieden, Feilen, Drehen oder Fräsen anwenden; Form- und Gussteile, Halbzeuge und Konstruktionsteile durch Schweißen, Löten, Kleben, Nieten oder Schrauben verbinden und montieren; Blechteile zu Körpern und Reliefs verarbeiten; Oberflächen veredeln</taetigkeitsbeschreibung>
+  <bezeichnung>Metallbildner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93512">Kunsthandw. Metallgestaltung - Fachkraft</kldb>
+      <isco schluessel="7319">Handicraft Workers Not Elsewhere Classified</isco>
+      <dkz codenr="93512-103" refid="2548">Metallbildner/in - Gürtler- und Metalldrücktechnik</dkz>
+      <dkz codenr="93512-110" refid="35064">Gürtler/in und Metalldrücker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5148">Metalldesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2014">Gießereiformer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1841">Gold- und Silberschmied/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5161">Metallblasinstrumentenmacher/in</abgrenzung>
+</kategorie>

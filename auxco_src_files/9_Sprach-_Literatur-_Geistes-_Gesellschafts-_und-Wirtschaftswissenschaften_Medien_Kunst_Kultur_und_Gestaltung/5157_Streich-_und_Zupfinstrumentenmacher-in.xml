@@ -1,0 +1,19 @@
+<kategorie>
+  <id>5157</id>
+  <taetigkeit>Fertigung und Reparatur von Streich- und Zupfinstrumenten und Überprüfung der Klangqualität</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Geigen, Celli, Mandolinen, Gitarren, Harfen oder Bögen anfertigen; Entwürfe, Konstruktionszeichnungen sowie Schablonen anfertigen; Ton- und Resonanzhölzer auswählen und zuschneiden; Seitenwände, Boden, Decke und Hals des Musikinstruments bauen; Einzelteile zusammenfügen</taetigkeitsbeschreibung>
+  <bezeichnung>Streich- und Zupfinstrumentenmacher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93612">Streich-,Zupfinstrumentenbau - Fachkraft</kldb>
+      <isco schluessel="7312">Musical instrument makers and tuners</isco>
+      <dkz codenr="93612-100" refid="2669">Geigenbauer/in</dkz>
+      <dkz codenr="93612-101" refid="2670">Bogenmacher/in</dkz>
+      <dkz codenr="93612-102" refid="2680">Zupfinstrumentenmacher/in (ohne Fachrichtungen)</dkz>
+      <dkz codenr="93612-126" refid="124505">Zupfinstrumentenmacher/in - Gitarrenbau</dkz>
+      <dkz codenr="93612-128" refid="124507">Zupfinstrumentenmacher/in - Harfenbau</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5158">Restaurator/in- Streich- und Zupfinstrumente</abgrenzung>
+  <abgrenzung typ="hoch" refid="5154">Musikinstrumentenbauer/in</abgrenzung>
+</kategorie>

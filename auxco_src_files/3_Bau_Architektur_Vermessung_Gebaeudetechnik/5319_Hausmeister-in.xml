@@ -1,0 +1,16 @@
+<kategorie>
+  <id>5319</id>
+  <taetigkeit>Durchführung von gelegentlichen Wartungs-, Reparatur-, Instandhaltungs- und Reinigungsarbeiten an Gebäuden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wartungspersonal oder externe Auftragnehmer bei der Durchführung fachlicher Arbeiten überwachen; Glühbirnen auswechseln; Böden kehren; verstopfte Abflüsse reinigen; Rasen mähen; Hecken schneiden; beschädigte Bänke reparieren; Streich-, Maler- oder Verlegearbeiten verrichten; eingegangene Waren wie Möbel und Reinigungsmittel entgegennehmen, kontrollieren und lagern; kleine Dienstleistungen für Anwohner erledigen; die umweltgerechte Entsorgung der im Gebäude oder durch die Anwohner entstandenen Wertstoffe oder Müll sicherstellen; Mieter und Besucherverhalten in Fragen wie Lärmvermeidung, korrekte Müllentsorgung oder missbräuchlicher Verwendung der Immobilie regeln</taetigkeitsbeschreibung>
+  <bezeichnung>Hausmeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34102">Gebäudetechnik (o.S.) - Fachkraft</kldb>
+      <isco schluessel="5153">Building caretakers</isco>
+      <dkz codenr="34102-108" refid="77649">Techn. Assistent/in - Gebäudetechnik</dkz>
+      <dkz codenr="34102-101" refid="8122">Hausmeister/in</dkz>
+      <dkz codenr="34102-105" refid="15243">Hauswart/in/Haustechniker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1850">Hausverwalter/in</abgrenzung>
+</kategorie>

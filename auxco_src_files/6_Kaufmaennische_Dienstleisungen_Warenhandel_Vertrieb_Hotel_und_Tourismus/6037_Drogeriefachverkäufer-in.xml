@@ -1,0 +1,19 @@
+<kategorie>
+  <id>6037</id>
+  <taetigkeit>Verkauf von Drogerieartikeln und freiverkäuflichen Apothekenwaren im Einzelhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Ware für den Verkauf vorbereiten, auszeichnen und bereitstellen; Regale auffüllen; den Verkaufsraum und die Schaufenster dekorieren; Kunden und Kundinnen über Kosmetika, Körperpflege-, Wasch- und Reinigungsmittel, freiverkäufliche Arzneimittel oder Filme, beraten und bedienen; Zahlungsmittel entgegennehmen; Reklamationen bearbeiten; Warenbestände, Lagerungstemperatur, Verfallzeiten und Verschlüsse; Nachbestellungen tätigen</taetigkeitsbeschreibung>
+  <bezeichnung>Drogeriefachverkäufer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62412">Verkauf drog.apotheken.Waren-Fachkraft</kldb>
+      <isco schluessel="5223">Shop sales assistants</isco>
+      <dkz codenr="62412-100" refid="6571">Kaufmann/-frau - Einzelhandel (Kosmetik, Körperpflege)</dkz>
+      <dkz codenr="62412-101" refid="6655">Fachverkäufer/in - Kosmetik und Körperpflege</dkz>
+      <dkz codenr="62412-104" refid="6709">Fachverkäufer/in - Drogeriewaren</dkz>
+      <dkz codenr="62412-105" refid="6710">Drogist/in</dkz>
+    </default>
+    <abgrenzung typ="hoch" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+    <abgrenzung typ="hoch" refid="6036">Apothekenhelfer/in</abgrenzung>
+    <abgrenzung typ="mittel" refid="7079">Friseur-Kosmetiker/in</abgrenzung>
+  </untergliederung>
+</kategorie>

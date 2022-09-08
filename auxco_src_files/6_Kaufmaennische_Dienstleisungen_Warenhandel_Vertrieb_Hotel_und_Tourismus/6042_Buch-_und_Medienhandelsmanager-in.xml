@@ -1,0 +1,15 @@
+<kategorie>
+  <id>6042</id>
+  <taetigkeit>Entwicklung von Werbe- und Marketingkonzepten im Buchhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. neue Verkaufsmethoden im Buchhandel planen und umsetzen; Marktchancen für bestehenden und neue Produkte einschätzen; Konsumtrends im Buchhandel interpretieren und prognostizieren; Unternehmensleitung und Kunden über Strategien zur Verkaufssteigerung beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Buch- und Medienhandelsmanager/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62514">Buchhandel - Experte</kldb>
+      <isco schluessel="2431">Akademische und vergleichbare Fachkräfte in Werbung und Marketing</isco>
+      <dkz codenr="62514-102" refid="59239">Buchhändler/in (Hochschule)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6086">Vertriebsagent/in - Buchhandel</abgrenzung>
+  <abgrenzung typ="mittel" refid="3520">Medienmanager/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,20 @@
+<kategorie>
+  <id>2100</id>
+  <taetigkeit>Verlegen, Installation und Prüfung von elektrischen Leitungen und Anlagen in Gebäuden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. elektrische Leitungen und Anschlüsse in Gebäuden verlegen; elektrische und elektronische Anlagen der Gebäudetechnik wie z.B. Steueranlagen für die Heizung installieren und prüfen; Verteiler-, Haussprech- und Blitzschutzanlagen in Gebäuden montieren; Anlagen und Systeme der Hauselektrik nach Vorgaben prüfen und Messungen vornehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Elektroinstallateur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26212">Berufe in der Bauelektrik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7411">Building and related electricians</isco>
+      <dkz codenr="26212-102" refid="2727">Bauelektriker/in</dkz>
+      <dkz codenr="26212-103" refid="2728">Elektroinstallateur/in</dkz>
+      <dkz codenr="26212-110" refid="15637">Elektroniker/in - Energie- und Gebäudetechnik</dkz>
+      <dkz codenr="26212-107" refid="2768">Blitzschutzmonteur/in</dkz>
+      <dkz codenr="26212-108" refid="15482">Elektrofachkraft für festgelegte Tätigkeiten</dkz>
+      <dkz codenr="26212-109" refid="15622">Elektroniker/in - Gebäude- und Infrastruktursysteme</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2094">Mechatroniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5297">Gas- und Wasserinstallateur/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,14 @@
+<kategorie>
+  <id>5068</id>
+  <taetigkeit>Beratung zu Fragen des Brandschutzes sowie Entwicklung von Brandschutzkonzepten und Verfassen von Gutachten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Risiko- und Gefährdungsanalysen durchführen; Brandschutzmaßnahmen in Betrieben anordnen und ihre Durchführung überwachen; Geschäftsführung schulen; mit Behörden zusammenarbeiten; Gutachten für Betriebe erstellen; Einsatzbereitschaft der Brandschutzeinrichtungen sicherstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Brandschutzingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53134">Brandschutz - Experte</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5067">Brandschutzbeauftragte/r</abgrenzung>
+  <abgrenzung typ="hoch" refid="5064">Arbeitsschutzingenieur/in</abgrenzung>
+</kategorie>

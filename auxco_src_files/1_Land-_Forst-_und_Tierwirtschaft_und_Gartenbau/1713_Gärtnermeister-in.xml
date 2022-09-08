@@ -1,0 +1,69 @@
+<kategorie>
+  <id>1713</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Gartenbau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. koordinierende Aufgaben in Produktion und Verkauf von bspw. Obst und Gemüse oder Bäumen und Stauden übernehmen; betriebliche Arbeit organisieren; Arbeitskräfte einteilen und anleiten; mit Kunden und Lieferanten zusammenarbeiten; administrative und betriebswirtschaftliche Aufgaben übernhemen; Gartenbaubetrieb repräsentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Gärtnermeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="12193">Aufsichtskräfte - Gartenbau</kldb>
+      <isco schluessel="6113">Gardeners, horticultural and nursery growers</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" follow-up="FALSE" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="12194">Führungskräfte - Gartenbau</kldb>
+      <isco schluessel="1311">Agricultural and forestry production managers</isco>
+      <dkz codenr="12194-103" refid="90888">Gartenbauverwalter/in</dkz>
+      <dkz codenr="12194-101" refid="90649">Betriebsleiter/in - Gartenbau</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="12193">Aufsichtskräfte - Gartenbau</kldb>
+      <isco schluessel="6113">Gardeners, horticultural and nursery growers</isco>
+      <dkz codenr="12193-100" refid="570">Wirtschafter/in - Gartenbau</dkz>
+      <dkz codenr="12193-101" refid="575">Gärtnermeister/in - Garten- und Landschaftsbau</dkz>
+      <dkz codenr="12193-107" refid="618">Gärtnermeister/in - Friedhofsgärtnerei</dkz>
+      <dkz codenr="12193-104" refid="600">Gärtnermeister/in - Staudengärtnerei</dkz>
+      <dkz codenr="12193-102" refid="576">Gärtnermeister/in - Baumschule</dkz>
+      <dkz codenr="12193-103" refid="599">Gärtnermeister/in - Zierpflanzenbau</dkz>
+      <dkz codenr="12193-105" refid="610">Gärtnermeister/in - Obstbau</dkz>
+      <dkz codenr="12193-106" refid="611">Gärtnermeister/in - Gemüse</dkz>
+    </antwort>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Mit der Zucht welcher Art von Pflanzen befassen Sie sich hauptsächlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Mit der Zucht welcher Art von Pflanzen haben Sie sich hauptsächlich befasst?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text> Mit der Zucht von Bäumen und Sträuchern</text>
+      <kldb schluessel="12193">Aufsichtskräfte - Gartenbau</kldb>
+      <isco schluessel="6112">Tree and shrub crop growers</isco>
+      <dkz codenr="12193-104" refid="600">Gärtnermeister/in - Staudengärtnerei</dkz>
+      <dkz codenr="12193-102" refid="576">Gärtnermeister/in - Baumschule</dkz>
+      <dkz codenr="12193-103" refid="599">Gärtnermeister/in - Zierpflanzenbau</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Mit der Zucht von Gemüse und Obst</text>
+      <kldb schluessel="12193">Aufsichtskräfte - Gartenbau</kldb>
+      <isco schluessel="6111">Field crop and vegetable growers</isco>
+      <dkz codenr="12193-105" refid="610">Gärtnermeister/in - Obstbau</dkz>
+      <dkz codenr="12193-106" refid="611">Gärtnermeister/in - Gemüse</dkz>
+    </antwort>
+    <antwort position="3">
+      <text>Keine der anderen Antworten trifft zu</text>
+      <kldb schluessel="12193">Aufsichtskräfte - Gartenbau</kldb>
+      <isco schluessel="6113">Gardeners, horticultural and nursery growers</isco>
+      <dkz codenr="12193-100" refid="570">Wirtschafter/in - Gartenbau</dkz>
+      <dkz codenr="12193-101" refid="575">Gärtnermeister/in - Garten- und Landschaftsbau</dkz>
+      <dkz codenr="12193-107" refid="618">Gärtnermeister/in - Friedhofsgärtnerei</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1055">Gartenbautechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1062">Baumschul-, Stauden-, Zierpflanzengärtner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1851">Landwirtschaftliche/r Betriebsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1054">Gärtner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1713">Gärtnermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1056">Gartenbauingenieur/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,15 @@
+<kategorie>
+  <id>4210</id>
+  <taetigkeit>Erforschung von Lebewesen, Stoffwechselvorgängen und deren Funktionsstörungen (Krankheiten) auf molekularer Ebene</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. mikrobiologische Herstellungsverfahren für Wirkstoffe und pharmazeutische Produkte erarbeiten bzw. verbessern; mikrobiologische Versuche überwachen und wissenschaftlich begleiten; Zellstoffwechselvorgänge untersuchen; Struktur und Biosynthese von Nukleinsäuren erforschen</taetigkeitsbeschreibung>
+  <bezeichnung>Molekularbiologe/-biologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41284">Biologie (s.s.T.) - Experte</kldb>
+      <isco schluessel="2131">Biologists, botanists, zoologists and related professionals</isco>
+      <dkz codenr="41284-119" refid="59237">Molekularbiologe/-biologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4007">Mikrobiologe/-biologin</abgrenzung>
+  <abgrenzung typ="mittel" refid="4008">Humanbiologe/-biologin</abgrenzung>
+</kategorie>

@@ -1,0 +1,42 @@
+<kategorie>
+  <id>2149</id>
+  <taetigkeit>Herstellung von Modellen zu Anschauungszwecken oder für die Einzel- und Serienfertigung etwa von Karosserien, Gehäusen oder Rädern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Konstruktionszeichnungen für Modelle anfertigen; für die Modellfertigung Fertigungsunterlagen erstellen und Werkstoffe sowie Verfahren auswählen; Modelle mittels computergestützen Verfahren wie CNC-Technik oder manuell anfertigen; zur Einhaltung von Vorgaben Komponenten hinsichtlich Qualität und Passform prüfen; Modelle für Produktion, Karosseriebau, Formenbau und Gießereien herstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Modellbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="27232">Berufe im Modellbau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7222">Toolmakers and related workers</isco>
+      <dkz codenr="27232-120" refid="76572">Technische/r Modellbauer/in - Karosserie und Produktion</dkz>
+      <dkz codenr="27232-121" refid="76574">Technische/r Modellbauer/in - Anschauung</dkz>
+      <dkz codenr="27232-122" refid="76575">Technische/r Modellbauer/in - Gießerei</dkz>
+      <dkz codenr="27232-101" refid="2454">Modellbaumechaniker/in - Gießereimodellbau</dkz>
+      <dkz codenr="27232-102" refid="2455">Modellbaumechaniker/in - Karosseriemodellbau</dkz>
+      <dkz codenr="27232-105" refid="2708">Biologiemodellmacher/in</dkz>
+      <dkz codenr="27232-107" refid="4513">Modellbauer/in - Produktionsmodellbau</dkz>
+      <dkz codenr="27232-111" refid="4525">Modellbauer/in - Anschauungsmodellbau</dkz>
+      <dkz codenr="27232-112" refid="4526">Modellverwalter/in (Produktionsmodellbau)</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Mit welchem Material arbeiten Sie hauptsächlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Mit welchem Material haben Sie hauptsächlich gearbeitet?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="2">
+      <text>Holz</text>
+      <kldb schluessel="27232">Berufe im Modellbau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7522">Cabinet-makers and related workers</isco>
+    </antwort>
+    <antwort position="3">
+      <text>Metall</text>
+      <kldb schluessel="27232">Berufe im Modellbau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7222">Toolmakers and related workers</isco>
+    </antwort>
+    <antwort position="4">
+      <text>unterschiedliche Materialien</text>
+      <kldb schluessel="27232">Berufe im Modellbau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7222">Toolmakers and related workers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2146">Technische/r Zeichner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2154">Leiter/in - Technische Zeichnung, Konstruktion und Modellbau</abgrenzung>
+</kategorie>

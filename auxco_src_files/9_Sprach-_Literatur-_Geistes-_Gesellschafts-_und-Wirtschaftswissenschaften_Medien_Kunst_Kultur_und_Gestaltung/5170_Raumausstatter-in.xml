@@ -1,0 +1,22 @@
+<kategorie>
+  <id>5170</id>
+  <taetigkeit>Gestaltung, Fertigung und Montage von Räumen, Polstermöbeln sowie Fenster- und Raumdekorationen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. anfallende handwerkliche Tätigkeiten bei der Raumausstattung übernehmen; Raum, Fenster und bereits vorhandenes Mobiliar ausmessen; Materialbedarf berechnen; Materialien, wie Tapeten, Wandfarben, Laminat/Parkett, Polster- und Gardinenstoffe auswählen und bestellen; Fenster- und Raumdekorationen anfertigen und montieren</taetigkeitsbeschreibung>
+  <bezeichnung>Raumausstatter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93232">Raumausstattung - Fachkraft</kldb>
+      <isco schluessel="3432">Interior designers and decorators</isco>
+      <dkz codenr="93232-100" refid="4403">Raumausstatter/in</dkz>
+      <dkz codenr="93232-105" refid="35139">Polsterer und Dekorateur/Polsterin und Dekorateurin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5125">Raumausstatter/in- Restaurierungsarbeiten</abgrenzung>
+  <abgrenzung typ="mittel" refid="9045">Polsterer/Polsterin</abgrenzung>
+  <abgrenzung typ="mittel" refid="5298">Bodenleger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5287">Fliesen-, Platten- und Mosaikleger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5289">Parkettleger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3023">Maler/in und Lackierer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1840">Innenarchitekt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5124">Ausstellungsgestalter/in</abgrenzung>
+</kategorie>

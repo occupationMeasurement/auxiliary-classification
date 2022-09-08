@@ -1,0 +1,16 @@
+<kategorie>
+  <id>2075</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten bei der Montage oder bei der Reparatur von Kraftfahrzeugen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bauteile und fertige Werkstücke transportieren; nach Anweisung kleine Lackreparaturen durchführen; Motor- und Getriebeöl nachfüllen oder wechseln; Zündkerzen erneuern; Reifendruck prüfen; Scheibenwischflüssigkeit nachfüllen; Metallplatten, Bleche und Rohre nach Vorgabe in die gewünschte Form bringen</taetigkeitsbeschreibung>
+  <bezeichnung>Kraftfahrzeugmechanikerhelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25201">Berufe in der Fahrzeugtechnik (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9629">Elementary workers not elsewhere classified</isco>
+      <dkz codenr="25201-103" refid="58524">Helfer/in - Fahrzeugbau und -instandhaltung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="2063">Montagehelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2040">Metallbauhelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6101">Tankwart/in</abgrenzung>
+</kategorie>

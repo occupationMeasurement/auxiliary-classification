@@ -1,0 +1,15 @@
+<kategorie>
+  <id>5206</id>
+  <taetigkeit>Herstellung von Fässern oder Gefäßen aus Holz</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gefäße für den Weinbau, Brennereien und Brauereien sowie für die Landwirtschaft herstellen; Hölzer für das herzustellende Produkt auswählen und gegebenenfalls einlagern; Holzteile ausmessen und passgenau bearbeiten; Holz zu Stäben spalten und zuschneiden; Stäbe durch unterschiedliche Verfahren, wie Ausfeuern , Kochen, Dämpfen, zur gewünschten Daube biegen; Innenseite von Gefäßen gerben</taetigkeitsbeschreibung>
+  <bezeichnung>Böttcher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22382">Holzbe-, -verarbeitung (ssT) - Fachkraft</kldb>
+      <isco schluessel="7522">Cabinet-makers and related workers </isco>
+      <dkz codenr="22382-102" refid="4537">Böttcher/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5205">Wagner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5193">Holzbearbeitungsmechaniker/in</abgrenzung>
+</kategorie>

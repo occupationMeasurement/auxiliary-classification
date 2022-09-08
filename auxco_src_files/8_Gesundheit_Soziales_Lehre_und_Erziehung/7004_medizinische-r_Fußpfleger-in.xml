@@ -1,0 +1,14 @@
+<kategorie>
+  <id>7004</id>
+  <taetigkeit>Durchführung medizinischer Fußpflegebehandlungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Anamnese erheben und Kunden beraten; Fuß- und Beinmassage durchführen; Hühneraugen oder Fußpilz behandeln; Arbeitsgeräte desinfizieren und sterilisieren; orthopädische Hilfsmittel anpassen</taetigkeitsbeschreibung>
+  <bezeichnung>medizinische/r Fußpfleger/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81122">Podologen/Podologinnen - Fachkraft</kldb>
+      <isco schluessel="3255">Physiotherapy technicians and assistants</isco>
+      <dkz codenr="81122-103" refid="14426">Podologe/Podologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7080">Kosmetiker/in</abgrenzung>
+</kategorie>

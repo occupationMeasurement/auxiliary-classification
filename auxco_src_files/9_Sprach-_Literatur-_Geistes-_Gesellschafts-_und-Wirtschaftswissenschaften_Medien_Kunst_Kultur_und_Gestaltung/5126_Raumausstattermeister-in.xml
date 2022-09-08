@@ -1,0 +1,19 @@
+<kategorie>
+  <id>5126</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Innenarchitektur  oder in der Raumausstattung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kundengespräche führen und Kunden beraten; fach- und termingerechte Ausführung der Arbeiten sowie Einhaltung von Kosten überwachen; erforderliche Materialien, wie Tapeten, Wandfarben, Laminat oder Fertigparkett, Polster- und Gardinenstoffe, ggf. auch Licht- und Sonnenschutzanlagen, bereitstellen; Abrechnungen nach Plänen und Leistungsunterlagen erstellen; Ausrüstung und Baustelle überprüfen; Arbeitsaufträge an die Mitarbeiter vergeben; je nach Betriebsgröße fachlich anspruchsvolle Arbeiten selbst übernehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Raumausstattermeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93293">Aufsicht-Innenarchitektur,Raumausstatt.</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="93293-100" refid="4404">Raumausstattermeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5302">Bodenlegermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5314">Handwerksmeister/in - Maler-, Lackier- und Stuckateurarbeiten</abgrenzung>
+  <abgrenzung typ="hoch" refid="1840">Innenarchitekt/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5170">Raumausstatter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5124">Ausstellungsgestalter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5125">Raumausstatter/in - Restaurierungsarbeiten</abgrenzung>
+</kategorie>

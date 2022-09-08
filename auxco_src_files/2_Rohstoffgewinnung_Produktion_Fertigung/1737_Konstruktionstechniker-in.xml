@@ -1,0 +1,48 @@
+<kategorie>
+  <id>1737</id>
+  <taetigkeit>Zeichnung und Design von Produkten mithilfe von CAD-Systemen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Konstruktions- und Designkonzepte für neue und innovative Produkte entwickeln; Entwürfe von Konstruktionsplänen unter Beachtung von technischen und wirtschaftlichen Aspekten sowie bestimmten Normen anfertigen; Anpassungskonstruktionen von bereits vorhandenen Lösungen bearbeiten bzw. erstellen; vorgegebene und selbst erstellte Pläne mittels CAD-Systemen zur Verwendung dimensionieren und gestalten; Einzelteilzeichnungen anhand von Maßen oder Toleranzen anfertigen; erforderliche Fertigungsmittel, Werkzeuge und Materialen berechnen und ermitteln</taetigkeitsbeschreibung>
+  <bezeichnung>Konstruktionstechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="27223">Berufe in der Konstruktion und im Gerätebau - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="27224">Berufe in der Konstruktion und im Gerätebau - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="27224-101" refid="15892">Konstruktionsingenieur/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="27223">Berufe in der Konstruktion und im Gerätebau - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="27223-157" refid="58453">CAD-Fachkraft (ohne Schwerpunkt)</dkz>
+      <dkz codenr="27223-106" refid="5349">Konstrukteur/in - Werkzeugmaschinenbau/Formentechnik</dkz>
+      <dkz codenr="27223-108" refid="5353">Konstrukteur/in</dkz>
+      <dkz codenr="27223-114" refid="5360">Teilkonstrukteur/in</dkz>
+      <dkz codenr="27223-121" refid="5367">Konstrukteur/in - Karosserie-/Fahrzeugbautechnik</dkz>
+      <dkz codenr="27223-122" refid="5368">Konstrukteur/in - Hydraulik-/Pneumatiktechnik</dkz>
+      <dkz codenr="27223-123" refid="5369">Betriebsmittelkonstrukteur/in</dkz>
+      <dkz codenr="27223-124" refid="5371">Konstrukteur/in - Maschinen-/Anlagentechnik</dkz>
+      <dkz codenr="27223-126" refid="5373">Konstrukteur/in - Schiffbau</dkz>
+      <dkz codenr="27223-128" refid="5375">Detailkonstrukteur/in</dkz>
+      <dkz codenr="27223-131" refid="5381">Konstrukteur/in - Modellbaumechanik</dkz>
+      <dkz codenr="27223-142" refid="5598">Konstrukteur/in - Elektrotechnik</dkz>
+      <dkz codenr="27223-145" refid="5601">Konstrukteur/in - Steuerungs- u. Automatisierungstechnik</dkz>
+      <dkz codenr="27223-158" refid="59002">Konstruktionstechniker/in</dkz>
+      <dkz codenr="27223-147" refid="6472">CAD-Fachkraft - Metall</dkz>
+      <dkz codenr="27223-148" refid="6473">CAD-Fachkraft - Elektrotechnik</dkz>
+      <dkz codenr="27223-149" refid="6474">CAD-Fachkraft - Holz</dkz>
+      <dkz codenr="27223-151" refid="15049">CAD-Fachkraft - Maschinenbau</dkz>
+      <dkz codenr="27223-150" refid="6490">CAD-Fachkraft - Bau</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2146">Technische/r Zeichner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2154">Leiter/in - Technische Zeichnung, Konstruktion und Modellbau</abgrenzung>
+</kategorie>

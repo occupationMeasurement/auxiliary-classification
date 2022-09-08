@@ -1,0 +1,15 @@
+<kategorie>
+  <id>1076</id>
+  <taetigkeit>Erforschung von Pflanzenkrankheiten und deren Behandlung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Pflanzen und Pflanzenkrankheiten im Labor analysieren; Umwelteinflüsse untersuchen; Maßnahmen zum Pflanzenschutz erforschen; Maßnahmen des vorsorgenden Pflanzenschutzes erforschen und veranlassen</taetigkeitsbeschreibung>
+  <bezeichnung>Pflanzenarzt/-ärztin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11184">Berufe in der Landwirtschaft (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2132">Farming, forestry and fisheries advisers</isco>
+      <dkz codenr="11184-101" refid="474">Pflanzenarzt/-ärztin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1077">Entwicklungshelfer/in - Pflanzenbauwissenschaften</abgrenzung>
+  <abgrenzung typ="hoch" refid="4004">Biologe/Biologin - Ökologie</abgrenzung>
+</kategorie>

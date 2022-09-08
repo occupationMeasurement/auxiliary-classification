@@ -1,0 +1,42 @@
+<kategorie>
+  <id>4042</id>
+  <taetigkeit>Analyse und Modellierung geowissenschaftlicher Daten mithilfe von Informationstechnologien</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Geoinformationssysteme (GIS) entwickeln und betreuen; dreidimensionale Modelle von Geoobjekten erstellen; Infrarot-, Satelliten- und Radarbilder verarbeiten; mögliche Auswirkungen von Vulkanausbrüchen oder Erdbeben errechnen; mögliche Vorgehensweisen und Einsatzpläne für Naturkatastrophen entwickeln</taetigkeitsbeschreibung>
+  <bezeichnung>Geoinformatiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43144">Geoinformatik - Experte</kldb>
+      <isco schluessel="2512">Software developers</isco>
+      <dkz codenr="43144-106" refid="58702">Geoinformatiker/in</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>In welchem Bereich sind Sie vorwiegend tätig?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>In welchem Bereich waren Sie vorwiegend tätig?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Entwicklung von Computersoftware</text>
+      <kldb schluessel="43144">Geoinformatik - Experte</kldb>
+      <isco schluessel="2512">Software developers</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Konzeption und Entwicklung von IT-Systemen für spezielle Anforderungen</text>
+      <kldb schluessel="43144">Geoinformatik - Experte</kldb>
+      <isco schluessel="2511">Systems analysts</isco>
+    </antwort>
+    <antwort position="3">
+      <text>Entwicklung, Kontrolle und Wartung von Datenbanken</text>
+      <kldb schluessel="43144">Geoinformatik - Experte</kldb>
+      <isco schluessel="2521">Database Designers and Administrators</isco>
+    </antwort>
+    <antwort position="4">
+      <text>Oder etwas anderes?</text>
+      <isco schluessel="????">Freitextantwort</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="4038">Informatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4250">Leiter/in - Informatik und Informationsmanagement</abgrenzung>
+  <abgrenzung typ="mittel" refid="5261">Kartograf/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4028">Geotechnikingenieur/in - Bau</abgrenzung>
+  <abgrenzung typ="mittel" refid="4100">Geotechnikingenieur/in - Erkundungs- und Rohstoffgeologie</abgrenzung>
+  <abgrenzung typ="mittel" refid="4029">Geologe/Geologin</abgrenzung>
+</kategorie>

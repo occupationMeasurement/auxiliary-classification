@@ -1,0 +1,16 @@
+<kategorie>
+  <id>1063</id>
+  <taetigkeit>Planung, Koordination und Optimierung des Anbaus, der Pflege, Zucht und Vermarktung von Pflanzen und Saatgut</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Anbau und Kultivierung von Pflanzen planen und steuern; äußere Einflüsse analysieren und Maßnahmen zur Verbesserung der Produktion entwickeln; Gartenbautechnik einsetzen; Versuche durchführen und Ergebnisse umsetzen; Produkte sowie Gartenbautechnik und Dünger vermarkten; Kundenberatung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Fachberater/in - Pflanzen und Saatgut</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="12123">Berufe in Baumschule, Staudengärtnerei und Zierpflanzenbau - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3142">Agricultural technicians</isco>
+      <dkz codenr="12123-101" refid="14564">Techniker/in - Gartenbau (Produktion und Vermarktung)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1062">Baumschul-, Stauden- und Zierpflanzengärtner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1055">Gartenbautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1054">Gärtner/in</abgrenzung>
+</kategorie>

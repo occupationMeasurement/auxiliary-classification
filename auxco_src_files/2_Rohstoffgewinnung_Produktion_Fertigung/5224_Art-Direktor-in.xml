@@ -1,0 +1,39 @@
+<kategorie>
+  <id>5224</id>
+  <taetigkeit>Führungstätigkeit mit Personalverantwortung im Bereich Grafikdesign, Layout und Mediengestaltung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kreativteams aus Grafikdesignern und Mediengestaltern koordinieren; die Produktion von Druckerzeugnissen verantworten und steuern; Kunden zu gestalterischen Fragen von Medien beraten; Personaleinsätze planen und Fortbildungen organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Art-Direktor/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23293">Aufsichtskräfte - Technische Mediengestaltung</kldb>
+      <isco schluessel="2166">Graphic and multimedia designers</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="23294">Führungskräfte - Technische Mediengestaltung</kldb>
+      <isco schluessel="1222">Advertising and public relations managers</isco>
+      <dkz codenr="23294-100" refid="7023">Art-Direktor/in</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="23293">Aufsichtskräfte - Technische Mediengestaltung</kldb>
+      <isco schluessel="2166">Graphic and multimedia designers</isco>
+      <dkz codenr="23293-107" refid="77112">Industriemeister/in - Printmedien</dkz>
+      <dkz codenr="23293-100" refid="1341">Schriftsetzermeister/in</dkz>
+      <dkz codenr="23293-101" refid="1402">Flexografenmeister/in</dkz>
+      <dkz codenr="23293-102" refid="6246">Industriemeister/in - Digital- und Printmedien</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5240">Medien- und Kommunikationsdesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5219">Grafikdesigner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3515">Werbeleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4250">Leiter/in - Informatik und Informationsmanagement</abgrenzung>
+  <abgrenzung typ="mittel" refid="5222">Mediengestalter/in - Digital und Print</abgrenzung>
+  <abgrenzung typ="mittel" refid="1701">Druckermeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1700">Buchbindermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5232">Fotografenmeister/in</abgrenzung>
+</kategorie>

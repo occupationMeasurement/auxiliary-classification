@@ -1,0 +1,48 @@
+<kategorie>
+  <id>6102</id>
+  <taetigkeit>Planung und Organisation von Events, Konzerten, Festivals, Konferenzen, Messen, Feiern oder anderen Großveranstaltungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden zu geplanten Events beraten und Angebote erstellen; für Konferenzen und Messen bei potenziellen Teilnehmern werben; Anmeldungen entgegennehmen; Räumlichkeiten, Catering, Beschilderung und Transport organisieren; Künstler engagieren und ein Programm planen</taetigkeitsbeschreibung>
+  <bezeichnung>Konferenz- und Veranstaltungsplaner</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63402">Veranstaltungsservice,-manag. -Fachkraft</kldb>
+      <isco schluessel="3332">Conference and event planners</isco>
+      <dkz codenr="63401-103" refid="8133">Saaldiener/in</dkz>
+      <dkz codenr="63401-106" refid="90138">Helfer/in - Veranstaltungsservice</dkz>
+      <dkz codenr="63401-101" refid="6969">Hostess/Host</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>Welche Aufgaben führen Sie dabei in der Regel aus?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Aufgaben haben Sie dabei in der Regel ausgeführt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Großveranstaltungen mit mehr als 1000 Teilnehmern managen</text>
+      <kldb schluessel="63404">Berufe im Veranstaltungsservice und -management - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="3332">Conference and event planners</isco>
+      <dkz codenr="63404-100" refid="7077">Musikmanager/in</dkz>
+      <dkz codenr="63404-102" refid="9832">Kulturmanager/in</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Veranstaltungen mit weniger als 1000 Teilnehmern managen</text>
+      <kldb schluessel="63403">Berufe im Veranstaltungsservice und -management - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3332">Conference and event planners</isco>
+      <dkz codenr="63403-111" refid="78445">Orchesterinspektor/in/Orchestersekretär/in</dkz>
+      <dkz codenr="63403-104" refid="15065">Fachwirt/in - Veranstaltung</dkz>
+      <dkz codenr="63403-106" refid="28495">Betriebswirt/in (Fachschule) - Event-Management</dkz>
+      <dkz codenr="63403-107" refid="35200">Event-Manager/in</dkz>
+    </antwort>
+    <antwort position="3">
+      <text>das Veranstaltungsmanagement bei einzelnen Aufgaben unterstützen</text>
+      <kldb schluessel="63402">Veranstaltungsservice,-manag. -Fachkraft</kldb>
+      <isco schluessel="3332">Conference and event planners</isco>
+      <dkz codenr="63402-102" refid="78388">Mitarbeiter/in im Künstlerischen Betriebsbüro</dkz>
+      <dkz codenr="63402-100" refid="14615">Veranstaltungskaufmann/-frau</dkz>
+      <dkz codenr="63402-101" refid="30217">Kfm. Ass./Wirtschaftsassistent/in - Musik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6067">Sport- und Fitnessökonom/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1235">Ingenieur/in – Veranstaltungstechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="1238">Künstlervermittler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1820">Tourismuskaufmann/ -frau</abgrenzung>
+  <abgrenzung typ="hoch" refid="6053">Sport- und Fitnesskaufmann/-frau</abgrenzung>
+</kategorie>

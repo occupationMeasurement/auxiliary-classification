@@ -1,0 +1,15 @@
+<kategorie>
+  <id>6011</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Einkaufs- oder Supply-Chain-Management</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Einkaufscontrolling durchführen; Einkaufsroutinen- und Abläufe festlegen; Preis-Leistungs-Verhältnisse überprüfen; mit Lieferanten und Geschäftspartnern verhandeln; Transaktionen und Ressourceneinsatz überwachen; Lagerhaltung kontrollieren; die Auswahl, Schulung und Leistung der Mitarbeiter überwachen; Aktivitäten des Personals planen; das Unternehmen in der Öffentlichkeit repräsentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Einkaufsleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61194">Führung - Einkauf und Vertrieb</kldb>
+      <isco schluessel="1324">Führungskräfte in der Beschaffung, Logistik und in verwandten Bereichen</isco>
+      <dkz codenr="61194-128" refid="29360">Leiter/in - Einkauf</dkz>
+    </default>
+    <abgrenzung typ="hoch" refid="6002">Einkäufer/in</abgrenzung>
+    <abgrenzung typ="mittel" refid="6032">Filialleiter/in - Groß- und Einzelhandel</abgrenzung>
+  </untergliederung>
+</kategorie>

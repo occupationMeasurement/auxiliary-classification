@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5152</id>
+  <taetigkeit>Gravur von Schmuck, Ziergegenständen oder Gebrauchsgegenständen aus Metall, Kunststoff oder Porzellan</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Zier-, Schmuck- und Gebrauchsgegenstände bearbeiten; Kunden beraten; Gravierwerkzeuge auswählen und scharfschleifen, dabei die Werkstoffeigenschaften des zu bearbeitenden Gegenstands berücksichtigen; Verzierungen in Metalloberflächen einätzen, metallfärben, guillochieren und tauschieren; Schilder, Front- und Bedientafeln gravieren; Schmuckstanzen, Münzen und Medaillen prägen</taetigkeitsbeschreibung>
+  <bezeichnung>Graveur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93532">Gravur - Fachkraft</kldb>
+      <isco schluessel="7316">Sign writers, decorative painters, engravers and etchers</isco>
+      <dkz codenr="93532-101" refid="1956">Graveur/in</dkz>
+      <dkz codenr="93532-102" refid="1961">Flachgraveur/in</dkz>
+      <dkz codenr="93532-103" refid="1963">Metallbildner/in - Ziseliertechnik</dkz>
+      <dkz codenr="93532-108" refid="35066">Ziseleur/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9226">Glasgraveur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1841">Gold- und Silberschmied/in</abgrenzung>
+</kategorie>

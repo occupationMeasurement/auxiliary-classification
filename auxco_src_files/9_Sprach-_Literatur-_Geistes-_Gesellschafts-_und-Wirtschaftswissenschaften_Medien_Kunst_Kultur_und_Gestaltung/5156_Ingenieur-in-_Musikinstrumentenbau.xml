@@ -1,0 +1,16 @@
+<kategorie>
+  <id>5156</id>
+  <taetigkeit>Planung und Konstruktion von Musikinstrumenten sowie die Entwicklung von Verfahren zur Verbesserung der Intonation</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. technisches Wissen auf Planung, Entwicklung und Evaluierung von Musikinstrumenten anwenden; neue Materialien testen und mit den bisher verwendeten vergleichen; Herstellungsprozesse von Musikinstrumenten analysieren; Forschungsprojekte initiieren</taetigkeitsbeschreibung>
+  <bezeichnung>Ingenieur/in- Musikinstrumentenbau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93604">Musikinstrumentenbau (o.S.) - Experte</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="93604-100" refid="59515">Musikinstrumentenbauer/in (Hochschule)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5154">Musikinstrumentenbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5155">Musikinstrumentenrestaurator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5169">Meister/in- Musikinstrumentenbau</abgrenzung>
+</kategorie>

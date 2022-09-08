@@ -1,0 +1,17 @@
+<kategorie>
+  <id>5351</id>
+  <taetigkeit>Durchführung baustatischer Planungen und Analysen bei Bauwerken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Stabilität von Bauten analysieren und Verhalten und Haltbarkeit der für den Bau verwendeten Materialien prüfen; Bauteile und Bauwerke vor Ort vermessen und Belastungen errechnen; Schnittkräfte ermitteln und Stabilitäts-, Spannungs- und Standsicherheitsnachweise erstellen; Werk- und Baustoffe abhängig von den statischen Anforderungen und Berechnungen auswählen; Bauherren, Architekten bzw. Bauingenieure in Fragen der Baustatik beraten; Gutachten über die Stabilität von Gebäuden erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Statiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="31104">Bauplanung, -überwachung (oS) - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="31104-104" refid="5110">Statiker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5246">Bauingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1775">Bautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5257">Leiter/in - Bauplanung</abgrenzung>
+  <abgrenzung typ="mittel" refid="5254">Bausachverständiger/in</abgrenzung>
+</kategorie>

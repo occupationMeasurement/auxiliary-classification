@@ -1,0 +1,32 @@
+<kategorie>
+  <id>1729</id>
+  <taetigkeit>Planung, Koordination und Optimierung der Produktionsprozesse von mechatronischen Systemen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. intelligent zusammenwirkende mechanische, elektronische und informationstechnische Komponenten entwickeln, berechnen und simulieren; mechatronische Systeme unter Berücksichtigung funktioneller, fertigungstechnischer und wirtschaftlicher Gesichtspunkte konstruieren; mechatronische Mess-, Steuerungs- und Regelungs- und Überwachungseinrichtungen aufbauen und programmieren; Sollwerte einstellen; Konstruktionszeichnungen unter Angabe von Maßen, Toleranzen und Bearbeitungszeichen mittels CAD anfertigen; komplexe mechanische, hydraulische oder pneumatische Komponenten zu Maschinen und Fertigungsanlagen montieren; bei der Durchführung von Versuchen, Materialtests und Musterprüfungen mitwirken; die Qualität anhand von Standards überwachen und Ergebnisse dokumentieren; Bedarf des benötigten Materials kalkulieren; in der Forschung mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Mechatroniktechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26113">Berufe in der Mechatronik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3113">Electrical engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="26114">Berufe in der Mechatronik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2151">Electrical engineers</isco>
+      <dkz codenr="26114-104" refid="58732">Ingenieur/in - Mechatronik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="26113">Berufe in der Mechatronik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3113">Electrical engineering technicians</isco>
+      <dkz codenr="26113-109" refid="58551">Fachkraft - mechatronische Systeme</dkz>
+      <dkz codenr="26113-102" refid="5405">Techniker/in - Maschinentechnik (Mechatronik)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2094">Mechatroniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1733">Elektrotechniker/in</abgrenzung>
+</kategorie>

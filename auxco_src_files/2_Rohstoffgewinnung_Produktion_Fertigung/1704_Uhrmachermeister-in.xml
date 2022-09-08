@@ -1,0 +1,18 @@
+<kategorie>
+  <id>1704</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Uhrmacherhandwerk</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Produktion von Uhren leiten und überwachen; fachlich besonders anspruchsvolle Arbeiten übernehmen und ausführen, z.B. Restaurierung besonders wertvoller Uhren; Schulung und Weiterbildung für Mitarbeiter organisieren und den betrieblichen Teil der Ausbildung organisieren und durchführen </taetigkeitsbeschreibung>
+  <bezeichnung>Uhrmachermeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24593">Aufsichtskräfte - Feinwerk- und Werkzeugtechnik</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="24593-105" refid="2501">Uhrmachermeister/in</dkz>
+      <dkz codenr="24593-101" refid="2409">Feinwerkmechanikermeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2052">Feinmechanikerhelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2048">Feinmechaniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1721">Uhrmacher/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1841">Gold- und Silberschmied/in</abgrenzung>
+</kategorie>

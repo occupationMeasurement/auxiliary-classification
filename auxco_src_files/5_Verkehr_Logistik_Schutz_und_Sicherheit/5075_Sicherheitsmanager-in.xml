@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5075</id>
+  <taetigkeit>Untersuchung des Ausmaßes und der Ursachen von Sicherheitsgefährdungen sowie die Entwicklung von Sicherheitskonzepten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Risiko- und Gefährdungsanalysen erstellen; Maßnahmen zur Prävention von Unfällen entwickeln; bestehende Sicherheitssysteme und -strukturen analysieren und evaluieren; neue Methoden und Verfahren für das Sicherheitsmanagement ausarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Sicherheitsmanager/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53184">Obj.Pers.Brandschutz (ssT)-Experte</kldb>
+      <isco schluessel="2421">Management and organization analysts</isco>
+      <dkz codenr="53184-100" refid="69769">Sicherheitsmanager/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5076">Aufsichtsleiter/in – Sicherheitswesen</abgrenzung>
+  <abgrenzung typ="hoch" refid="5074">Schließ- und Sicherungstechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5064">Arbeitsschutzingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5079">Kriminalbeamter/-beamtin</abgrenzung>
+  <abgrenzung typ="mittel" refid="5078">Berufe im Polizeivollzugsdienst - hoch komplexe Tätigkeiten</abgrenzung>
+</kategorie>

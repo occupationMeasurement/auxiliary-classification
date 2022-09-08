@@ -1,0 +1,18 @@
+<kategorie>
+  <id>9506</id>
+  <taetigkeit>Fertigung und Reparatur von Pelzbekleidung in der Maß- und Einzelfertigung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Pelzbekleidung entwerfen und Schnitte anfertigen; Fellaufteilung planen und berechnen; Pelze sortieren und Beschädigungen ausbessern; Pelze, Leder und Stoffe zuschneiden, in Form ziehen und fixieren; Pelze maschinell oder von Hand zusammenfügen; Kunden und Kundinnen zu Eigenschaften und Pflege beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Kürschner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28342">Pelzbe- und -verarbeitung - Fachkraft</kldb>
+      <isco schluessel="7531">Tailors, dressmakers, furriers and hatters</isco>
+      <dkz codenr="28342-107" refid="13610">Kürschner/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9092">Pelzverarbeitungshelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9021">Schneider/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9110">Gerber/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9054">Pelztechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9052">Schuhmacher/in</abgrenzung>
+</kategorie>

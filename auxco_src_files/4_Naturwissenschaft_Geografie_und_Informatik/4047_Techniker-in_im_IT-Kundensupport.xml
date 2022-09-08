@@ -1,0 +1,17 @@
+<kategorie>
+  <id>4047</id>
+  <taetigkeit>Technische Unterstützung bei der Installation, Anwendung und Wartung von IT-Systemen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Anwenderfragen zum Software- oder Hardware-Betrieb beantworten; Reklamationen von Kunden abklären; technische Fehler lokalisieren und beheben; in Bedienungsanleitungen und technischen Handbüchern nachschlagen, um Lösungen zu finden und zu implementieren</taetigkeitsbeschreibung>
+  <bezeichnung>Techniker/in im IT-Kundensupport</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43223">IT-Anwendungsberatung - Spezialist</kldb>
+      <isco schluessel="3512">Information and communications technology user support technicians</isco>
+      <dkz codenr="43223-102" refid="15308">IT-Kundenbetreuer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4048">IT-Berater/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4035">Betriebsinformatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4251">Leiter/in - IT-Vertrieb und -Anwendungsberatung</abgrenzung>
+  <abgrenzung typ="mittel" refid="4049">IT-System-Kaufmann/ -frau</abgrenzung>
+</kategorie>

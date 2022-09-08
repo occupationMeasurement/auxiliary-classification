@@ -1,0 +1,15 @@
+<kategorie>
+  <id>5058</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Baugeräteführung und Transportgeräteführung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kräne, Erd- und Tiefbaugeräte bzw. Erdbaumaschinen auf deren arbeitssicheren Zustand prüfen; Instandhaltung von Baumaschinen veranlassen; Einhaltung von Terminen sicherstellen; Schulung und Weiterbildung für Mitarbeiter durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Bauhofmeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52593">Aufsicht - Bau-, Transportgeräteführung</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="52593-101" refid="4816">Baumaschinenmeister/in</dkz>
+      <dkz codenr="52593-102" refid="7409">Bauhofverwalter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5257">Leiter/in - Bauplanung</abgrenzung>
+</kategorie>

@@ -1,0 +1,15 @@
+<kategorie>
+  <id>7076</id>
+  <taetigkeit>Bewertung der Qualität von Dienstleistungen und Pflegeleistungen in Einrichtungen des Gesundheits- und Sozialwesens</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Qualitätsberichte erstellen; Pläne für Qualitätssicherung entwerfen; Kostenstrukturen optimieren; Grad der Behinderung bzw. der Pflegebedürftigkeit von Patienten feststellen; häusliche Pflege- und Versorgungssituation von pflegebedürftigen Patienten in deren Wohnungen begutachten; Angehörige von Pflegebedürftigen beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Qualitätsmanagementbeauftragte/r im Gesundheits-/Sozialwesen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82243">Qualitätsbeauftragte im Gesundheitswesen - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3257">Environmental and occupational health inspectors and associates</isco>
+      <dkz codenr="82243-100" refid="27490">Qualitätsbeauftragte/r - Gesundheits-/Sozialwesen</dkz>
+      <dkz codenr="82243-101" refid="35002">Pflegesachverständige/r</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1827">Stationsleiter/in</abgrenzung>
+</kategorie>

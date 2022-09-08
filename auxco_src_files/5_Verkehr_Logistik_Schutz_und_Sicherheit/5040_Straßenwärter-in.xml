@@ -1,0 +1,17 @@
+<kategorie>
+  <id>5040</id>
+  <taetigkeit>Überprüfung und Instandhaltung von Straßen, Wegen und Tunneln</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. neue Fahrbahnmarkierungen anbringen bzw. aufmalen und ausbessern; Unfallstellen räumen; Verkehrszeichen aufstellen; Grasschnittarbeiten an fahrbahnnahen Grasflächen durchführen; Glühbirnen in Lampen austauschen und die Gläser reinigen; Verkehrssicherungs- und Telematiksysteme kontrollieren und ggf. reparieren lassen</taetigkeitsbeschreibung>
+  <bezeichnung>Straßenwärter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51212">Straßen-, Tunnelwärter/innen - Fachkraft</kldb>
+      <isco schluessel="9312">Civil engineering labourers</isco>
+      <dkz codenr="51212-104" refid="7199">Tunnelwärter/in</dkz>
+      <dkz codenr="51212-101" refid="4121">Fahrbahnmarkierer/in</dkz>
+      <dkz codenr="51212-103" refid="7193">Straßenwärter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5114">Straßenwärtermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5268">Straßenbauer/in</abgrenzung>
+</kategorie>

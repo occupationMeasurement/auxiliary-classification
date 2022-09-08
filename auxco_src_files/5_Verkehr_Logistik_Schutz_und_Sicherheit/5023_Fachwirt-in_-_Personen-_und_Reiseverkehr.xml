@@ -1,0 +1,19 @@
+<kategorie>
+  <id>5023</id>
+  <taetigkeit>Entwicklung und Vermarktung von Verkehrsdienstleistungen im Personen- und Reiseverkehr</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei der Preisgestaltung mitwirken; Tarife berechnen; bestehende Kontakte zu Kunden pflegen; Mitarbeiter beraten und fördern; Marketingprogramme aufstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Fachwirt/in - Personen- und Reiseverkehr</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51613">Verkehrskaufleute - Spezialist</kldb>
+      <isco schluessel="4323">Transport clerks</isco>
+      <dkz codenr="51613-110" refid="122241">Fachwirt/in - Personenverkehr und Mobilität</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5039">Logistikleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5024">Betriebswirt/in im Verkehrsmanagement</abgrenzung>
+  <abgrenzung typ="mittel" refid="5022">Verkehrsbetriebswirt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5025">Kaufmann/-frau für Spedition und Logistikdienstleistungen</abgrenzung>
+  <abgrenzung typ="hoch" refid="5030">Bahnbetriebskoordinator/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1820">Tourismuskaufmann/ -frau</abgrenzung>
+</kategorie>

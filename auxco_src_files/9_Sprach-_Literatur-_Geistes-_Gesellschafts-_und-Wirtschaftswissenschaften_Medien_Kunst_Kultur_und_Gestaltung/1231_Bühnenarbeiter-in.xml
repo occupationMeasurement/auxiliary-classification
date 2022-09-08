@@ -1,0 +1,16 @@
+<kategorie>
+  <id>1231</id>
+  <taetigkeit>Auf- und Abbau von Bühnen und Kulissen mit Muskelkraft</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Podeste, Gerüste und Traversen aufbauen; Ausstattungsteile montieren; Umbauarbeiten am Bühnenbild; Rücktransport von Materialien und Equipment zu Kunden oder Verleihfirmen</taetigkeitsbeschreibung>
+  <bezeichnung>Bühnenarbeiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94512">Berufe in der Veranstaltungs- und Bühnentechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7115">Carpenters and joiners</isco>
+      <dkz codenr="94512-104" refid="8544">Bühnenarbeiter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1232">Veranstaltungstechnik - Fachkraft</abgrenzung>
+  <abgrenzung typ="hoch" refid="1234">Beleuchter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1233">Technische/r Assistent/in - Bühne/Film/Fernsehen</abgrenzung>
+</kategorie>

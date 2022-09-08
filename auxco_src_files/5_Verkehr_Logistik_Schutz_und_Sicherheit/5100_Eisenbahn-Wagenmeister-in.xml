@@ -1,0 +1,31 @@
+<kategorie>
+  <id>5100</id>
+  <taetigkeit>Instandhaltung und technische Untersuchung von Eisenbahnfahrzeugen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Verkehrstauglichkeit von Eisenbahnfahrzeugen gewährleisten; die Durchführung der technischen Wagenuntersuchung überwachen und abnehmen; den technischen Zustand der Wagen und Ladungen mithilfe von Messinstrumenten kontrollieren; Mängel analysieren und notwendige Reparaturarbeiten veranlassen; Bremsproben durchführen; Arbeits- und Umweltschutzbestimmungen beachten</taetigkeitsbeschreibung>
+  <bezeichnung>Eisenbahn-Wagenmeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51113">Technischer Eisenbahnbetrieb -Spezialist</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren beruflichen Aufgaben, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren beruflichen Aufgaben gehört, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Aufsichtskraft">
+      <text>Ja</text>
+      <kldb schluessel="51193">Aufsichtskräfte - Technischer Betrieb im Eisenbahn-, Luft- und Schiffsverkehr</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="51193-102" refid="15196">Industriemeister/in - Techn. Wagenbehandlung - Eisenbahn</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="51113">Technischer Eisenbahnbetrieb -Spezialist</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="51113-101" refid="29045">Wagenmeister/in (Schienenverkehr)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5100">Eisenbahn-Wagenmeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5099">Wagenuntersucher/in (Bahn)</abgrenzung>
+  <abgrenzung typ="mittel" refid="5011">Eisenbahnbetriebsregler/in</abgrenzung>
+</kategorie>

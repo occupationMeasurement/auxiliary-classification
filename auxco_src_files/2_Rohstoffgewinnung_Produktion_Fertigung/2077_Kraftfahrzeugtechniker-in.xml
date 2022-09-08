@@ -1,0 +1,17 @@
+<kategorie>
+  <id>2077</id>
+  <taetigkeit>Konstruktion von Karosserien, Spezialaufbauten und Anhängern sowie komplexe Reparaturen an Kraftfahrzeugen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Konstruktionspläne mit CAD-Systemen erstellen; Trag- und Belastungsfähigkeit berechnen; Produktionsverfahren und -mittel optimieren; komplexe Störungen an Fahrzeugen ermitteln und beheben; spezifische und komplexe Ein- und Umbauten vornehmen; Neuentwicklungen auf dem Versuchsgelände testen</taetigkeitsbeschreibung>
+  <bezeichnung>Kraftfahrzeugtechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25213">Berufe in der Kraftfahrzeugtechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="25213-101" refid="5418">Techniker/in - Karosserie- und Fahrzeugbautechnik</dkz>
+      <dkz codenr="25213-102" refid="5419">Techniker/in - Kraftfahrzeugtechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2076">Kraftfahrzeugmechatroniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2078">Kraftfahrzeugingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+</kategorie>

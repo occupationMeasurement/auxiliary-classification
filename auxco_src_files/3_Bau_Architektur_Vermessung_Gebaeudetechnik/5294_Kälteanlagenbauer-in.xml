@@ -1,0 +1,37 @@
+<kategorie>
+  <id>5294</id>
+  <taetigkeit>Montage und Instandhaltung von Kühlräumen, Klimaanlagen und anderen kältetechnischen Systemen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bauteile und Anlagen der Kältetechnik fertigen; Anlagen zusammenbauen und montieren; Komponenten durch Verschweißen, Löten, Flanschen oder Verschrauben verbinden; elektronische Steuer-, Regel- und Überwachungseinrichtungen einstellen; fertige Anlagen auf ihre Funktion und Dichtheit überprüfen; bestehende Anlagen warten und Reparaturen durchführen; Filter und elektronische Komponenten auswechseln; Kältemittel sachgerecht handhaben; Altstoffe nach Vorschrift entsorgen; den unfallsicheren, wirtschaftlichen und umweltfreundlichen Betrieb von Kühlhäusern gewährleisten</taetigkeitsbeschreibung>
+  <bezeichnung>Kälteanlagenbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34232">Berufe in der Kältetechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7127">Air conditioning and refrigeration mechanic</isco>
+      <dkz codenr="34232-100" refid="2476">Kälteanlagenbauer/in</dkz>
+      <dkz codenr="34232-103" refid="35282">Mechatroniker/in - Kältetechnik</dkz>
+      <dkz codenr="34232-101" refid="7403">Kühlhauswärter/in</dkz>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren beruflichen Aufgaben, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren beruflichen Aufgaben gehört, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Aufsichtskraft">
+      <text>Ja</text>
+      <kldb schluessel="34293">Aufsichtskräfte - Klempnerei, Sanitär-, Heizungs- und Klimatechnik</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="34293-108" refid="2477">Kälteanlagenbauermeister/in</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="34232">Berufe in der Kältetechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7127">Air conditioning and refrigeration mechanic</isco>
+      <dkz codenr="34232-100" refid="2476">Kälteanlagenbauer/in</dkz>
+      <dkz codenr="34232-103" refid="35282">Mechatroniker/in - Kältetechnik</dkz>
+      <dkz codenr="34232-101" refid="7403">Kühlhauswärter/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5327">Klempner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1783">Kälte-Klimatechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5297">Gas- und Wasserinstallateur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3013">Isolierfacharbeiter/in</abgrenzung>
+</kategorie>

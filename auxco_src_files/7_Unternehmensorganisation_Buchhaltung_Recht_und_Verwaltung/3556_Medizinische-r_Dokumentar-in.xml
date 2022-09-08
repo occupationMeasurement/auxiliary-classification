@@ -1,0 +1,19 @@
+<kategorie>
+  <id>3556</id>
+  <taetigkeit>Erfassung, Strukturierung und Verwaltung medizinischer Datenbestände und Informationen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. medizinische Patientenaufzeichnungen, Aufnahme- und Entlassungsdokumente und andere medizinische Berichte in Aufzeichnungssysteme übertragen; nutzerfreundliches Datenmanagement sicherstellen und medizinische Spezialdokumentationen erstellen; statistische Auswertungen durchführen, z.B. für klinische Studien; bei der medizinischen Informationsvermittlung und Literaturdokumentation mitwirken; bei Einführung und Nutzung von Krankenhausinformationssystemen mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Medizinische/r Dokumentar/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73342">Medizinische Dokumentation - Fachkraft</kldb>
+      <isco schluessel="3252">Medical records and health information technicians</isco>
+      <dkz codenr="73342-100" refid="8336">Medizinische/r Dokumentar/in</dkz>
+      <dkz codenr="73342-101" refid="8338">Medizinische/r Dokumentationsassistent/in</dkz>
+      <dkz codenr="73342-102" refid="14389">Fachangestellte/r für Medien- u. Info.Dienste - Med. Doku.</dkz>
+      <dkz codenr="73342-104" refid="34931">Study-Nurse</dkz>
+      <dkz codenr="73342-103" refid="14888">Telemedizinische/r Assistent/in</dkz>
+      <dkz codenr="73342-105" refid="67112">Assistent/in - klinische Studien</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7003">Arztsekretär/in</abgrenzung>
+</kategorie>

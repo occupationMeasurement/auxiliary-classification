@@ -1,0 +1,17 @@
+<kategorie>
+  <id>1207</id>
+  <taetigkeit>Klavierbegleitung von Tänzern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Künstlern/Künstlerinnen Hilfestellungen geben z.B. bei Einsätzen; schwierige Tanzpartien einstudieren; szenische Proben musikalisch begleiten; Regieanweisungen umsetzen; Proben ggf. selbst leiten</taetigkeitsbeschreibung>
+  <bezeichnung>Korrepetitor/in - Ballett/Tanz</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94184">Musik-, Gesangs- und Dirigententätigeiten (sonstige spezifische Tätigkeiten) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2652">Musicians, singers and composers</isco>
+      <dkz codenr="94184-100" refid="8363">Ballettrepetitor/in</dkz>
+      <dkz codenr="94184-102" refid="59456">Korrepetitor/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1205">Musik- und Sounddesigner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1200">Musiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8041">Musiklehrer/in</abgrenzung>
+</kategorie>

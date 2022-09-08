@@ -1,0 +1,19 @@
+<kategorie>
+  <id>8005</id>
+  <taetigkeit>Erziehung und Betreuung von Kindern und Jugendlichen in Heimen und anderen familienersetzenden Einrichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. mit der Herkunftsfamilie zusammenarbeiten; Hausaufgaben überwachen; Freizeitaktivitäten organisieren und beaufsichtigen; Erziehung zur Selbstständigkeit</taetigkeitsbeschreibung>
+  <bezeichnung>Heimerzieher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83112">Kinderbetreuung, -erziehung - Fachkraft</kldb>
+      <isco schluessel="3412">Social work associate professionals </isco>
+      <dkz codenr="83112-101" refid="9100">Kinderdorfmutter/-vater</dkz>
+      <dkz codenr="83112-102" refid="9101">Erzieher/in - Jugend- und Heimerziehung</dkz>
+      <dkz codenr="83112-105" refid="9105">Heimerzieher/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8003">Erzieher/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8002">Kinderbetreuer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8012">Kindergartenleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8007">Heilerziehungspfleger/in in Pflegeeinrichtungen</abgrenzung>
+</kategorie>

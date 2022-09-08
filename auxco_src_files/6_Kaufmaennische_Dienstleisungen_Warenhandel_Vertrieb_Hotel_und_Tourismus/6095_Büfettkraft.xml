@@ -1,0 +1,16 @@
+<kategorie>
+  <id>6095</id>
+  <taetigkeit>Anrichten von Buffets in gastronomischen Betrieben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gäste begrüßen und als Ansprechpartner zur Verfügung stehen; die Anzahl der Gäste kalkulieren; Tische, Speisen und Getränke vorbereiten; das Buffet anrichten; Bestellungen aufnehmen und Speisen ausgeben; Büfettvorräte auffüllen; Getränke servieren</taetigkeitsbeschreibung>
+  <bezeichnung>Büfettkraft</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63382">Gastronomie (s.s.T.) - Fachkraft</kldb>
+      <isco schluessel="5131">Waiters</isco>
+      <dkz codenr="63382-104" refid="10066">Frühstücksleiter/in</dkz>
+      <dkz codenr="63382-106" refid="10073">Büfettkraft</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6075">Küchenhelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1822">Kellner/in</abgrenzung>
+</kategorie>

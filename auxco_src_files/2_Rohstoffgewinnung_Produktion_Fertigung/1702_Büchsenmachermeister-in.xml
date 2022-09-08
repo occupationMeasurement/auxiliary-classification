@@ -1,0 +1,17 @@
+<kategorie>
+  <id>1702</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Waffentechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Produktion von Schusswaffen planen, leiten und überwachen; technische Zeichnungen und Schaltpläne anfertigen und deren Ausführung veranlassen; Schulung und Weiterbildung für Mitarbeiter organisieren und den betrieblichen Teil der Ausbildung organisieren und durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Büchsenmachermeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24593">Aufsichtskräfte - Feinwerk- und Werkzeugtechnik</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz refid="24593-103" codenr="2442">Büchsenmachermeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1848">Waffentechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2143">Wehrtechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2053">Werkzeugmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1709">Wehrverwaltungsbeamter/in</abgrenzung>
+</kategorie>

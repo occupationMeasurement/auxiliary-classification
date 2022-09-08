@@ -1,0 +1,15 @@
+<kategorie>
+  <id>8083</id>
+  <taetigkeit>Planung und Koordination des Dienstbetriebs in Justizvollzugsanstalten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. angemessene Arbeit für die Gefangenen beschaffen; Arbeits- und Lieferverträge organisieren und erstellen; alle zum Betrieb der Anstalt erforderlichen Gebrauchsgüter beschaffen und verwalten; Vormeldungen und Anträge der Gefangenen bearbeiten; für die Einhaltung der Sicherheitsvorschriften sorgen</taetigkeitsbeschreibung>
+  <bezeichnung>Justizvollzugsfachwirt/in (gehobener Justizvollzugsdienst)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53243">Justizvollzugsdienst - Spezialist</kldb>
+      <isco schluessel="3359">Government regulatory associate professionals not elsewhere classified</isco>
+      <dkz codenr="53243-100" refid="7594">Beamt(er/in) - Justizvollzugsdienst (geh. Dienst)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5082">Justizwachtmeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5084">Gefängnisdirektor/in (höherer Dienst)</abgrenzung>
+</kategorie>

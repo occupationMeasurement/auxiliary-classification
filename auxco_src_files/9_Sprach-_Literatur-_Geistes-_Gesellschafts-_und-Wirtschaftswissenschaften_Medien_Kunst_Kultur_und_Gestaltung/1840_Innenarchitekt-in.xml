@@ -1,0 +1,49 @@
+<kategorie>
+  <id>1840</id>
+  <taetigkeit>Durchführung von Tätigkeiten bei der Gestaltung, Einrichtung und Ausstattung von Innenräumen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Entwurfsplanung und Genehmigungsplanung durchführen; räumliche und ästhetische Anforderungen sondieren; Gestaltungskonzeptionen für Innenräume von Gebäuden formulieren; Materialien festlegen; Bauausführung überwachen; kunden- bzw. zielgruppenspezifische Faktoren beachten; Raum- und Bauteile ausmessen; normgerechte Werk- und Detailpläne darstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Innenarchitekt/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93212">Innenarchitektur - Fachkraft</kldb>
+      <isco schluessel="3432">Interior designers and decorators</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="93212">Innenarchitektur - Fachkraft</kldb>
+      <isco schluessel="3432">Interior designers and decorators</isco>
+      <dkz codenr="93212-100" refid="8562">Assistent/in - Innenarchitektur</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="93213">Innenarchitektur - Spezialist</kldb>
+      <isco schluessel="3432">Interior designers and decorators</isco>
+      <dkz codenr="93213-101" refid="13947">Gestalter/in - Holz/Möbel/Raumgestaltung</dkz>
+      <dkz codenr="93213-103" refid="27713">Gestalter/in - Farbtechnik/Raumgestaltung</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="93213">Innenarchitektur - Spezialist</kldb>
+      <isco schluessel="3432">Interior designers and decorators</isco>
+      <dkz codenr="93213-101" refid="13947">Gestalter/in - Holz/Möbel/Raumgestaltung</dkz>
+      <dkz codenr="93213-103" refid="27713">Gestalter/in - Farbtechnik/Raumgestaltung</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="93214">Innenarchitektur - Experte</kldb>
+      <isco schluessel="2161">Building architects</isco>
+      <dkz codenr="93214-103" refid="58724">Ingenieur/in - Innenarchitektur</dkz>
+      <dkz codenr="93214-104" refid="100517">Innenarchitekt/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2146">Technische/r Zeichner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5124">Ausstellungsgestalter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5170">Raumausstatter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5125">Raumausstatter/in- Restaurierungsarbeiten</abgrenzung>
+  <abgrenzung typ="hoch" refid="5252">Architekt/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5126">Raumausstattermeister/in</abgrenzung>
+</kategorie>

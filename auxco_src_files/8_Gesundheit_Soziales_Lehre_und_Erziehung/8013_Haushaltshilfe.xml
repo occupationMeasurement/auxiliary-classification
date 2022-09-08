@@ -1,0 +1,16 @@
+<kategorie>
+  <id>8013</id>
+  <taetigkeit>Unterstützung von Privathaushalten bei den anfallenden hauswirtschaftlichen Aufgaben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Staubsaugen, Putzen, Essen zubereiten, Wäsche waschen und bügeln, Möbel abstauben</taetigkeitsbeschreibung>
+  <bezeichnung>Haushaltshilfe</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83211">Hauswirtschaft - Helfer</kldb>
+      <isco schluessel="9111">Domestic cleaners and helpers</isco>
+      <dkz codenr="83211-102" refid="10182">Hauswirtschaftshelfer/in/-assistent/in</dkz>
+      <dkz codenr="83211-104" refid="90128">Helfer/in - Hauswirtschaft</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8014">Hauswirtschafter/in in Privathaushalten</abgrenzung>
+  <abgrenzung typ="hoch" refid="8062">Hauswirtschafter/in in sozialen und gewerblichen Einrichtungen</abgrenzung>
+</kategorie>

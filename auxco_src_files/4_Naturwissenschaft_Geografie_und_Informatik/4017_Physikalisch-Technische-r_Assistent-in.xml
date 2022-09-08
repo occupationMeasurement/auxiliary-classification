@@ -1,0 +1,17 @@
+<kategorie>
+  <id>4017</id>
+  <taetigkeit>Aufbau von physikalisch-technischen Versuchsanlagen und Durchführung von Laborversuchen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Proben entnehmen; Geräte und Versuchsaufbauten pflegen und instand halten; Eigenschaften wie Lichtintensität, elektrische Feldstärken, Kräfte und Temperaturen messen und berechnen</taetigkeitsbeschreibung>
+  <bezeichnung>Physikalisch-Technische/r Assistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41412">Physikalisch-tech.Laboratorium-Fachkraft</kldb>
+      <isco schluessel="3111">Chemical and physical science technicians</isco>
+      <dkz codenr="41412-100" refid="5824">Physikalisch-technische/r Assistent/in</dkz>
+      <dkz codenr="41412-101" refid="6349">Physiklaborant/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1794">Werkstoffprüfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1795">Baustoffprüfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4013">Chemisch-Technische/r Assistent/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,62 @@
+<kategorie>
+  <id>1740</id>
+  <taetigkeit>Entwurf und Design von Stoffen, Fäden, Garnen und Strickwaren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Maschenmuster, Strukturen und Dessins entwickeln; Mustervorlagen für Web- und Maschenwaren, Bodenbeläge, bestickte oder bedruckte Stoffe erstellen; Musterentwürfe von Textildesignern bearbeiten und Kundenwünsche berücksichtigen; Musterelemente bearbeiten und gruppieren; Produktion der Musterkollektion festlegen und diese auf Messen oder bei Kunden präsentieren; Datenträger für die Steuerung der Musterführung anfertigen; Entwürfe und Vorlagen archivieren; Marktanalysen durchführen und gegebenenfalls Änderungen veranlassen</taetigkeitsbeschreibung>
+  <bezeichnung>Textilmustergestalter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28113">Berufe in der Textilgestaltung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="2" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="28112">Textilgestaltung - Fachkraft</kldb>
+      <isco schluessel="7532">Garment and related patternmakers and cutters</isco>
+      <dkz codenr="28112-126" refid="35162">Musterzeichner/in - Stoffdruckerei</dkz>
+      <dkz codenr="28112-103" refid="3325">Sticker/in</dkz>
+      <dkz codenr="28112-108" refid="3335">Tapisserist/in</dkz>
+      <dkz codenr="28112-125" refid="35161">Musterzeichner/in - Stickerei</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="28113">Textilgestaltung - Spezialist</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+      <dkz codenr="28112-109" refid="8463">Textilmustergestalter/in - Handstickerei</dkz>
+      <dkz codenr="28112-110" refid="8465">Textilmustergestalter/in - Gewebe</dkz>
+      <dkz codenr="28112-111" refid="8466">Textilmustergestalter/in - Textildruck</dkz>
+      <dkz codenr="28112-112" refid="8467">Textilmustergestalter/in - Masche</dkz>
+      <dkz codenr="28112-113" refid="8468">Produktgestalter/in - Textil</dkz>
+      <dkz codenr="28112-114" refid="8469">Textilmustergestalter/in - Maschinenstickerei</dkz>
+      <dkz codenr="28112-115" refid="8470">Textilmustergestalter/in - Tufting (Nadelflor)</dkz>
+      <dkz codenr="28112-128" refid="90023">Textilgestalter/in im Handwerk - Sticken</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="28113">Textilgestaltung - Spezialist</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+      <dkz codenr="28112-109" refid="8463">Textilmustergestalter/in - Handstickerei</dkz>
+      <dkz codenr="28112-110" refid="8465">Textilmustergestalter/in - Gewebe</dkz>
+      <dkz codenr="28112-111" refid="8466">Textilmustergestalter/in - Textildruck</dkz>
+      <dkz codenr="28112-112" refid="8467">Textilmustergestalter/in - Masche</dkz>
+      <dkz codenr="28112-113" refid="8468">Produktgestalter/in - Textil</dkz>
+      <dkz codenr="28112-114" refid="8469">Textilmustergestalter/in - Maschinenstickerei</dkz>
+      <dkz codenr="28112-115" refid="8470">Textilmustergestalter/in - Tufting (Nadelflor)</dkz>
+      <dkz codenr="28112-128" refid="90023">Textilgestalter/in im Handwerk - Sticken</dkz>
+    </antwort>
+    <antwort position="5" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="28114">Textilgestaltung - Experte</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+      <dkz codenr="28114-102" refid="59271">Textildesigner/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1739">Textiltechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1839">Produkt- und Industriedesigner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9014">Modedesigner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9013">Schnittmustermacher/in für Kleidungsstücke</abgrenzung>
+  <abgrenzung typ="mittel" refid="9010">Textilproduktionsleiter/in</abgrenzung>
+</kategorie>

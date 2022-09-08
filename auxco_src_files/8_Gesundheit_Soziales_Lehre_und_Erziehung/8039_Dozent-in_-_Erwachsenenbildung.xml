@@ -1,0 +1,24 @@
+<kategorie>
+  <id>8039</id>
+  <taetigkeit>Vermittlung allgemeiner berufsbezogener Kompetenzen an Erwachsene in außerschulischen Bildungseinrichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Interessenten hinsichtlich der jeweiligen Bildungsmöglichkeiten beraten; bedarfsgerechte Weiterbildungsprogramme planen; Seminare vorbereiten; Lernmaterialien erstellen; Trainings durchführen; den Kursteilnehmern Feedback geben</taetigkeitsbeschreibung>
+  <bezeichnung>Dozent/in - Erwachsenenbildung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84404">Erwachsenenbildung (o.S.) - Experte</kldb>
+      <isco schluessel="2320">Vocational education teachers</isco>
+      <dkz codenr="84404-100" refid="6614">Verkaufstrainer/in</dkz>
+      <dkz codenr="84404-105" refid="27495">Verhaltenstrainer/in, Kommunikationstrainer/in</dkz>
+      <dkz codenr="84404-103" refid="9677">Lehrer/in/Dozent/in - Erwachsenenbildung</dkz>
+      <dkz codenr="84404-104" refid="9678">Bildungsreferent/in</dkz>
+      <dkz codenr="84404-110" refid="100537">Bildungsmanager/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8034">Berufsschullehrer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8035">Lehrlingsausbilder/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8041">Musiklehrer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8045">Kunstpädagoge/-pädagogin bzw.Theaterpädagoge/-pädagogin</abgrenzung>
+  <abgrenzung typ="mittel" refid="8046">IT- Trainer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8047">Fremdsprachlehrer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8051">Leiter/in - außerschulische Bildungseinrichtungen</abgrenzung>
+</kategorie>

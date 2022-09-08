@@ -1,0 +1,17 @@
+<kategorie>
+  <id>7029</id>
+  <taetigkeit>Untersuchung von minderjährigen Patienten und Diagnose von Kinderkrankheiten sowie Festlegung geeigneter Therapiemaßnahmen oder Überweisung zu Fachärzten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Labor- und Röntgenuntersuchungen veranlassen; Krankheitsbilder ermitteln; Eltern über Therapiemöglichkeiten informieren; Medikamente und andere Behandlungsmaßnahmen bei Kinderkrankheiten, Erkältungskrankheiten, Epilepsie oder ADHS verschreiben; ärztliche Gutachten verfassen; über Vorsorgeuntersuchungen informieren</taetigkeitsbeschreibung>
+  <bezeichnung>Facharzt/-ärztin – Kinder- und Jugendmedizin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81414">Fachärzte/-ärztinnen in der Kinder- und Jugendmedizin - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2212">Specialist medical practitioners</isco>
+      <dkz codenr="81414-100" refid="8651">Facharzt/-ärztin - Kinder- und Jugendmedizin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7028">Allgemeinarzt /-ärztin</abgrenzung>
+  <abgrenzung typ="hoch" refid="7033">Neurologe/ Neurologin </abgrenzung>
+  <abgrenzung typ="mittel" refid="7031">Chirurg/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7035">Chefarzt/-ärztin</abgrenzung>
+</kategorie>

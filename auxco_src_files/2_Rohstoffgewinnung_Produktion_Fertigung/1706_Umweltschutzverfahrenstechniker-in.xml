@@ -1,0 +1,31 @@
+<kategorie>
+  <id>1706</id>
+  <taetigkeit>Entwicklung und Instandhaltung von umwelttechnischen Anlagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Anlagen der Umweltschutzverfahrenstechnik, z.B. für den Immissionsschutz, konstruieren und warten; Messungen, Tests und Laborversuche durchführen, Testberichte und Gutachten erstellen; Arbeiten und Betriebsabläufe im eigenen Verantwortungsbereich abstimmen und Arbeitsverteilung planen</taetigkeitsbeschreibung>
+  <bezeichnung>Umweltschutzverfahrenstechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25183">Berufe in der Maschinenbau- und Betriebstechnik (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="25184">Berufe in der Maschinenbau- und Betriebstechnik (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2144">Mechanical engineers</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="25183">Berufe in der Maschinenbau- und Betriebstechnik (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="25183-101" refid="5473">Techniker/in - Maschinentechnik (Umweltschutzverfahrenst.)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1799">Umweltschutzingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1759">Leiter/in - Umweltschutztechnik</abgrenzung>
+  <abgrenzung typ="hoch" refid="4254">Energieberater/in</abgrenzung>
+</kategorie>

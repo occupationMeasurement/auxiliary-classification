@@ -1,0 +1,15 @@
+<kategorie>
+  <id>7037</id>
+  <taetigkeit>Diagnose und Behandlung von Krankheiten und Verletzungen bei Tieren mit naturheilkundlichen Methoden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. akute oder chronische Erkrankungen diagnostizieren; Homöopathie, Akupunktur, traditionelle chinesische Medizin, Magnetfeld- und Physiotherapie anwenden; Verhaltenstherapien durchführen; nicht verschreibungspflichtige Medikamente verordnen; Wundbehandlungen durchführen und Verbände anlegen; Geburtshilfe leisten</taetigkeitsbeschreibung>
+  <bezeichnung>Tierheilpraktiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81532">Tierheilpraktiker/innen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="2250">Veterinarians</isco>
+      <dkz codenr="81532-100" refid="564">Tierheilpraktiker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7036">Tierarzt/-ärztin</abgrenzung>
+  <abgrenzung typ="mittel" refid="1826">Tierarzthelfer/in</abgrenzung>
+</kategorie>

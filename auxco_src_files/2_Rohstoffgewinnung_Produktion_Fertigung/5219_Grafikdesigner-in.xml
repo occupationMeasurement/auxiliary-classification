@@ -1,0 +1,45 @@
+<kategorie>
+  <id>5219</id>
+  <taetigkeit>Design von Grafiken, Layouts und anderem Bildmaterial</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. grafische Entwürfe für Anzeigen, Firmenlogos, Broschüren, Messestände, Ausstellungen oder Internetauftritte erstellen; Designkonzepte anhand von Skizzen, Illustrationen, Diagrammen oder Layouts kommunizieren; Gestaltungskonzeptionen mit Kunden absprechen und entwickeln; von Kunden oder Vertriebs- und Marketingabteilungen gelieferte Vorlagen bearbeiten; Text, Bild und Grafik mithilfe von Bildbearbeitungs- und Layoutsoftware gestalten; im Bereich Designmanagement bei Marketing-, Vertriebs- und Kommunikationskonzepten mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Grafikdesigner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23222">Berufe im Grafik-, Kommunikations- und Fotodesign - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="2166">Graphic and multimedia designers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="23222">Berufe im Grafik-, Kommunikations- und Fotodesign - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="2166">Graphic and multimedia designers</isco>
+      <dkz codenr="23222-101" refid="8449">Designer/in (Ausbildung) - Grafik</dkz>
+      <dkz codenr="23222-102" refid="8452">Designer/in (Ausbildung) - Medien</dkz>
+      <dkz codenr="23222-106" refid="14675">Designer/in (Ausbildung) - Kommunikationsdesign</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine vertiefende berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="23223">Berufe im Grafik-, Kommunikations- und Fotodesign - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2166">Graphic and multimedia designers</isco>
+      <dkz codenr="23223-110" refid="15505">Gestalter/in - Grafikdesign</dkz>
+      <dkz codenr="23223-102" refid="8450">Designer/in (Fachschule) - Informationsdesign</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium im Bereich Design und Mediendesign oder eines vergleichbaren Fachs</text>
+      <kldb schluessel="23223">Berufe im Grafik-, Kommunikations- und Fotodesign - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2166">Graphic and multimedia designers</isco>
+      <dkz codenr="23223-110" refid="15505">Gestalter/in - Grafikdesign</dkz>
+      <dkz codenr="23223-102" refid="8450">Designer/in (Fachschule) - Informationsdesign</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium im Bereich Design und Mediendesign oder eines vergleichbaren Fachs</text>
+      <kldb schluessel="23224">Grafik-Kommunikat.,Fotodesign-Experte</kldb>
+      <isco schluessel="2166">Graphic and multimedia designers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5222">Mediengestalter/in - Digital und Print</abgrenzung>
+  <abgrenzung typ="mittel" refid="3503">Marketingassistent/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,15 @@
+<kategorie>
+  <id>5280</id>
+  <taetigkeit>Ausführung von Instandhaltungsarbeiten im Bau- und Restaurierungswesen zum Schutz von Denkmälern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bauwerke und Bauteile zur Baugeschichte stilistisch einordnen; Objekte mithilfe der Fotogrammetrie und computergestützter Auswertungsverfahren vermessen und untersuchen; bauphysikalische und bauchemische Untersuchungen durchführen; Bauwerke hinsichtlich Statik und Mauerfeuchte untersuchen; Schäden an Baudenkmälern feststellen und vermessen; Bauaufnahmen, Zeichnungen und Pläne anfertigen; Bauaufsicht und Bautechniker unterstützen; Ausführungsarbeiten der Handwerker koordinieren; bei der Erstellung von Denkmallisten und bei Verzeichnissen von zu schützenden Objekten mitwirken; Umweltschutz- und Unfallverhütungsvorschriften beachten</taetigkeitsbeschreibung>
+  <bezeichnung>Denkmaltechnische/r Assistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="31152">Bauwerkserhaltung,-erneuerung-Fachkraft - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians </isco>
+      <dkz codenr="31152-100" refid="8353">Denkmaltechnische/r Assistent/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1777">Denkmalsanierungsplaner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1775">Bautechniker/in</abgrenzung>
+</kategorie>

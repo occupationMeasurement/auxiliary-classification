@@ -1,0 +1,18 @@
+<kategorie>
+  <id>3504</id>
+  <taetigkeit>Beaufsichtigung und Koordination der Bürokräfte im Dialogmarketing sowie Übernahme organisatorischer Aufgaben in Callcentern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Arbeitszeiten und Arbeitsaufgaben festlegen und zuteilen; arbeitsbezogene Probleme klären; Berichte erstellen und der Geschäftsleitung vorlegen; Mitarbeiter bezüglich der Unternehmensrichtlinien schulen oder die Durchführung von Schulungen veranlassen; die Arbeitsleistung von Mitarbeiter evaluieren; Einhaltung von inhaltlichen Vorgaben, Budgets und gesetzlichen Vorschriften überwachen; bei Rekrutierung, Befragung und Auswahl von Mitarbeitern unterstützen</taetigkeitsbeschreibung>
+  <bezeichnung>Teamleiter/in - Callcenter</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92123">Dialogmarketing- Spezialist</kldb>
+      <isco schluessel="3341">Office supervisors</isco>
+      <dkz codenr="92123-100" refid="14065">Teamleiter/in - Callcenter</dkz>
+      <dkz codenr="92123-102" refid="14067">Trainer/in, Supervisor/in - Callcenter</dkz>
+      <dkz codenr="92123-104" refid="15054">Fachwirt/in - Callcenter</dkz>
+      <dkz codenr="92123-105" refid="51036">Betriebswirt/in (Fachschule) - Callcentermanagement</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3515">Werbeleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1002">Callcenteragent/in (Inbound)</abgrenzung>
+</kategorie>

@@ -1,0 +1,14 @@
+<kategorie>
+  <id>1111</id>
+  <taetigkeit>Erforschung demographischer Fragestellungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bevölkerungsstrukturen und -entwicklungen in Anbetracht von politischen und ökonomischen Bedingungen analysieren; Erklärungsmodelle entwickeln; Daten erhben und auswerten; Muster in der Entwicklung erkennen</taetigkeitsbeschreibung>
+  <bezeichnung>Demograf/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="91354">Berufe in der Demografie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2120">Mathematicians, actuaries and statisticians</isco>
+      <dkz codenr="91354-100" refid="9761">Demograf/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4202">Statistiker/in</abgrenzung>
+</kategorie>

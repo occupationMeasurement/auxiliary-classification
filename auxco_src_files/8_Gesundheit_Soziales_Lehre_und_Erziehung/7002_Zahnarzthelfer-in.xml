@@ -1,0 +1,40 @@
+<kategorie>
+  <id>7002</id>
+  <taetigkeit>Unterstützung von Zahnärzten bei der  Untersuchung, Behandlung und Beratung von Patienten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Füllungen oder Abdrucksmassen anrühren; Röntgenaufnahmen anfertigen; zahnmedizinische Materialien und Instrumente vorbereiten; Patienten vorbeugende Maßnahmen der Mundhygiene erklären; Patienten empfangen</taetigkeitsbeschreibung>
+  <bezeichnung>Zahnarzthelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81112">Zahnmedizinische Fachangestellte - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3251">Dental assistants and therpists</isco>
+      <dkz codenr="81112-104" refid="8926">Kieferorthopädische/r Fachhelfer/in</dkz>
+      <dkz codenr="81112-109" refid="14705">Zahnmedizinische/r Fachangestellte/r</dkz>
+      <dkz codenr="81113-100" refid="8929">Zahnmedizinische/r Fachassistent/in</dkz>
+      <dkz codenr="81113-101" refid="15836">Dentalhygieniker/in</dkz>
+      <dkz codenr="81113-103" refid="28261">Zahnmedizinische/r Prophylaxeassistent/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="81112">Zahnmedizinische Fachangestellte - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3251">Dental assistants and therapists</isco>
+      <dkz codenr="81112-104" refid="8926">Kieferorthopädische/r Fachhelfer/in</dkz>
+      <dkz codenr="81112-109" refid="14705">Zahnmedizinische/r Fachangestellte/r</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="81113">Zahnmedizinische Fachangestellte - komplexe Spezialistenfähigkeit</kldb>
+      <isco schluessel="3251">Dental assistants and therapists</isco>
+      <dkz codenr="81113-100" refid="8929">Zahnmedizinische/r Fachassistent/in</dkz>
+      <dkz codenr="81113-101" refid="15836">Dentalhygieniker/in</dkz>
+      <dkz codenr="81113-103" refid="28261">Zahnmedizinische/r Prophylaxeassistent/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7110">Zahntechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7001">Arzthelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7003">Arztsekretär/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7005">Gesundheitsbetriebswirt/in</abgrenzung>
+</kategorie>

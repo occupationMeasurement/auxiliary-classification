@@ -1,0 +1,17 @@
+<kategorie>
+  <id>6039</id>
+  <taetigkeit>Verkauf von Produkten aus dem Sanitäts- und Medizinbedarf im Einzelhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden beim Kauf von rehabilitationstechnischen Geräten, Sanitätswaren oder medizintechnischen Geräten beraten und deren sachgerechten Gebrauch erläutern; Zahlungsmittel entgegennehmen; Gehstützen oder Sonderkonstruktionen an die individuelle Bedürfnisse der Verbraucher anpassen und warten; Warenbestände überprüfen und sowohl Einkaufs- als auch Lagerlisten führen; Nachbestellungen tätigen und deren Lieferfristen prüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Fachverkäufer/in - Sanitäts- und Medizinbedarf</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62422">Verkauf Sanitäts, Medizinbedarf-Fachkraft</kldb>
+      <isco schluessel="5223">Shop sales assistants</isco>
+      <dkz codenr="62422-103" refid="28816">Fachmann/-frau - Rehatechnik/Sanitätshauswaren</dkz>
+      <dkz codenr="62422-100" refid="6574">Kaufmann/-frau - Einzelhandel (Medizintechn./Sanitätsfach.)</dkz>
+      <dkz codenr="62422-101" refid="6660">Fachverkäufer/in - Sanitätsfachhandel</dkz>
+      <dkz codenr="62422-102" refid="6661">Fachverkäufer/in - Medizintechnik, med. Einrichtungen</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+</kategorie>

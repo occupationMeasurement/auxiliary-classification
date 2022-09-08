@@ -1,0 +1,18 @@
+<kategorie>
+  <id>6090</id>
+  <taetigkeit>Zubereitung einfacher Speisen sowie Bedienen von Gästen in Schnellrestaurants</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gäste empfangen und über das Angebot informieren; Bestellungen aufnehmen; Lebensmittel mithilfe manueller oder elektrischer Vorrichtungen reinigen, schälen, aufschneiden und hacken; Burger, Salate und andere einfache Speisen nach standardisierten Vorgaben zubereiten oder aufwärmen; Speisen portionieren; Speisen zum Mitnehmen verpacken oder zum sofortigen Verzehr servieren; Zahlungen entgegennehmen; Hygiene- und Sicherheitsvorschriften befolgen</taetigkeitsbeschreibung>
+  <bezeichnung>Servicekraft - Systemgastronomie</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63312">Systemgastronomie - Fachkraft</kldb>
+      <isco schluessel="5246">Food service counter attendants</isco>
+      <dkz codenr="63312-100" refid="9973">Assistent/in - Systemgastronomie</dkz>
+      <dkz codenr="63312-101" refid="9974">Fachmann/-frau - Systemgastronomie</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6071">Betriebswirt/in - Systemgastronomie</abgrenzung>
+  <abgrenzung typ="hoch" refid="6074">Fast-Food- und Imbisskoch/-köchin</abgrenzung>
+  <abgrenzung typ="hoch" refid="6075">Küchenhelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1822">Kellner/in</abgrenzung>
+</kategorie>

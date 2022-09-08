@@ -1,0 +1,41 @@
+<kategorie>
+  <id>9055</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Herstellung und Verarbeitung  von Schuhen, Lederwaren oder Pelzwaren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Arbeitsabläufe inhaltlich und terminlich planen, organisieren und steuern; Personaleinsatz planen; Materialverbrauch und Zeitaufwände berechnen; Betriebsbereitschaft von Produktionsanlagen sicherstellen; Wartungs- und Reinigungsarbeiten veranlassen; fachlich anspruchsvolle Aufgaben durchführen und z.B. Maß- oder Orthopädieschuhe und Orthesen fertigen; Felle sortieren und zusammenstellen; Qualitätssicherungssysteme durchsetzen und Qualitätssicherungsmaßnahmen durchführen; Einhaltung der Arbeits-, Sicherheits-, Gesundheits- und Umweltschutzbestimmungen durchsetzen; Mitarbeiter anleiten; bei der Weiterbildung der Mitarbeitern mitwirken und den betrieblichen Teil der Ausbildung organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in Leder- und Pelzbearbeitung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28393">Aufsicht - Leder-,Pelzherstell.,-verarbeitung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="28393-101" refid="3484">Schuhmachermeister/in</dkz>
+      <dkz codenr="28393-102" refid="3496">Orthopädieschuhmachermeister/in</dkz>
+      <dkz codenr="28393-103" refid="3537">Sattler- und Feintäschnermeister/in</dkz>
+      <dkz codenr="28393-107" refid="3612">Kürschnermeister/in</dkz>
+      <dkz codenr="28393-112" refid="6237">Industriemeister/in - Lederherstellung</dkz>
+      <dkz codenr="28393-114" refid="6256">Industriemeister/in - Schuhfertigung</dkz>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="28394">Aufsicht - Leder-,Pelzherstell.,-verarb.</kldb>
+      <isco schluessel="1321">Manufacturing managers</isco>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="28393">Aufsicht - Leder-,Pelzherstell.,-verarbeitung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="28393-101" refid="3484">Schuhmachermeister/in</dkz>
+      <dkz codenr="28393-102" refid="3496">Orthopädieschuhmachermeister/in</dkz>
+      <dkz codenr="28393-103" refid="3537">Sattler- und Feintäschnermeister/in</dkz>
+      <dkz codenr="28393-107" refid="3612">Kürschnermeister/in</dkz>
+      <dkz codenr="28393-112" refid="6237">Industriemeister/in - Lederherstellung</dkz>
+      <dkz codenr="28393-114" refid="6256">Industriemeister/in - Schuhfertigung</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9046">Leiter/in - Textilverarbeitung</abgrenzung>
+  <abgrenzung typ="hoch" refid="1742">Ledertechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9003">Schuhtechniker/in</abgrenzung>
+</kategorie>

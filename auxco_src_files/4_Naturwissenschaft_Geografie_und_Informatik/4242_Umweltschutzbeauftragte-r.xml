@@ -1,0 +1,24 @@
+<kategorie>
+  <id>4242</id>
+  <taetigkeit>Identifizierung der Ursachen ökologischer Probleme sowie Beratung zu Maßnahmen für den Umweltschutz</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Einwirkung des Menschen auf Geoökosysteme erforschen; Lösungsmöglichkeiten zum Erhalt der natürlichen Lebensgrundlagen des Menschen erarbeiten; Umweltverträglichkeitsprüfungen organisieren und durchführen; Verbraucher und Unternehmen beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Umweltschutzbeauftragte/r</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42314">Umweltschutzverwaltung,-beratung-Experte</kldb>
+      <isco schluessel="2133">Environmental protection professionals</isco>
+      <dkz codenr="42314-113" refid="59226">Betriebswirt/in (Hochschule) - Umweltökonomie</dkz>
+      <dkz codenr="42314-106" refid="27622">Umweltmanagementbeauftragte/r</dkz>
+      <dkz codenr="42314-101" refid="8196">Umweltgutachter/in</dkz>
+      <dkz codenr="42314-103" refid="8203">Umwelt-Auditor/in</dkz>
+      <dkz codenr="42314-112" refid="58704">Geoökologe/-ökologin</dkz>
+      <dkz codenr="42314-114" refid="59639">Umweltwissenschaftler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="4249">Leiter/in – Sachverständigenbüro für Umweltfragen</abgrenzung>
+  <abgrenzung typ="hoch" refid="4254">Energieberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4255">Abfall- und Umweltberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1799">Umweltschutzingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4243">Beamter/in - Umweltverwaltung (höh. techn. Dienst)</abgrenzung>
+  <abgrenzung typ="mittel" refid="4700">Klimaschutzmanager/in</abgrenzung>
+</kategorie>

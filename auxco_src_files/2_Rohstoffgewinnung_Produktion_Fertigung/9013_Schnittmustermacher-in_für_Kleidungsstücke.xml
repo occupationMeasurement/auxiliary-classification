@@ -1,0 +1,56 @@
+<kategorie>
+  <id>9013</id>
+  <taetigkeit>Anfertigung von Präzisionsschnittmustern für die Herstellung von Kleidungsstücken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Entwürfe zeichnen, ausarbeiten und illustrieren; Schnittmuster herstellen und Musterschnitte in produktionsreife Schnitte umarbeiten; Stoffe entsprechend des Schnittmusters schneiden; Schnittmuster durch die Anfertigung von Musterbekleidungsstücken überprüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Schnittmustermacher/in für Kleidungsstücke</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28212">Modedesign - Fachkraft</kldb>
+      <isco schluessel="7532">Garment and related patternmakers and cutters</isco>
+      <dkz codenr="28214-103" refid="59267">Modedesigner/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="28212">Modedesign - Fachkraft</kldb>
+      <isco schluessel="7532">Garment and related patternmakers and cutters</isco>
+      <dkz codenr="28212-102" refid="8453">Designer/in (Ausbildung) - Mode</dkz>
+      <dkz codenr="28222-149" refid="8464">Bekleidungsschnittzeichner/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine vertiefende berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="28213">Modedesign - Spezialist</kldb>
+      <isco schluessel="7532">Garment and related patternmakers and cutters</isco>
+      <dkz codenr="28213-102" refid="5902">Techniker/in - Bekleidungstechnik (Bekleidungsgestaltung)</dkz>
+      <dkz codenr="28213-103" refid="5917">Schnitt-, Entwurfs- und Fertigungsmodelleur/-direktrice</dkz>
+      <dkz codenr="28213-107" refid="14493">Produktentwickler/in (Mode)</dkz>
+      <dkz codenr="28213-104" refid="7518">Mode- und Designmanager/in</dkz>
+      <dkz codenr="28213-106" refid="13969">Gestalter/in - Bekleidung, Mode</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium im Bereich Modedesign oder eines vergleichbaren Fachs</text>
+      <kldb schluessel="28213">Modedesign - Spezialist</kldb>
+      <isco schluessel="7532">Garment and related patternmakers and cutters</isco>
+      <dkz codenr="28213-102" refid="5902">Techniker/in - Bekleidungstechnik (Bekleidungsgestaltung)</dkz>
+      <dkz codenr="28213-103" refid="5917">Schnitt-, Entwurfs- und Fertigungsmodelleur/-direktrice</dkz>
+      <dkz codenr="28213-107" refid="14493">Produktentwickler/in (Mode)</dkz>
+      <dkz codenr="28213-104" refid="7518">Mode- und Designmanager/in</dkz>
+      <dkz codenr="28213-106" refid="13969">Gestalter/in - Bekleidung, Mode</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium im Bereich Modedesign oder eines vergleichbaren Fachs</text>
+      <kldb schluessel="28214">Modedesign - Experte</kldb>
+      <isco schluessel="7532">Garment and related patternmakers and cutters</isco>
+      <dkz codenr="28214-103" refid="59267">Modedesigner/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9014">Modedesigner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1740">Textilmustergestalter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1839">Produkt- und Industriedesigner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9021">Schneider/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8999">Maschinenführer/in zur Fertigung von Kleidungsstücken</abgrenzung>
+  <abgrenzung typ="mittel" refid="1739">Textiltechniker/in</abgrenzung>
+</kategorie>

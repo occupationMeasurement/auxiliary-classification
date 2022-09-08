@@ -1,0 +1,46 @@
+<kategorie>
+  <id>3585</id>
+  <taetigkeit>Beurteilung von versicherten Schäden und Ermittlung des Wertverlusts für Versicherungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Schadensmeldungen und Unfallberichte aufnehmen und bearbeiten; Schadens- und Leistungsfälle vor Ort inspizieren; komplexe Leistungsfälle und Großschäden bearbeiten; Aufzeichnungen über den Verkaufswert von vergleichbaren Gegenständen beschaffen; Schadensservice organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Versicherungsgutachter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="72132">Versicherungskaufleute - Fachkraft</kldb>
+      <isco schluessel="3321">Insurance representatives</isco>
+      <dkz codenr="72132-107" refid="6861">Versicherungskaufmann/-frau</dkz>
+      <dkz codenr="72132-108" refid="6864">Versicherungsfachmann/-frau</dkz>
+      <dkz codenr="72132-111" refid="6890">Versicherungsleistungssachbearbeiter/in</dkz>
+      <dkz codenr="72132-109" refid="6887">Schadensregulierer/in (Versicherung)</dkz>
+      <dkz codenr="72132-115" refid="35276">Kaufmann/-frau - Versicherungen u. Finanzen - Versicherung</dkz>
+      <dkz codenr="72133-120" refid="74091">Fachwirt/in - Versicherungen und Finanzen</dkz>
+      <dkz codenr="72133-114" refid="6899">Haftpflichtspezialist/in</dkz>
+      <dkz codenr="72133-113" refid="6898">Underwriter (Versicherung)</dkz>
+      <dkz codenr="72133-112" refid="6895">Versicherungsprüfer/in</dkz>
+      <dkz codenr="72133-110" refid="6879">Direktionsbevollmächtigte/r (Versicherung)</dkz>
+      <dkz codenr="72133-108" refid="6870">Fachwirt/in - Versicherung</dkz>
+      <dkz codenr="72133-119" refid="58973">Betriebswirt/in (Fachschule) - Versicherung</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Ausbildung ist für diese Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="72132">Versicherungskaufleute - Fachkraft</kldb>
+      <isco schluessel="3315">Valuers and loss assessors</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="72133">Versicherungskaufleute - Spezialist</kldb>
+      <isco schluessel="3321">Insurance representatives</isco>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="72133">Versicherungskaufleute - Spezialist</kldb>
+      <isco schluessel="3321">Insurance representatives</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3586">Versicherungsberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3584">Versicherungsagent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3578">Versicherungssachbearbeiter/in</abgrenzung>
+</kategorie>

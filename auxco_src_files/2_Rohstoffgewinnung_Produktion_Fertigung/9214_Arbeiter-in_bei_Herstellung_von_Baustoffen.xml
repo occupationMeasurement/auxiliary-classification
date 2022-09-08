@@ -1,0 +1,43 @@
+<kategorie>
+  <id>9214</id>
+  <taetigkeit>Herstellung und Verarbeitung von Beton, Ziegeln oder ähnlichen Baustoffen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Zement, Beton, Terrazo, Bitumen, Asphalt, Ziegel oder ähnliche Baustoffe herstellen; Formen und Schalungen herstellen und Bewehrungen verankern; Mengenverhältnisse berechnen und Mischungen nach Rezeptur herstellen; Anlagen zur Herstellung programmieren, steuern, reinigen und warten; Oberflächen bearbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Arbeiter/in bei Herstellung von Baustoffen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21222">Berufe in der Baustoffherstellung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8114">Cement, stone and other mineral products machine operators</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="1">
+      <text>eine kurze Anlernphase</text>
+      <kldb schluessel="21201">Berufe in der Naturstein- und Mineralaufbereitung und -verarbeitung und Baustoffherstellung (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="21201-101" refid="880">Helfer/in - Naturstein- und Mineralaufber., Baustoffherst.</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="21222">Berufe in der Baustoffherstellung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8114">Cement, stone and other mineral products machine operators</isco>
+      <dkz codenr="21222-126" refid="27428">Verfahrensmechaniker/in - Steine-/Erdenind.- Asphalttechnik</dkz>
+      <dkz codenr="21222-109" refid="945">Verfahrensmechaniker/in - Steine-/Erdenind.- Baustoffe</dkz>
+      <dkz codenr="21222-112" refid="954">Betonfertigteilbauer/in - Betonfertigteilbau</dkz>
+      <dkz codenr="21222-114" refid="956">Betonstein- und Terrazzohersteller/in - Betonfertigteilbau</dkz>
+      <dkz codenr="21222-115" refid="957">Betonstein- und Terrazzohersteller/in - Betonstein/Terrazzo</dkz>
+      <dkz codenr="21222-116" refid="958">Betonfertigteilbauer/in - Betonstein u. Terrazzo</dkz>
+      <dkz codenr="21222-124" refid="13746">Betonstein- und Terrazzohersteller/in</dkz>
+      <dkz codenr="21222-125" refid="13748">Betonfertigteilbauer/in</dkz>
+      <dkz codenr="21222-107" refid="943">Verfahrensmechaniker/in - Steine-/Erdenind.- vorg. Betonerz.</dkz>
+      <dkz codenr="21222-106" refid="942">Verfahrensmechaniker/in - Steine-/Erdenind.- Gipspl./Faserz.</dkz>
+      <dkz codenr="21222-105" refid="941">Verfahrensmechaniker/in - Steine-/Erdenind.- Kalks./Porenb.</dkz>
+      <dkz codenr="21222-108" refid="944">Verfahrensmechaniker/in - Steine-/Erdenind.- Transportbeton</dkz>
+      <dkz codenr="21222-123" refid="4834">Betonpumpenbediener/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9213">Aufbereitungsmechaniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9215">Baustofftechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1753">Helfer/in - Baustoffherstellung</abgrenzung>
+</kategorie>

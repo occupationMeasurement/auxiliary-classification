@@ -1,0 +1,20 @@
+<kategorie>
+  <id>9051</id>
+  <taetigkeit>Entwurf und Fertigung von Hüten, Mützen und Kappen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Hüte und Mützen entwerfen; Schnittmuster erstellen; Hüte nach individuellen Anweisungen von Kunden anfertigen; Kopfbedeckungen aufbereiten und garnieren; Produktqualität prüfen; Kunden beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Hut- und Mützenmacher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28222">Bekleidungsherstellung - Fachkraft</kldb>
+      <isco schluessel="7531">Tailors, dressmakers, furriers and hatters</isco>
+      <dkz codenr="28222-130" refid="3344">Hut- und Mützenmacher/in</dkz>
+      <dkz codenr="28222-164" refid="35072">Mützennäher/in</dkz>
+      <dkz codenr="28222-133" refid="3352">Modist/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9021">Schneider/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9046">Leiter/in - Textilverarbeitung</abgrenzung>
+  <abgrenzung typ="mittel" refid="9020">Textilverarbeitungshelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1741">Bekleidungstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9054">Pelztechniker/in</abgrenzung>
+</kategorie>

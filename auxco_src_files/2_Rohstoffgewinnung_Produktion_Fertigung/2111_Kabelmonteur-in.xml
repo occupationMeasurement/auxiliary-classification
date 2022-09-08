@@ -1,0 +1,16 @@
+<kategorie>
+  <id>2111</id>
+  <taetigkeit>Installation und Reparatur von elektrischen Übertragungs- und Zufuhrkabeln</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Überlandleitungen, Straßenbahn-Oberleitungen oder Blitzableiter installieren und reparieren; Luft-, Bodenstrom- und Antriebsleitungen errichten und verlegen; Schalter und Verteiler an elektrische Anlagen anschließen und Verteiler- und Schalttafeln montieren</taetigkeitsbeschreibung>
+  <bezeichnung>Kabelmonteur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26262">Berufe in der Leitungsinstallation und -wartung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7413">Electrical line installers and repairers</isco>
+      <dkz codenr="26262-103" refid="2771">Elektroanlagenmonteur/in</dkz>
+      <dkz codenr="26262-104" refid="2801">Kabelmonteur/in (Fern-, Frei- und Fahrleitungsbau)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2118">Informations- und Kommunikationselektroniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1732">Kabeltechniker/in</abgrenzung>
+</kategorie>

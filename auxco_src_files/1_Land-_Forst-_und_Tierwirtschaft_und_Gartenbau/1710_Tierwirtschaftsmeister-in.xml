@@ -1,0 +1,66 @@
+<kategorie>
+  <id>1710</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Tierwirtschaft oder Tierzucht</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Zucht, Aufzucht, Haltung und Vermarktung von Tieren planen und koordinieren; Gesundheit und Entwicklung der Tiere kontrollieren, ggf. Maßnahmen ergreifen; Qualität tierischer Erzeugnisse überwachen; betriebswirtschaftliche Aufgaben übernehmen; kaufmännische Entscheidungen treffen; Mitarbeiter leiten; Schulungen und Weiterbildung für Mitarbeiter organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Tierwirtschaftsmeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11293">Aufsichtskräfte - Tierwirtschaft</kldb>
+      <isco schluessel="6129">Animal producers not elsewhere classified</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" follow-up="FALSE" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="11294">Führungskräfte - Tierwirtschaft</kldb>
+      <isco schluessel="1311">Agricultural and forestry production managers</isco>
+      <dkz codenr="11294-100" refid="414">Verwalter/in - Tierzucht</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="11293">Aufsichtskräfte - Tierwirtschaft</kldb>
+      <isco schluessel="6129">Animal producers not elsewhere classified</isco>
+      <dkz codenr="11293-100" refid="308">Tierwirtschaftsmeister/in - Rinderhaltung</dkz>
+      <dkz codenr="11293-101" refid="317">Tierwirtschaftsmeister/in - Schäferei</dkz>
+      <dkz codenr="11293-104" refid="356">Tierwirtschaftsmeister/in - Schweinehaltung</dkz>
+      <dkz codenr="11293-102" refid="322">Tierwirtschaftsmeister/in - Geflügelhaltung</dkz>
+      <dkz codenr="11293-105" refid="366">Tierwirtschaftsmeister/in - Imkerei</dkz>
+      <dkz codenr="11293-103" refid="333">Tierwirtschaftsmeister/in - Pelztierhaltung</dkz>
+    </antwort>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Über die Zucht welcher Tiere führen Sie Aufsicht?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Über die Zucht welcher Tiere haben Sie Aufsicht geführt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Über die Zucht von Nutztieren</text>
+      <kldb schluessel="11293">Aufsichtskräfte - Tierwirtschaft</kldb>
+      <isco schluessel="6121">Livestock and dairy producers</isco>
+      <dkz codenr="11293-100" refid="308">Tierwirtschaftsmeister/in - Rinderhaltung</dkz>
+      <dkz codenr="11293-101" refid="317">Tierwirtschaftsmeister/in - Schäferei</dkz>
+      <dkz codenr="11293-104" refid="356">Tierwirtschaftsmeister/in - Schweinehaltung</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Über die Zucht von Geflügeltieren</text>
+      <kldb schluessel="11293">Aufsichtskräfte - Tierwirtschaft</kldb>
+      <isco schluessel="6122">Poultry producers</isco>
+      <dkz codenr="11293-102" refid="322">Tierwirtschaftsmeister/in - Geflügelhaltung</dkz>
+    </antwort>
+    <antwort position="3">
+      <text>Über die Zucht von Bienen</text>
+      <kldb schluessel="11293">Aufsichtskräfte - Tierwirtschaft</kldb>
+      <isco schluessel="6123">Apiarists and sericulturists</isco>
+      <dkz codenr="11293-105" refid="366">Tierwirtschaftsmeister/in - Imkerei</dkz>
+    </antwort>
+    <antwort position="4">
+      <text>Über die Zucht anderer Tiere</text>
+      <kldb schluessel="11293">Aufsichtskräfte - Tierwirtschaft</kldb>
+      <isco schluessel="6129">Animal producers not elsewhere classified</isco>
+      <dkz codenr="11293-103" refid="333">Tierwirtschaftsmeister/in - Pelztierhaltung</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1710">Tierwirtschaftsmeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1712">Tierpflegemeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1504">Fachagrarwirt/in - Zucht- und Fleischleistungsprüfung</abgrenzung>
+</kategorie>

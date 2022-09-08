@@ -1,0 +1,24 @@
+<kategorie>
+  <id>2029</id>
+  <taetigkeit>Behandlung der Oberflächen von Metall und Kunststoff mittels elektrochemischer, elektrischer oder physikalischer Verfahren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Werkstücke mittels Reinigen, Entfetten und Schleifen vorbehandeln; Metall- und Kunststoffoberflächen galvanisieren oder verzinken; Metallteile härten, abschrecken, anlassen und in Glühöfen glühen; Galvanisier- und Feuerverzinkungsmaschinen instand halten und warten; mit Elektrolyt- oder Verzinkungsbädern arbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Oberflächenbeschichter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24302">Berufe in der Metalloberflächenbehandlung (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8122">Metal finishing, plating and coating machine operators</isco>
+      <dkz codenr="24302-100" refid="1977">Metallvergüter/in, -härter/in</dkz>
+      <dkz codenr="24302-127" refid="35076">Universalhärter/in</dkz>
+      <dkz codenr="24302-106" refid="1992">Galvaniseur/in</dkz>
+      <dkz codenr="24302-126" refid="34977">Oberflächenbeschichter/in</dkz>
+      <dkz codenr="24302-107" refid="1997">Galvaniseur/in u. Metallschleifer/in</dkz>
+      <dkz codenr="24302-120" refid="2032">Verzinker/in</dkz>
+      <dkz codenr="24302-122" refid="13826">Verfahrensmechaniker/in - Beschichtungstechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2032">Metalloberflächenbearbeitungshelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2033">Emaillierer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1845">Galvanotechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5186">Lackierer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2022">Metallschleifer/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,15 @@
+<kategorie>
+  <id>6079</id>
+  <taetigkeit>Betreuung und Beratung von Kunden und Annahme von Reparatur- und Kundendienstaufträgen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kundenwünsche erfassen und Angebote erstellen; Kunden über die Funktion und Nutzung der Waren und Dienstleistungen beraten; Produktdemonstrationen durchführen; Reklamationen und Schadenfälle entgegennehmen und Kunden über den Aufwand informieren; Reklamationen an Servicekräfte weiterleiten und die Reparatur veranlassen; Endkontrollen durchführen und die Ware an Kunden aushändigen; Rechnungen erstellen; die Kundenzufriedenheit erfragen; Kundenreaktionen und -anforderungen an Lieferanten und Hersteller melden</taetigkeitsbeschreibung>
+  <bezeichnung>Kundendienstberater/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62183">Verkauf (o. Produktspez)(ssT)-Spezialist</kldb>
+      <isco schluessel="3322">Commercial sales representatives</isco>
+      <dkz codenr="62183-102" refid="27818">Kundendienstberater/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3518">Account-Manager/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1747">Vertriebsspezialist/in</abgrenzung>
+</kategorie>

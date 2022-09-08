@@ -1,0 +1,32 @@
+<kategorie>
+  <id>1227</id>
+  <taetigkeit>Koordination künstlerischer, wirtschaftlicher und technischer Aspekte in Film- und Fernsehproduktionen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. an Konzeptionsgesprächen teilnehmen; bei der Auswahl der Mitarbeitern mitwirken; bei der Motivsuche mitarbeiten; bei der Erarbeitung von Drehplänen und ggf. bei den Storyboards mithelfen; Einhaltung des finanziellen Rahmens überwachen; zwischen technischer und künstlerischer Leitung Kontakt halten</taetigkeitsbeschreibung>
+  <bezeichnung>Film- und Fernsehwirt/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94403">Theater-Film,Fernsehprod.(oS)-Spezialist</kldb>
+      <isco schluessel="3435">Artistic and cultural associate professionals not elsewhere classified</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="94404">Berufe in der Theater-, Film- und Fernsehproduktion (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2654">Film, stage and related directors and producers</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="94403">Theater-Film,Fernsehprod.(oS)-Spezialist</kldb>
+      <isco schluessel="3435">Artistic and cultural associate professionals not elsewhere classified</isco>
+      <dkz codenr="94403-100" refid="14196">Film- und Fernsehwirt/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1225">Produktionsassistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1241">Dramaturg/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1228">Inspizient/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1230">Regisseur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1240">Führungskraft in der Theater-, Film- und Fernsehproduktion</abgrenzung>
+</kategorie>

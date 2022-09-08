@@ -1,0 +1,16 @@
+<kategorie>
+  <id>4999</id>
+  <taetigkeit>Präparierung von pflanzlichem oder tierischem Gewebe sowie von Fossilien für Museumsausstellungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Präparate zu Ausstellungszwecken für naturkundliche Museen herstellen; Exponate katalogisieren; Tier- und Pflanzenmaterial objektspezifisch konservieren und aufarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Fachkraft für Präparation in naturkundlichen Museen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41222">Biologische Präparation - Fachkraft</kldb>
+      <isco schluessel="3433">Fachkräfte in Kunstgalerien, Museen und Bibliotheken</isco>
+      <dkz codenr="41222-100" refid="2712">Präparationstechnische/r Assistent/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1301">Fachkraft - Präparator/in in Museen</abgrenzung>
+  <abgrenzung typ="hoch" refid="7009">Medizinisch-technische/r Laboratoriumsassistent/in (MTLA)</abgrenzung>
+  <abgrenzung typ="hoch" refid="4003">Fachkraft für medizinisch-biologische Präparation</abgrenzung>
+</kategorie>

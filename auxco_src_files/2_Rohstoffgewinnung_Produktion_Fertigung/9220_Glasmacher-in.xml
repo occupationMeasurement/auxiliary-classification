@@ -1,0 +1,19 @@
+<kategorie>
+  <id>9220</id>
+  <taetigkeit>Handwerkliche Herstellung von Glas durch Mundblasen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Ausgangsstoffe und Chemikalien mischen; in Öfen oder Wannen schmelzen; Oberfläche durch Abfehmen reinigen; Herstellung durch Mundblasen</taetigkeitsbeschreibung>
+  <bezeichnung>Glasmacher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21312">Berufe in der Glasherstellung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7315">Glass makers, cutters, grinders and finishers</isco>
+      <dkz codenr="21312-106" refid="1047">Glasmacher/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9221">Glasmaschinenführer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5145">Glasbläser/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9228">Glasveredler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9223">Glasapparatebauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9222">Glashüttentechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3017">Glaser/in</abgrenzung>
+</kategorie>

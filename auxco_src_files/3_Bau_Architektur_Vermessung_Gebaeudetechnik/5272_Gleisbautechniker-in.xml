@@ -1,0 +1,13 @@
+<kategorie>
+  <id>5272</id>
+  <taetigkeit>Planung, Koordination und Überwachung des Baus und der Instandhaltung von Eisenbahngleisen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Baumaßnahmen im Bereich Gleisbau planen; notwendige Maschinen, Material und Kosten berechnen; Planungsaspekte wie den rollenden Verkehr und Koordination der beteiligten Firmen berücksichtigen; Sicherung der Baustelle und Baustelleneinrichtung veranlassen; Einsatz von Baumaschinen und -geräten für die Ausführung von Gleisbauarbeiten koordinieren und optimieren; Entwässerungsanlagen und Bahndämme und -übergänge überprüfen und für die Wartung und Instandhaltung sorgen; Kontrolle von Schienen und Weichen auf Risse und Verschleiß veranlassen und Reparaturen überwachen; Qualität der ausgeführten Arbeiten sicherstellen; die Einhaltung von relevanten Bestimmungen verantworten</taetigkeitsbeschreibung>
+  <bezeichnung>Gleisbautechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32233">Gleisbau - Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5271">Gleisbauer/in</abgrenzung>
+</kategorie>

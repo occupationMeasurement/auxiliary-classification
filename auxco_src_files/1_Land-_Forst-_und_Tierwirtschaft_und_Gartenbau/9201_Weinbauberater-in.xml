@@ -1,0 +1,33 @@
+<kategorie>
+  <id>9201</id>
+  <taetigkeit>Beratung von Winzern zum Weinanbau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Weinbaubetriebe über Anbaumethoden, Neuanlage von Weinbergen, Düngung und Ernte und Pflanzenschutzmaßnahmen beraten; Seminare und Informationsveranstaltungen durchführen; Weinuntersuchungen und -kontrollen konzipieren, Testergebnisse auswerten und entsprechende Maßnahmen empfehlen</taetigkeitsbeschreibung>
+  <bezeichnung>Weinbauberater/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11603">Berufe im Weinbau - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3142">Agricultural technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Weinbau oder einem verwandten Fach erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Weinbau oder einem verwandten Fach erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="11604">Berufe im Weinbau - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2132">Farming, forestry and fisheries advisers</isco>
+      <dkz codenr="11604-102" refid="452">Weinbauberater/in</dkz>
+      <dkz codenr="11604-103" refid="58743">Ingenieur/in - Weinbau</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="11603">Berufe im Weinbau - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3142">Agricultural technicians</isco>
+      <dkz codenr="11603-103" refid="13753">Techniker/in - Weinbau und Kellerwirtschaft</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1014">Landwirtschaftsberater/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9200">Winzer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9202">Weinbergsverwalter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1056">Gartenbauingenieur/in</abgrenzung>
+</kategorie>

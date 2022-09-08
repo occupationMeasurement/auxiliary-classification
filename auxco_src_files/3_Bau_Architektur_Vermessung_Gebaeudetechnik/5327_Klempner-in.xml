@@ -1,0 +1,55 @@
+<kategorie>
+  <id>5327</id>
+  <taetigkeit>Montage und Reparatur von Blechbauteilen an Gebäuden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Blechbauteile wie Dachrinnen, Abdeckungen, Fassadenverkleidungen oder Kamineinfassungen montieren; Bleche, Profile und Platten abmessen und vorzeichnen; Bauteile durch Biegen, Richten und Pressen in die gewünschte Form bringen; Bauteile durch Schweißen, Löten, Falzen, Kleben oder Verschrauben verbinden; Schweißnähte säubern; Korrosionsschutz und andere Oberflächenbehandlungsverfahren durchführen; Endmontage der Bauteile vor Ort durchführen; tragende Metallkonstruktionen für die Kälte-, Wärme und Schallisolierung anfertigen; an Bauteilen Metalle als Dämm- und Schallschutzmaterialien anbringen; beschädigte Teile von Blechfassaden neu anfertigen und austauschen; Transportfahrzeuge mit Material und Maschinen be- und entladen; Material und benötigte Geräte bereitstellen; Baustellenreinigungsarbeiten erledigen; Restmaterial sachgerecht entsorgen</taetigkeitsbeschreibung>
+  <bezeichnung>Klempner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34202">Klempnerei (o.S.) - Fachkraft</kldb>
+      <isco schluessel="7126">Plumbers and pipe fitters</isco>
+      <dkz codenr="34202-100" refid="2165">Klempner/in</dkz>
+      <dkz codenr="34202-101" refid="2166">Konstruktionsmechaniker/in - Feinblechbautechnik</dkz>
+      <dkz codenr="34202-102" refid="2172">Bauklempner/in</dkz>
+      <dkz codenr="34202-103" refid="2173">Isolierklempner/in</dkz>
+      <dkz codenr="34201-106" refid="58534">Helfer/in - Klempnerei, Installation</dkz>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren beruflichen Aufgaben, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren beruflichen Aufgaben gehört, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" follow-up="FALSE" aufsicht="Aufsichtskraft">
+      <text>Ja</text>
+      <kldb schluessel="34293">Aufsichtskräfte - Klempnerei, Sanitär-, Heizungs- und Klimatechnik</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="34293-100" refid="2167">Klempnermeister/in</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="34202">Klempnerei (o.S.) - Fachkraft</kldb>
+      <isco schluessel="7126">Plumbers and pipe fitters</isco>
+      <dkz codenr="34202-100" refid="2165">Klempner/in</dkz>
+      <dkz codenr="34202-101" refid="2166">Konstruktionsmechaniker/in - Feinblechbautechnik</dkz>
+      <dkz codenr="34202-102" refid="2172">Bauklempner/in</dkz>
+      <dkz codenr="34202-103" refid="2173">Isolierklempner/in</dkz>
+      <dkz codenr="34201-106" refid="58534">Helfer/in - Klempnerei, Installation</dkz>
+    </antwort>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine abgeschlossene Berufsausbildung als Klempner/in erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine abgeschlossene Berufsausbildung als Klempner/in erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="34202">Klempnerei (o.S.) - Fachkraft</kldb>
+      <isco schluessel="7126">Plumbers and pipe fitters</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="1">
+      <text>Nein</text>
+      <kldb schluessel="34201">Klempnerei (o.S.) - Helfer</kldb>
+      <isco schluessel="9313">Building construction labourers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1757">Helfer/in - Klempnerei, Installation</abgrenzung>
+  <abgrenzung typ="mittel" refid="3013">Isolierfacharbeiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5297">Gas- und Wasserinstallateur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5328">Blechverarbeitungstechniker/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,18 @@
+<kategorie>
+  <id>4253</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Softwareentwicklung und Softwareprogrammierung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Entwicklungs- bzw. Programmierungsteams leiten; effiziente Arbeits- und Systemabläufe organisieren; Systemanalysen bei Kunden veranlassen und Software-Lösungen präsentieren; Kosten für ein Projekt kalkulieren; Angebote erstellen; Projekte im Bereich Softwareentwicklung planen und organisieren; Mitarbeiter führen und anleiten; die Einhaltung von Terminen und Kosten überwachen; Budgetverantwortung übernehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Software-Projektleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43494">Führung-Softwareentwickl.,Programmierung</kldb>
+      <isco schluessel="1330">Information and communications technology service managers</isco>
+      <dkz codenr="43494-104" refid="90879">Leiter/in - Anwendungsentwicklung (EDV)</dkz>
+      <dkz codenr="43494-101" refid="90682">Leiter/in - Programmierung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4250">Leiter/in - Informatik und Informationsmanagement</abgrenzung>
+  <abgrenzung typ="hoch" refid="4252">IT-Projektleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4061">Softwareentwickler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4251">Leiter/in - IT-Vertrieb und -Anwendungsberatung</abgrenzung>
+</kategorie>

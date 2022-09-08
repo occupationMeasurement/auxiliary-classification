@@ -1,0 +1,32 @@
+<kategorie>
+  <id>9088</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in einer Hotel-, Restaurant- oder Großküche</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. neue Rezepte kreieren und dokumentieren; Speisepläne und Speisekarten erstellen; Frischprodukte einkaufen; Preise kalkulieren und Ausgabevolumen überwachen; Betriebsabläufe in der Küche planen, koordinieren und steuern; Anweisungen und Aufgaben verteilen; Einhaltung von Kostenplänen und Terminen kontrollieren; Qualitätskontrollen durchführen und Abläufe optimieren; Schulungs- und Weiterbildungsmaßnahmen für Mitarbeiter organisieren und den betrieblichen Teil der Ausbildung organisieren und durchführen; Personalentscheidungen treffen; betriebliche Vorschriften über Hygiene und Lebensmittelsicherheit erklären und durchsetzen; Gesichtspunkte des Natur- und Umweltschutzes beachten und z.B. regionale Produkte verwenden; im Veranstaltungsservice Kundenwünsche ermitteln, Angebote ausarbeiten, Speisen zubereiten und an den Veranstaltungsort liefern</taetigkeitsbeschreibung>
+  <bezeichnung>Küchenchef/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29393">Aufsichtskräfte - Speisenzubereitung</kldb>
+      <isco schluessel="3434">Chefs</isco>
+      <dkz codenr="29393-101" refid="3725">Küchenmeister/in</dkz>
+      <dkz codenr="29393-102" refid="29391">Sous-Chef/in</dkz>
+      <dkz codenr="29394-100" refid="3723">Küchenchef/in</dkz>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="29394">Führung - Speisenzubereitung</kldb>
+      <isco schluessel="1412">Restaurant managers</isco>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="29393">Aufsichtskräfte - Speisenzubereitung</kldb>
+      <isco schluessel="3434">Chefs</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9079">Koch/Köchin</abgrenzung>
+  <abgrenzung typ="hoch" refid="6073">Restaurantmeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9076">Leiter/in - Lebensmittelindustrie</abgrenzung>
+</kategorie>

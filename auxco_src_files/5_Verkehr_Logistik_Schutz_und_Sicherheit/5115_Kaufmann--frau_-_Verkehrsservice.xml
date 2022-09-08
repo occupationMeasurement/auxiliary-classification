@@ -1,0 +1,19 @@
+<kategorie>
+  <id>5115</id>
+  <taetigkeit>Beratung von Fahrgästen im öffentlichen Nah- und Fernverkehr</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fahrplanauskünfte erteilen; Verkehrsverbindungen ermitteln; Preise für Zusatzleistungen ermitteln; Beförderungsdokumente verkaufen; Beschwerden entgegennehmen und bearbeiten; Kassenabrechnungen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Kaufmann/-frau - Verkehrsservice</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51412">Servicefachk.StraßenSchienenv.-Fachkraft</kldb>
+      <isco schluessel="4221">Travel consultants and clerks</isco>
+      <dkz codenr="51412-101" refid="7097">Reiseberater/in (Bahn)</dkz>
+      <dkz codenr="51412-103" refid="7125">Kaufmann/-frau - Verkehrsservice - Sicherheit u. Service</dkz>
+      <dkz codenr="51412-104" refid="7126">Kaufmann/-frau - Verkehrsservice - Verkauf u. Service</dkz>
+      <dkz codenr="51412-107" refid="13816">Kaufmann/-frau - Verkehrsservice</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5116">Schaffner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5031">Disponent/in für Eisenbahn und Straßenverkehr</abgrenzung>
+  <abgrenzung typ="mittel" refid="1820">Tourismuskaufmann/ -frau</abgrenzung>
+</kategorie>

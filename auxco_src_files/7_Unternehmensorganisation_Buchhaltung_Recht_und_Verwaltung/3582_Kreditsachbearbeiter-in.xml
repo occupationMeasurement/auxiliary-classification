@@ -1,0 +1,22 @@
+<kategorie>
+  <id>3582</id>
+  <taetigkeit>Bearbeitung von Kreditanträgen und Betreuung von Kreditgeschäften</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kreditanträge bearbeiten und Kreditunterlagen sowie Zuteilungsvoraussetzungen prüfen; Kreditwünsche und Kreditwürdigkeit von Kunden ermitteln und beurteilen; Kreditgeschäfte abwickeln; Kunden hinsichtlich Privat- und Firmenkrediten, Umschuldungen und Konsolidierungen beraten und betreuen; Bonität und Kreditsicherheiten prüfen und beurteilen</taetigkeitsbeschreibung>
+  <bezeichnung>Kreditsachbearbeiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="72113">Bankkaufleute - Spezialist</kldb>
+      <isco schluessel="3312">Credit and loans officers</isco>
+      <dkz codenr="72113-100" refid="6740">Betriebswirt/in (Fachschule) - Bank</dkz>
+      <dkz codenr="72113-103" refid="6753">Fachwirt/in - Bank</dkz>
+      <dkz codenr="72113-104" refid="6768">Kreditmanager/in</dkz>
+      <dkz codenr="72113-105" refid="6769">Kreditsachbearbeiter/in</dkz>
+      <dkz codenr="72113-106" refid="6794">Dokumentensachbearbeiter/in (Bank)</dkz>
+      <dkz codenr="72113-108" refid="6800">Sparkassenbetriebswirt/in</dkz>
+      <dkz codenr="72113-110" refid="6802">Sparkassenfachwirt/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3567">Bankkundenberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3591">Leasing-Berater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3577">Geldanlageberater/in</abgrenzung>
+</kategorie>

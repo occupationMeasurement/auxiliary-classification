@@ -1,0 +1,48 @@
+<kategorie>
+  <id>8034</id>
+  <taetigkeit>Erteilung von berufstheoretischem und berufspraktischem Unterricht an Berufsschulen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. theoretische Kenntnisse und berufspraktische Fertigkeiten vermitteln; Unterricht vorbereiten und Unterrichtsmaterial auswählen; mit betrieblichen Ausbildern kooperieren; die Arbeit der Schüler beobachten, evaluieren und Feedback geben; Leistungsnachweise durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Berufsschullehrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84214">Lehrkräfte berufsbildende Fächer-Experte</kldb>
+      <isco schluessel="2320">Vocational education teachers</isco>
+      <dkz codenr="84214-132" refid="58765">Pflegepädagoge/-pädagogin</dkz>
+      <dkz codenr="84214-133" refid="58787">Wirtschaftspädagoge/-pädagogin</dkz>
+      <dkz codenr="84214-105" refid="9366">Fachlehrer/in - musisch-technische Fächer</dkz>
+      <dkz codenr="84214-108" refid="9377">Fachlehrer/in - berufliche/allgemeinbildende Schulen</dkz>
+      <dkz codenr="84214-112" refid="9397">Lehrer/in - Fachschulen der Seefahrt</dkz>
+      <dkz codenr="84214-120" refid="9428">Lehrer/in - Schule für Arbeitserziehung</dkz>
+      <dkz codenr="84214-130" refid="30256">Lehrkraft - Naturwissenschaften und Technik</dkz>
+      <dkz codenr="84214-134" refid="59457">Kosmetologe/Kosmetologin</dkz>
+      <dkz codenr="84214-135" refid="59472">Lehrer/in - berufliche Schulen</dkz>
+      <dkz codenr="84214-156" refid="126577">Ingenieurpädagoge/-pädagogin</dkz>
+      <dkz codenr="84213-160" refid="58449">Lehrkraft - Schulen im Gesundheitswesen</dkz>
+      <dkz codenr="84213-102" refid="8805">Unterrichtsentbindungspfleger/Unterrichtshebamme</dkz>
+      <dkz codenr="84213-103" refid="8806">Unterrichtspfleger/-schwester</dkz>
+      <dkz codenr="84213-152" refid="14574">Praxisanleiter/in - Pflegeberufe</dkz>
+      <dkz codenr="84213-162" refid="8884">Lehrrettungsassistent/in</dkz>
+      <dkz codenr="84213-113" refid="9057">Lehrkraft - Altenpflegeschulen</dkz>
+      <dkz codenr="84213-116" refid="9358">Fachlehrer/in - Waldarbeiterschulen</dkz>
+      <dkz codenr="84213-118" refid="9360">Landwirtschaftslehrer/in</dkz>
+      <dkz codenr="84213-145" refid="9583">Lehrlogopäde/-logopädin</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein mindestens 4-jähriges Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein mindestens 4-jähriges Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="84214">Lehrkräfte für berufsbildende Fächer - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2320">Vocational education teachers</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="84213">Lehrkräfte für berufsbildende Fächer - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2320">Vocational education teachers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8028">Lehrer/in Sekundarstufe</abgrenzung>
+  <abgrenzung typ="mittel" refid="8039">Dozent/in - Erwachsenenbildung</abgrenzung>
+  <abgrenzung typ="mittel" refid="8035">Lehrlingsausbilder/in</abgrenzung>
+</kategorie>

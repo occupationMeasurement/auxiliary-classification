@@ -1,0 +1,16 @@
+<kategorie>
+  <id>8031</id>
+  <taetigkeit>Betreuung und Beaufsichtigung von Kindern in Schulen abseits des Schulunterrichts</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kinder mit geistigen, körperlichen, verhaltensbedingten und sonstigen Lernschwierigkeiten unterstützen; bei den Hausaufgaben helfen; Kinder individuell unterstützen; den Lehrkräften bei der Erstellung von Lehrmaterial assistieren</taetigkeitsbeschreibung>
+  <bezeichnung>Lernbetreuer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84183">Lehrkräfte allg. Schule (ssT)-Spezialist</kldb>
+      <isco schluessel="5312">Teachers' aides</isco>
+      <dkz codenr="84183-100" refid="90655">Pädagogische/r Assistent/in</dkz>
+      <dkz codenr="84183-101" refid="90742">Lernbetreuer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8003">Erzieher/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8005">Heimerzieher/in</abgrenzung>
+</kategorie>

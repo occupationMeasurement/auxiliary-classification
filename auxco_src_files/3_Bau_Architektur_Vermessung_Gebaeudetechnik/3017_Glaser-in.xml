@@ -1,0 +1,38 @@
+<kategorie>
+  <id>3017</id>
+  <taetigkeit>Montage und Reparatur von Glasscheiben und anderen Glasbauteilen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fenster-, Türen-, und Fassadenkonstruktionen sowie Wintergärten einbauen; Spiegel, Glaskonstruktionen und Vitrinen gestalten und montieren; Aufmaß- und Zuschneidearbeiten von Flachgläsern durchführen; Glas schleifen, bohren und sägen; Glas mit verschiedenen Techniken veredeln; beschädigte Gläser austauschen</taetigkeitsbeschreibung>
+  <bezeichnung>Glaser/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33342">Berufe in der Glaserei - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7125">Glaziers</isco>
+      <dkz codenr="33342-100" refid="4353">Reparaturglaser/in</dkz>
+      <dkz codenr="33342-105" refid="4362">Glaser/in - Verglasung und Glasbau</dkz>
+      <dkz codenr="33342-103" refid="4360">Bauglaser/in</dkz>
+      <dkz codenr="33342-104" refid="4361">Glaser/in - Fenster- und Glasfassadenbau</dkz>
+      <dkz codenr="33342-109" refid="4372">Fahrzeugglaser/in</dkz>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren beruflichen Aufgaben, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren beruflichen Aufgaben gehört, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Aufsichtskraft">
+      <text>Ja</text>
+      <kldb schluessel="33393">Aufsichtskräfte - Aus- und Trockenbau, Isolierung, Zimmerei, Glaserei, Rollladen- und Jalousiebau</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="33393-109" refid="4352">Glasermeister/in</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="33342">Berufe in der Glaserei - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7125">Glaziers</isco>
+      <dkz codenr="33342-100" refid="4353">Reparaturglaser/in</dkz>
+      <dkz codenr="33342-105" refid="4362">Glaser/in - Verglasung und Glasbau</dkz>
+      <dkz codenr="33342-103" refid="4360">Bauglaser/in</dkz>
+      <dkz codenr="33342-104" refid="4361">Glaser/in - Fenster- und Glasfassadenbau</dkz>
+      <dkz codenr="33342-109" refid="4372">Fahrzeugglaser/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9226">Glasgraveur/in</abgrenzung>
+</kategorie>

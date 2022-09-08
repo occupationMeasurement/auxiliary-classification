@@ -1,0 +1,19 @@
+<kategorie>
+  <id>5337</id>
+  <taetigkeit>Bedienung und Überwachung von Anlagen und Rohrleitungssystemen zum Transport und zur Aufbereitung von Wasser und Abwasser</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rohwasser aus Grundwasser, Flüssen und Seen gewinnen; Wasser hygienisch durch Filtration oder Bestrahlung mit UV-Licht aufbereiten; Wasserproben nehmen, überprüfen und so die Wasserqualität sicherstellen; Wasser in Hochdruckbehältern speichern und an das Leitungsnetz abgeben; Maschinen und Anlagen, die Abwässer zusammenfassen und aufbereiten, bedienen und überwachen; in Kläranlagen bei der Aufbereitung von Abwässern mitarbeiten; Rohre und Kanäle überwachen; elektrische Anlagen, wie Pumpen und Filteranlagen, und Messgeräte überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Ver- und Entsorger/in - Wasserversorgung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34312">Wasserversorg.,Abwassertechn.-Fachkraft</kldb>
+      <isco schluessel="3132">Incinerator and water treatment plant operators</isco>
+      <dkz codenr="34312-100" refid="4761">Ver- und Entsorger/in - Wasserversorgung</dkz>
+      <dkz codenr="34312-109" refid="14753">Fachkraft - Wasserversorgungstechnik</dkz>
+      <dkz codenr="34312-111" refid="14760">Fachkraft - Rohr-, Kanal- und Industrieservice</dkz>
+      <dkz codenr="34312-110" refid="14756">Fachkraft - Abwassertechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5345">Anlagenmechaniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1785">Wasserwerksingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5403">Bauplaner/in für wasserwirtschaftliche Anlagen</abgrenzung>
+</kategorie>

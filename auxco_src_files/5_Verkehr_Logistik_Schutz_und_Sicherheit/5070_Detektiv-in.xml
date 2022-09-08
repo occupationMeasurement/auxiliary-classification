@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5070</id>
+  <taetigkeit>Beschaffung von Informationen geschäftlicher oder privater Art für Auftraggeber sowie Durchführung von Observationen und Befragungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. vor der Annahme eines Auftrages prüfen, ob der Auftraggeber glaubhaft machen kann, dass eine private Ermittlung notwendig ist; Auftrag mit Auftraggeber besprechen; Datenrecherchen durchführen; Beweise beschaffen</taetigkeitsbeschreibung>
+  <bezeichnung>Detektiv/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53152">Detektive/Detektivinnen - Fachkraft</kldb>
+      <isco schluessel="3411">Legal and related associate professionals</isco>
+      <dkz codenr="53152-100" refid="7088">Ermittler/in (Handels-, Kreditauskunftei)</dkz>
+      <dkz codenr="53152-102" refid="8084">Warenhausdetektiv/in</dkz>
+      <dkz codenr="53152-103" refid="8087">Wirtschafts-Detektiv/in</dkz>
+      <dkz codenr="53152-104" refid="8088">Detektiv/in</dkz>
+      <dkz codenr="53152-105" refid="8089">Versicherungsdetektiv/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5061">Sicherheitsdienstmitarbeiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5078">Polizeivollzugsbeamter/-beamtin</abgrenzung>
+  <abgrenzung typ="hoch" refid="5079">Kriminalbeamter/-beamtin</abgrenzung>
+</kategorie>

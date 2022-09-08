@@ -1,0 +1,56 @@
+<kategorie>
+  <id>7028</id>
+  <taetigkeit>Untersuchung von Patienten und Diagnose von Krankheiten sowie Festlegung geeigneter Therapiemaßnahmen oder Überweisung zu Fachärzten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Krankheitsbild ermitteln; Diagnose stellen; Röntgenuntersuchungen und andere Diagnoseverfahren veranlassen; Medikamente und Physiotherapie verschreiben; Patienten über Therapiemöglichkeiten informieren; ärztliche Gutachten anfertigen</taetigkeitsbeschreibung>
+  <bezeichnung>Allgemeinarzt /-ärztin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81404">Ärzte/Ärztinnen (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2211">Generalist medical practitioners</isco>
+      <dkz codenr="81404-105" refid="14763">Assistenzarzt/-ärztin</dkz>
+      <dkz codenr="81404-101" refid="8652">Facharzt/-ärztin - Allgemeinmedizin (Hausarzt/-ärztin)</dkz>
+      <dkz codenr="81404-107" refid="58709">Arzt/Ärztin</dkz>
+      <dkz codenr="81484-109" refid="28020">Stationsarzt/-ärztin</dkz>
+      <dkz codenr="81484-100" refid="8658">Facharzt/-ärztin - Neurochirurgie</dkz>
+      <dkz codenr="81484-108" refid="14861">Sportarzt/-ärztin</dkz>
+      <dkz codenr="81484-101" refid="8683">Facharzt/-ärztin - Anatomie</dkz>
+      <dkz codenr="81484-102" refid="8684">Facharzt/-ärztin - Arbeitsmedizin</dkz>
+      <dkz codenr="81484-103" refid="8687">Facharzt/-ärztin - Humangenetik</dkz>
+      <dkz codenr="81484-104" refid="8688">Facharzt/-ärztin - Hygiene und Umweltmedizin</dkz>
+      <dkz codenr="81484-105" refid="8693">Facharzt/-ärztin - Öffentliches Gesundheitswesen</dkz>
+      <dkz codenr="81484-106" refid="8695">Facharzt/-ärztin - Physikalische/Rehabilitative Medizin</dkz>
+      <dkz codenr="81484-107" refid="8696">Facharzt/-ärztin - Physiologie</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>Arbeiten Sie in der Arbeits-, Sport- oder Umweltmedizin?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie in der Arbeits-, Sport- oder Umweltmedizin gearbeitet?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Nein</text>
+      <kldb schluessel="81404">Ärzte/Ärztinnen (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2211">Generalist medical practitioners</isco>
+      <dkz codenr="81404-105" refid="14763">Assistenzarzt/-ärztin</dkz>
+      <dkz codenr="81404-101" refid="8652">Facharzt/-ärztin - Allgemeinmedizin (Hausarzt/-ärztin)</dkz>
+      <dkz codenr="81404-107" refid="58709">Arzt/Ärztin</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Ja</text>
+      <kldb schluessel="81484">Ärzte/Ärztinnen (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2212">Specialist medical practitioners</isco>
+      <dkz codenr="81484-109" refid="28020">Stationsarzt/-ärztin</dkz>
+      <dkz codenr="81484-100" refid="8658">Facharzt/-ärztin - Neurochirurgie</dkz>
+      <dkz codenr="81484-108" refid="14861">Sportarzt/-ärztin</dkz>
+      <dkz codenr="81484-101" refid="8683">Facharzt/-ärztin - Anatomie</dkz>
+      <dkz codenr="81484-102" refid="8684">Facharzt/-ärztin - Arbeitsmedizin</dkz>
+      <dkz codenr="81484-103" refid="8687">Facharzt/-ärztin - Humangenetik</dkz>
+      <dkz codenr="81484-104" refid="8688">Facharzt/-ärztin - Hygiene und Umweltmedizin</dkz>
+      <dkz codenr="81484-105" refid="8693">Facharzt/-ärztin - Öffentliches Gesundheitswesen</dkz>
+      <dkz codenr="81484-106" refid="8695">Facharzt/-ärztin - Physikalische/Rehabilitative Medizin</dkz>
+      <dkz codenr="81484-107" refid="8696">Facharzt/-ärztin - Physiologie</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7035">Chefarzt/-ärztin</abgrenzung>
+  <abgrenzung typ="mittel" refid="7050">Heilpraktiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7029">Facharzt/-ärztin – Kinder- und Jugendmedizin</abgrenzung>
+  <abgrenzung typ="mittel" refid="7058">Pharmakologe/Pharmakologin</abgrenzung>
+</kategorie>

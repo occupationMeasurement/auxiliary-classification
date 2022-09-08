@@ -1,0 +1,24 @@
+<kategorie>
+  <id>4029</id>
+  <taetigkeit>Erforschung des Aufbaus, der Entstehung und der Entwicklung der Erde sowie ihrer Teilsysteme</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Entstehung und Zusammensetzung von Gesteinen untersuchen; Fossilien analysieren; physikalische Abläufe in Meer und Wasserkreislauf erforschen; Vulkane und Gletscher untersuchen; Konzepte für die Altlastensanierung entwickeln; Forschungsstudien durchführen und Theorien entwickeln</taetigkeitsbeschreibung>
+  <bezeichnung>Geologe/Geologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42124">Geologie - Experte</kldb>
+      <isco schluessel="2114">Geologists and geophysicists</isco>
+      <dkz codenr="42124-122" refid="58758">Mineraloge/Mineralogin</dkz>
+      <dkz codenr="42124-123" refid="58762">Ozeanograf/in</dkz>
+      <dkz codenr="42124-124" refid="58764">Paläontologe/Paläontologin</dkz>
+      <dkz codenr="42124-119" refid="58703">Geologe/Geologin</dkz>
+      <dkz codenr="42124-120" refid="58705">Geophysiker/in</dkz>
+      <dkz codenr="42124-121" refid="58710">Hydrologe/Hydrologin</dkz>
+      <dkz codenr="42124-125" refid="59291">Geowissenschaftler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4028">Geotechnikingenieur/in - Bau</abgrenzung>
+  <abgrenzung typ="hoch" refid="1797">Geologielaborant/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4100">Geotechnikingenieur/in - Erkundungs- und Rohstoffgeologie</abgrenzung>
+  <abgrenzung typ="hoch" refid="4030">Geograph/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1793">Physiker/in</abgrenzung>
+</kategorie>

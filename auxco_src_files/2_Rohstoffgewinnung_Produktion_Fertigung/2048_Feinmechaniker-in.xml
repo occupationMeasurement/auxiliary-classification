@@ -1,0 +1,25 @@
+<kategorie>
+  <id>2048</id>
+  <taetigkeit>Herstellung und Montage von feinwerktechnischen Produkten aus Metall oder Kunststoff</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Präzisionsbauteile mittels CNC-, CAM- oder CAQ-gesteuerter Werkzeugmaschinen herstellen; feinwerktechnische Geräte und Systeme montieren; Schneid-, Umform- und Bearbeitungswerkzeuge produzieren; Maschinen und Anlagen einrichten und in Betrieb nehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Feinmechaniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24512">Berufe in der Feinwerktechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7222">Toolmakers and related workers</isco>
+      <dkz codenr="24512-100" refid="2410">Industriemechaniker/in - Geräte- und Feinwerktechnik</dkz>
+      <dkz codenr="24512-101" refid="2411">Feinmechaniker/in - Feingerätebau</dkz>
+      <dkz codenr="24512-113" refid="15170">Feinwerkmechaniker/in</dkz>
+      <dkz codenr="24512-114" refid="15172">Feinwerkmechaniker/in - Feinmechanik</dkz>
+      <dkz codenr="24512-126" refid="2434">Chirurgiemechaniker/in</dkz>
+      <dkz codenr="24512-105" refid="2463">Feinmechaniker/in - Nähmaschineninstandhaltung</dkz>
+      <dkz codenr="24512-107" refid="2546">Metallfeinbauer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2050">Feinwerktechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2053">Werkzeugmechaniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2049">Präzisionsinstrumentenmacher/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2052">Feinmechanikerhelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2094">Mechatroniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2059">Maschinenschlosser/in</abgrenzung>
+</kategorie>

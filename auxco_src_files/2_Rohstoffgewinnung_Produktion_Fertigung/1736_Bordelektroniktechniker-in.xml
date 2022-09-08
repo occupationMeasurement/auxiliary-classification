@@ -1,0 +1,34 @@
+<kategorie>
+  <id>1736</id>
+  <taetigkeit>Erforschung und Entwicklung von elektronischen Systemen und Geräten für Fahrzeuge, Flugzeuge oder Schiffe</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei der Entwicklung und Konstruktion von elektronischen Systemen wie Autopiloten oder Leit- und Navigationssystemen mitwirken; im Versuchsgelände oder auf Prüfständen Prototypen der Luftverkehrs-, Schiffs- und Fahrzeugelektronik testen; Anlagen und Geräte vor Inbetriebnahme prüfen; Störungsursachen an elektrischen und elektronischen Anlagen und Systemen der Bordelektronik ermitteln und beheben sowie routinemäßige Wartungsarbeiten durchführen; Fertigungsabläufe hinsichtlich Qualität oder Arbeitssicherheit erstellen und optimieren</taetigkeitsbeschreibung>
+  <bezeichnung>Bordelektroniktechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26333">Berufe in der Luftverkehrs-, Schiffs- und Fahrzeugelektronik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3114">Electronics engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="26334">Berufe in der Luftverkehrs-, Schiffs- und Fahrzeugelektronik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2152">Electronics engineers</isco>
+      <dkz codenr="26334-102" refid="59355">Ingenieur/in - Fahrzeugelektronik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="26333">Berufe in der Luftverkehrs-, Schiffs- und Fahrzeugelektronik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3114">Electronics engineering technicians</isco>
+      <dkz codenr="26333-104" refid="126660">Techniker/in - Elektromobilität</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1733">Elektrotechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2134">Bordelektroniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1726">Luftfahrttechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2077">Kraftfahrzeugtechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1729">Mechatroniktechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2078">Kraftfahrzeugingenieur/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,32 @@
+<kategorie>
+  <id>7022</id>
+  <taetigkeit>Durchführung von Krankentransporten und Unterstützung von Notfallsanitätern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Einsätze in die Wege leiten; Spritzen oder Intubationsbestecke anreichen; Patienten zum Einsatzfahrzeug bringen; Patienten während des Transports betreuen und versorgen; Senioren bei der Fahrt zu Therapien begleiten</taetigkeitsbeschreibung>
+  <bezeichnung>Rettungsdiensthelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81341">Berufe im Rettungsdienst - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="3258">Ambulance workers</isco>
+      <dkz codenr="81341-101" refid="8883">Rettungsdiensthelfer/in</dkz>
+      <dkz codenr="81341-103" refid="14403">Rettungshelfer/in</dkz>
+      <dkz codenr="81342-104" refid="8885">Rettungssanitäter/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Gehört die medizinische Versorgung von Patienten zu Ihren Aufgaben?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Gehörte die medizinische Versorgung von Patienten zu Ihren Aufgaben?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="81341">Berufe im Rettungsdienst - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="3258">Ambulance workers</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="81341">Berufe im Rettungsdienst - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="8322">Car, taxi and van drivers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7104">Krankenschwester/-pfleger</abgrenzung>
+  <abgrenzung typ="hoch" refid="7105">Notfallsanitäter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7106">Disponent/in in einer Rettungsleitstelle</abgrenzung>
+</kategorie>

@@ -1,0 +1,20 @@
+<kategorie>
+  <id>8029</id>
+  <taetigkeit>Förderung von Menschen mit Lernschwierigkeiten, Hochbegabung oder anderen besonderen Bedürfnissen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. den Förderbedarf des Einzelnen erarbeiten; individuelle Lernvoraussetzungen berücksichtigen; Selbstbewusstsein und das Interesse der Schüler steigern; Elternabende abhalten; Beratungsgespräche mit den Eltern führen</taetigkeitsbeschreibung>
+  <bezeichnung>Sonderschullehrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84134">Lehrkräfte an Sonderschulen - Experte</kldb>
+      <isco schluessel="2352">Special needs teachers</isco>
+      <dkz codenr="84134-108" refid="30231">Lehrer/in - Stützunterricht</dkz>
+      <dkz codenr="84134-109" refid="58774">Lehrer/in - Förderschulen</dkz>
+      <dkz codenr="84134-101" refid="9328">Fachlehrer/in - Sonderschulen</dkz>
+      <dkz codenr="84134-106" refid="14783">Lehrer/in - Begabtenförderung</dkz>
+      <dkz codenr="84134-105" refid="9402">Förderlehrer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8008">Heilpädagoge/ -pädagogin</abgrenzung>
+  <abgrenzung typ="hoch" refid="8027">Grundschullehrer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8028">Lehrer/in Sekundarstufe</abgrenzung>
+</kategorie>

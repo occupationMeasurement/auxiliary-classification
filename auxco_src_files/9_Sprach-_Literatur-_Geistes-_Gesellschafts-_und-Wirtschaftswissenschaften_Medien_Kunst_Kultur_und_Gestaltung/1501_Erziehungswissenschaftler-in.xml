@@ -1,0 +1,19 @@
+<kategorie>
+  <id>1501</id>
+  <taetigkeit>Erforschung erziehungswissenschaftlicher Fragestellungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Lehrmethoden und andere Praktiken erforschen und hinsichtlich Verbesserungen beraten; Bildungssysteme analysieren und Strategien zur Verbeserung erarbeiten; audiovisuelle und andere Lehrhilfen erforschen und hinsichtlich ihrer Einführung beraten; Struktur, Inhalt und Ziele neuer Bildungskurse und Programme entwickeln; Trainings- und Beratungsdienste für Lehr- und Erziehungskräfte bereitstellen; wissenschaftliche Berichte erstellen und Empfehlungen an bspw. Bildungsinstitutionen abgeben</taetigkeitsbeschreibung>
+  <bezeichnung>Erziehungswissenschaftler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="91334">Berufe in der Erziehungswissenschaft - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2351">Education methods specialist</isco>
+      <dkz codenr="91334-115" refid="78588">Kindheitspädagoge/-pädagogin</dkz>
+      <dkz codenr="91334-112" refid="58763">Pädagoge/Pädagogin</dkz>
+      <dkz codenr="91334-101" refid="9787">Bildungsforscher/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="8004">Sozialpädagoge/- pädagogin</abgrenzung>
+  <abgrenzung typ="mittel" refid="8011">Sozialberater/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8039">Dozent/in- Erwachsenenbildung</abgrenzung>
+  <abgrenzung typ="mittel" refid="8008">Heilpädagoge/ -pädagogin</abgrenzung>
+</kategorie>

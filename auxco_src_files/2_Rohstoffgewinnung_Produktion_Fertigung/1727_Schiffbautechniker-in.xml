@@ -1,0 +1,31 @@
+<kategorie>
+  <id>1727</id>
+  <taetigkeit>Planung, Koordination und Optimierung der Produktionsprozesse von Schiffen, Wasserfahrzeugen oder ortsfesten maritimen Konstruktionen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Schiffe und andere meerestechnische Anlagen unter Beachtung von Sicherheitsbestimmungen planen und entwerfen; Materialbedarf ermitteln und für die Bereitstellung der Materialien und Betriebsmittel sorgen;Fertigungs- und Montageplanung für den gesamten Schiffbau durchführen und die beteiligten Bereiche und Firmen koordinieren; Yachten, Passagier- und Handelsschiffen warten; Prüfpläne und -anweisungen zur Durchführung von Kontrollen aufstellen; die Qualität der Konstruktion und der Reparatur von Schiffen sicherstellen; an Forschungsprojekten im Bereich Schiffbautechnik mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Schiffbautechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25243">Berufe in der Schiffbautechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="25244">Schiffbautechnik - Experte</kldb>
+      <isco schluessel="2144">Mechanical engineers</isco>
+      <dkz codenr="25244-103" refid="59403">Ingenieur/in - Schiffbau und Meerestechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="25243">Berufe in der Schiffbautechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="25243-100" refid="5428">Techniker/in - Schiffbautechnik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2086">Schiffbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2126">Leiter/in Fahrzeugtechnik</abgrenzung>
+</kategorie>

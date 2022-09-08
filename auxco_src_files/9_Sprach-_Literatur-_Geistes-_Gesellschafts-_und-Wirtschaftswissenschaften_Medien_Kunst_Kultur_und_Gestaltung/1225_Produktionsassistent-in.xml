@@ -1,0 +1,18 @@
+<kategorie>
+  <id>1225</id>
+  <taetigkeit>Mitwirkung bei der organisatorischen und verwaltungstechnischen Abwicklung von Film- und Fernsehproduktionen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Szenenanschlüsse auf Stimmigkeiten überprüfen; Organisatorische und Dokumentationsaufgaben übernehmen; Berichte für Cutter anfertigen; Textänderungen notieren; Drehorte besichtigen; Bewegungsrichtungen, Lichstimmung und Kameraposition dokumentieren; Tagesbericht erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Produktionsassistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94402">Berufe in der Theater-, Film- und Fernsehproduktion (o.S.) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3435">Artistic and cultural associate professionals not elsewhere classified</isco>
+      <dkz codenr="94402-102" refid="27269">Script-man/Script-girl</dkz>
+      <dkz codenr="94402-103" refid="27270">Continuity-Person</dkz>
+      <dkz codenr="94402-100" refid="8514">Produktionsassistent/in (Film/Fernsehen)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1225">Produktionsassistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1227">Film- und Fernsehwirt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1231">Bühnenarbeiter/in</abgrenzung>
+</kategorie>

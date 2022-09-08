@@ -1,0 +1,16 @@
+<kategorie>
+  <id>9066</id>
+  <taetigkeit>Planung, Koordination und Optimierung der industriellen Herstellung von Fischerzeugnissen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fisch, Gewürze, Hilfsstoffe und Zutaten einkaufen; Waren annehmen, Qualität prüfen und für fachgerechte Lagerung sorgen; Produktionsabläufe planen, organisieren und überwachen; Fertigungseinrichtungen wie z.B. Mischmaschinen, Zerkleinerungsanlagen, Räuchereinrichtungen und Backöfen einstellen; Betriebsbereitschaft der Produktionsanlagen sicherstellen und Wartungen durchführen; Qualitätsnormen erstellen und überwachen; bei der Produkt- und Verfahrensentwicklung und -verbesserung mitwirken; Produkte auf Messen präsentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Lebensmitteltechniker/in - Fischerzeugnisse</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29243">Fischverarbeitung - Spezialist</kldb>
+      <isco schluessel="3116">Chemical engineering technicians</isco>
+      <dkz codenr="29243-100" refid="90654">Lebensmitteltechniker/in - Fischtechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9065">Fischverarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9076">Leiter/in - Lebensmittelindustrie</abgrenzung>
+  <abgrenzung typ="mittel" refid="1520">Fischereitechniker/in</abgrenzung>
+</kategorie>

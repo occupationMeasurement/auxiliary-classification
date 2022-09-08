@@ -1,0 +1,16 @@
+<kategorie>
+  <id>2025</id>
+  <taetigkeit>Einrichtung, Steuerung und Wartung von Laseranlagen in der Metallbearbeitung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Laserschneid-, Laserschweiß- und Laserschmelzanlagen zur Herstellung und Bearbeitung von Metallteilen bedienen; Maschinenprogramme überprüfen und Störungen beheben; Laseranlagen ggf. selbst programmieren; Kunden beraten und im Vertrieb oder technischen Service arbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Lasertechnische/r Assistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24243">Berufe in der Metallbearbeitung durch Laserstrahl - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="7223">Metal working machine tool setters and operators</isco>
+      <dkz codenr="24243-100" refid="2064">Fachkraft - Metallbearbeitung durch Laserstrahl</dkz>
+      <dkz codenr="24243-102" refid="29096">Lasertechnische/r Assistent/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2028">Ingenieur/in - Lasertechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="2018">Metallbearbeitungstechniker/in</abgrenzung>
+</kategorie>

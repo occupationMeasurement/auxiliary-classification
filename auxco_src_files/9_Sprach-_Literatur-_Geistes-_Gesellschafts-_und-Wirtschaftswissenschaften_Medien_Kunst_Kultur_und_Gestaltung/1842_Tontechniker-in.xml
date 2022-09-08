@@ -1,0 +1,50 @@
+<kategorie>
+  <id>1842</id>
+  <taetigkeit>Planung und Durchführung von Tonaufnahmen bei musikalischen Aufnahmen und Live-Events</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Musikaufnahmen mit Musikern und der Produktionsleitung besprechen; Mikrofone, Lautsprecher und weitere tontechnische Anlagen aufbauen; Mischpulte bedienen und Soundchecks durchführen; Dialoge, Musik oder Geräusche aufnehmen; die Tonqualität überwachen; Mehrspuraufzeichnungen mischen und klangliche Korrekturen vornehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Tontechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94532">Berufe in der Bild- und Tontechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3521">Broadcasting and audio-visual technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="94532">Berufe in der Bild- und Tontechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3521">Broadcasting and audio-visual technicians</isco>
+      <dkz codenr="94532-100" refid="8519">Fachkraft - Audiotechnik / Audio-Engineer</dkz>
+      <dkz codenr="94532-101" refid="8521">Tonassistent/in (Tontechnik)</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="94533">Berufe in der Bild- und Tontechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3521">Broadcasting and audio-visual technicians</isco>
+      <dkz codenr="94533-100" refid="8522">Tontechniker/in</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="94533">Berufe in der Bild- und Tontechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3521">Broadcasting and audio-visual technicians</isco>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="94534">Berufe in der Bild- und Tontechnik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2654">Film, stage and related directors and producers</isco>
+      <dkz codenr="94534-106" refid="77806">Toningenieur/in</dkz>
+      <dkz codenr="94534-107" refid="77993">Tonmeister/in</dkz>
+      <dkz codenr="94534-105" refid="58782">Tonmeister/in / Toningenieur/in</dkz>
+      <dkz codenr="94534-102" refid="14421">Dipl.-Tonmeister/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1242">Kamera-Assistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1228">Inspizient/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1225">Produktionsassistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1248">Meister/in – Veranstaltungstechnik</abgrenzung>
+  <abgrenzung typ="hoch" refid="1205">Musik- und Sounddesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1235">Ingenieur/in – Veranstaltungstechnik</abgrenzung>
+  <abgrenzung typ="hoch" refid="1229">Regieassistent/in</abgrenzung>
+</kategorie>

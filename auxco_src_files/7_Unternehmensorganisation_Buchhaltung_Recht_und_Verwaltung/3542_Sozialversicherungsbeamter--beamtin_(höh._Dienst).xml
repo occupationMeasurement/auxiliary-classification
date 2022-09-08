@@ -1,0 +1,22 @@
+<kategorie>
+  <id>3542</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei gesetzlichen Sozialversicherungsträgern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Abläufe und Aktivitäten der Verwaltungs- bzw. Geschäftsvorgänge beschreiben, analysieren und bewerten; Richtlinienoptionen formulieren und analysieren; die strategische Positionierung planen, Konzepte entwickeln und Durchführungs- und Wirtschaftlichkeitsanalysen anstellen; Beschlussfassungen vorbereiten sowie ihre Durchsetzung sicherstellen; Kundenerwartungen hinsichtlich bereitgestellter Dienstleistungen erforschen</taetigkeitsbeschreibung>
+  <bezeichnung>Sozialversicherungsbeamter/-beamtin (höh. Dienst)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73214">Sozialverwaltung, -versicherung - Experte</kldb>
+      <isco schluessel="2422">Policy administration professionals</isco>
+      <dkz codenr="73214-105" refid="59217">Betriebswirt/in (Hochschule) - Sozialversicherung</dkz>
+      <dkz codenr="73214-104" refid="59206">Betriebswirt/in (Hochschule) - Krankenversicherung</dkz>
+      <dkz codenr="73214-101" refid="7602">Beamt(er/in) - Sozialversicherung (höh. Dienst)</dkz>
+      <dkz codenr="73214-102" refid="7611">Beamt(er/in) - Bundesagentur für Arbeit (höh. Dienst)</dkz>
+      <dkz codenr="73214-103" refid="15415">Beamt(er/in) - Eisenbahn-Unfallkasse (höh. techn. Dienst)</dkz>
+      <dkz codenr="73214-106" refid="93273">Aufsichtsperson (Unfallversicherung)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3544">Sozialversicherungsangestellte/r</abgrenzung>
+  <abgrenzung typ="hoch" refid="3546">Verwaltungswissenschaftler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3550">Verwaltungsangestellte/r im öffentlichen Dienst</abgrenzung>
+  <abgrenzung typ="hoch" refid="3543">Behördenleiter/in</abgrenzung>
+</kategorie>

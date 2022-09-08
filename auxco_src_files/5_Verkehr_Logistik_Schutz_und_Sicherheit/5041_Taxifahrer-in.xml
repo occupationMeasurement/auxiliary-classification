@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5041</id>
+  <taetigkeit>Beförderung von Personen und Gepäck mit dem Taxi</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gepäck verstauen; Fahrzeug sicher führen; Fahrpreis kassieren; Fahrtenbücher führen; Fahrzeuge warten und pflegen; Krankentransporte durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Taxifahrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52112">Berufskraftfahrer(Pers./PKW.)-Fachkraft</kldb>
+      <isco schluessel="8322">Car, taxi and van drivers</isco>
+      <dkz codenr="52112-100" refid="7164">Dienstwagenfahrer/in</dkz>
+      <dkz codenr="52112-101" refid="7166">Taxifahrer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5045">Lieferwagenfahrer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5171">Fahrradkurier/in bzw. Handwagenkurier/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5172">Kraftradkurier/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5044">Bus - bzw. Straßenbahnfahrer/in</abgrenzung>
+</kategorie>

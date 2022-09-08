@@ -1,0 +1,15 @@
+<kategorie>
+  <id>7077</id>
+  <taetigkeit>Erforschung ernährungswissenschaftlicher Fragestellungen sowie Beratung zu Nahrungsmitteln</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei der Konzeption von Produktideen und neuen Produkten im Ernährungsbereich mitwirken; Fragen der physiologischen, ökonomischen und technologischen Grundlagen von gesunder Ernährung für den Menschen bearbeiten; Versorgungsprobleme in der Gemeinschaftsverpflegung lösen; Lebensmittel überprüfen; Verbraucherinformationen erarbeiten; ernährungswissenschaftliche Schulungs- und Bildungsmaßnahmen konzipieren</taetigkeitsbeschreibung>
+  <bezeichnung>Ökotrophologe/Ökotrophologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82284">Berufe in Ernährungs- und Gesundheitsberatung, Wellness (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2265">Dieticians and nutritionists</isco>
+      <dkz codenr="82284-113" refid="58761">Ökotrophologe/Ökotrophologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7070">Gesundheitsförderer/-förderin</abgrenzung>
+  <abgrenzung typ="hoch" refid="1828">Ernährungstrainer/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,19 @@
+<kategorie>
+  <id>1233</id>
+  <taetigkeit>Auf- und Abbau von audiovisueller Technik in Film, Fernsehen und Theater</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. in Radio, Fernsehen und Tonstudios nach Anweisung Mikrofone aufstellen; beim Verkabeln mithelfen; Lautsprecher und Verstärker auf- und abbauen</taetigkeitsbeschreibung>
+  <bezeichnung>Technische/r Assistent/in - Bühne/Film/Fernsehen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94512">Berufe in der Veranstaltungs- und Bühnentechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3521">Broadcasting and audio-visual technicians</isco>
+      <dkz codenr="94512-102" refid="8506">Techn. Assistent/in - Bühne/Film/Fernsehen</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1231">Bühnenarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1234">Beleuchter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1232">Veranstaltungstechnik - Fachkraft</abgrenzung>
+  <abgrenzung typ="mittel" refid="1242">Kamera-Assistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1247">Pyrotechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1842">Tontechniker/in</abgrenzung>
+</kategorie>

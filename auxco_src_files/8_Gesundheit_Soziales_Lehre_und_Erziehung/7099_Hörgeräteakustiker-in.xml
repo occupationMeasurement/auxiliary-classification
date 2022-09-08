@@ -1,0 +1,34 @@
+<kategorie>
+  <id>7099</id>
+  <taetigkeit>Fertigung, Anpassung und Reparatur von Hörgeräten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. akustische Kenndaten des Gehörs durch audiometrische Messungen ermitteln; spezielle Charakteristika bei Hörstörungen bestimmen; Hörgeräte auf Grundlage der ärztlichen Diagnose auswählen, elektroakustisch einstellen und anpassen; Ohrpassstücke und Anpassteile von Hörgeräten herstellen; Kunden bei der Benutzung der Hörgeräte anleiten und betreuen</taetigkeitsbeschreibung>
+  <bezeichnung>Hörgeräteakustiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82532">Berufe in der Hörgeräteakustik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3214">Medical and dental prosthetic technicians</isco>
+      <dkz codenr="82532-100" refid="2971">Hörgeräteakustiker/in</dkz>
+      <dkz codenr="82533-100" refid="90853">Hörgerätetechniker/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung als Hörgerätetechniker/in erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung als Hörgerätetechniker/in erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="82532">Berufe in der Hörgeräteakustik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3214">Medical and dental prosthetic technicians</isco>
+      <dkz codenr="82532-100" refid="2971">Hörgeräteakustiker/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="82533">Berufe in der Hörgeräteakustik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3214">Medical and dental prosthetic technicians</isco>
+      <dkz codenr="82533-100" refid="90853">Hörgerätetechniker/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7109">Ingenieur/in - Hörtechnik und Audiologie</abgrenzung>
+  <abgrenzung typ="mittel" refid="7011">Medizinisch-technische/r Assistent/in (MTA)</abgrenzung>
+  <abgrenzung typ="mittel" refid="7090">Assistent/in - medizinische Gerätetechnik</abgrenzung>
+  <abgrenzung typ="hoch" refid="1833">Hörgerätemeister/in</abgrenzung>
+</kategorie>

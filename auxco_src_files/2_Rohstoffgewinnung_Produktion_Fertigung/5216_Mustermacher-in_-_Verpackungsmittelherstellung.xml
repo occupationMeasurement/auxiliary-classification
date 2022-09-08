@@ -1,0 +1,17 @@
+<kategorie>
+  <id>5216</id>
+  <taetigkeit>Entwicklung und Gestaltung von Verpackungen sowie die Fertigung von Mustern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Verpackungen unter Berücksichtigung von Belastungsanforderungen, optischer Gestaltung und fertigungstechnische Aspekten entwickeln und optimieren; mithilfe von CAD-Programmen Verpackungsentwürfe nach Vorgabe erstellen; passende Materialien auswählen; Entwürfe, ggf. in Handarbeit, in Verpackungsmuster umsetzen; an der Weiterentwicklung bestehender Fertigungsverfahren und neuer Fertigungsmethoden mitwirken; Qualitätskontrollen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Mustermacher/in - Verpackungsmittelherstellung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23123">Berufe in der Papierverarbeitung und Verpackungstechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="23123-100" refid="1275">Mustermacher/in (Verpackungsmittelherstellung)</dkz>
+      <dkz codenr="23123-103" refid="14378">Techniker/in - Lebensmitteltechnik (Lebensmittelverpackung)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5215">Lebensmittelverpackungstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5214">Packmitteltechnologe/-technologin</abgrenzung>
+  <abgrenzung typ="hoch" refid="5217">Verpackungsingenieur/in</abgrenzung>
+</kategorie>

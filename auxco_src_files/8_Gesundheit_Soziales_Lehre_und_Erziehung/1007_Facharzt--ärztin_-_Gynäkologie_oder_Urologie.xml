@@ -1,0 +1,17 @@
+<kategorie>
+  <id>1007</id>
+  <taetigkeit>Diagnose und Behandlung von geschlechtsspezifischen Erkrankungen sowie des Harn- und Geschlechtsapparats</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. fachärztliche Leistungen auf den Gebieten Frauenheilkunde und Geburtshilfe oder Urologie erbringen; Krankheitsbilder ermitteln; Patienten betreuen und über Therapiemöglichkeiten beraten; Patienten behandeln und Medikamente verschreiben</taetigkeitsbeschreibung>
+  <bezeichnung>Facharzt/-ärztin - Gynäkologie oder Urologie</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81444">Fachärzte/-ärztinnen in den Bereichen Hautkrankheiten, Sinnes- und Geschlechtsorgane - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2212">Specialist medical practitioners</isco>
+      <dkz codenr="81444-102" refid="8666">Facharzt/-ärztin - Frauenheilkunde und Geburtshilfe</dkz>
+      <dkz codenr="81444-104" refid="8699">Facharzt/-ärztin - Urologie</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7033">Neurologe/ Neurologin</abgrenzung>
+  <abgrenzung typ="mittel" refid="7035">Chefarzt/-ärztin</abgrenzung>
+  <abgrenzung typ="mittel" refid="1008">Facharzt/-ärztin - Haut- und Geschlechtskrankheiten</abgrenzung>
+</kategorie>

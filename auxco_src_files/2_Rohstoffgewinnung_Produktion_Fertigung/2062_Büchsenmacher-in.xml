@@ -1,0 +1,20 @@
+<kategorie>
+  <id>2062</id>
+  <taetigkeit>Herstellung und Reparatur von Sport- und Jagdwaffen mit handwerklichen Verfahren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. feinmechanische und handwerkliche Fertigung von Sport-, Jagd- und Schusswaffen; Waffen warten und reparieren; Gewehre einschießen; Zielfernrohre montieren</taetigkeitsbeschreibung>
+  <bezeichnung>Büchsenmacher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24522">Berufe in der Werkzeugtechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7222">Toolmakers and related workers</isco>
+      <dkz codenr="24522-105" refid="2441">Büchsenmacher/in</dkz>
+      <dkz codenr="24522-145" refid="35113">Systemmacher/in - Gewehr</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1847">Werkzeugtechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2048">Feinmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2023">Zerspanungsmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2053">Werkzeugmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2059">Maschinenschlosser/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1702">Büchsenmachermeister/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,14 @@
+<kategorie>
+  <id>5324</id>
+  <taetigkeit>Verwaltung, Instandhaltung und Pflege von Sport- und Campingplätzen sowie der dazugehörigen Geräte</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rasen mähen und ausbessern; Sportanlagen und -plätze bewässern; Spielfeldmarkierungen erneuern; Schneeräumdienst übernehmen; Veranstaltungen und Turniere koordinieren und bei der Organisation mitwirken; Geräte, Werkzeuge und Material beschaffen und lagern; auf Campingplätzen freie Stellflächen zuweisen und in die Benutzung der Einrichtung einweisen</taetigkeitsbeschreibung>
+  <bezeichnung>Platzwart/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34112">Platz-, Gerätewarte/innen - Fachkraft</kldb>
+      <isco schluessel="5153">Building caretakers</isco>
+      <dkz codenr="34112-102" refid="8140">Platzwart/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1066">Landschaftsgärtner/in</abgrenzung>
+</kategorie>

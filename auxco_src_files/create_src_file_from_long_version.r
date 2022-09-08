@@ -2,13 +2,25 @@
 library(xml2)
 library(data.table)
 
-# read auxiliary classification
-src <- read_xml("./hilfsklassifikation.xml")
-ids <- as.numeric(xml_text(xml_find_all(src, xpath = "//id")))
-
+kldb_1_digits <- data.frame(kldb_id = c(1,2,3,4,5,6,7,8,9,0),
+              title = c("1_Land-_Forst-_und_Tierwirtschaft_und_Gartenbau",
+              "2_Rohstoffgewinnung_Produktion_Fertigung",
+              "3_Bau_Architektur_Vermessung_Gebaeudetechnik",
+              "4_Naturwissenschaft_Geografie_und_Informatik",
+              "5_Verkehr_Logistik_Schutz_und_Sicherheit",
+              "6_Kaufmaennische_Dienstleisungen_Warenhandel_Vertrieb_Hotel_und_Tourismus",
+              "7_Unternehmensorganisation_Buchhaltung_Recht_und_Verwaltung",
+              "8_Gesundheit_Soziales_Lehre_und_Erziehung",
+              "9_Sprach-_Literatur-_Geistes-_Gesellschafts-_und-Wirtschaftswissenschaften_Medien_Kunst_Kultur_und_Gestaltung",
+              "0_Militaer"))
 
 
 ## Loop over all categories in "auxco_src_files/00_hilfsklassifikation_all_categories_combined.xml" to create individual files for each category
+## Code wird üblicherweise nicht benötigt. Liegt nur zu Dokumentationszwecken hier um zu zeigen, wie sich die Hilfsklassifikation automatisch verändern lässt!
+
+# read auxiliary classification
+src <- read_xml("./hilfsklassifikation_falscher_name.xml")
+ids <- as.numeric(xml_text(xml_find_all(src, xpath = "//id")))
 
 for (cat_num in seq_along(ids)) {
   category_node <- xml_find_all(
@@ -20,6 +32,11 @@ for (cat_num in seq_along(ids)) {
 
   title <- xml_find_all(category_node, xpath = "./bezeichnung") |>
     xml_text()
+
+  default_kldb_id_1 <- xml_find_all(category_node, xpath = ".//default/kldb") |>
+    xml_attr("schluessel") |> substr(1,1)
+
+  kldb_1_title <- kldb_1_digits[kldb_1_digits$kldb_id == default_kldb_id_1, "title"]
 
   # # we will add two simple nodes/comments at the end of each category (in case they are needed)
   # category_node |> xml_add_child( 
@@ -87,7 +104,7 @@ for (cat_num in seq_along(ids)) {
 #     xml_attr(aufsicht_answer, "aufsicht") <- aufsicht
 #   }
 
-  write_xml(category_node, file = paste0("auxco_src_files/", auxco_id, "_", gsub("/", "-", gsub(" ", "_", title)), ".xml"))
+  write_xml(category_node, file = paste0("auxco_src_files/", kldb_1_title, "/", auxco_id, "_", gsub("/", "-", gsub(" ", "_", title)), ".xml"))
 
 }
 
@@ -98,11 +115,11 @@ rm(list=ls())
 ##################################################
 ## create a single combined file from all the documents.
 hilfsklassifikation <- xml_new_root("klassifikation")
-files <- list.files("./auxco_src_files/", pattern = "xml")
-files <- setdiff(files, "00_hilfsklassifikation_all_categories_combined.xml")
+files <- list.files("./auxco_src_files", pattern = "xml", full.names = TRUE, recursive = TRUE)
+files <- setdiff(files, "./auxco_src_files/00_hilfsklassifikation_all_categories_combined.xml")
 
 for (doc in files) {
-    kat <- read_xml(paste0("./auxco_src_files/", doc))
+    kat <- read_xml(paste0(doc))
     xml_add_child(hilfsklassifikation, kat)
 }
 
@@ -111,8 +128,8 @@ write_xml(hilfsklassifikation, file = paste0("auxco_src_files/00_hilfsklassifika
 ##########################################################
 # Compare wheter the separate files are content-identical to the one-file-version.
 is.equal_hilfsklassifikation <- function(folder, file) {
-  files <- list.files(folder, pattern = "xml")
-  files <- setdiff(files, "00_hilfsklassifikation_all_categories_combined.xml")
+  files <- list.files(folder, pattern = "xml", full.names = TRUE, recursive = TRUE)
+  files <- setdiff(files, "./auxco_src_files/00_hilfsklassifikation_all_categories_combined.xml")
 
   file_src <- read_xml(file)
   ids <- as.numeric(xml_text(xml_find_all(file_src, xpath = "//id")))
@@ -121,7 +138,7 @@ is.equal_hilfsklassifikation <- function(folder, file) {
   agreement <- NULL
 
   for (doc in files) {
-    kat <- read_xml(paste0(folder, doc))
+    kat <- read_xml(paste0(doc))
 
     cur_id <- as.numeric(xml_text(xml_find_all(kat, xpath = "//id")))
     cur_kat <- xml_find_all(kat, xpath = "./id/parent::node()")
@@ -139,4 +156,4 @@ is.equal_hilfsklassifikation <- function(folder, file) {
 
 }
 
-# is.equal_hilfsklassifikation("./auxco_src_files/", "auxco_src_files/00_hilfsklassifikation_all_categories_combined.xml")
+# is.equal_hilfsklassifikation("./auxco_src_files", "auxco_src_files/00_hilfsklassifikation_all_categories_combined.xml")

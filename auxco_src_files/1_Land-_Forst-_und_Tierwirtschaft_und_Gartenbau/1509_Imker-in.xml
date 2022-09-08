@@ -1,0 +1,15 @@
+<kategorie>
+  <id>1509</id>
+  <taetigkeit>Haltung und Zucht von Bienen sowie die Erzeugung und Vermarktung von Imkereiprodukten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bienenstöcke bauen, überwachen und instand halten; Königinnen und Jungvölker einkaufen; Ertragsprodukte wie Honigzarge ernten und kontrollieren sowie Rohprodukte verarbeiten; technische Geräte zur Bienenzucht bedienen und warten; Bienenwanderungen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Imker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11232">Berufe in der Imkerei - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6123">Apiarists and sericulturists</isco>
+      <dkz codenr="11232-100" refid="365">Tierwirt/in - Imkerei</dkz>
+      <dkz codenr="11232-101" refid="35168">Imker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1510">Bienenzuchtberater/in</abgrenzung>
+</kategorie>

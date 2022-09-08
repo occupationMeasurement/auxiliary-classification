@@ -1,0 +1,34 @@
+<kategorie>
+  <id>1790</id>
+  <taetigkeit>Entwicklung neuer chemischer Analysemethoden und -technologien sowie Erforschung von Ausgangsstoffen, chemischen Erzeugnissen und Herstellungsverfahren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. chemische Grundlagenkenntnisse anwenden; Experimente durchführen; Stoffe und Synthesewege, z.B. für Arzneimittel und Chemiefasern entwickeln; Forschungsergebnisse aus Laborversuchen auf den Betriebsmaßstab übertragen; Einsatzmöglichkeiten neuer Verfahren, wie z.B. der Nanotechnologie, in der Chemie erforschen; Gutachten und Stellungnahmen zu chemischen Fragestellungen erarbeiten; Fachtexte publizieren; Aufgaben in Wissenschaft und Forschung übernehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Chemiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41303">Berufe in der Chemie (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2113">Chemists</isco>
+      <dkz codenr="41304-105" refid="58694">Chemiker/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Chemie erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Chemie erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="41304">Chemie (o.S.) - Experte</kldb>
+      <isco schluessel="2113">Chemists</isco>
+      <dkz codenr="41304-105" refid="58694">Chemiker/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="41303">Chemie (o.S.) - Spezialist</kldb>
+      <isco schluessel="2113">Chemists</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1791">Chemikant/in / Pharmakant/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4015">Steuer(er/in) - chemische Verfahrensanlagen</abgrenzung>
+  <abgrenzung typ="hoch" refid="4219">Chemiker/in mit spezifischem Fachgebiet</abgrenzung>
+  <abgrenzung typ="mittel" refid="1792">Laborleiter/in in der Chemie</abgrenzung>
+  <abgrenzung typ="hoch" refid="4012">Ingenieur/in - Chemietechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="1800">Produktionsleiter/in in der Chemie</abgrenzung>
+</kategorie>

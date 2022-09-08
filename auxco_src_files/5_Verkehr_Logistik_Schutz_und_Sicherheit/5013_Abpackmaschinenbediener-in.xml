@@ -1,0 +1,16 @@
+<kategorie>
+  <id>5013</id>
+  <taetigkeit>Bedienung von Maschinen zur Verpackung von Produkten und Kennzeichnung der Ware</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Verpackungsmaschinen, Einwickelmaschinen oder Etikettiermaschinen bedienen; kleinere Defekte reparieren; abgefüllte Produkte zu Transporteinheiten zusammenstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Abpackmaschinenbediener/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51311">Lagerwirtschaft -Helfer</kldb>
+      <isco schluessel="8183">Packing, bottling and labelling machine operators </isco>
+      <dkz codenr="51311-103" refid="4710">Abfüller/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5002">Fachkraft - Lagerlogistik</abgrenzung>
+  <abgrenzung typ="hoch" refid="5056">Staplerfahrer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5001">Lagerarbeiter/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,15 @@
+<kategorie>
+  <id>3547</id>
+  <taetigkeit>Ausführung von internen Hilfsarbeiten im einfachen Dienst der Steuerverwaltung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Botengänge zwischen verschiedenen Abteilungen, Dienststellen oder Ämtern erledigen; Post entgegennehmen, sortieren und verteilen; Besucher anmelden und Besucherausweise erstellen; Ratsuchenden den Weg zur gesuchten Dienststelle erklären; Routinearbeiten im Registraturdienst und der Hausdruckerei übernehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Steuerverwaltungsbeamter/-beamtin (einf. Dienst)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73231">Steuerverwaltung - Helfer</kldb>
+      <isco schluessel="9629">Elementary workers not elsewhere classified </isco>
+      <dkz codenr="73231-100" refid="14231">Beamt(er/in) - Steuerverwaltung (einf.Dienst)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3545">Verwaltungshelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3551">Zolldienstbeamt(er/in)</abgrenzung>
+</kategorie>

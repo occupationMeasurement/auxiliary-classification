@@ -1,0 +1,15 @@
+<kategorie>
+  <id>4240</id>
+  <taetigkeit>Ausführung von Büro- und Verwaltungsaufgaben im Bereich Umweltschutz</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Informationen zum Thema Umweltschutz sammeln, ordnen und ablegen; einfache Kalkulationen erstellen; routinemäßige Berichte und Korrespondenzen erstellen; Dokumente kopieren und scannen; Telefonanrufe und Mails beantworten; Texte zum Thema Umweltschutz und Umweltberatung Korrekturlesen und korrigieren</taetigkeitsbeschreibung>
+  <bezeichnung>Betriebsassistent/in - Umweltschutz</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42312">Umweltschutzverwalt.,-beratung-Fachkraft</kldb>
+      <isco schluessel="4110">General office clerks</isco>
+      <dkz codenr="42312-103" refid="13935">Kfm. Ass./Wirtschaftsassistent/in - Umweltschutz</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="4254">Energieberater/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4255">Abfall- und Umweltberater/in</abgrenzung>
+</kategorie>

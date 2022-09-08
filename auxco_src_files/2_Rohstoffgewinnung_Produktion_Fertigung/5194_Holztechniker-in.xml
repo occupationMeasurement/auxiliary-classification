@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5194</id>
+  <taetigkeit>Konstruktion, Fertigung und Montage von Holzerzeugnissen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. den Einkauf von Hölzern und Holzwerkstoffen koordinieren; die Fertigungs- und Arbeitsschritte für die Produktion, den Holz- und den Innenausbau festlegen bzw. optimieren; die Fertigung von einzelnen Bauteilen und -gruppen konzipieren und überwachen; den Einsatz von Fertigungsmaschinen planen; Anlagen programmieren und warten; die Oberflächenbehandlung von Holz optimieren; Mess- und Funktionskontrollen zur Qualitätssicherung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Holztechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22303">Holzbe-,-verarbeitung(o.S.) - Spezialist</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere</isco>
+      <dkz codenr="22303-101" refid="5949">Techniker/in - Holztechnik (ohne Schwerpunkt)</dkz>
+      <dkz codenr="22303-102" refid="5950">Techniker/in - Holztechnik (Betriebstechnik)</dkz>
+      <dkz codenr="22303-116" refid="123341">Techniker/in - Holztechnik (Modell- und Formenbau)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5193">Holzbearbeitungsmechaniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5195">Holzingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5202">Techniker/in - Holz- und Möbelbau</abgrenzung>
+  <abgrenzung typ="mittel" refid="1717">Industriemeister/in - Holz- und Sägeindustrie</abgrenzung>
+  <abgrenzung typ="mittel" refid="5208">Handwerksmeister/in - Holz</abgrenzung>
+</kategorie>

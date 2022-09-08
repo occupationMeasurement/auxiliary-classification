@@ -1,0 +1,18 @@
+<kategorie>
+  <id>3524</id>
+  <taetigkeit>Konzeption und Erstellung technischer Dokumentationen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gebrauchs-, Bedienungs-, Montage-, Konstruktions- und Reparaturanleitungen erstellen; Informationen über das zu beschreibende Produkt sammeln, bewerten und systematisieren; Sprache, Inhalt und Aufbau von Texten wählen; Grafiken, Tabellen und Illustrationen erstellen; Redaktionsaufträge entgegennehmen und koordinieren; rechtliche Grundlagen und Normen beachten</taetigkeitsbeschreibung>
+  <bezeichnung>Technische/r Redakteur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92413">Redakteure, Journalisten - Spezialist</kldb>
+      <isco schluessel="2641">Authors and related writers</isco>
+      <dkz codenr="92413-111" refid="15298">Dokumentationsentwickler/in</dkz>
+      <dkz codenr="92413-100" refid="8279">E-Learning-Autor/in</dkz>
+      <dkz codenr="92413-113" refid="58779">Technische/r Redakteur/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1838">Redakteur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3501">Redaktionsassistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3555">Rechercheur/in oder Dokumentar/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,37 @@
+<kategorie>
+  <id>9504</id>
+  <taetigkeit>Einstellung und Bedienung von Maschinen zur Herstellung von Leder aus Rohhäuten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. mittels Maschinen Fleisch und Fett von Tierhäuten entfernen; mittels Maschinen eine gleichmäßige Dicke der Tierhaut schaffen; mittels Maschinen Tierhäute mit Lösungen behandeln zur Herstellung von Leder</taetigkeitsbeschreibung>
+  <bezeichnung>Bediener/in von Lederzurichtungsmaschinen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28301">Leder-,Pelzherstell.,-verarb.(oS)-Helfer</kldb>
+      <isco schluessel="8155">Fur and leather preparing machine operators</isco>
+      <dkz codenr="28301-108" refid="58522">Helfer/in - Pelz, Leder, Schuhe</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine abgeschlossene Berufsausbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine abgeschlossene Berufsausbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Ja</text>
+      <kldb schluessel="28312">Lederherstellung - Fachkraft</kldb>
+      <isco schluessel="7535">Pelt dressers, tanners and fellmongers</isco>
+      <dkz codenr="28312-101" refid="3464">Gerber/in</dkz>
+      <dkz codenr="28312-111" refid="90021">Fachkraft - Lederverarbeitung</dkz>
+      <dkz codenr="28312-178" refid="126793">Fachkraft - Lederherstellung und Gerbereitechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="1">
+      <text>Nein</text>
+      <kldb schluessel="28301">Leder-,Pelzherstell.,-verarb.(oS)-Helfer</kldb>
+      <isco schluessel="8155">Fur and leather preparing machine operators</isco>
+      <dkz codenr="28301-108" refid="58522">Helfer/in - Pelz, Leder, Schuhe</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9110">Gerber/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9048">Lederverarbeitungshelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1742">Ledertechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9039">Lederwarenhersteller/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9053">Pelzveredler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9506">Kürschner/in</abgrenzung>
+</kategorie>

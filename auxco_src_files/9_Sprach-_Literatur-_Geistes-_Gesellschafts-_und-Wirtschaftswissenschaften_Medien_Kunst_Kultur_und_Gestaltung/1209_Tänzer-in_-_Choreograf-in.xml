@@ -1,0 +1,22 @@
+<kategorie>
+  <id>1209</id>
+  <taetigkeit>Spielen von Tanzrollen, Entwicklung von Tanzchoreografien oder Leitung von Tanzensembles</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rollengestaltung und Bewegungsabläufe erarbeiten; Körper trainieren; Mimik und Gestik einstudieren; Auftreten vor Publikum; Werkanalysen durchführen; Proben und Choreografien vorbereiten; mit Tänzern Interpretationen erarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Tänzer/in / Choreograf/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94224">Tänzer/innen und Choreografen/Choreografinnen - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2653">Dancers and choreographers</isco>
+      <dkz codenr="94224-100" refid="8392">Trainingsleiter/in (Ballett)</dkz>
+      <dkz codenr="94224-101" refid="8393">Ballettmeister/in</dkz>
+      <dkz codenr="94224-102" refid="8404">Gruppentänzer/in</dkz>
+      <dkz codenr="94224-103" refid="8405">Bühnentänzer/in</dkz>
+      <dkz codenr="94224-104" refid="8406">Tänzer/in - Show</dkz>
+      <dkz codenr="94224-105" refid="8407">Musical-Darsteller/in</dkz>
+      <dkz codenr="94224-106" refid="8408">Solotänzer/in</dkz>
+      <dkz codenr="94224-111" refid="59252">Choreograf/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1230">Regisseur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8056">Tanzlehrer/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,15 @@
+<kategorie>
+  <id>3590</id>
+  <taetigkeit>Geldbearbeitung bei einer staatlichen Zentralbank</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Einzahlungen entgegennehmen sowie Geld versenden; Maschinen und Automaten zum Zählen und Sortieren von Geldscheinen und Münzen sowie zur Erkennung von Falschgeld bedienen; Geld auf seine Umlauffähigkeit prüfen; Zahlungsbelege und Kassenanordnungen überprüfen; Kassenbücher führen; den Überweisungsverkehr sowie den Scheck- und Lastschrifteinzug abwickeln; Buchungsbelege und Gutschriftträger bearbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Geldbearbeiter/in bei der deutschen Bundesbank</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="72182">Versicher-,Finanzdienstl.(ssT)-Fachkraft</kldb>
+      <isco schluessel="4211">Bank tellers and related clerks</isco>
+      <dkz codenr="72182-101" refid="6812">Beamt(er/in) - Bundesbank (mittl. Dienst)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3593">Zentralbankbeamter/-beamtin</abgrenzung>
+  <abgrenzung typ="mittel" refid="3567">Bankkundenberater/in</abgrenzung>
+</kategorie>

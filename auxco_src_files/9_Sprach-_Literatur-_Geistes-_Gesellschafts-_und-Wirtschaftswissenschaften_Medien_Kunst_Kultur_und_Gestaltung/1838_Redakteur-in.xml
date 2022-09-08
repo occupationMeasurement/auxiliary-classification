@@ -1,0 +1,39 @@
+<kategorie>
+  <id>1838</id>
+  <taetigkeit>Produktion von Beiträgen für Printmedien, Radio, TV oder digitale Medien</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Öffentlichkeit über Sachverhalte informieren, die von allgemeiner, politischer, wirtschaftlicher oder kultureller Bedeutung sind; Beiträge für Zeitungen, Zeitschriften, Hörfunk, Fernsehen oder digitale Medien planen, konzipieren, produzieren und prüfen; redaktionelle Inhalte für Internet- und Intranet-Angebote entwickeln und verwalten; Fotos, Grafiken, Töne und Filmssequenzen organisieren; Nutzungsrechte erwerben; nach geeignetem Bildmaterial in Bilddatenbanken, Archiven, bei Pressestellen oder direkt bei professionellen Bildagenturen recherchieren; Leitartikel, Kommentare oder kritische Rezensionen verfassen; musikalische Neuerscheinungen vorstellen; Konzertaufführungen rezensieren; Materialien zur Veröffentlichung auswählen; Kontakte mit Produktionsmitarbeitern herstellen und pflegen</taetigkeitsbeschreibung>
+  <bezeichnung>Redakteur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92413">Redakteure, Journalisten - Spezialist</kldb>
+      <isco schluessel="2642">Journalists</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="92414">Redakteure, Journalisten - Experte</kldb>
+      <isco schluessel="2642">Journalists</isco>
+      <dkz codenr="92414-100" refid="8293">Journalist/in</dkz>
+      <dkz codenr="92414-103" refid="14645">Auslandskorrespondent/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="92413">Redakteure, Journalisten - Spezialist</kldb>
+      <isco schluessel="2642">Journalists</isco>
+      <dkz codenr="92413-102" refid="8288">Redakteur/in</dkz>
+      <dkz codenr="92413-106" refid="14239">Onlineredakteur/in</dkz>
+      <dkz codenr="92413-105" refid="8599">Musikredakteur/in</dkz>
+      <dkz codenr="92413-112" refid="27786">Bildredakteur/in</dkz>
+      <dkz codenr="92413-107" refid="14398">Content-Manager/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3501">Redaktionsassistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3506">Medienfachwirt/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3524">Technische/r Redakteur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3527">Community-Manager/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3512">Chefredakteur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3521">Verleger/in (Medien/Musik)</abgrenzung>
+</kategorie>

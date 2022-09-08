@@ -1,0 +1,18 @@
+<kategorie>
+  <id>4049</id>
+  <taetigkeit>Vertrieb von Computerhardware, Software und speziellen Dienstleistungen der Kommunikationstechnologie</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden bei der Auswahl von IT-Services beraten; Bedarf der Kunden analysieren; Produkte präsentieren und verkaufen; Testphase von Software beim Kunden begleiten; Leistungserstellung überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>IT-System-Kaufmann/ -frau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43233">IT-Vertrieb - Spezialist</kldb>
+      <isco schluessel="2434">Information and communications technology sales professionals</isco>
+      <dkz codenr="43233-102" refid="7768">IT-System-Kaufmann/-frau</dkz>
+      <dkz codenr="43233-104" refid="15306">IT-Vertriebsbeauftragte/r</dkz>
+      <dkz codenr="43233-112" refid="126832">Fachberater/in - Vertrieb (Ausbildung)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4251">Leiter/in - IT-Vertrieb und -Anwendungsberatung</abgrenzung>
+  <abgrenzung typ="hoch" refid="4047">Techniker/in im IT-Kundensupport</abgrenzung>
+  <abgrenzung typ="mittel" refid="1747">Vertriebsspezialist/in</abgrenzung>
+</kategorie>

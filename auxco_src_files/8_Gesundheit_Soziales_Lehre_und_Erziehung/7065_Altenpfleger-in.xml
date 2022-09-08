@@ -1,0 +1,32 @@
+<kategorie>
+  <id>7065</id>
+  <taetigkeit>Betreuung, Pflege und Unterstützung älterer Menschen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Maßnahmen der Grundpflege ausführen; ältere, hilfsbedürftige Menschen fachgerecht betten und lagern; Medikamente nach ärztlicher Verordnung zusammenstellen und verabreichen; den Gesundheitszustand und die Reaktion auf Behandlungen der pflegebedürftigen Personen überwachen; bei der Freizeitgestaltung und der Pflege sozialer Kontakte unterstützen; in Notfällen bei Erste-Hilfe-Behandlungen Unterstützung leisten; Angehörige beraten und in pflegerische Maßnahmen einweisen</taetigkeitsbeschreibung>
+  <bezeichnung>Altenpfleger/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82102">Berufe in der Altenpflege (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3221">Nursing associate professionals </isco>
+      <dkz codenr="82102-101" refid="9054">Altenpfleger/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Leiten Sie Altenpflegeschüler/innen und Hilfskräfte an?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie Altenpflegeschüler/innen und Hilfskräfte angeleitet?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="82103">Berufe in der Altenpflege (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3221">Nursing associate professionals</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="82102">Berufe in der Altenpflege (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3221">Nursing associate professionals</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7064">Altenpflegehelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7066">Altenpfleger/in mit Spezialisierung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1834">Sozialassistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8010">Familienpfleger/in für Notsituationen</abgrenzung>
+  <abgrenzung typ="mittel" refid="7122">Leiter/in - Altenpflegeeinrichtung</abgrenzung>
+</kategorie>

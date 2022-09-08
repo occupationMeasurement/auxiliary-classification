@@ -1,0 +1,13 @@
+<kategorie>
+  <id>2145</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der technischen Forschung und Entwicklung von Produkten und Technologien</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Entwicklung eines Produktes oder einer Technologie von der Idee zur Serienreife leiten; Entwicklungs- und Innovationsprojekte akquirieren; Materialen, Komponenten oder Verfahren für Produkte festlegen; bei der Entwicklung Funktionalitäts-, Termin- und Kostenanforderungen beachten; Budgets verwalten, festlegen sowie für einen effizienten Ressourceneinsatz sorgen</taetigkeitsbeschreibung>
+  <bezeichnung>Entwicklungsleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="27194">Führungskräfte - Technische Forschung und Entwicklung</kldb>
+      <isco schluessel="1223">Research and development managers</isco>
+      <dkz codenr="27194-100" refid="90139">Leiter/in - Forschung und Entwicklung</dkz>
+    </default>
+  </untergliederung>
+</kategorie>

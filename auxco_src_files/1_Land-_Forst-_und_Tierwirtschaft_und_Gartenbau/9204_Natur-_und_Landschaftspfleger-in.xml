@@ -1,0 +1,51 @@
+<kategorie>
+  <id>9204</id>
+  <taetigkeit>Pflege und Erhaltung von Naturschutzgebieten, Kulturlandschaften oder Erholungsgebieten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Schutzgebiete betreuen und überwachen; Schilder, Wegemarkierungen, Informationstafeln und Schutzeinrichtungen aufstellen; Pflanzungen und Biotope planen, anlegen und erhalten; Wege und z.B. Waldspielplätze oder Picknickplätze anlegen und pflegen</taetigkeitsbeschreibung>
+  <bezeichnung>Natur- und Landschaftspfleger/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11723">Berufe in der Natur- und Landschaftspflege - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3143">Forestry technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="1">
+      <text>eine kurze Anlernphase</text>
+      <kldb schluessel="11711">Berufe in der Forstwirtschaft - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9215">Forestry labourers</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="11722">Berufe in der Natur- und Landschaftspflege - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6113">Gardeners, horticultural and nursery growers</isco>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="11723">Berufe in der Natur- und Landschaftspflege - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3143">Forestry technicians</isco>
+      <dkz codenr="11723-100" refid="438">Techniker/in - Umwelt/Landschaft</dkz>
+      <dkz codenr="11723-103" refid="15094">Natur- und Landschaftspfleger/in</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium im Bereich Landschaftsökologie und Naturschutz</text>
+      <kldb schluessel="11723">Berufe in der Natur- und Landschaftspflege - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3143">Forestry technicians</isco>
+      <dkz codenr="11723-100" refid="438">Techniker/in - Umwelt/Landschaft</dkz>
+      <dkz codenr="11723-103" refid="15094">Natur- und Landschaftspfleger/in</dkz>
+    </antwort>
+    <antwort position="5" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium im Bereich Landschaftsökologie und Naturschutz</text>
+      <kldb schluessel="11724">Berufe in der Natur- und Landschaftspflege - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2143">Environmental engineers</isco>
+      <dkz codenr="11724-105" refid="59375">Ingenieur/in - Landschaftsökologie/Naturschutz</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9203">Pflege und Bewirtschaftung von Wäldern</abgrenzung>
+  <abgrenzung typ="mittel" refid="1066">Landschaftsgärtner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9207">Forstverwalter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1054">Gärtner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1056">Gartenbauingenieur/in</abgrenzung>
+</kategorie>

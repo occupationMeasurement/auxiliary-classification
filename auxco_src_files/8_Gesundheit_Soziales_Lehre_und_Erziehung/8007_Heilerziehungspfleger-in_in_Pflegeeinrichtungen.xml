@@ -1,0 +1,34 @@
+<kategorie>
+  <id>8007</id>
+  <taetigkeit>Pädagogische und pflegerische Betreuung und Versorgung von Menschen mit Behinderung in Gesundheitseinrichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. kreative und künstlerische Fähigkeiten fördern; Begleitung zu Arbeitsstätten, Schule, Behördengängen und Ärzten; beim Anziehen, Waschen und Essen helfen</taetigkeitsbeschreibung>
+  <bezeichnung>Heilerziehungspfleger/in in Pflegeeinrichtungen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83131">Heilerziehungspflege, Sonderpäd. -Helfer</kldb>
+      <isco schluessel="5321">Health care assistants</isco>
+      <dkz codenr="83131-100" refid="6963">Reisehelfer/in für Menschen mit Behinderung</dkz>
+      <dkz codenr="83131-102" refid="9141">Heilerziehungspflegehelfer/in</dkz>
+      <dkz codenr="83132-101" refid="9103">Erzieher/in - sonderpädagogische Einrichtungen</dkz>
+      <dkz codenr="83132-102" refid="9118">Heilerziehungspfleger/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine staatliche Anerkennung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine staatliche Anerkennung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Ja</text>
+      <kldb schluessel="83132">Heilerziehungspflege,Sonderpäd-Fachkraft</kldb>
+      <isco schluessel="3412">Social work associate professionals</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="1">
+      <text>Nein</text>
+      <kldb schluessel="83131">Heilerziehungspflege, Sonderpäd. -Helfer</kldb>
+      <isco schluessel="5322">Home-based personal care workers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8008">Heilpädagoge/ -pädagogin</abgrenzung>
+  <abgrenzung typ="mittel" refid="8002">Kinderbetreuer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7045">Fachassistent/in Hirnleistungstraining</abgrenzung>
+  <abgrenzung typ="hoch" refid="8006">Heilerziehungspfleger/in in Privathaushalten</abgrenzung>
+</kategorie>

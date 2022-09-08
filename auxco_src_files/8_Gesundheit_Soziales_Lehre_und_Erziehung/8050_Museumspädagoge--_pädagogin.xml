@@ -1,0 +1,16 @@
+<kategorie>
+  <id>8050</id>
+  <taetigkeit>Konzeption und Durchführung von museumspädagogischen Maßnahmen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fähigkeiten der Besucher beurteilen und Lernbedürfnisse und Interessen ermitteln; Ausstellungsinhalte zielgruppengerecht aufbereiten; eine Museumsrallye für Kinder erarbeiten; bei der Gestaltung von Informationstafeln mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Museumspädagoge/- pädagogin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84484">Lehrkr. außerschul.Bild.(ssT)-Experte</kldb>
+      <isco schluessel="2359">Teaching professionals not elsewhere classified</isco>
+      <dkz codenr="84484-106" refid="13674">Museumspädagoge/-pädagogin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="8039">Dozent/in - Erwachsenenbildung</abgrenzung>
+  <abgrenzung typ="hoch" refid="8045">Kunstpädagoge/-pädagogin bzw. Theaterpädagoge/-pädagogin</abgrenzung>
+  <abgrenzung typ="hoch" refid="1300">Kurator/in / Museologe/in</abgrenzung>
+</kategorie>

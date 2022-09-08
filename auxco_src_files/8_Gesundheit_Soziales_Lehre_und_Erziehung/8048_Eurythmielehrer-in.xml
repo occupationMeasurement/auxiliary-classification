@@ -1,0 +1,15 @@
+<kategorie>
+  <id>8048</id>
+  <taetigkeit>Erteilung von Eurythmieunterricht</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. durch Gedichte, Reime und Verse die Bewegungsimpulse der Schüler anregen; (einfache) Rhythmen und Stabübungen vermitteln; Haltung, Muskelbeugung und Muskelstreckung korrigieren; den Sinn der Schüler für Sprache und Musik schärfen; Bewegungsmöglichkeiten vermitteln; Choreografien entwickeln</taetigkeitsbeschreibung>
+  <bezeichnung>Eurythmielehrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84483">Lehrkr.außerschul.Bild.(ssT)-Spezialist</kldb>
+      <isco schluessel="2355">Other arts teachers</isco>
+      <dkz codenr="84483-101" refid="9585">Eurythmielehrer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="8039">Dozent/in - Erwachsenenbildung</abgrenzung>
+  <abgrenzung typ="mittel" refid="8034">Berufsschullehrer/in</abgrenzung>
+</kategorie>

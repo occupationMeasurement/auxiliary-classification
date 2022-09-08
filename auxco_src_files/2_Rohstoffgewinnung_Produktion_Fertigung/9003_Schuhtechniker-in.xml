@@ -1,0 +1,17 @@
+<kategorie>
+  <id>9003</id>
+  <taetigkeit>Planung, Koordination und Überwachung von Fertigungsprozessen in der Schuhfertigung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fertigungstermine bestimmen und betriebliche Abläufe koordinieren; Modelle und Vorgaben für die Fertigung erarbeiten; Produktionskosten kalkulieren; für die rechtzeitige Bereitstellung von Materialien sorgen; Qualitätskontrollen durchfühern; Fertigung überwachen; Stoffe prüfen; Zeitfenster und Fertigungstermine überwachen; Musterkollektionen für Messen zusammenstellen; Einhaltung von rechtlichen Bestimmungen bezüglich Sicherheit, Umwelt- und Arbeitsschutz durchsetzen</taetigkeitsbeschreibung>
+  <bezeichnung>Schuhtechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28333">Schuhherstellung - Spezialist</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="28333-101" refid="5903">Techniker/in - Schuhtechnik (Betriebstechnik)</dkz>
+      <dkz codenr="28333-103" refid="5921">Techniker/in - Schuhtechnik (Modellgestaltung)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1742">Ledertechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9055">Leiter/in Leder- und Pelzbearbeitung</abgrenzung>
+  <abgrenzung typ="hoch" refid="9002">Schuhmodelleur/in</abgrenzung>
+</kategorie>

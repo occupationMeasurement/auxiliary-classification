@@ -1,0 +1,18 @@
+<kategorie>
+  <id>9233</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der industriellen Herstellung und Verarbeitung von Keramik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Personaleinsatz planen und koordinieren; Rezepturen der Ausgangsmaterialien berechnen und festlegen; Einstellungsparameter der Gieß- und Formgebungsmaschinen sowie der Trocknungs- und Brennanlagen bestimmen, kontrollieren und gegebenenfalls korrigieren</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - Keramikfabrik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21493">Aufsichtskräfte - Industrielle Keramikherstellung und -verarbeitung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="21393-100" refid="1076">Glasbläser- und Glasapparatebauermeister/in</dkz>
+      <dkz codenr="21393-103" refid="1111">Glasveredlermeister/in</dkz>
+      <dkz codenr="21393-104" refid="1122">Feinoptikermeister/in</dkz>
+      <dkz codenr="21393-105" refid="6123">Industriemeister/in - Glas</dkz>
+      <dkz codenr="21393-108" refid="6202">Industriemeister/in - Optik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9231">Industriekeramiker/in</abgrenzung>
+</kategorie>

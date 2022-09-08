@@ -1,0 +1,14 @@
+<kategorie>
+  <id>5323</id>
+  <taetigkeit>Instandhaltung und Reinigung von öffentlichen Wegen und Grünflächen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Straßen und öffentliche Wege im Gemeindegebiet pflegen; Gehwege und Plätze kehren; herumliegenden Abfall einsammeln; Straßen und Wege auf Schäden kontrollieren und kleinere Schäden ggf. ausbessern; öffentliche Flächen und Grünflächen pflegen; Bäume, Sträucher und Hecken zurückschneiden und bewässern; Zäune und Sitzbänke pflegen und bei Bedarf reparieren und streichen; Spielplätze reinigen; Räum- und Streupflicht nachgehen; Rathäuser und Gemeindebibliotheken warten und instandhalten; auf Gemeindefriedhöfen Gräber ausheben</taetigkeitsbeschreibung>
+  <bezeichnung>Gemeindearbeiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34112">Platz-, Gerätewarte/innen - Fachkraft</kldb>
+      <isco schluessel="5153">Building caretakers</isco>
+      <dkz codenr="34112-100" refid="4236">Gemeindearbeiter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1066">Landschaftsgärtner/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,41 @@
+<kategorie>
+  <id>7047</id>
+  <taetigkeit>Behandlung von Patienten mit ergotherapeutischen Methoden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. motorische, kognitive, psychische und soziale Fähigkeiten mit Patienten üben; Therapien anwenden wie beispielsweise heilpädagogisches Reiten oder therapeutisches Puppenspiel; affektive und emotionale Fähigkeiten fördern; Bewegungsfunktionen trainieren; Schienen und Prothesen auswählen und mit Patienten üben; Behandlungsfortschritte auswerten; Absprache mit Ärzten oder Physiotherapeuten halten</taetigkeitsbeschreibung>
+  <bezeichnung>Ergotherapeut/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81723">Berufe in der Ergotherapie - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2269">Health professionals not elsewhere classified</isco>
+      <dkz codenr="81723-101" refid="8774">Ergotherapeut/in</dkz>
+      <dkz codenr="81723-102" refid="8778">Spieltherapeut/in</dkz>
+      <dkz codenr="81723-103" refid="8785">Reittherapeut/in</dkz>
+      <dkz codenr="81723-105" refid="27885">Lerntherapeut/in</dkz>
+      <dkz codenr="81723-104" refid="9056">Altentherapeut/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Ergotherapie erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Ergotherapie erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="81723">Berufe in der Ergotherapie - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2269">Health professionals not elsewhere classified</isco>
+      <dkz codenr="81723-101" refid="8774">Ergotherapeut/in</dkz>
+      <dkz codenr="81723-102" refid="8778">Spieltherapeut/in</dkz>
+      <dkz codenr="81723-103" refid="8785">Reittherapeut/in</dkz>
+      <dkz codenr="81723-105" refid="27885">Lerntherapeut/in</dkz>
+      <dkz codenr="81723-104" refid="9056">Altentherapeut/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="81724">Berufe in der Ergotherapie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2269">Health professionals not elsewhere classified</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7056">therapeutische/r Einrichtungsleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7045">Fachassistent/in Hirnleistungstraining</abgrenzung>
+  <abgrenzung typ="hoch" refid="7049">Musik- oder Kunsttherapeut/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8008">Heilpädagoge/ -pädagogin</abgrenzung>
+  <abgrenzung typ="hoch" refid="7043">Physiotherapeut/in</abgrenzung>
+</kategorie>

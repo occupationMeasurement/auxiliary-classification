@@ -1,0 +1,21 @@
+<kategorie>
+  <id>2006</id>
+  <taetigkeit>Bedienung von Maschinen zur Umformung von Metall mittels Walzen, Pressen, Ziehen oder Schmieden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Herstellung von Platten, Blechen, Profilen und anderen Halbzeugen aus Stahl oder Metall; Anlagen und Maschinen (z.B. Walzanlagen) bedienen und steuern; Umformprozesse steuern und überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Walzer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24122">Berufe in der Metallumformung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8121">Metal processing plant operators</isco>
+      <dkz codenr="24122-100" refid="1594">Verfahrensmech. - Hütten-/Halbzeugind. -Nichteisen-Umformung</dkz>
+      <dkz codenr="24122-101" refid="1596">Verfahrensmech. - Hütten-/Halbzeugind. -Stahl-Umformung</dkz>
+      <dkz codenr="24122-104" refid="1628">Walzer/in</dkz>
+      <dkz codenr="24122-118" refid="1759">Kabeljungwerker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1843">Metallumformungstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2001">Gießereihelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2010">Gießereimechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1853">Maschineneinrichter/in (spanlose Metallbearbeitung)</abgrenzung>
+  <abgrenzung typ="mittel" refid="2023">Zerspanungsmechaniker/in</abgrenzung>
+</kategorie>

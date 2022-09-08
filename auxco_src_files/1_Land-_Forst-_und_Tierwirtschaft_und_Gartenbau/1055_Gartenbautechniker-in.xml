@@ -1,0 +1,16 @@
+<kategorie>
+  <id>1055</id>
+  <taetigkeit>Planung, Koordination und Optimierung bei Pflanzarbeiten und Einsatz technischer Maschinen im Gartenbau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. produktionstechnische Lösungen für Gartenbaubetriebe entwickeln (Anbau, Pflege, Vermehrung etc.); effektive Ernte und Lagerung steuern; Produktionsmittel umweltschonend einsetzen; Maßnahmen zum Pflanzenschutz entwickeln; Einkauf organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Gartenbautechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="12103">Berufe im Gartenbau (o.S.) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3142">Agricultural technicians</isco>
+      <dkz codenr="12103-109" refid="58472">Techniker/in - Gartenbau (ohne Schwerpunkt)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1054">Gärtner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1056">Gartenbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1713">Gärtnermeister/in</abgrenzung>
+</kategorie>

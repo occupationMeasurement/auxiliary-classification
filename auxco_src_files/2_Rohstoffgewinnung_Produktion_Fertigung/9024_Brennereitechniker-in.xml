@@ -1,0 +1,31 @@
+<kategorie>
+  <id>9024</id>
+  <taetigkeit>Planung, Koordination und Optimierung der Produktion von alkoholischen Konzentraten und Spirituosen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. im Labor die Qualität von Rohstoffen und Endprodukten mittels technologischer Verfahren überprüfen; Rezepte und Herstellungsverfahren optimieren und neu entwickeln; Produktion von Agraralkohol und Spirituosen wie z.B. Whisky, Likör, Obstbrände und Schnaps technisch steuern; Gärungs- und Destillationsprozesse gestalten und überwachen; Anlagen und Maschinen zur Produktion und Abfüllung einrichten und instand halten; fachlich beratende Tätigkeiten übernehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Brennereitechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29133">Brenner, Destillateure - Spezialist</kldb>
+      <isco schluessel="3116">Chemical engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="29134">Brenner, Destillateure - Experte</kldb>
+      <isco schluessel="2145">Chemical engineers</isco>
+      <dkz codenr="29134-100" refid="90883">Brennereiingenieur/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="29133">Brenner, Destillateure - Spezialist</kldb>
+      <isco schluessel="3116">Chemical engineering technicians</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9016">Getränketechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9005">Getränkeproduktionsleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9023">Brenner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9019">Brautechniker/in</abgrenzung>
+</kategorie>

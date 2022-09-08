@@ -1,0 +1,35 @@
+<kategorie>
+  <id>5226</id>
+  <taetigkeit>Reinigung der Innenräume von öffentlichen und kommerziellen Gebäuden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. wischen und staubsaugen; sanitäre Anlagen reinigen; Fenster, Mobiliar, Heizkörper und Türen reinigen; die Beschaffenheit der zu reinigenden Flächen beurteilen und die jeweiligen Reinigungsverfahren festlegen; Hallen, Füßböden und Beläge putzen sowie mit Pflegemitteln behandeln; Großküchen, Umkleidekabinen und sanitäre Einrichtungen reinigen; Be- und Entlüftungsanlagen, Dunstabzugsanlagen reinigen</taetigkeitsbeschreibung>
+  <bezeichnung>Gebäudeinnenreiniger/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="54101">Reinigung (o.S.) - Helfer</kldb>
+      <isco schluessel="9112">Cleaners and helpers in offices, hotels and other establishments</isco>
+      <dkz codenr="54101-103" refid="10223">Helfer/in - Reinigung</dkz>
+      <dkz codenr="54112-101" refid="10233">Gebäudereiniger/in</dkz>
+      <dkz codenr="54112-102" refid="10234">Baureiniger/in (Gebäudereinigung)</dkz>
+      <dkz codenr="54112-103" refid="10235">Industriereiniger/in (Gebäudereinigung)</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Mussten Sie für diese Tätigkeit neues Wissen lernen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Mussten Sie für diese Tätigkeit neues Wissen lernen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Ja</text>
+      <kldb schluessel="54112">Gebäudereinigung - Fachkraft</kldb>
+      <isco schluessel="9112">Cleaners and helpers in offices, hotels and other establishments</isco>
+      <dkz codenr="54112-101" refid="10233">Gebäudereiniger/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="1">
+      <text>Nein</text>
+      <kldb schluessel="54101">Reinigung (o.S.) - Helfer</kldb>
+      <isco schluessel="9112">Cleaners and helpers in offices, hotels and other establishments</isco>
+      <dkz codenr="54101-103" refid="10223">Helfer/in - Reinigung</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6077">Zimmermädchen/ Roomboy</abgrenzung>
+  <abgrenzung typ="mittel" refid="5095">Anlagenreiniger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5225">Reinigungskraft in Privathaushalten</abgrenzung>
+</kategorie>

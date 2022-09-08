@@ -1,0 +1,17 @@
+<kategorie>
+  <id>1011</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten in der Nutztierhaltung und im Ackerbau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Tiere füttern, reinigen, tränken und beaufsichtigen; Obst und Gemüse pflücken; Stroh aufstapeln; graben und schaufeln</taetigkeitsbeschreibung>
+  <bezeichnung>Helfer/in - Tierwirtschaft und im Ackerbau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11101">Landwirtschaft (o.S.) - Helfer</kldb>
+      <isco schluessel="9213">Mixed crop and livestock farm labourers</isco>
+      <dkz codenr="11101-107" refid="501">Helfer/in - Landwirtschaft</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1010">Acker- und Erntearbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1502">Nutztierhaltung - Helfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1012">Landwirt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1013">Ackerwirt/in</abgrenzung>
+</kategorie>

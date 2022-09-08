@@ -1,0 +1,16 @@
+<kategorie>
+  <id>5173</id>
+  <taetigkeit>Sicherstellung der Ordnung auf Parkplätzen und in Parkhäusern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Einhaltung von Vorschriften wie die Einbahnstraßenregelungen und Geschwindigkeitsbegrenzungen in Parkhäusern kontrollieren; Autos zu freien Parkplätzen lotsen; Patrouillengänge auf Parkplätzen oder in Parkhäusern durchführen; Parkscheine verkaufen; technische Einrichtungen nach Anweisung des Betreibers kontrollieren; Ordnungskräfte bei Veranstaltungen unterstützen</taetigkeitsbeschreibung>
+  <bezeichnung>Parkplatz- und Parkhausaufsicht</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53111">Objekt-, Werte-, Personenschutz - Helfer</kldb>
+      <isco schluessel="9629">Elementary workers not elsewhere classified </isco>
+      <dkz codenr="53111-105" refid="90137">Helfer/in - Objekt-, Werte- und Personenschutz</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5060">Geldzähler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5061">Sicherheitsdienstmitarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5059">Spielhallenaufsicht</abgrenzung>
+</kategorie>

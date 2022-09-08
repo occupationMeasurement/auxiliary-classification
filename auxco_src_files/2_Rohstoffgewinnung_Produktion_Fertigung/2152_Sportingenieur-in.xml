@@ -1,0 +1,16 @@
+<kategorie>
+  <id>2152</id>
+  <taetigkeit>Planung, Koordination und Optimierung der Produktionsprozesse von  Sportgeräten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Sportgeräte unter Berücksichtigung von Kundenbedürfnissen und Sicherheitsaspekten entwickeln und optimieren; mittels CAD Spezialgeräte wie Therapie- oder Messgeräte konstruieren; Prototypen entwickeln und testen; Produktion der Geräte überwachen und die Qualität überprüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Sportingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="27284">Technisches Zeichnen, Konstruktion und Modellbau (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="27284-100" refid="15682">Ingenieur/in - Sport</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2151">Normentechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2150">Sportgerätebauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1737">Konstruktionstechniker/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,38 @@
+<kategorie>
+  <id>2124</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Maschinenbautechnik oder bei der Instandhaltung von betrieblichen Anlagen und Maschinen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. mit Fachsoftware innerbetriebliche Wartungs-, Instandhaltungs- und Reparaturmaßnahmen im Bereich Maschinenbau und Betriebstechnik planen; Ersatzteile beschaffen und die ausreichende Lagerhaltung organisieren; die korrekte Montage, Inbetriebnahme und Wartung von Maschinen und Anlagen überwachen; für die Einhaltung von Arbeitssicherheits- und Umweltvorgaben sorgen; Mitarbeiter für Aufgaben zuteilen und deren Arbeit beaufsichtigen</taetigkeitsbeschreibung>
+  <bezeichnung>Instandhaltungsleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25193">Aufsichtskräfte - Maschinenbau- und Betriebstechnik</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="25194">Führungskräfte - Maschinenbau- und Betriebstechnik</kldb>
+      <isco schluessel="1321">Manufacturing managers</isco>
+      <dkz codenr="25194-103" refid="27616">Leiter/in - Kundendienst (technisch)</dkz>
+      <dkz codenr="25194-119" refid="59001">Leiter/in - Betriebliche Instandhaltung</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="25193">Aufsichtskräfte - Maschinenbau- und Betriebstechnik</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="25193-102" refid="6080">Industriemeister/in - Instandhaltung u. Kundendienst</dkz>
+      <dkz codenr="25193-103" refid="6150">Industriemeister/in - Metall (Produktionstechnik)</dkz>
+      <dkz codenr="25193-104" refid="6153">Industriemeister/in - Metall (Ausrüstungstechnik)</dkz>
+      <dkz codenr="25193-105" refid="6154">Industriemeister/in - Metall (Betriebstechnik)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1705">Mühlenbautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1706">Umweltschutzverfahrenstechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1723">Wartungs- und Servicetechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2155">Leiter/in - Technische Produktionssteuerung und Qualitätssicherung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1703">Werkzeugmachermeister/in</abgrenzung>
+</kategorie>

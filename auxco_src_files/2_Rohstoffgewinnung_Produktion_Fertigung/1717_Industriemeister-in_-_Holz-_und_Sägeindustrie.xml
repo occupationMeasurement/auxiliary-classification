@@ -1,0 +1,38 @@
+<kategorie>
+  <id>1717</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der industriellen Holzverarbeitung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Einstellungen von Maschinen und Geräten wie Säge-, Hobel- und Schleifmaschinen kontrollieren; Arbeitsabläufe in der Weiterverarbeitung festlegen; beeinflussbare Kosten im eigenen Verantwortungsbereich kontrollieren; Schulungs- und Weiterbildungsmaßnahmen für Mitarbeiter organisieren und den betrieblichen Teil der Ausbildung durchführen; Aktivitäten in Bezug auf Produktionsqualität und -quantität, Material- und Personaleinsatz detailliert planen</taetigkeitsbeschreibung>
+  <bezeichnung>Industriemeister/in - Holz- und Sägeindustrie</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22393">Aufsichtskräfte - Holzbe- und -verarbeitung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="22394">Führung - Holzbe-, -verarbeitung</kldb>
+      <isco schluessel="1321">Manufacturing Managers</isco>
+      <dkz codenr="22394-104" refid="59299">Holzwirt/in</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="22393">Aufsichtskräfte - Holzbe- und -verarbeitung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="22393-125" refid="14063">Betriebsmanager/in - Bau- und Holztechnik</dkz>
+      <dkz codenr="22393-115" refid="6248">Industriemeister/in - Holz</dkz>
+      <dkz codenr="22393-119" refid="6258">Industriemeister/in - Sägeindustrie</dkz>
+      <dkz codenr="22393-121" refid="8000">Technische/r Kaufmann/-frau - Holz</dkz>
+      <dkz codenr="22393-123" refid="9724">Betriebswirt/in (Fachschule) - Holz</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5208">Tischler- / Schreinermeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1717">Industriemeister/in - Holz- und Sägeindustrie</abgrenzung>
+  <abgrenzung typ="hoch" refid="5194">Holztechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5293">Bautischler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5292">Zimmerer/Zimmerin</abgrenzung>
+  <abgrenzung typ="mittel" refid="5318">Restaurator/in - Zimmererhandwerk</abgrenzung>
+</kategorie>

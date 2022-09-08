@@ -1,0 +1,16 @@
+<kategorie>
+  <id>5036</id>
+  <taetigkeit>Vermittlung von Schiffsraum, Ladung und Liegeplätzen sowie der Handel mit Schiffen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die aktuelle Marktlage dokumentieren; Frachtpreise und Fahrtrouten analysieren und kalkulieren; Liegeplätze im Hafen vermitteln und Hafenkosten abwickeln; dafür sorgen, dass Lade- oder Löscharbeiten durchgeführt und koordiniert werden; sicherstellen, dass die Fracht beim Empfänger abgeliefert wird</taetigkeitsbeschreibung>
+  <bezeichnung>Schiffsmakler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51653">Schifffahrtskaufleute - Spezialist</kldb>
+      <isco schluessel="3324">Trade brokers</isco>
+      <dkz codenr="51653-101" refid="7040">Schiffsmakler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5035">Schifffahrtskaufmann/-frau</abgrenzung>
+  <abgrenzung typ="hoch" refid="5022">Verkehrsbetriebswirt/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5023">Fachwirt/in - Personen- und Reiseverkehr</abgrenzung>
+</kategorie>

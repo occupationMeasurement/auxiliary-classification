@@ -1,0 +1,17 @@
+<kategorie>
+  <id>5213</id>
+  <taetigkeit>Entwicklung, Analyse und Optimierung von Arbeitsprozessen in der Papierindustrie</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. neue Verfahren, Maschinen und Anlagen zur Steigerung von Produktqualität und Produktivität entwickeln; Produktionsverfahren für Zellstoff, Altpapierstoff, Papier und Pappe steuern und überwachen; chemische Hilfsmittel zur Papierherstellung entwickeln; Funktionskontrollen der Produktionsmaschinen veranlassen; Maschinen und Anlagen zur Produktion weiterentwickeln; beratende Funktionen in der Papierindustrie übernehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Papieringenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23114">Papierherstellung - Experte</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="23114-103" refid="58736">Ingenieur/in - Papiertechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5212">Techniker/in - Papiertechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="1718">Techniker/in - Druck- und Medientechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="5217">Verpackungsingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+</kategorie>

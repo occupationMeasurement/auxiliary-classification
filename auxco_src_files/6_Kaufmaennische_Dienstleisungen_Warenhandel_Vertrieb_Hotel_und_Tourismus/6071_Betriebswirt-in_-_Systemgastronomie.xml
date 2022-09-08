@@ -1,0 +1,14 @@
+<kategorie>
+  <id>6071</id>
+  <taetigkeit>Sicherstellung eines ordnungsgemäßen Betriebsablaufs in Schnellrestaurants</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. einheitliche Zubereitung der Speisen planen, organisieren und überprüfen; Qualitätskontrolle durchführen; Speisepläne nach Grundsätzen der Ernährungslehre und unter Berücksichtigung der Kundenwünsche erstellen; Reservierungen entgegennehmen; Gäste begrüßen; bei der Aufnahme von Bestellungen helfen; den Einkauf der benötigten Waren organisieren; Budgets kalkulieren; Vereinbarungen sowohl mit Lieferanten als auch mit Kunden aushandeln; Lagerbestände und finanzielle Transaktionen dokumentieren; neue Mitarbeiter einweisen; Reinigungsarbeiten und den Service des Personals überprüfen; die Einhaltung von Hygiene- und Sicherheitsvorschriften gewährleisten</taetigkeitsbeschreibung>
+  <bezeichnung>Betriebswirt/in - Systemgastronomie</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63313">Systemgastronomie - Spezialist</kldb>
+      <isco schluessel="1412">Restaurant managers</isco>
+      <dkz codenr="63313-105" refid="13847">Betriebswirt/in (Fachschule) - Catering/Systemverpflegung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6073">Restaurantmeister/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,15 @@
+<kategorie>
+  <id>9064</id>
+  <taetigkeit>Planung, Koordination und Optimierung der industriellen Herstellung von Fleischerzeugnissen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fleisch, Gewürze, Hilfsstoffe und Zutaten einkaufen; Ware annehmen, deren Qualität prüfen und für die fachgerechte Lagerung sorgen; Produktionsabläufe planen, organisieren und überwachen; Fertigungsanlage, wie z.B. Mischmaschinen, Zerkleinerungsanlagen, Räuchereinrichtungen und Backöfen, einstellen; Betriebsbereitschaft von lebensmitteltechnischen Produktionsanlagen z.B. durch Wartungen sicherstellen; Qualitätsnormen erstellen und überwachen; Maßnahmen zur Qualitätssicherung einleiten und durchführen; bei der Produktentwicklung und -verbesserung mitwirken; zielgruppenorientierte Produktreihen entwickeln und Produkte auf Messen präsentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Fleischereitechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29233">Fleischverarbeitung - Spezialist</kldb>
+      <isco schluessel="3116">Chemical engineering technicians</isco>
+      <dkz codenr="29233-100" refid="5866">Techniker/in - Lebensmitteltechnik (Fleischereitechnik)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9063">Fleischer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9076">Leiter/in - Lebensmittelindustrie</abgrenzung>
+</kategorie>

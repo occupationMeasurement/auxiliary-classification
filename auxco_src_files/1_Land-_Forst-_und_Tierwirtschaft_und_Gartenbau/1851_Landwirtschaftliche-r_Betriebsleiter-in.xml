@@ -1,0 +1,56 @@
+<kategorie>
+  <id>1851</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Landwirtschaft</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die landwirtschaftliche Produktion überwachen und allgemeine Geschäftsentscheidungen treffen; Arbeitseinsätze planen; die Vermarktung von landwirtschaftlichen Erzeugnissen planen; Mitarbeiter einstellen und Fortbildungen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Landwirtschaftliche/r Betriebsleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11193">Aufsichtskräfte - Landwirtschaft</kldb>
+      <isco schluessel="6111">Field crop and vegetable growers</isco>
+      <dkz codenr="11193-100" refid="270">Landwirtschaftsmeister/in</dkz>
+      <dkz codenr="11193-102" refid="404">Wirtschafter/in - Landwirtschaft</dkz>
+      <dkz codenr="11193-103" refid="410">Betriebswirt/in (Fachschule) - Agrarbetrieb</dkz>
+      <dkz codenr="11193-104" refid="442">Fachagrarwirt/in - Landtechnik</dkz>
+      <dkz codenr="11193-120" refid="90069">Agrarservicemeister/in</dkz>
+      <dkz codenr="11194-103" refid="409">Verwalter/in - Landwirtschaft</dkz>
+      <dkz codenr="11194-104" refid="13725">Betriebsleiter/in - landwirtschaftlich</dkz>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" follow-up="FALSE" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="11194">Führungskräfte - Landwirtschaft</kldb>
+      <isco schluessel="1311">Agricultural and forestry production managers</isco>
+      <dkz/>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="11193">Aufsichtskräfte - Landwirtschaft</kldb>
+      <isco schluessel="6130">Mixed crop and animal producers</isco>
+      <dkz/>
+    </antwort>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Über welche landwirtschaftliche Tätigkeit führen Sie Aufsicht?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Über welche landwirtschaftliche Tätigkeit haben Sie Aufsicht geführt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Über den Anbau von Gemüse und Ackerbau</text>
+      <kldb schluessel="11193">Aufsichtskräfte - Landwirtschaft</kldb>
+      <isco schluessel="6111">Field crop and vegetable growers</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Über das Sammeln von landwirtschaftlich interessanten Daten wie beispielsweise zur Einhaltung der Qualitätsstandards</text>
+      <kldb schluessel="11193">Aufsichtskräfte - Landwirtschaft</kldb>
+      <isco schluessel="3142">Agricultural technicians</isco>
+    </antwort>
+    <antwort position="3">
+      <text>Keine der vorigen Antworten trifft zu</text>
+      <kldb schluessel="11193">Aufsichtskräfte - Landwirtschaft</kldb>
+      <isco schluessel="6130">Mixed crop and animal producers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1851">Landwirtschaftliche/r Betriebsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1015">Agraringenieur/in</abgrenzung>
+</kategorie>

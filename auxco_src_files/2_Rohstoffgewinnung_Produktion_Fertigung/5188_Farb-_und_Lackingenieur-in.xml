@@ -1,0 +1,16 @@
+<kategorie>
+  <id>5188</id>
+  <taetigkeit>Entwicklung, Herstellung und Analyse von Farb- und Lackrohstoffen sowie Koordination der Produktionsprozesse</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. in Versuchsreihen neue Mischverhältnisse von Grundstoffen erproben; Verfahren und Prozesse zur Farben- und Lackherstellung und -verarbeitung entwickeln, optimieren und überwachen; Marktanalysen erstellen; Verbesserungsmöglichkeiten für vorhandene Verfahren ableiten und den Prozess begleiten; Kennzahlen wie Materialkosten und Energieverbrauch ermitteln und Arbeitsprozesse optimieren</taetigkeitsbeschreibung>
+  <bezeichnung>Farb- und Lackingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22204">Farb-, Lacktechnik (o.S.) - Experte</kldb>
+      <isco schluessel="2145">Chemical engineers</isco>
+      <dkz codenr="22204-101" refid="59363">Ingenieur/in - Farben, Lacke</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5187">Farb- und Lacktechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4012">Ingenieur/in - Chemietechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="5191">Lackierermeister/in</abgrenzung>
+</kategorie>

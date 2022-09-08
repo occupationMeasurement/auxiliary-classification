@@ -1,0 +1,16 @@
+<kategorie>
+  <id>7045</id>
+  <taetigkeit>Förderung der mentalen Leistung von Patienten durch aktivierende Übungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. logisches Denken, Konzentrations- und Merkfähigkeit mittels Übungen fördern; handwerkliche oder hauswirtschaftliche Tätigkeiten einüben; Einkaufen oder sicheres Bewegen im Straßenverkehr trainieren; zu Eigenaktivität und Ausdauer anregen; durchgeführte Maßnahmen dokumentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Fachassistent/in Hirnleistungstraining</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81722">Berufe in der Ergotherapie - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3259">Health associate professionals not elsewhere classified</isco>
+      <dkz codenr="81722-100" refid="15120">Fachassistent/in - Hirnleistungstraining</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="8006">Heilerziehungspfleger/in in Privathaushalten</abgrenzung>
+  <abgrenzung typ="mittel" refid="8007">Heilerziehungspfleger/in in Pflegeeinrichtungen</abgrenzung>
+  <abgrenzung typ="hoch" refid="7047">Ergotherapeut/in</abgrenzung>
+</kategorie>

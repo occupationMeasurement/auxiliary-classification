@@ -1,0 +1,22 @@
+<kategorie>
+  <id>7042</id>
+  <taetigkeit>Behandlung von Patienten mit psychotherapeutischen Methoden gemäß diagnostizierten Krankheitsbildern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Anamnese durchführen und Befunde erheben durch Exploration und psychodiagnostische Testverfahren; psychoanalytische bzw. psychotherapeutische Behandlung planen und Therapieziele aufstellen; Einzel- oder Gruppenbehandlungen durchführen (Familien, Paare, Kinder oder Jugendliche); psychoanalytische Methoden bewerten und weiterentwickeln; Rollenspiele oder Traumdeutung nutzen</taetigkeitsbeschreibung>
+  <bezeichnung>Psychotherapeut/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81634">Berufe in der nicht ärztlichen Psychotherapie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2634">Psychologists</isco>
+      <dkz codenr="81634-102" refid="8725">Supervisor/in (Psychotherapie)</dkz>
+      <dkz codenr="81634-103" refid="8726">Kinder- und Jugendlichenpsychotherapeut/in</dkz>
+      <dkz codenr="81634-104" refid="8728">Psychologische/r Psychotherapeut/in</dkz>
+      <dkz codenr="81634-108" refid="14880">Familien-/Paartherapeut/in</dkz>
+      <dkz codenr="81634-111" refid="35013">Logotherapeut/in</dkz>
+      <dkz codenr="81634-106" refid="9774">Psychoanalytiker/in</dkz>
+      <dkz codenr="81634-109" refid="27310">Verhaltenstherapeut/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7033">Neurologe/ Neurologin</abgrenzung>
+  <abgrenzung typ="hoch" refid="8011">Sozialberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7041">Psychologe/Psychologin</abgrenzung>
+</kategorie>

@@ -1,0 +1,17 @@
+<kategorie>
+  <id>2063</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten in der Maschinenbau- und Betriebstechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. beim Aufbau von Maschinen und Anlagen einfache Hilfsarbeiten übernehmen; Aufräum-, Reinigungs- und Lagerarbeiten durchführen; benötigte Werkzeuge bereitstellen; einfache Schweiß- und Lötarbeiten ausführen; Bauteile vermessen und mit Schrauben oder Nieten zusammenfügen</taetigkeitsbeschreibung>
+  <bezeichnung>Montagehelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25101">Berufe in der Maschinenbau- und Betriebstechnik (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="25101-106" refid="58527">Helfer/in - Maschinenbau, Betriebstechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2040">Metallbauhelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2059">Maschinenschlosser/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2093">Metallbearbeitungshelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2052">Feinmechanikerhelfer/in</abgrenzung>
+</kategorie>

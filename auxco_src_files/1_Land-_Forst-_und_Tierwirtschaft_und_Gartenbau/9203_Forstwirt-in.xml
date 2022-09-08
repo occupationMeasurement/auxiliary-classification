@@ -1,0 +1,55 @@
+<kategorie>
+  <id>9203</id>
+  <taetigkeit>Bewirtschaftung von Wäldern sowie deren Pflege</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Waldbestände begründen, pflegen und schützen durch z.B. Bodenbearbeitung, Schädlingsbekämpfung und Durchforstung; bei Holzernte mitwirken; Waldwege bauen und instandhalten</taetigkeitsbeschreibung>
+  <bezeichnung>Forstwirt/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11712">Berufe in der Forstwirtschaft - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6210">Forestry and related workers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="1">
+      <text>eine kurze Anlernphase</text>
+      <kldb schluessel="11711">Berufe in der Forstwirtschaft - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9215">Forestry labourers</isco>
+      <dkz codenr="11711-105" refid="739">Helfer/in - Forstwirtschaft</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="11712">Berufe in der Forstwirtschaft - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6210">Forestry and related workers</isco>
+      <dkz codenr="11712-100" refid="701">Beamt(er/in) - Forstdienst (mittl. Dienst)</dkz>
+      <dkz codenr="11712-105" refid="14097">Beamt(er/in) - Forstdienst (mittl. techn. Dienst)</dkz>
+      <dkz codenr="11712-102" refid="726">Forstwirt/in</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="11713">Berufe in der Forstwirtschaft - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3143">Forestry technicians</isco>
+      <dkz codenr="11713-100" refid="697">Beamt(er/in) - Forstdienst (geh. Dienst)</dkz>
+      <dkz codenr="11713-101" refid="700">Techniker/in - Forsttechnik</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium im Bereich Forstwirtschaften</text>
+      <kldb schluessel="11713">Berufe in der Forstwirtschaft - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3143">Forestry technicians</isco>
+      <dkz codenr="11713-100" refid="697">Beamt(er/in) - Forstdienst (geh. Dienst)</dkz>
+      <dkz codenr="11713-101" refid="700">Techniker/in - Forsttechnik</dkz>
+    </antwort>
+    <antwort position="5" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium im Bereich Forstwirtschaften</text>
+      <kldb schluessel="11714">Berufe in der Forstwirtschaft - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2132">Agrar-, Forst- und Fischereiwissenschaftler und -berater</isco>
+      <dkz codenr="11714-111" refid="58700">Forstwirt/in (Hochschule)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9204">Pflege und Erhalt von Naturschutgebieten, Kulturlandschaften oder Erholungsgebieten</abgrenzung>
+  <abgrenzung typ="mittel" refid="9207">Forstverwalter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1062">Baumschul-, Stauden-, Zierpflanzengärtner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5054">Land- und forstwirtschaftliche/r Maschinenführer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1066">Landschaftsgärtner/in</abgrenzung>
+</kategorie>

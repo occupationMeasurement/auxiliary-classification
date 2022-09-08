@@ -1,0 +1,61 @@
+<kategorie>
+  <id>1841</id>
+  <taetigkeit>Handwerkliche Herstellung von Schmuck und Ziergegenständen aus Edelmetallen und Edelsteinen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden beraten und Angebote ausarbeiten; Juwelenschmuck, Ketten, Bänder und Geflechte aus Gold und Goldlegierungen, Silber, Platin und anderen Edelmetallen sowie Edel- oder Halbedelsteinen fertigen; Schmuck nach Zeichnungen und auf Anweisung umarbeiten und reparieren; Schleifarbeiten ausführen; Oberflächen und Innenstruktur von Juwelen mithilfe von optischen Instrumenten untersuchen; Edelsteine schneiden, polieren und in Schmuckgegenstände einsetzen; Schmuck, Objekte und Geräte aus Edelmetallen für die Serienfertigung entwickeln; neue Bearbeitungsverfahren entwickeln</taetigkeitsbeschreibung>
+  <bezeichnung>Gold- und Silberschmied/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93522">Kunsth.Schmuckher.Edelsteinbe.-Fachkraft</kldb>
+      <isco schluessel="7313">Jewellery and precious metal workers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="93522">Kunsth.Schmuckher.Edelsteinbe.-Fachkraft</kldb>
+      <isco schluessel="7313">Jewellery and precious metal workers</isco>
+      <dkz codenr="93522-105" refid="895">Edelsteinschleifer/in</dkz>
+      <dkz codenr="93522-108" refid="904">Edelsteingraveur/in</dkz>
+      <dkz codenr="93522-153" refid="35080">Farbsteinschleifer/in,Achatschleifer/in Schmucksteingraveur</dkz>
+      <dkz codenr="93522-154" refid="35096">Diamantziehsteinmacher/in</dkz>
+      <dkz codenr="93522-112" refid="913">Diamantschleifer/in - Industriediamanten</dkz>
+      <dkz codenr="93522-114" refid="915">Diamantschleifer/in - Schmuckdiamanten</dkz>
+      <dkz codenr="93522-139" refid="13776">Diamantschleifer/in</dkz>
+      <dkz codenr="93522-122" refid="2579">Goldschmied/in - Ketten</dkz>
+      <dkz codenr="93522-124" refid="2581">Juwelier/in und Uhrmacher/in</dkz>
+      <dkz codenr="93522-125" refid="2584">Goldschmied/in - Schmuck</dkz>
+      <dkz codenr="93522-128" refid="2587">Goldschmied/in - Werkstatt und Verkauf</dkz>
+      <dkz codenr="93522-121" refid="2578">Goldschmied/in - Juwelen</dkz>
+      <dkz codenr="93522-131" refid="2597">Silberschmied/in - Metall</dkz>
+      <dkz codenr="93522-132" refid="2598">Silberschmied/in - Email</dkz>
+      <dkz codenr="93522-140" refid="13842">Silberschmied/in</dkz>
+      <dkz codenr="93522-135" refid="2606">Edelsteinfasser/in</dkz>
+      <dkz codenr="93522-138" refid="2612">Metallbildner/in - Goldschlagtechnik</dkz>
+      <dkz codenr="93522-152" refid="35063">Gold-, Silber- und Aluminiumschläger/in</dkz>
+      <dkz codenr="93522-141" refid="14556">Designer/in (Ausbildung) - angew.Formg.,Schmuck/Gerät</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="93523">Kunsth.SchmuckherEdelsteinbe.-Spezialist</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+      <dkz codenr="93523-104" refid="14701">Gestalter/in - Edelstein, Schmuck und Gerät</dkz>
+      <dkz codenr="93523-105" refid="14702">Gestalter/in - Edelmetall</dkz>
+      <dkz codenr="93524-102" refid="59255">Schmuckdesigner/in</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="93523">Kunsth.SchmuckherEdelsteinbe.-Spezialist</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="93524">Kunsth.Schmuckher.Edelsteinbear.-Experte</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5150">Restaurator/in - Gold- und Silberschmiedehandwerk</abgrenzung>
+  <abgrenzung typ="mittel" refid="5152">Graveur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1839">Produkt- und Industriedesigner/in</abgrenzung>
+</kategorie>

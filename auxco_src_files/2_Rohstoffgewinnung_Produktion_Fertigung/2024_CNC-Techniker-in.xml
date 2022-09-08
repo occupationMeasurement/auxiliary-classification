@@ -1,0 +1,18 @@
+<kategorie>
+  <id>2024</id>
+  <taetigkeit>Programmierung von komplexen Maschinen und Anlagen für die automatisierte spanende Fertigung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. CNC-Bearbeitungsprogramme für das Drehen und Fräsen von Werkstücken erstellen; CNC-Maschinen einrichten und Probestücke fertigen; bei der Arbeitsprozessplanung und -vorbereitung mitwirken; den technischen Bedarf von Werkzeugen und Maschinen evaluieren und Beschaffungen empfehlen</taetigkeitsbeschreibung>
+  <bezeichnung>CNC-Techniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24233">Berufe in der spanenden Metallbearbeitung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="24233-100" refid="1930">CNC-Fachkraft/NC-Anwendungsfachmann/-frau</dkz>
+      <dkz codenr="24233-102" refid="7728">CAM-Organisator/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1847">Werkzeugtechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2018">Metallbearbeitungstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2023">Zerspanungsmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2050">Feinwerktechniker/in</abgrenzung>
+</kategorie>

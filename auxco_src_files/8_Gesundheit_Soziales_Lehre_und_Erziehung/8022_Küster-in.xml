@@ -1,0 +1,14 @@
+<kategorie>
+  <id>8022</id>
+  <taetigkeit>Vorbereitung des Kirchraums und der Sakristei für den Gottesdienst</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kanzeln und Altäre dem Anlass entsprechend schmücken; Kerzen anzünden; Bücher und Gewänder vorbereiten; Faltblätter auslegen; Auskünfte zu den Gottesdiensten in Kirchen erteilen</taetigkeitsbeschreibung>
+  <bezeichnung>Küster/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83382">Theologie,Gemeindearbeit (ssT)-Fachkraft</kldb>
+      <isco schluessel="5153">Building caretakers</isco>
+      <dkz codenr="83382-100" refid="15411">Küster/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="8019">Gemeindereferent/in</abgrenzung>
+</kategorie>

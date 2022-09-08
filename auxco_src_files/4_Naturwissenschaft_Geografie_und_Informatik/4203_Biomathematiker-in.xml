@@ -1,0 +1,14 @@
+<kategorie>
+  <id>4203</id>
+  <taetigkeit>Erstellung mathematischer Modelle für biologische Fragestellungen in Wissenschaft und Industrie</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. naturwissenschaftliche Experimente durch rechnerische Methoden ersetzen; Auftrittswahrscheinlichkeit biomedizinischer Entwicklungen, z.B. der Ausbreitung von Epidemien, berechnen</taetigkeitsbeschreibung>
+  <bezeichnung>Biomathematiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41184">Mathematik (s.s.T.) - Experte</kldb>
+      <isco schluessel="2120">Mathematicians, actuaries and statisticians</isco>
+      <dkz codenr="41184-123" refid="67148">Biomathematiker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1788">Mathematiker/in</abgrenzung>
+</kategorie>

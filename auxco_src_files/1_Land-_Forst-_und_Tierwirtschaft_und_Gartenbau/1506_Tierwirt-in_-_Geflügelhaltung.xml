@@ -1,0 +1,18 @@
+<kategorie>
+  <id>1506</id>
+  <taetigkeit>Haltung und Zucht von Geflügeltieren sowie Verkauf von Geflügelprodukten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Geflügeltiere wie Hühner, Gänse oder Enten versorgen und aufziehen; Futter und Futterzusätze nach Zuchtplan mischen; Futtermittel und andere Betriebsmittel anbauen oder einkaufen; Gesundheit der Tiere überwachen und Impfungen durchführen; Käfige, Legebatterien und Freiplätze reinigen und instand halten; Eier und andere Produkte einsammeln, sortieren und für den Verkauf vorbereiten; Geflügel schlachten; technische Geräte bedienen und warten</taetigkeitsbeschreibung>
+  <bezeichnung>Tierwirt/in - Geflügelhaltung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11222">Berufe in der Geflügelhaltung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6122">Poultry producers</isco>
+      <dkz codenr="11222-100" refid="321">Tierwirt/in - Geflügelhaltung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1508">Fachberater/in – Geflügelzucht</abgrenzung>
+  <abgrenzung typ="hoch" refid="1503">Tierwirt/in - Nutztierhaltung</abgrenzung>
+  <abgrenzung typ="hoch" refid="1012">Landwirt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1047">Tierpfleger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1710">Tierwirtschaftsmeister/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,54 @@
+<kategorie>
+  <id>8008</id>
+  <taetigkeit>Förderung von Menschen mit Behinderung durch erzieherische oder arbeitstherapeutische Maßnahmen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Menschen mit Behinderung betreuen; Förderpläne erstellen; Rehabilitationsmaßnahmen durchführen; Angehörige beraten; Entscheidungshilfen zur Konfliktbearbeitung geben; mit anderen sozialen Diensten zusammenarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Heilpädagoge/ -pädagogin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83133">Heilerziehungspfl.,Sonderpäd.-Spezialist</kldb>
+      <isco schluessel="3412">Social work associate professionals</isco>
+      <dkz codenr="83133-109" refid="15866">Facherzieher/in - verhaltensauffällige Kinder/Jugendliche</dkz>
+      <dkz codenr="83133-100" refid="9112">Sonderpädagoge/-pädagogin (Fachschule)</dkz>
+      <dkz codenr="83133-107" refid="14678">Heilerziehungspfleger/in - Rehabilitation</dkz>
+      <dkz codenr="83133-108" refid="14791">Fachkraft - Arbeits- und Berufsförderung</dkz>
+      <dkz codenr="83133-106" refid="9591">Sportlehrer/in - Rehabilitation/Behindertensport</dkz>
+      <dkz codenr="83133-122" refid="123549">Heilerziehungspfleger/in - Psychiatrie</dkz>
+      <dkz codenr="83134-101" refid="9115">Arbeitserzieher/in</dkz>
+      <dkz codenr="83134-103" refid="9121">Heilpädagoge/-pädagogin</dkz>
+      <dkz codenr="83134-107" refid="15517">Pädagogisch-therapeutische/r Konduktor/in</dkz>
+      <dkz codenr="83134-105" refid="9596">Rehabilitationslehrer/in - Blinde und Sehbehinderte</dkz>
+      <dkz codenr="83134-110" refid="59577">Rehabilitationspädagoge/-pädagogin</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>ja</text>
+      <kldb schluessel="83134">Heilerziehungspflege,Sonderpäd.-Experte</kldb>
+      <isco schluessel="2352">Special needs teachers</isco>
+      <dkz codenr="83134-103" refid="9121">Heilpädagoge/-pädagogin</dkz>
+      <dkz codenr="83134-110" refid="59577">Rehabilitationspädagoge/-pädagogin</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>nein</text>
+      <kldb schluessel="83133">Heilerziehungspfl.,Sonderpäd.-Spezialist</kldb>
+      <isco schluessel="3412">Social work associate professionals</isco>
+      <dkz codenr="83133-109" refid="15866">Facherzieher/in - verhaltensauffällige Kinder/Jugendliche</dkz>
+      <dkz codenr="83133-100" refid="9112">Sonderpädagoge/-pädagogin (Fachschule)</dkz>
+      <dkz codenr="83133-107" refid="14678">Heilerziehungspfleger/in - Rehabilitation</dkz>
+      <dkz codenr="83133-108" refid="14791">Fachkraft - Arbeits- und Berufsförderung</dkz>
+      <dkz codenr="83133-106" refid="9591">Sportlehrer/in - Rehabilitation/Behindertensport</dkz>
+      <dkz codenr="83133-122" refid="123549">Heilerziehungspfleger/in - Psychiatrie</dkz>
+      <dkz codenr="83134-101" refid="9115">Arbeitserzieher/in</dkz>
+      <dkz codenr="83134-107" refid="15517">Pädagogisch-therapeutische/r Konduktor/in</dkz>
+      <dkz codenr="83134-105" refid="9596">Rehabilitationslehrer/in - Blinde und Sehbehinderte</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8012">Kindergartenleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8061">Leiter/in einer sozialpädagogischen Einrichtung</abgrenzung>
+  <abgrenzung typ="mittel" refid="8006">Heilerziehungspfleger/in in Privathaushalten</abgrenzung>
+  <abgrenzung typ="hoch" refid="8007">Heilerziehungspfleger/in in Pflegeeinrichtungen</abgrenzung>
+  <abgrenzung typ="hoch" refid="7047">Ergotherapeut/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8029">Sonderschullehrer/in</abgrenzung>
+</kategorie>

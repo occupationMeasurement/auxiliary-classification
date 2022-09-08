@@ -1,0 +1,16 @@
+<kategorie>
+  <id>6081</id>
+  <taetigkeit>Verkauf von Spielwaren im Einzelhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kundenwünsche ermitteln; Kunden über Spielwaren bezüglich Qualitätsunterschiede und Altersgerechtigkeit beraten; Puppen, Kuscheltiere, Spielzeugautos oder Sandspielsachen verkaufen; Produkte für Kunden zusammenstellen; Ware kassieren, Rechnungen erstellen und Zahlungsmittel entgegennehmen; Ware anschaulich präsentieren und den Verkaufsraum dekorieren; Reservierungen und Reklamationen entgegennehmen; Ware umtauschen; bei der Lagerhaltung, bei Produktinventarisierungen und Bestandsaufnahmen helfen</taetigkeitsbeschreibung>
+  <bezeichnung>Spielwarenkäufer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62232">Verkauf (Büro,Geschenk,Spiel)-Fachkraft</kldb>
+      <isco schluessel="5223">Shop sales assistants</isco>
+      <dkz codenr="62232-100" refid="6559">Kaufmann/-frau - Einzelhandel (Spielwaren)</dkz>
+      <dkz codenr="62232-102" refid="14765">Fachverkäufer/in - Spielwaren</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6080">Geschenkartikelverkäufer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+</kategorie>

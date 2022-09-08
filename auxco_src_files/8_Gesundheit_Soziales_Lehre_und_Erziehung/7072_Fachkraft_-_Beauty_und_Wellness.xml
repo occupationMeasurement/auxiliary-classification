@@ -1,0 +1,33 @@
+<kategorie>
+  <id>7072</id>
+  <taetigkeit>Organisation und Durchführung von Wellnessdienstleistungen sowie die Erstellung individueller Wellnessprogramme</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wellnessprodukte und -dienstleistungen planen und verkaufen; Kunden über Beauty- und Wellnessprodukte sowie -angebote informieren und beraten; spezielle Gesichts- und Ganzkörperbehandlungen durchführen; Behandlungsplätze und Arbeitsmaterialien sauber halten; Kunden über die Auswirkungen von Fitness-, Bewegungs- und Entspannungsprogrammen aufklären</taetigkeitsbeschreibung>
+  <bezeichnung>Fachkraft - Beauty und Wellness</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82222">Wellnessberufe - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="5142">Beauticians and related workers</isco>
+      <dkz codenr="82222-101" refid="50977">Fachkraft - Beauty und Wellness</dkz>
+      <dkz codenr="82222-100" refid="27412">Assistent/in - Gesundheitstourismus/-prophylaxe</dkz>
+      <dkz codenr="82223-101" refid="35000">Wellnessberater/in</dkz>
+      <dkz codenr="82223-102" refid="59028">Wellnessmanager/in</dkz>
+      <dkz codenr="82223-106" refid="122249">Fachwirt/in - Kosmetik und Wellness</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="82222">Wellnessberufe - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="5142">Beauticians and related workers</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="82223">Wellnessberufe - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3423">Fitness and recreation instructors and program leaders</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7080">Kosmetiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7067">Gesundheitstrainer/in</abgrenzung>
+</kategorie>

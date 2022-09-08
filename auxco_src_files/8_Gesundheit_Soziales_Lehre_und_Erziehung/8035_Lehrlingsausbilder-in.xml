@@ -1,0 +1,47 @@
+<kategorie>
+  <id>8035</id>
+  <taetigkeit>Planung, Organisation und Durchführung der betrieblichen Ausbildung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. den Lernprozess der Auszubildenden begleiten und diese individuell fördern; Auszubildende in theoretischen und praktischen Unterweisungen unterrichten; Leistungen und Lernfortschritte der Auszubildenden bewerten; Ausbildungszeugnisse am Ende der Ausbildung erfassen</taetigkeitsbeschreibung>
+  <bezeichnung>Lehrlingsausbilder/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84223">Betriebl.Ausbild., Berufspäd.-Spezialist</kldb>
+      <isco schluessel="2320">Vocational education teachers</isco>
+      <dkz codenr="84223-170" refid="77108">Aus- und Weiterbildungspädagoge/-pädagogin</dkz>
+      <dkz codenr="84223-169" refid="58318">Hufbeschlaglehrschmied/in</dkz>
+      <dkz codenr="84223-100" refid="2038">Schweißlehrer/in</dkz>
+      <dkz codenr="84223-101" refid="5780">Ausbildungssteiger/in</dkz>
+      <dkz codenr="84223-105" refid="6093">Ausbildungsmeister/in</dkz>
+      <dkz codenr="84223-156" refid="33203">Ausbilder/in - Bau</dkz>
+      <dkz codenr="84223-168" refid="51042">Berufspädagoge/-pädagogin (IHK) - Aus- und Weiterbildung</dkz>
+      <dkz codenr="84223-116" refid="9612">Betriebspädagoge/-pädagogin</dkz>
+      <dkz codenr="84223-124" refid="9634">Ausbilder/in - Pharmareferenten/-innen</dkz>
+      <dkz codenr="84223-126" refid="9639">Ausbilder/in - Werkschutz</dkz>
+      <dkz codenr="84223-137" refid="9657">Ausbilder/in - Anerkannte Ausbildungsberufe</dkz>
+      <dkz codenr="84223-141" refid="9663">Ausbilder/in - Öffentlicher Dienst</dkz>
+      <dkz codenr="84223-142" refid="9664">Ausbilder/in - Landwirtschaft</dkz>
+      <dkz codenr="84223-143" refid="9665">Ausbilder/in - Hauswirtschaft</dkz>
+      <dkz codenr="84223-144" refid="9666">Fachkraft - überbetriebliche Aus- und Weiterbildung</dkz>
+      <dkz codenr="84223-145" refid="9667">Ausbilder/in - Übungsfirma</dkz>
+      <dkz codenr="84224-109" refid="59179">Berufspädagoge/-pädagogin</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Vermitteln Sie die Ausbildungsinhalte unmittelbar im Betrieb?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie die Ausbildungsinhalte unmittelbar im Betrieb vermittelt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="84223">Betriebl.Ausbild., Berufspäd.-Spezialist</kldb>
+      <isco schluessel="2320">Vocational education teachers</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="84224">Betriebl. Ausbild., Berufspäd.-Experte</kldb>
+      <isco schluessel="2320">Vocational education teachers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3596">Personalentwickler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8036">Schulleiter/in – berufliche Schulen</abgrenzung>
+  <abgrenzung typ="hoch" refid="8034">Berufsschullehrer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8039">Dozent/in - Erwachsenenbildung</abgrenzung>
+</kategorie>

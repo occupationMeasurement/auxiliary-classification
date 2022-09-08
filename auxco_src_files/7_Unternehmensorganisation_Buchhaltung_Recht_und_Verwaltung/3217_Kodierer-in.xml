@@ -1,0 +1,12 @@
+<kategorie>
+  <id>3217</id>
+  <taetigkeit>Kodierung von Informationen in Kategorien zu Zwecken der statistischen Datenverarbeitung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Texte, Bilder, Geräusche oder andere Wahrnehmungen in vorgegebene Kategorien einordnen; Kodieranweisungen und Zielkategorien einstudieren und befolgen; Ausgangsmaterial begutachten und zur Verarbeitung strukturieren; technische Hilfsmittel zur schnelleren Bearbeitung verwenden</taetigkeitsbeschreibung>
+  <bezeichnung>Kodierer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71442">Kodierer/innen, Korrekturleser/innen und verwandte Bürokräfte - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="4413">Coding, proof-reading and related clerks</isco>
+    </default>
+  </untergliederung>
+</kategorie>

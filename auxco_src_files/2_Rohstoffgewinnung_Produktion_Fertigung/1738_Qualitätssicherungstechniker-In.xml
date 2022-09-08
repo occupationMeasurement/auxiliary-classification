@@ -1,0 +1,33 @@
+<kategorie>
+  <id>1738</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Qualitätsmanagementsystemen und Qualitätskontrollen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. optische, mechanische und elektrische Prüf- und Messverfahren anwenden; festgelegte Produktqualität im ganzen Fertigungsablauf sichern; Qualitätsmanagement- und -sicherungssysteme einführen und umsetzen; Eingangs-, Zwischen-, Fertigungs- und Endkontrolle von Produkten durchführen; Prüfberichte verfassen; bei Neuprojekten und Auftragsänderungen Qualitätsplanungen und Risikoanalysen erstellen; Qualitätssicherungsstandards festlegen</taetigkeitsbeschreibung>
+  <bezeichnung>Qualitätssicherungstechniker/In</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="27313">Berufe in der technischen Qualitätssicherung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="27314">Berufe in der technischen Qualitätssicherung - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2141">Industrial and production engineers</isco>
+      <dkz codenr="27314-100" refid="5231">Qualitätsingenieur/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="27313">Berufe in der technischen Qualitätssicherung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="27313-102" refid="6066">Qualitätssicherungstechniker/in</dkz>
+      <dkz codenr="27313-103" refid="13958">Fachkraft - Qualitätssicherung/-management</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2160">Qualitätskontrolleur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2158">Fertigungstechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2155">Leiter/in - Technische Produktionssteuerung und Qualitätssicherung</abgrenzung>
+  <abgrenzung typ="hoch" refid="2159">Produktionsingenieur/in</abgrenzung>
+</kategorie>

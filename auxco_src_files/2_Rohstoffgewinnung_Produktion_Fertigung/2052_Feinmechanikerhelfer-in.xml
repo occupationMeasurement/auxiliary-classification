@@ -1,0 +1,17 @@
+<kategorie>
+  <id>2052</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten bei der Herstellung und Montage von metallischen Präzisionsbauteilen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Reinigung der Präzisionsbauteile; Unterstützung der Fachkräfte bei Bearbeitung der Werkstücke; Materialien in den Arbeitsbereich befördern; Reinigungsarbeiten in Werkstätten</taetigkeitsbeschreibung>
+  <bezeichnung>Feinmechanikerhelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24511">Berufe in der Feinwerktechnik - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="24511-105" refid="58523">Helfer/in - Feinmechanik, Werkzeugbau</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2048">Feinmechaniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2063">Montagehelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2093">Metallbearbeitungshelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2040">Metallbauhelfer/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,20 @@
+<kategorie>
+  <id>3210</id>
+  <taetigkeit>Leitung und strategische Steuerung einer regionalen Unternehmenseinheit mit vielfältig spezialisierten untergeordneten Einheiten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Ziele und Strategien der regionalen Unternehmenseinheit festlegen und überprüfen; untergeordnete Führungskräfte koordinieren und überwachen; die Entwicklung der Unternehmenseinheit verantworten und an die Unternehmensführung berichten; Beratungen mit leitenden Mitarbeitern durchführen; leitende Mitarbeiter auswählen</taetigkeitsbeschreibung>
+  <bezeichnung>Regionalleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71394">Führungskräfte - Unternehmensorganisation und -strategie</kldb>
+      <isco schluessel="1120">Managing directors and chief executives</isco>
+      <dkz codenr="71394-106" refid="27540">Niederlassungsleiter/in</dkz>
+      <dkz codenr="71394-105" refid="27457">Bezirksleiter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3205">Technisch-kaufmännische/r Betriebassistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3206">Betriebswirtschaftliche/r Assistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3211">Kaufmännische/r Betriebsleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2155">Leiter/in - Technische Produktionssteuerung und Qualitätssicherung</abgrenzung>
+  <abgrenzung typ="mittel" refid="3201">Top-Manager/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3570">Leiter/in Rechnungswesen/Revision/Controlling</abgrenzung>
+</kategorie>

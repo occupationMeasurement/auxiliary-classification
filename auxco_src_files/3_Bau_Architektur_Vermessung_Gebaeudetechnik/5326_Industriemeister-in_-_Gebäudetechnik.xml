@@ -1,0 +1,15 @@
+<kategorie>
+  <id>5326</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung  in der Gebäudetechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wartung von Geräten, Maschinen, Anlagen und Installationen sicherstellen; Instandsetzungen, Umrüstungen und Umbau veranlassen; Mitarbeiter anleiten und Aufgaben verteilen; Konzepte für die Instandhaltung der betreuten Anlagen entwickeln, verbessern und einführen; technische Weiterentwicklungen umsetzen sowie Neuankäufe organisieren; benötigtes Material, Bau- und Ersatzteile disponieren, den Einsatz planen und die Erhaltung der Betriebsbereitschaft gewährleisten; Arbeitsprozesse optimieren; die wirtschaftliche Energieversorgung der betreuten Gebäudetechnik sicherstellen; Schulungs- und Weiterbildungsmaßnahmen für Mitarbeiter organisieren; den betrieblichen Teil der Ausbildung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Industriemeister/in - Gebäudetechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34193">Aufsicht - Gebäudetechnik</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="34193-100" refid="5452">Leitende/r Haustechniker/in</dkz>
+      <dkz codenr="34193-101" refid="6300">Industriemeister/in - Gebäudetechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1782">Gebäudetechniker/in</abgrenzung>
+</kategorie>

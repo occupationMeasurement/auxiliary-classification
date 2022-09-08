@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5097</id>
+  <taetigkeit>Reinigung von Teppichen, Möbeln, Lampen oder Polstern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. zu reinigende Objekte und Gegenstände auf Verunreinigungen prüfen; spezielle Reinigungsmittel und -verfahren bestimmen und anwenden; Teppiche und Möbelstücke mit Bezügen mithilfe von Reinigungsmaschinen reinigen; Reinigungswirkstoffe angemessen auswählen und verwenden; Teppiche mit schmutzabweisenden und geruchstilgenden Chemikalien sowie gegen Ungeziefer behandeln</taetigkeitsbeschreibung>
+  <bezeichnung>Spezialreiniger/in - Möbel und Teppiche</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="54182">Reinigung (s.s.T.) - Fachkraft</kldb>
+      <isco schluessel="9129">Other cleaning workers</isco>
+      <dkz codenr="54182-102" refid="90881">Teppichbodenreiniger/in</dkz>
+      <dkz codenr="54182-100" refid="90644">Spezialreiniger/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5226">Gebäudeinnenreiniger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5093">Glas- und Fensterreiniger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5094">Wäschereifacharbeiter/in bzw. Bügler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5096">Fahrzeugpfleger/in</abgrenzung>
+</kategorie>

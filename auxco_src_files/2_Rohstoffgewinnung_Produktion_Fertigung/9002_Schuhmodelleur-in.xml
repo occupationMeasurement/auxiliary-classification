@@ -1,0 +1,16 @@
+<kategorie>
+  <id>9002</id>
+  <taetigkeit>Entwurf und Fertigung von Schuhmodellen und Schuhkollektionen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Schuhmodelle entwickeln und ausarbeiten; Farben und Materialien festlegen; Schnittmuster erstellen; Musterkollektionen entwerfen; Modellentwürfe für Serienproduktionen anfertigen</taetigkeitsbeschreibung>
+  <bezeichnung>Schuhmodelleur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28333">Schuhherstellung - Spezialist</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+      <dkz codenr="28333-100" refid="3502">Schuhmodelleur/in</dkz>
+      <dkz codenr="28333-103" refid="5921">Techniker/in - Schuhtechnik (Modellgestaltung)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9003">Schuhtechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9052">Schuhmacher/in</abgrenzung>
+</kategorie>

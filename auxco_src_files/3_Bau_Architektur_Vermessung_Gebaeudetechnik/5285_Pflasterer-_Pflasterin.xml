@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5285</id>
+  <taetigkeit>Pflastern von Straßen, Wegen und Plätzen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Groß-, Klein-, Mosaik-, Verbundsteinpflaster und andere unterschiedliche Pflaster- und Plattenbeläge verlegen; Frostschutzschichten einbauen; den Untergrund planieren und verdichten; Platten und Steine passgenau zuschneiden oder behauen; die Platten auf dem Untergrund anbringen und mit Pflasterhammer fixieren; Muster mit Steinen legen; Steine nach Verlegeplan anordnen; Begrenzungs-, Bord- und Einfasssteine verlegen; Fugen mit Sand oder Zementschlamm ausfüllen; Ausbesserungs-, Sanierungs- und Instandhaltungsmaßnahmen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Pflasterer/ Pflasterin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32212">Pflasterer/Pflasterinnen und Steinsetzer/innen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7112">Bricklayers and related workers </isco>
+      <dkz codenr="32212-100" refid="4078">Pflasterer/Pflasterin</dkz>
+      <dkz codenr="32212-102" refid="4081">Steinsetzer/in</dkz>
+      <dkz codenr="32212-108" refid="4094">Kleinpflasterleger/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1854">Bauhelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5288">Estrich- und Terrazzoleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5287">Fliesen-, Platten- und Mosaikleger/in</abgrenzung>
+</kategorie>

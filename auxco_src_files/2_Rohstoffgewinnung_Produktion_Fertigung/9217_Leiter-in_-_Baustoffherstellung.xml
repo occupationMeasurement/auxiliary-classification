@@ -1,0 +1,17 @@
+<kategorie>
+  <id>9217</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Herstellung von Baustoffen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Personal einteilen; Fachkräfte bei der Werkstoffbearbeitung anleiten; Be- und Verarbeitungstechniken für die Erzeugnisse auswählen; Einhaltung der Arbeits-, Brand- und Umweltschutzbestimmungen innerhalb des Verantwortungsbereichs sicherstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - Baustoffherstellung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21293">Aufsichtskräfte - Naturstein- und Mineralaufbereitung und -verarbeitung und Baustoffherstellung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="21293-120" refid="77369">Industriemeister/in - Kalk/Zement</dkz>
+      <dkz codenr="21293-102" refid="959">Betonstein- und Terrazzoherstellermeister/in</dkz>
+      <dkz codenr="21293-109" refid="6281">Industriemeister/in - Betonsteinindustrie</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9214">Arbeiter/in bei Herstellung von Baustoffeng</abgrenzung>
+  <abgrenzung typ="mittel" refid="9213">Aufbereitungsmechaniker/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5312</id>
+  <taetigkeit>Vorbeugung und Beseitigung von Gebäudeschäden im Bereich Holz- und Bautenschutz</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gebäudeteile auf Insekten- und Pilzbefall prüfen; Schäden erkennen und dokumentieren; Schäden beseitigen und sanierende Maßnahmen durchführen; Risse im Beton auffüllen; bei feuchten Kellern Mauerwerke trocknen; Belüftungen und Heißluftbehandlungen einsetzen; Maßnahmen zum vorbeugenden Schutz von Bauwerken und Gebäudeteilen durchführen; Maßnahmen zur Arbeits-, Sicherheits-, Gesundheits- und Umweltschutz am Arbeitsplatz treffen und sicherstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Holz- und Bautenschützer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33242">Holz- und Bautenschutz - Fachkraft</kldb>
+      <isco schluessel="7544">Fumigators and other pest and weed controllers</isco>
+      <dkz codenr="33242-102" refid="57894">Fachkraft - Holz- und Bautenschutzarbeiten</dkz>
+      <dkz codenr="33242-101" refid="57886">Holz- und Bautenschützer/in - Holzschutz</dkz>
+      <dkz codenr="33242-103" refid="58340">Holz- und Bautenschützer/in - Bautenschutz</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5313">Holz- und Bautenschutztechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3023">Maler/in und Lackierer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3024">Bauwerksabdichter/in</abgrenzung>
+</kategorie>

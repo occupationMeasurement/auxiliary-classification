@@ -1,0 +1,18 @@
+<kategorie>
+  <id>3501</id>
+  <taetigkeit>Unterstützung von Journalisten und Redakteuren bei redaktionellen und organisatorischen Aufgaben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Hintergrundinformationen zu aktuellen Themen, Drehorten und Interviewpartnern recherchieren; Filmmaterial und Interviews nachbearbeiten; Sekretariatsarbeiten erledigen, wie Termine koordinieren, Geschäftsreisen organisieren, Messestände und -auftritte vorbereiten und Kostenvoranschläge einholen</taetigkeitsbeschreibung>
+  <bezeichnung>Redaktionsassistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92412">Redakteure, Journalisten- Fachkraft</kldb>
+      <isco schluessel="4419">Clerical support workers not elsewhere classified</isco>
+      <dkz codenr="92412-101" refid="14715">Redaktionsassistent/in</dkz>
+      <dkz codenr="92412-100" refid="14201">Video-Journalist/in</dkz>
+      <dkz codenr="92412-103" refid="90928">Redaktionsvolontär/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1838">Redakteur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3555">Rechercheur/in oder Dokumentar/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3519">Medienkaufmann/-frau - Digital und Print</abgrenzung>
+</kategorie>

@@ -1,0 +1,15 @@
+<kategorie>
+  <id>1016</id>
+  <taetigkeit>Planung und Koordination des Einsatzes von landwirtschaftlichen Maschinen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. landwirtschaftliche Produktion mit technischer Hilfe koordinieren und übernehmen; Daten der Maschinen sammeln und aufbereiten; Qualitätsstandards aufrechterhalten; Tätigkeiten im landwirtschaftlichen Versuchswesen</taetigkeitsbeschreibung>
+  <bezeichnung>Agrotechniker/in / Mechanisator/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11113">Landtechnik - Spezialist</kldb>
+      <isco schluessel="3142">Agriculultural technicians</isco>
+      <dkz codenr="11113-101" refid="437">Techniker/in - Agrartechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1017">Agraringenieur/in - Mechanisierung der Landwirtschaft</abgrenzung>
+  <abgrenzung typ="mittel" refid="1725">Land- und Baumaschinentechniker/in</abgrenzung>
+</kategorie>

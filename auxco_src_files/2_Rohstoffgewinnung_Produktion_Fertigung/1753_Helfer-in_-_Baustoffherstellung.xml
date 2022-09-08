@@ -1,0 +1,14 @@
+<kategorie>
+  <id>1753</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten bei der Herstellung von Baustoffen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fachkräften beim Verlegen und Erstellen von Bauelementen wie Ziegeln, Pflastersteinen und Bodenbelegen zuarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Helfer/in - Baustoffherstellung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21201">Berufe in der Naturstein- und Mineralaufbereitung und -verarbeitung und Baustoffherstellung (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9217">Leiter/in - Baustoffherstellung</abgrenzung>
+  <abgrenzung typ="mittel" refid="9208">Bergmann/-frau</abgrenzung>
+</kategorie>

@@ -1,0 +1,34 @@
+<kategorie>
+  <id>1716</id>
+  <taetigkeit>Entwicklung, Herstellung und Optimierung der Produktion von Kunststoffen und Kunststoffteilen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. geeignete Werkstoffe auswählen und einkaufen; Herstellungsverfahren wie Beschichten, Pressen oder Spritzgießen auswählen und weiterentwickeln; Rohstoffe und Erzeugnisse auf Qualität überprüfen; sicherheitsrechtliche Bestimmungen einhalten; Kennzahlen ermitteln und Arbeitsabläufe optimieren; Personal- und Betriebsmitteleinsatz planen</taetigkeitsbeschreibung>
+  <bezeichnung>Techniker/in - Kunststoff- und Kautschuktechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22103">Kunststoff-,Kautschukhers(oS)-Spezialist</kldb>
+      <isco schluessel="3116">Chemical engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="22104">Berufe in der Kunststoff- und Kautschukherstellung (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2145">Chemical engineers</isco>
+      <dkz codenr="22104-106" refid="58726">Ingenieur/in - Kunststofftechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="22103">Kunststoff-,Kautschukhers(oS)-Spezialist</kldb>
+      <isco schluessel="3116">Chemical engineering technicians</isco>
+      <dkz codenr="22103-100" refid="5479">Techniker/in - Maschinentechnik (Kunststoff-/Kautschuktech.)</dkz>
+      <dkz codenr="22103-102" refid="5991">Techniker/in - Kunststoff- und Kautschuktechnik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5178">Verfahrensmechaniker/in - Kunststofftechnik</abgrenzung>
+  <abgrenzung typ="hoch" refid="1716">Techniker/in - Kunststoff- und Kautschuktechnik</abgrenzung>
+  <abgrenzung typ="hoch" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4022">Werkstofftechnik-Ingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5184">Industriemeister/in - Kunststoff und Kautschuk</abgrenzung>
+</kategorie>

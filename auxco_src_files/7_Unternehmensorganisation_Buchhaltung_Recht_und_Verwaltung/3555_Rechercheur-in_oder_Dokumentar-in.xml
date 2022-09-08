@@ -1,0 +1,47 @@
+<kategorie>
+  <id>3555</id>
+  <taetigkeit>Recherche, Strukturierung und Bereitstellung von Informationen für Kunden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Informationen beschaffen und katalogisieren; Quellen ermitteln, auswählen und beurteilen; Informationen formal und inhaltlich erschließen; den Informationsbedarf analysieren und eine Recherchestrategie erarbeiten; Kundenanfragen bearbeiten; Rechercheergebnisse aufbereiten und kommentieren; Informationssysteme aufbauen und pflegen</taetigkeitsbeschreibung>
+  <bezeichnung>Rechercheur/in oder Dokumentar/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73332">Dokument.-,Informationsdienst-Fachkraft</kldb>
+      <isco schluessel="4419">Clerical support workers not elsewhere classified</isco>
+      <dkz codenr="73332-105" refid="8340">Fachangestellte/r für Medien- u. Info.Dienste - Info.u.Doku</dkz>
+      <dkz codenr="73332-106" refid="14498">Assistent/in - Technische Kommunikation und Dokumentation</dkz>
+      <dkz codenr="73333-101" refid="58333">Fachwirt/in - Informationsdienste</dkz>
+      <dkz codenr="73334-100" refid="7087">Informations-Broker/in</dkz>
+      <dkz codenr="73334-104" refid="14550">Internet-Scout</dkz>
+      <dkz codenr="73334-107" refid="58713">Informationswissenschaftler/in</dkz>
+      <dkz codenr="73334-108" refid="59274">Dokumentar/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="73332">Dokument.-,Informationsdienst-Fachkraft</kldb>
+      <isco schluessel="4419">Clerical support workers not elsewhere classified</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="73333">Dokument.-,Informationsdienst-Spezialist</kldb>
+      <isco schluessel="3433">Gallery, museum and library technicians</isco>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium im Bereich bibliotheks- oder informationswissenschaften</text>
+      <kldb schluessel="73333">Dokument.-,Informationsdienst-Spezialist</kldb>
+      <isco schluessel="3433">Gallery, museum and library technicians</isco>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium im Bereich bibliotheks- oder informationswissenschaften</text>
+      <kldb schluessel="73334">Dokumentat.-, Informationsdienst-Experte</kldb>
+      <isco schluessel="2622">Librarians and related information professionals</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3560">Bibliotheksassistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1825">Bibliotheksangestellte/r</abgrenzung>
+  <abgrenzung typ="hoch" refid="3553">Archivdienstbeamter/-beamtin</abgrenzung>
+  <abgrenzung typ="hoch" refid="3555">Rechercheur/in oder Dokumentar/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,15 @@
+<kategorie>
+  <id>5159</id>
+  <taetigkeit>Fertigung und Reparatur von Holzblasinstrumenten und Überprüfung der Klangqualität</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Flöten, Klarinetten, Fagotte, Saxophone, Oboen oder Querflöten herstellen; Ton- und Resonanzhölzer auswählen und zuschneiden; Klangkörper formen; Kleinteile wie die Klappenmechanik einer Klarinette herstellen; Einzelteile und Baugruppen zu vollständigen Musikinstrumenten zusammenbauen; Instrumente stimmen und reparieren</taetigkeitsbeschreibung>
+  <bezeichnung>Holzblasinstrumentenmacher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93622">Holzblasinstrumentenbau - Fachkraft</kldb>
+      <isco schluessel="7312">Musical instrument makers and tuners</isco>
+      <dkz codenr="93622-100" refid="2686">Holzblasinstrumentenmacher/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5160">Restaurator/in- Holzblasinstrumente</abgrenzung>
+  <abgrenzung typ="hoch" refid="5154">Musikinstrumentenbauer/in</abgrenzung>
+</kategorie>

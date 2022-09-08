@@ -1,0 +1,17 @@
+<kategorie>
+  <id>4251</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im IT-Vertrieb und in der IT-Anwendungsberatung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Vertriebs- und Supportteams leiten; Kundenstamm betreuen; Neukunden werben; Produkte und Technologien auf Fachmessen präsentieren; Werkzeuge und Methoden für die Beratungstätigkeit entwickeln; Verkaufsstrategien entwickeln; Mitarbeiter führen und anleiten; Kostenplanung erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - IT-Vertrieb und -Anwendungsberatung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43294">Führung-IT-System,-Anwendung,-Vertrieb</kldb>
+      <isco schluessel="1330">Information and communications technology service managers</isco>
+      <dkz codenr="43294-101" refid="90794">Leiter/in - Benutzerservicezentrum (EDV)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4252">IT-Projektleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4250">Leiter/in - Informatik und Informationsmanagement</abgrenzung>
+  <abgrenzung typ="mittel" refid="4253">Software-Projektleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4049">IT-System-Kaufmann/ -frau</abgrenzung>
+</kategorie>

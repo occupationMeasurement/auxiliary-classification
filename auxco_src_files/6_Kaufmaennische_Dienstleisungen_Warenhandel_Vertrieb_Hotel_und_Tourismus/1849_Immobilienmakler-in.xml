@@ -1,0 +1,58 @@
+<kategorie>
+  <id>1849</id>
+  <taetigkeit>Vermarktung und Vermittlung von Kauf- und Mietverträgen für Wohnungen und Immobilien</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gebäudestandorte und Gebäudeausgestaltungsmöglichkeiten analysieren und bewerten; Immobilien aquirieren, vermitteln und verkaufen; Besichtigungstermine vereinbaren und durchführen; Mietverträge erstellen, den Käufern erklären und abschließen; bei der Planung und Betreuung von Neubau-, Sanierungs- oder Modernisierungsprojekten mitwirken; Betriebskosten aufstellen, umlegen und abrechnen; aktuelle Kundenvorlieben beobachten; Kontakte zu potenziellen Käufern und Mietern herstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Immobilienmakler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61313">Immobilienvermarktung,verwal.-Spezialist</kldb>
+      <isco schluessel="3334">Real estate agents and property managers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="61312">Immobilienvermarktung,-verwal.-Fachkraft</kldb>
+      <isco schluessel="3334">Real estate agents and property managers</isco>
+      <dkz codenr="61312-100" refid="7047">Immobilienassistent/in</dkz>
+      <dkz codenr="61312-101" refid="8006">Kaufmann/-frau - Grundstücks- und Wohnungswirtschaft</dkz>
+      <dkz codenr="61312-103" refid="35274">Immobilienkaufmann/-frau</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="61313">Immobilienvermarktung,verwal.-Spezialist</kldb>
+      <isco schluessel="3334">Real estate agents and property managers</isco>
+      <dkz codenr="61313-114" refid="58967">Betriebswirt/in (Fachschule) - Immobilien</dkz>
+      <dkz codenr="61313-101" refid="7045">Fachkaufmann/-frau - Verwaltung von Wohnungseigentum</dkz>
+      <dkz codenr="61313-104" refid="7049">Immobilienmakler/in</dkz>
+      <dkz codenr="61313-105" refid="7050">Fachwirt/in - Immobilien</dkz>
+      <dkz codenr="61313-112" refid="27466">Immobiliensachverständige/r</dkz>
+      <dkz codenr="61313-110" refid="14992">Location-Coordinator</dkz>
+      <dkz codenr="61313-106" refid="7589">Beamt(er/in) - Bundesanstalt f.Immobilienaufg. (geh. Dienst)</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="61313">Immobilienvermarktung,verwal.-Spezialist</kldb>
+      <isco schluessel="3334">Real estate agents and property managers</isco>
+      <dkz codenr="61313-114" refid="58967">Betriebswirt/in (Fachschule) - Immobilien</dkz>
+      <dkz codenr="61313-101" refid="7045">Fachkaufmann/-frau - Verwaltung von Wohnungseigentum</dkz>
+      <dkz codenr="61313-104" refid="7049">Immobilienmakler/in</dkz>
+      <dkz codenr="61313-105" refid="7050">Fachwirt/in - Immobilien</dkz>
+      <dkz codenr="61313-112" refid="27466">Immobiliensachverständige/r</dkz>
+      <dkz codenr="61313-110" refid="14992">Location-Coordinator</dkz>
+      <dkz codenr="61313-106" refid="7589">Beamt(er/in) - Bundesanstalt f.Immobilienaufg. (geh. Dienst)</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="61314">Immobilienvermarktung,-verwal.-Experte</kldb>
+      <isco schluessel="3334">Real estate agents and property managers</isco>
+      <dkz codenr="61314-104" refid="59199">Betriebswirt/in (Hochschule) - Immobilien</dkz>
+      <dkz codenr="61314-100" refid="7610">Beamt(er/in) - Bundesanstalt f.Immobilienaufg. (höh. Dienst)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6010">Handelsmakler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1850">Hausverwalter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6017">Betriebswirt/in - Facility-Management</abgrenzung>
+</kategorie>

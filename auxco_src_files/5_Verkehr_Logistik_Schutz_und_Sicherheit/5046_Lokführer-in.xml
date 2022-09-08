@@ -1,0 +1,17 @@
+<kategorie>
+  <id>5046</id>
+  <taetigkeit>Führen von Loks und Triebfahrzeugen im Transport von Gütern oder Personen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Zugfahrten durchführen; Abfahrtsbereitschaft herstellen; Züge abfahrbereit parken; Notrufe absetzen; Anhängelasten bei Zugfahrten berücksichtigen</taetigkeitsbeschreibung>
+  <bezeichnung>Lokführer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52202">TriebfahrzeugführEisenbahn(oS)-Fachkraft</kldb>
+      <isco schluessel="8311">Locomotive engine drivers</isco>
+      <dkz codenr="52202-100" refid="7108">Eisenbahner/in - Betriebsdienst - Lokführer und Transport</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5043">U-Bahnfahrer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5044">Bus - bzw. Straßenbahnfahrer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5042">Kraftfahrer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5118">Leitender Fahrgastbetreuer im Reiseverkehr</abgrenzung>
+</kategorie>

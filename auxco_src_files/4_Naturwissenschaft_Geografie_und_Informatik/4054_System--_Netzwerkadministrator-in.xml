@@ -1,0 +1,19 @@
+<kategorie>
+  <id>4054</id>
+  <taetigkeit>Konfiguration und Wartung von vernetzten IT- Systemen sowie Betrieb von Hardware und Software</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fault-, Performance- und Securitymanagement durchführen; regelmäßig Datensicherungen und Backups durchführen; Mitführung alter Datenbestände (Migration) in neue Systeme planen; Bedarf an Soft- und Hardware analysieren und bewerten; Betriebskonzepte erstellen; Changemanagement von IT-Systemen betreiben</taetigkeitsbeschreibung>
+  <bezeichnung>System-/ Netzwerkadministrator/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43343">IT-Systemadministation - Spezialist</kldb>
+      <isco schluessel="2522">Systems administrators</isco>
+      <dkz codenr="43343-102" refid="15280">Anwendungssystemadministrator/in</dkz>
+      <dkz codenr="43343-103" refid="15290">IT-Systemadministrator/in</dkz>
+      <dkz codenr="43343-104" refid="15292">Netzwerkadministrator/in</dkz>
+      <dkz codenr="43343-106" refid="89992">IT-Administrator/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1772">IT-Netzwerktechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4252">IT-Projektleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4055">Datenbankentwickler/in /administrator/in</abgrenzung>
+</kategorie>

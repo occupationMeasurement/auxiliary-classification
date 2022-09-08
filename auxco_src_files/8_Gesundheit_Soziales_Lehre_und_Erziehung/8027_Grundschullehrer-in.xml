@@ -1,0 +1,15 @@
+<kategorie>
+  <id>8027</id>
+  <taetigkeit>Erteilung von allgemeinbildendem Unterricht und Erziehung von Kindern an Grundschulen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Unterrichtsstunden halten sowie vor- und nachbereiten; mündliche Abfragen, Klassenarbeiten oder benotete Tests durchführen; Hausaufgaben und Hefteinträge kontrollieren; Pausenaufsicht machen; Klassenfahrten planen; Elternabende durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Grundschullehrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84114">Lehrkräfte in der Primarstufe - Experte</kldb>
+      <isco schluessel="2341">Primary school teachers</isco>
+      <dkz codenr="84114-104" refid="59476">Lehrer/in - Grundschulen (Primarstufe)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8028">Lehrer/in Sekundarstufe</abgrenzung>
+  <abgrenzung typ="hoch" refid="8029">Sonderschullehrer/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,22 @@
+<kategorie>
+  <id>2083</id>
+  <taetigkeit>Montage und Instandhaltung von Fluggerätebauteilen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bordgeräte, Fahr- und Steuerwerke einbauen und montieren; in der Herstellung von Bauteilen konventionelle und CNC-Werkzeugmaschinen einsetzen; Metall- und Kunststoffteile spanen; Montagetechniken anwenden; gesamte Flugzeuge in der Endmontage zusammenbauen; Leichtfluggeräte aus Faserverbundstoffen, Leichtmetall oder anderen Materialien entwerfen; Einzelbauteile herstellen und montieren</taetigkeitsbeschreibung>
+  <bezeichnung>Fluggerätemechaniker/in - Fertigungstechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25232">Berufe in der Luft- und Raumfahrttechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8211">Mechanical machinery assemblers</isco>
+      <dkz codenr="25232-109" refid="35068">Fluggerätbauer/in</dkz>
+      <dkz codenr="25232-112" refid="35133">Metallflugzeugbauer/in</dkz>
+      <dkz codenr="25232-101" refid="2186">Fluggerätmechaniker/in - Fertigungstechnik</dkz>
+      <dkz codenr="25232-106" refid="4558">Leichtflugzeugbauer/in</dkz>
+      <dkz codenr="25232-111" refid="35116">Holzflugzeugbauer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1726">Luftfahrttechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2059">Maschinenschlosser/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2134">Bordelektroniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2034">Metallbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2082">Fluggerätemechaniker/in - Triebwerkstechnik</abgrenzung>
+</kategorie>

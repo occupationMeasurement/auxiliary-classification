@@ -1,0 +1,17 @@
+<kategorie>
+  <id>6010</id>
+  <taetigkeit>Ankauf und Verkauf von Waren für das eigene Unternehmen oder für Kunden auf Provisionsbasis</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wert und Verkaufschancen von Waren und Dienstleistungen schätzen; Angebote nach Interesse des Nachfragers einholen; Preis-Leistungs-Verhältnisse prüfen; zwischen Käufer und Verkäufer vermitteln; Vorverhandlungen führen und Vetragsabschlüsse zwischen Dritten zustande bringen; Markttrends analysieren</taetigkeitsbeschreibung>
+  <bezeichnung>Handelsmakler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61133">Handelsmakler,Auktionatoren - Spezialist</kldb>
+      <isco schluessel="3324">Handelsmakler</isco>
+      <dkz codenr="61133-100" refid="7034">Makler/in</dkz>
+      <dkz codenr="61133-101" refid="7042">Warenmakler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6009">Auktionator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1849">Immobilienmakler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6043">Kunst- und Antiquitätenhändler/in</abgrenzung>
+</kategorie>

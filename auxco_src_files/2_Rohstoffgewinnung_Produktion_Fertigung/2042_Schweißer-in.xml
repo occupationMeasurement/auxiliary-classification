@@ -1,0 +1,30 @@
+<kategorie>
+  <id>2042</id>
+  <taetigkeit>Verbindung von Werkstücken und Bauteilen durch Schweißarbeiten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. geeignete Schweißverfahren anwenden und mithilfe von Gasflammen, Lichtbögen oder sonstigen Hitzequellen Metallteile verbinden; Einzelstücke, wie Gussteile, durch Verschweißen oder Verlöten zu größeren Werkstücken zusammenfügen; voll mechanisierte und automatisierte Schweißanlagen einrichten, bedienen und überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Schweißer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24422">Berufe in der Schweiß- und Verbindungstechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7212">Welders and flame cutters</isco>
+      <dkz codenr="24422-102" refid="2041">Schweißer/in - Zentralheizungs- und Lüftungsbau</dkz>
+      <dkz codenr="24422-108" refid="2047">Schweißer/in - Fahrzeugbau</dkz>
+      <dkz codenr="24422-109" refid="2048">Anlagenmechaniker/in - Schweißtechnik</dkz>
+      <dkz codenr="24422-110" refid="2049">Konstruktionsmechaniker/in - Schweißtechnik</dkz>
+      <dkz codenr="24422-111" refid="2050">Schweißer/in - Anlagen- und Apparatebau</dkz>
+      <dkz codenr="24422-112" refid="2051">Maschinenführer/in - Schweißanlagen</dkz>
+      <dkz codenr="24422-113" refid="2053">Schweißer/in - Schiffbau</dkz>
+      <dkz codenr="24422-114" refid="2054">Schweißer/in - Konstruktionstechnik</dkz>
+      <dkz codenr="24422-116" refid="2056">Schweißer/in</dkz>
+      <dkz codenr="24422-137" refid="28968">WIG-Schweißer/in</dkz>
+      <dkz codenr="24422-118" refid="2065">Schmelzschweißer/in</dkz>
+      <dkz codenr="24422-119" refid="2068">Autogenschweißer/in</dkz>
+      <dkz codenr="24422-121" refid="2072">Elektroschweißer/in</dkz>
+      <dkz codenr="24422-124" refid="2077">Brennschneider/in</dkz>
+      <dkz codenr="24422-127" refid="2085">Rohrschweißer/in</dkz>
+      <dkz codenr="24422-128" refid="2088">Löter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1720">Schweißtechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2034">Metallbauer/in</abgrenzung>
+</kategorie>

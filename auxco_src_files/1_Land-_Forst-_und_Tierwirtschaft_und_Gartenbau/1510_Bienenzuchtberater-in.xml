@@ -1,0 +1,14 @@
+<kategorie>
+  <id>1510</id>
+  <taetigkeit>Prüfung der Qualität von Imkereiprodukten sowie Beratung von Imkern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bienenstöcke konzipieren und auf Schädlinge kontrollieren; Qualität und Zustand von Königinnen und Jungvölkern untersuchen und beurteilen; Königinnen künstlich besamen; Ertragsprodukte kontrollieren; Imker bezüglich des effizienten Verkaufs beraten; geeignete Standorte zur Bienenzucht ermitteln und empfehlen</taetigkeitsbeschreibung>
+  <bezeichnung>Bienenzuchtberater/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11233">Berufe in der Imkerei - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3142">Agricultural technicians</isco>
+      <dkz codenr="11233-100" refid="90716">Bienenzuchtberater/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1509">Imker/in</abgrenzung>
+</kategorie>

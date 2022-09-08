@@ -1,0 +1,16 @@
+<kategorie>
+  <id>8023</id>
+  <taetigkeit>Gestaltung von nichtreligiösen Trauerfeiern für Verstorbene</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Trauerrede für konfessionslos Verstorbene halten; Vorgespräche führen; Trauerbegleitung anbieten; Kondolenzbücher nachbearbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Trauerredner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83383">Theologie,Gemeindearbeit(ssT)-Spezialist</kldb>
+      <isco schluessel="3412">Social work associate professionals</isco>
+      <dkz codenr="83383-101" refid="35004">Trauerredner/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="8022">Küster/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8024">Christliche/r Jugendbetreuer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8019">Gemeindereferent/in</abgrenzung>
+</kategorie>

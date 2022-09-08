@@ -1,0 +1,17 @@
+<kategorie>
+  <id>6002</id>
+  <taetigkeit>Aushandlung von Verträgen zum Einkauf von Waren und Dienstleistungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Vertragsverhandlungen- und Abschlüsse, Branchenentwicklungen beobachten und in Entscheidungen einbeziehen; Überwachung der Qualität und Menge der Waren und Dienstleistungen; Koordination von Lieferung und Lagerung</taetigkeitsbeschreibung>
+  <bezeichnung>Einkäufer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61113">Einkauf - Spezialist</kldb>
+      <isco schluessel="3323">Einkäufer</isco>
+      <dkz codenr="61113-101" refid="6600">Einkäufer/in</dkz>
+      <dkz codenr="61113-103" refid="6602">Technische/r Einkäufer/in</dkz>
+      <dkz codenr="61113-130" refid="126565">Fachwirt/in - Einkauf</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6001">Beschaffungsassistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="6010">Handelsmakler/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,35 @@
+<kategorie>
+  <id>1774</id>
+  <taetigkeit>Überwachung und Entwicklung von innerbetrieblichen Konzepten für den Gewässer- und Immissionsschutz sowie für die sachgerechte Entsorgung von Abfall</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. betriebliche Abwassermengen messen und dokumentieren; Systeme zur Abfallvermeidung und - verringerung planen; Kosten für die Umsetzung empfohlener Maßnahmen schätzen; innerbetriebliche Umweltschutzkonzepte entwickeln und einführen; Betriebe, Werke und Behörden beraten; voraussichtliche Auswirkungen vorgesehener Aktivitäten auf die Umweltsicherheit beurteilen</taetigkeitsbeschreibung>
+  <bezeichnung>Gewässer-, Abfall- und Immissionsschutzbeauftragte/r</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42323">Gewäs.Immissions,Abfallbeauf.-Spezialist</kldb>
+      <isco schluessel="3257">Environmental and occupational health inspectors and associates</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="42324">Gewäs.Immissions,Abfallbeauf.-Experte</kldb>
+      <isco schluessel="2133">Environmental protection professionals</isco>
+      <dkz codenr="42324-101" refid="8199">Immissionsschutzbeauftragte/r</dkz>
+      <dkz codenr="42324-102" refid="8200">Gewässerschutzbeauftragte/r</dkz>
+      <dkz codenr="42324-103" refid="8202">Abfallbeauftragte/r</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="42323">Gewäs.Immissions,Abfallbeauf.-Spezialist</kldb>
+      <isco schluessel="3257">Environmental and occupational health inspectors and associates</isco>
+      <dkz codenr="42323-100" refid="90785">Gewässerschutztechniker/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1758">Ingenieur/in - Abfallwirtschaft</abgrenzung>
+  <abgrenzung typ="mittel" refid="1787">Organsiator/in - Abfallwirtschaft</abgrenzung>
+  <abgrenzung typ="hoch" refid="4249">Leiter/in – Sachverständigenbüro für Umweltfragen</abgrenzung>
+  <abgrenzung typ="hoch" refid="4242">Umweltschutzbeauftragte/r</abgrenzung>
+  <abgrenzung typ="hoch" refid="4246">Störfallbeauftragte/r</abgrenzung>
+</kategorie>

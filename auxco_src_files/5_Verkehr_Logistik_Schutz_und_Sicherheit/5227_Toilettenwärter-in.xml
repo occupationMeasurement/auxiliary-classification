@@ -1,0 +1,14 @@
+<kategorie>
+  <id>5227</id>
+  <taetigkeit>Sicherstellung von Ordnung und Sauberkeit auf öffentlichen Toiletten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Toilettenschüsseln, Waschbecken und Spiegel reinigen; Böden wischen und kehren; dafür sorgen, dass ausreichend Toilettenpapier, Seife und Trockentücher vorhanden sind; Wechselgeld bereithalten; öffentliche Waschräume und Duschen reinigen</taetigkeitsbeschreibung>
+  <bezeichnung>Toilettenwärter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="54101">Reinigung (o.S.) - Helfer</kldb>
+      <isco schluessel="9629">Elementary Workers Not Elsewhere Classified</isco>
+      <dkz codenr="54101-103" refid="10223">Helfer/in - Reinigung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5226">Gebäudeinnenreiniger/in</abgrenzung>
+</kategorie>

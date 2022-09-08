@@ -1,0 +1,51 @@
+<kategorie>
+  <id>1734</id>
+  <taetigkeit>Planung, Koordination und Optimierung von informationstechnischen Systemen zur Telekommunikation und Datenübertragung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Geräte und Verfahren der Informationstechnologie oder der Nachrichten- und Kommunikationstechnik planen und entwickeln; IT- und kommunikationstechnische Systeme konzipieren und vernetzen; technische Funktionen von Telekommunikationssignalen und Radio- und Fernsehübertragungen kontrollieren; Daten- und Fehleranalysen zur Qualitätssicherung durchführen; Geräte anhand sicherheitstechnischer Vorgaben prüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Techniker/in - Informations- und Kommunikationselektronik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26313">Berufe in der Informations- und Telekommunikationstechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3522">Telecommunications engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" follow-up="FALSE" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="26314">Berufe in der Informations- und Telekommunikationstechnik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2153">Telecommunications engineers</isco>
+      <dkz codenr="26314-140" refid="58723">Ingenieur/in - Informations-, Kommunikationstechnik</dkz>
+      <dkz codenr="26314-144" refid="59389">Ingenieur/in - Medientechnik/Multimedia</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="26313">Berufe in der Informations- und Telekommunikationstechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3522">Telecommunications engineering technicians</isco>
+      <dkz codenr="26313-101" refid="5525">Systemtechniker/in (Telekommunikationstechnik)</dkz>
+      <dkz codenr="26313-103" refid="5528">Medientechniker/in (Kommunikationselektronik)</dkz>
+      <dkz codenr="26313-104" refid="5529">Techniker/in - Elektrotechnik (Information/Kommunikation)</dkz>
+      <dkz codenr="26313-197" refid="15264">Komponentenentwickler/in</dkz>
+    </antwort>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>Liegt der Schwerpunkt Ihrer Arbeit im Bereich Rundfunk oder im Bereich Telekommunikationstechnik?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Lag der Schwerpunkt Ihrer Arbeit im Bereich Rundfunk oder im Bereich Telekommunikationstechnik?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Rundfunk</text>
+      <kldb schluessel="26303">Berufe in der Elektrotechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3521">Broadcasting and audio-visual technicians</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Telekommunikationstechnik</text>
+      <kldb schluessel="26313">Berufe in der Informations- und Telekommunikationstechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3522">Telecommunications engineering technicians</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2118">Informations- und Kommunikationselektroniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4037">Technische/r Informatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4054">System-/ Netzwerkadministrator/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1772">IT-Netzwerktechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1733">Elektrotechniker/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,17 @@
+<kategorie>
+  <id>3511</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Bereich der Presse- und Öffentlichkeitsarbeit von Unternehmen, Verbänden oder Parteien</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Presse- und Öffentlichkeitsarbeit planen, leiten und koordinieren; die Öffentlichkeit zielgerichtet über Entwicklungen in der Organisation informieren und dabei eine positive Außenwirkung erzielen; Personal koordinieren sowie die Auswahl, Schulung und Leistung von Mitarbeitern überwachen; betriebliche und administrative Verfahren festlegen; Budget festlegen, Ausgaben kontrollieren und einen effizienten Ressourceneinsatz sicherstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in- Presse- und Öffentlichkeitsarbeit</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92294">Führung- Öffentlichkeitsarbeit</kldb>
+      <isco schluessel="1222">Advertising and public relations managers</isco>
+      <dkz codenr="92294-100" refid="90707">Leiter/in - Presse- und Öffentlichkeitsarbeit</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3515">Werbeleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3513">Public-Relations-Manager/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3510">Pressesprecher/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3512">Chefredakteur/in</abgrenzung>
+</kategorie>

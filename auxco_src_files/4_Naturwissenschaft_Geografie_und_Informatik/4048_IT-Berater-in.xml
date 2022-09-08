@@ -1,0 +1,40 @@
+<kategorie>
+  <id>4048</id>
+  <taetigkeit>Beratung von Unternehmen hinsichtlich des Einsatzes von Computerhardware und Software</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Geschäftsprozesse analysieren und angemessene Unternehmensanwendungen konzipieren; Anforderungskataloge in Zusammenarbeit mit den Fachabteilungen erstellen und verantworten; Durchführbarkeitsstudien erstellen; Kunden-, Mitbewerber- und eigene IT-Systeme unter technischen und wirtschaftlichen Gesichtspunkten bewerten</taetigkeitsbeschreibung>
+  <bezeichnung>IT-Berater/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43224">IT-Anwendungsberatung - Experte</kldb>
+      <isco schluessel="2511">Systems analysts</isco>
+      <dkz codenr="43224-105" refid="27546">ERP-Systembetreuer/in</dkz>
+      <dkz codenr="43224-100" refid="7754">Anwendungsberater/in</dkz>
+      <dkz codenr="43224-101" refid="7757">IT-Berater/in</dkz>
+      <dkz codenr="43224-102" refid="15278">Anwendungssystemberater/in</dkz>
+      <dkz codenr="43224-104" refid="27543">ERP-Berater/in - ERP-Consultant</dkz>
+      <dkz codenr="43224-103" refid="15310">IT-Produktkoordinator/in</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>In welchem Bereich sind Sie vorwiegend tätig?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>In welchem Bereich waren Sie vorwiegend tätig?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Konzeption und Bewertung von IT-Systemen für verschiedene Anwenderbedürfnisse</text>
+      <kldb schluessel="43224">IT-Anwendungsberatung - Experte</kldb>
+      <isco schluessel="2511">Systems analysts</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Kundensupport und Überprüfung von IT-Systemen und Software</text>
+      <kldb schluessel="43224">IT-Anwendungsberatung - Experte</kldb>
+      <isco schluessel="3512">Information and communications technology user support technicians</isco>
+    </antwort>
+    <antwort position="3">
+      <text>Oder etwas anderes?</text>
+      <isco schluessel="????">Freitextantwort</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4047">Techniker/in im IT-Kundensupport</abgrenzung>
+  <abgrenzung typ="hoch" refid="4251">Leiter/in - IT-Vertrieb und -Anwendungsberatung</abgrenzung>
+  <abgrenzung typ="hoch" refid="4049">IT-System-Kaufmann/ -frau</abgrenzung>
+  <abgrenzung typ="hoch" refid="4046">IT-Systemanalytiker/in</abgrenzung>
+</kategorie>

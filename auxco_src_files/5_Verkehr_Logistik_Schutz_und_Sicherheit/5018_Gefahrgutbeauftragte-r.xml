@@ -1,0 +1,32 @@
+<kategorie>
+  <id>5018</id>
+  <taetigkeit>Sicherstellung der Einhaltung von gesetzlichen Bestimmungen beim Transport gefährlicher Güter</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Einhaltung aller Gefahrgutvorschriften bei Güterumschlag, -transport und -lagerung sicherstellen; geeignete Transportmittel für den jeweiligen Transportauftrag auswählen; die sicherste und schnellste Transportroute ermitteln; die Funktionsfähigkeit von Feuerlöschern und Schutzausrüstungen kontrollieren und sicherstellen; behördliche Genehmigungen einholen</taetigkeitsbeschreibung>
+  <bezeichnung>Gefahrgutbeauftragte/r</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51583">Überwach.Verkehrsbetrieb(ssT)-Spezialist</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Ist ein wesentlicher Bestandteil ihrer Arbeit, andere Arbeitnehmer zu beaufsichtigen oder als Führungskraft strategische Entscheidungen für das Unternehmen zu treffen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War ein wesentlicher Bestandteil ihrer Arbeit, andere Arbeitnehmer zu beaufsichtigen oder als Führungskraft strategische Entscheidungen für das Unternehmen zu treffen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="keine Führungsverantwortung">
+      <text>weder Führungs- noch Aufsichtstätigkeit</text>
+      <kldb schluessel="51583">Überwach.Verkehrsbetrieb(ssT)-Spezialist</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="51583-100" refid="8195">Gefahrgutbeauftragte/r</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Aufsichtstätigkeit mit Verantwortung für untergeordnetes Personal</text>
+      <kldb schluessel="51593">Aufsichtskräfte - Überwachung und Steuerung des Verkehrsbetriebs</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+    </antwort>
+    <antwort position="3" aufsicht="Führungskraft">
+      <text>Führungstätigkeit mit strategischer Entscheidungsbefugnis (z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen, oder zur Einstellung und Entlassung von Personal)</text>
+      <kldb schluessel="51594">Führungskräfte - Überwachung und Steuerung des Verkehrsbetriebs</kldb>
+      <isco schluessel="1324">Supply, distribution and related managers</isco>
+    </antwort>
+  </untergliederung>
+</kategorie>

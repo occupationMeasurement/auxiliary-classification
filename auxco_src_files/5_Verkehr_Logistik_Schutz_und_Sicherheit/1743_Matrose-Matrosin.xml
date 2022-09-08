@@ -1,0 +1,82 @@
+<kategorie>
+  <id>1743</id>
+  <taetigkeit>Bedienung und Instandhaltung von technischen Anlagen an Bord von Schiffen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Hauptantriebsanlagen und Hilfseinrichtungen für den Maschinen- und Schiffsbetrieb installieren, überwachen und warten; Anlagen und Ausrüstungen für die Brandabwehr und die Rettung in Seenotfällen warten; Schiffe los- und festmachen; Reinigungsarbeiten, wie das Abbeizen und Streichen an Deck und im Rumpf durchführen; Treibstoff und andere Betriebsgüter für Maschinenräume bestellen; Leistung von Motoren, Maschinen und Ausrüstungen überwachen und aufzeichnen</taetigkeitsbeschreibung>
+  <bezeichnung>Matrose/Matrosin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51132">Techn. Schiffsverkehrsbetrieb-Fachkraft</kldb>
+      <isco schluessel="8350">Ships' deck crews and related workers</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren beruflichen Aufgaben, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren beruflichen Aufgaben gehört, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" follow-up="FALSE" aufsicht="Aufsichtskraft">
+      <text>Ja</text>
+      <kldb schluessel="51193">Aufsichtskräfte - Technischer Betrieb im Eisenbahn-, Luft- und Schiffsverkehr</kldb>
+      <isco schluessel="3151">Ships' engineers</isco>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="51132">Techn. Schiffsverkehrsbetrieb-Fachkraft</kldb>
+      <isco schluessel="8350">Ships' deck crews and related workers</isco>
+    </antwort>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="51132">Techn. Schiffsverkehrsbetrieb-Fachkraft</kldb>
+      <isco schluessel="8350">Ships' deck crews and related workers</isco>
+      <dkz codenr="51132-103" refid="7267">Bootsmann/-frau/Pumpenmann/-frau</dkz>
+      <dkz codenr="51132-105" refid="7272">Matrose/Matrosin</dkz>
+      <dkz codenr="51132-115" refid="29406">Fachkraft - Schiff/Maschinendienst (ohne Befähigungszeugnis)</dkz>
+      <dkz codenr="51132-109" refid="7279">Decksmann/-frau (Seeschifffahrt)</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="51133">Techn. Schiffsverkehrsbetrieb-Spezialist</kldb>
+      <isco schluessel="3151">Ships' engineers</isco>
+      <dkz codenr="51134-104" refid="29413">Schiffsinspektor/in (Nautik/Technik)</dkz>
+      <dkz codenr="51134-101" refid="14090">Zweite/r Technische/r Schiffsoffizier/in (FH)</dkz>
+      <dkz codenr="51134-105" refid="29424">Leiter/in - Maschinenanlagen (FH)</dkz>
+      <dkz codenr="51134-103" refid="29405">Schiffsingenieur/in - Gastanker</dkz>
+      <dkz codenr="51134-100" refid="7247">Schiffsingenieur/in - Kühlanlagen</dkz>
+      <dkz codenr="51134-106" refid="59010">Technische/r Wachoffizier/in (FH)</dkz>
+      <dkz codenr="51134-107" refid="100731">Ingenieur/in - Schiffsbetriebstechnik</dkz>
+      <dkz codenr="51133-110" refid="29420">Technische/r Wachoffizier/in</dkz>
+      <dkz codenr="51133-101" refid="7253">Zweite/r Technische/r Schiffsoffizier/in (Fachschule)</dkz>
+      <dkz codenr="51133-113" refid="29443">Leiter/in - Maschinenanlagen (FS)</dkz>
+      <dkz codenr="51133-102" refid="7254">Schiffselektrotechniker/in</dkz>
+      <dkz codenr="51133-104" refid="7261">Schiffsmaschinist/in</dkz>
+      <dkz codenr="51133-107" refid="29412">Alleinmaschinist/in - Schiff (mit Einschr.)</dkz>
+      <dkz codenr="51133-116" refid="59009">Technische/r Wachoffizier/in (Fachschule)</dkz>
+      <dkz codenr="51133-117" refid="59011">Zweite/r Technische/r Offizier/in (mit Einschr.)</dkz>
+      <dkz codenr="51133-114" refid="59007">Leiter/in - Maschinenanlagen</dkz>
+      <dkz codenr="51133-115" refid="59008">Zweite/r Technische/r Schiffsoffizier/in</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium im Bereich der Schiffsbetriebstechnik</text>
+      <kldb schluessel="51133">Techn. Schiffsverkehrsbetrieb-Spezialist</kldb>
+      <isco schluessel="3151">Ships' engineers</isco>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium im Bereich der Schiffsbetriebstechnik</text>
+      <kldb schluessel="51134">Techn. Schiffsverkehrsbetrieb - Experte</kldb>
+      <isco schluessel="3151">Ships' engineers </isco>
+      <dkz codenr="51134-104" refid="29413">Schiffsinspektor/in (Nautik/Technik)</dkz>
+      <dkz codenr="51134-101" refid="14090">Zweite/r Technische/r Schiffsoffizier/in (FH)</dkz>
+      <dkz codenr="51134-105" refid="29424">Leiter/in - Maschinenanlagen (FH)</dkz>
+      <dkz codenr="51134-103" refid="29405">Schiffsingenieur/in - Gastanker</dkz>
+      <dkz codenr="51134-100" refid="7247">Schiffsingenieur/in - Kühlanlagen</dkz>
+      <dkz codenr="51134-106" refid="59010">Technische/r Wachoffizier/in (FH)</dkz>
+      <dkz codenr="51134-107" refid="100731">Ingenieur/in - Schiffsbetriebstechnik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="2086">Schiffbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1743">Matrose/Matrosin</abgrenzung>
+  <abgrenzung typ="hoch" refid="5053">Binnenschiffsführer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1727">Schiffbautechniker/in</abgrenzung>
+</kategorie>

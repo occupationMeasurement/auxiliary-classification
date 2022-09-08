@@ -1,0 +1,15 @@
+<kategorie>
+  <id>5143</id>
+  <taetigkeit>Entwurf von Prototypen für die industrielle Serienfertigung von Keramik oder Steingut</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Ziele und Beschränkungen der Entwurfsaufgabe durch Beratung mit Kunden und Beteiligten festlegen; keramische Erzeugnisse bzw. Produktkollektionen entwerfen; Materialien unter ästhetischen und funktionalen Gesichtspunkten auswählen; das gewählte Design für die Herstellung der Keramikprodukte detailliert dokumentieren; den Herstellungsprozess begleiten; Ergebnisse überprüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Keramikdesigner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93413">Kunsthandw. Keramikgestaltung-Spezialist</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+      <dkz codenr="93413-102" refid="8437">Gestalter/in - Keramik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5142">Keramiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9231">Industriekeramiker/in</abgrenzung>
+</kategorie>

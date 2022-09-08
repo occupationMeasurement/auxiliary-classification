@@ -1,0 +1,44 @@
+<kategorie>
+  <id>1776</id>
+  <taetigkeit>Koordination und Optimierung der Verkehrswegeplanung im Straßenverkehr</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Straßen- und Verkehrsbestandsdaten erfassen und in Straßeninformationssystemen auswerten; Rad- und Gehwegenetze sowie Brücken zeichnen; Pläne und Richtlinien für Verkehrswege und Raumordnung unter Berücksichtigung wirtschaftlicher, ökologischer und sozialer Faktoren entwickeln und implementieren; Verkehrsentwicklungspläne erstellen; Zustand der Verkehrsanlagen systematisch erfassen, um Erhaltungsstrategien entwickeln und umsetzen zu können; an Forschungsprojekten mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Verkehrswegeplaner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="31133">Berufe in der Bauplanung von Verkehrswegen und -anlagen - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians </isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="31132">Berufe in der Bauplanung von Verkehrswegen und -anlagen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians </isco>
+      <dkz codenr="31132-100" refid="14375">Fachkraft - Straßen- und Verkehrstechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="31133">Berufe in der Bauplanung von Verkehrswegen und -anlagen - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians </isco>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium im Bereich Verkehrs- oder Bauingenieurwesen</text>
+      <kldb schluessel="31133">Berufe in der Bauplanung von Verkehrswegen und -anlagen - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians </isco>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium im Bereich Verkehrs- oder Bauingenieurwesen</text>
+      <kldb schluessel="31134">Bauplan. Verkehrswege,-anlagen - Experte</kldb>
+      <isco schluessel="2164">Town and traffic planners</isco>
+      <dkz codenr="31134-105" refid="59341">Verkehrsbauingenieur/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5246">Bauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5260">Vermessungstechniker/in oder -ingeneur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1775">Bautechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1779">Tiefbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5279">Ingenieur/in - Stadt- und Regionalplanung</abgrenzung>
+  <abgrenzung typ="hoch" refid="1746">Betriebs- und Verkehrstechniker/in</abgrenzung>
+</kategorie>

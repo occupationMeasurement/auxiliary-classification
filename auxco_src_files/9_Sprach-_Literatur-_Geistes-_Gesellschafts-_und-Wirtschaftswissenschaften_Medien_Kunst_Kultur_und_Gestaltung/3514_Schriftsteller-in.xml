@@ -1,0 +1,17 @@
+<kategorie>
+  <id>3514</id>
+  <taetigkeit>Verfassen von belletristischen Texten wie Romanen oder Theaterstücken zur Veröffentlichung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Romane, Erzählungen, Kurzgeschichten, Gedichte, Theaterstücke oder Hörspiele konzeptionieren und verfassen; Redemanuskripte für verschiedene Anlässe anfertigen; Broschüren, Handbücher und ähnliche technische Publikationen verfassen; faktische Inhalte erforschen und andere notwendige Informationen beschaffen; Materialien zur Veröffentlichung auswählen und Kontakte zu Verlagen oder Literaturagenten knüpfen</taetigkeitsbeschreibung>
+  <bezeichnung>Schriftsteller/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92434">Autoren, Schriftsteller- Experte</kldb>
+      <isco schluessel="2641">Authors and related writers</isco>
+      <dkz codenr="92434-101" refid="8277">Autor/in / Schriftsteller/in</dkz>
+      <dkz codenr="92434-104" refid="14847">Redenschreiber/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3512">Chefredakteur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1838">Redakteur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3525">Drehbuchautor/in</abgrenzung>
+</kategorie>

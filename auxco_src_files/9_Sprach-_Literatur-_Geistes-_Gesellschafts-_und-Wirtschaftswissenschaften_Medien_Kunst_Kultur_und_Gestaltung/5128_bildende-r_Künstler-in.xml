@@ -1,0 +1,34 @@
+<kategorie>
+  <id>5128</id>
+  <taetigkeit>Pflege und Restaurierung von Kunstwerken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. künstlerische Ideen entwickeln und in Form von Kunstwerken umsetzen; Entwürfe und Modelle erarbeiten; konservatorische Bestandsaufnahmen an Kunstwerken und Kulturgütern vornehmen; Kunstobjekte oder Skulpturen restaurieren</taetigkeitsbeschreibung>
+  <bezeichnung>bildende/r Künstler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93303">Kunsthandwerk,bild.Kunst (oS)-Spezialist</kldb>
+      <isco schluessel="2651">Visual artists</isco>
+      <dkz codenr="93304-118" refid="59229">Bildende/r Künstler/in</dkz>
+      <dkz codenr="93304-119" refid="59583">Restaurator/in (Hochschule)</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="93304">Kunsthandwerk, bild. Kunst (oS)-Experte</kldb>
+      <isco schluessel="2651">Visual artists</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="93303">Kunsthandwerk,bild.Kunst (oS)-Spezialist</kldb>
+      <isco schluessel="2651">Visual artists</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5127">Kunsthandwerker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5132">Skulpturenrestaurator/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5133">Kunstmaler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5137">Restaurator/in - Vergolderhandwerk</abgrenzung>
+  <abgrenzung typ="mittel" refid="5150">Restaurator/in - Gold- und Silberschmiedehandwerk</abgrenzung>
+  <abgrenzung typ="mittel" refid="1300">Kurator/in / Museologe/in</abgrenzung>
+</kategorie>

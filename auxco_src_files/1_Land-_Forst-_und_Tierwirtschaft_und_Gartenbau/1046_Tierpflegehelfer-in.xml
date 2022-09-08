@@ -1,0 +1,16 @@
+<kategorie>
+  <id>1046</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten in der Tierpflege in Tierheimen, Zoos, Forschungseinrichtungen oder Zuchtbetrieben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Tiere füttern und tränken; Tierunterkünfte herrichten, reinigen und warten; Unterstützung beim Transport leisten; bei der Betreuung mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Tierpflegehelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11501">Berufe in der Tierpflege (o.S.) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9212">Livestock farm labourers</isco>
+      <dkz codenr="11501-102" refid="90129">Helfer/in - Tierpflege</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1047">Tierpfleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1502">Nutztierhaltung - Helfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1011">Helfer/in in der Tierwirtschaft und im Ackerbau</abgrenzung>
+</kategorie>

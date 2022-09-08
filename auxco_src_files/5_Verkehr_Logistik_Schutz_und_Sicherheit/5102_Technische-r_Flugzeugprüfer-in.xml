@@ -1,0 +1,28 @@
+<kategorie>
+  <id>5102</id>
+  <taetigkeit>Überwachung der Luft- und Verkehrssicherheit von Flugzeugen und deren Betriebsausrüstung und Notausrüstung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rettungsfallschirme, Flugmotoren, Luftschrauben oder Geräte der elektronischen Ausrüstung unter Einsatz von prüf- und messtechnischen Hilfsmitteln kontrollieren; Standards, Regeln und Normen der Lufttüchtigkeitsanweisungen kennen und beachten; nachprüfen, ob alle beanstandeten Mängel behoben wurden; durchgeführte Arbeiten dokumentieren; gewartete Luftgeräte freigeben</taetigkeitsbeschreibung>
+  <bezeichnung>Technische/r Flugzeugprüfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51123">Techn. Luftverkehrsbetrieb - Spezialist</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren beruflichen Aufgaben, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren beruflichen Aufgaben gehört, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Aufsichtskraft">
+      <text>Ja</text>
+      <kldb schluessel="51193">Aufsichtskräfte - Technischer Betrieb im Eisenbahn-, Luft- und Schiffsverkehr</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="51123">Techn. Luftverkehrsbetrieb - Spezialist</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="51123-100" refid="5439">Prüfer/in von Luftfahrtgerät / Certifying Staff</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1726">Luftfahrttechniker/in</abgrenzung>
+</kategorie>

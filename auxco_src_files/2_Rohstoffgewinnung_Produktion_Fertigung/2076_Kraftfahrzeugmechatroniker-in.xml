@@ -1,0 +1,31 @@
+<kategorie>
+  <id>2076</id>
+  <taetigkeit>Wartung und Reparatur von Kraftfahrzeugen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Störungen an Systemen und Bauteilen von Fahrzeugen diagnostizieren und dazu ggf. Computer verwenden; elektrische, elektronische, mechanische und pneumatische Systeme in Fahrzeugen nach amtlichen Vorgaben prüfen; Personenkraftwagen mit Zusatzeinrichtungen, Sonderausstattungen und Zubehörteilen ausrüsten; Motoren, Bremsen, Getriebe und sonstige Teile von Fahrzeugen einbauen</taetigkeitsbeschreibung>
+  <bezeichnung>Kraftfahrzeugmechatroniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25212">Berufe in der Kraftfahrzeugtechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7231">Motor vehicle mechanics and repairers</isco>
+      <dkz codenr="25212-100" refid="2176">Karosserie- und Fahrzeugbauer/in - Fahrzeugbau</dkz>
+      <dkz codenr="25212-101" refid="2177">Karosserie- und Fahrzeugbauer/in - Karosseriebau</dkz>
+      <dkz codenr="25212-124" refid="15571">Karosserie- und Fahrzeugbaumechaniker/in - Kaross.instandh.</dkz>
+      <dkz codenr="25212-125" refid="15573">Karosserie- und Fahrzeugbaumechaniker/in - Kaross.bautechnik</dkz>
+      <dkz codenr="25212-126" refid="15830">Karosserie- und Fahrzeugbaumechaniker/in - Fahrzeugbautechn.</dkz>
+      <dkz codenr="25212-127" refid="15832">Mechaniker/in - Karosserieinstandhaltungstechnik</dkz>
+      <dkz codenr="25212-146" refid="35091">Karosseriebauer/in</dkz>
+      <dkz codenr="25212-105" refid="2364">Automobilmechaniker/in</dkz>
+      <dkz codenr="25212-106" refid="2365">Kraftfahrzeugmechaniker/in</dkz>
+      <dkz codenr="25212-108" refid="2368">Pannendienstfahrer/in</dkz>
+      <dkz codenr="25212-109" refid="2369">Kraftfahrzeug-Servicetechniker/in</dkz>
+      <dkz codenr="25212-122" refid="14798">Kraftfahrzeugmechatroniker/in - Personenkraftwagentechnik</dkz>
+      <dkz codenr="25212-128" refid="27299">Kraftfahrzeugmechatroniker/in - Nutzfahrzeugtechnik</dkz>
+      <dkz codenr="25212-130" refid="27440">Kraftfahrzeugservicemechaniker/in</dkz>
+      <dkz codenr="25212-118" refid="2780">Kraftfahrzeugelektriker/in</dkz>
+      <dkz codenr="25212-129" refid="27303">Kraftfahrzeugmechatroniker/in - Fahrzeugkommunikationstechn.</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2077">Kraftfahrzeugtechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2075">Kraftfahrzeugmechanikerhelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2079">Land- und Baumaschinenmechaniker/in</abgrenzung>
+</kategorie>

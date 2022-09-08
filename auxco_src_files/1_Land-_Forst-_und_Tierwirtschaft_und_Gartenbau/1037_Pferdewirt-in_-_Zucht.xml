@@ -1,0 +1,15 @@
+<kategorie>
+  <id>1037</id>
+  <taetigkeit>Zucht von Pferden zum Verkauf oder zur Präsentation auf Leistungsschauen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Pferde für Zucht auswählen; Besamung veranlassen; Geburtsvorgang überwachen; Pferde für Zuchtschauen vorbereiten</taetigkeitsbeschreibung>
+  <bezeichnung>Pferdewirt/in - Zucht</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11312">Berufe in der Pferdewirtschaft - Pferdezucht - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6121">Livestock and dairy producers</isco>
+      <dkz codenr="11312-104" refid="77693">Pferdewirt/in - Pferdezucht</dkz>
+      <dkz codenr="11312-102" refid="8611">Pferdewirt/in - Pferdezucht u. -haltung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1035">Pferdepfleger/in</abgrenzung>
+</kategorie>

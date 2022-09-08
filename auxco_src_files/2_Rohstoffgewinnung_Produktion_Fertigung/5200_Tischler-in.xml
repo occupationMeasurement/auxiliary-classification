@@ -1,0 +1,31 @@
+<kategorie>
+  <id>5200</id>
+  <taetigkeit>Herstellung von Möbeln, Fenstern und anderen Gegenständen aus Holz</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. geeignetes Rohmaterial auswählen; geliefertes Holz lagern; Skizzen und Entwürfe anfertigen und Musterstücke gestalten; Holzwerkstoffe nach Auftragsvorgaben auf die gewünschte Maße bringen; Maschinen und Anlagen zur Holzbearbeitung einrichten und bedienen; Bauteile und Elemente montieren und Einzelteile verbinden; spezielle Oberflächeneffekte aufbringen</taetigkeitsbeschreibung>
+  <bezeichnung>Tischler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22342">Holz-, Möbel-, Innenausbau - Fachkraft</kldb>
+      <isco schluessel="7522">Cabinet-makers and related workers</isco>
+      <dkz codenr="22342-100" refid="4456">Betriebstischler/in</dkz>
+      <dkz codenr="22342-102" refid="4458">Tischler/in</dkz>
+      <dkz codenr="22342-120" refid="15035">Bildeinrahmer/in</dkz>
+      <dkz codenr="22342-112" refid="4494">Holzmechaniker/in - Sitzmöbel- und Gestellindustrie</dkz>
+      <dkz codenr="22342-108" refid="4486">Holzmechaniker/in - Möbel-,Gehäuse-,Innenausb.,Ladenbauind.</dkz>
+      <dkz codenr="22342-136" refid="35218">Kundenberater/in - Tischlerhandwerk</dkz>
+      <dkz codenr="22342-137" refid="35270">Holzmechaniker/in - Möbelbau und Innenausbau</dkz>
+      <dkz codenr="22342-138" refid="35272">Holzmechaniker/in - Bauelemente, Holzpackmittel und Rahmen</dkz>
+      <dkz codenr="22342-103" refid="4474">Ausstellungstischler/in</dkz>
+      <dkz codenr="22342-107" refid="4483">Tischler/in und Glaser/in</dkz>
+      <dkz codenr="22342-135" refid="34984">Fachkraft - Möbel-, Küchen- und Umzugsservice</dkz>
+      <dkz codenr="22342-110" refid="4488">Kunsttischler/in</dkz>
+      <dkz codenr="22342-118" refid="4630">Oberflächenbearbeiter/in (Tischlerei)</dkz>
+      <dkz codenr="22342-119" refid="4634">Furnierer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5193">Holzbearbeitungsmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5197">Sägewerker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5198">Holzmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5292">Zimmerer/Zimmerin</abgrenzung>
+  <abgrenzung typ="hoch" refid="5293">Bautischler/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,16 @@
+<kategorie>
+  <id>9097</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Produktionsprozessen in Mühlen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rohstoffe für Mahl-, Schäl- und Futtermittelmaschinen einkaufen; Produktionsabläufe planen, organisieren und überwachen; Qualitätskontrollen an den gemahlenen oder geschälten Endprodukten durchführen; an der Produktentwicklung und -verbesserung mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Müllereitechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29213">Berufe in der Mühlenprodukt- und Futtermittelherstellung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3116">Chemical engineering technicians</isco>
+      <dkz codenr="29213-100" refid="90675">Techniker/in - Müllereitechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9096">Mühlenfacharbeiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9076">Leiter/in - Lebensmittelindustrie</abgrenzung>
+  <abgrenzung typ="mittel" refid="9062">Bäckereitechniker/in</abgrenzung>
+</kategorie>

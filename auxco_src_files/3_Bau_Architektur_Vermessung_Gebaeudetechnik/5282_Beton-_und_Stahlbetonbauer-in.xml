@@ -1,0 +1,37 @@
+<kategorie>
+  <id>5282</id>
+  <taetigkeit>Herstellung und Montage von Betonkonstruktionen und Stahlkonstruktionen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Stahlbetonböden, -wände, -tanks und -silos errichten und reparieren; Systemschalungen für Bauteile aus Beton und Stahlbeton herstellen; Betonstabstahl messen, schneiden, biegen und flechten; Fertigbetonbauteile herstellen und montieren; Betonschäden an Bauwerken beheben; Betonmischer oder Vibrationsstampfer bedienen, pflegen und warten; Qualität der ausgeführten Arbeiten kontrollieren</taetigkeitsbeschreibung>
+  <bezeichnung>Beton- und Stahlbetonbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32112">Berufe im Beton- und Stahlbetonbau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7114">Concrete placers, concrete finishers and related workers</isco>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Ist Ihre Tätigkeit hauptsächlich körperliche Arbeit unter Verwendung von Baumaschinen oder beschäftigen Sie sich hauptsächlich mit der Planung und Koordination von Baumaßnahmen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War Ihre Tätigkeit hauptsächlich körperliche Arbeit unter Verwendung von Baumaschinen oder haben Sie sich hauptsächlich mit der Planung und Koordination von Baumaßnahmen beschäftigt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>körperliche Arbeit unter Verwendung von Maschinen</text>
+      <kldb schluessel="32112">Berufe im Beton- und Stahlbetonbau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7114">Concrete placers, concrete finishers and related workers</isco>
+      <dkz codenr="32112-100" refid="3979">Beton- und Stahlbetonbauer/in</dkz>
+      <dkz codenr="32112-101" refid="3983">Einschaler/in</dkz>
+      <dkz codenr="32112-104" refid="3987">Betonstahlbieger/in und -flechter/in</dkz>
+      <dkz codenr="32112-107" refid="3993">Betonfertigteilemontierer/in</dkz>
+      <dkz codenr="32112-108" refid="3998">Betonsanierer/in</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Planung und Koordination der Baumaßnahmen</text>
+      <kldb schluessel="32113">Beton- und Stahlbetonbau - Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians </isco>
+      <dkz codenr="32113-100" refid="5637">Techniker/in - Bautechnik (Betonbau)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1854">Bauhelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5350">Hochbauarbeiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9214">Arbeiter/in bei Herstellung von Baustoffen</abgrenzung>
+  <abgrenzung typ="mittel" refid="5264">Feuerungs- und Schornsteinbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5262">Maurer/in</abgrenzung>
+</kategorie>

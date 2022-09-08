@@ -1,0 +1,15 @@
+<kategorie>
+  <id>8049</id>
+  <taetigkeit>Vermittlung von Erste-Hilfe-Kenntnissen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. theoretischen und praktischen Unterricht durchführen; Verhaltensregeln bei Knochenbrüchen, Verbrennungen oder Vergiftungen erläutern; die stabile Seitenlage und Herz-Lungen-Wiederbelebung mit den Kursteilnehmern an Modellpuppen üben; Unterrichtsmaterialien zusammenstellen; Teilnahmebescheinigungen ausstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Erstehilfelehrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84483">Lehrkr.außerschul.Bild.(ssT)-Spezialist</kldb>
+      <isco schluessel="3258">Ambulance workers</isco>
+      <dkz codenr="84483-110" refid="27468">Ausbilder/in - Erste Hilfe/Lebensrettende Sofortmaßnahmen</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7053">Diabetesassistent/in </abgrenzung>
+  <abgrenzung typ="mittel" refid="8034">Berufsschullehrer/in</abgrenzung>
+</kategorie>

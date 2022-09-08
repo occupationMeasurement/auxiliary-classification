@@ -1,0 +1,31 @@
+<kategorie>
+  <id>8062</id>
+  <taetigkeit>Durchführung hauswirtschaftlicher Tätigkeiten in sozialen und gewerblichen Einrichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Haushaltsbudget planen und überwachen; Speisepläne erstellen; Lebensmittel organisieren; kleine Verletzungen versorgen; Pflanzen gießen; Reinigung der Wäsche erledigen; gesetzliche Vorschriften überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Hauswirtschafter/in in sozialen und gewerblichen Einrichtungen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83212">Hauswirtschaft - Fachkraft</kldb>
+      <isco schluessel="5151">Cleaning and housekeeping supervisors in offices, hotels and other establishments</isco>
+      <dkz codenr="83212-111" refid="14604">Hauswirtschafter/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Wird für die Ausübung Ihrer Tätigkeit eine abgeschlossene Weiterbildung im Bereich der Hauswirtschaft vorausgesetzt?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für die Ausübung Ihrer Tätigkeit eine abgeschlossene Weiterbildung im Bereich der Hauswirtschaft vorausgesetzt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="83213">Hauswirtschaft - Spezialist</kldb>
+      <isco schluessel="5152">Domestic housekeepers</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="83212">Hauswirtschaft - Fachkraft</kldb>
+      <isco schluessel="5151">Cleaning and housekeeping supervisors in offices, hotels and other establishments</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8017">Hauswirtschaftsleiter/in für Privathaushalte</abgrenzung>
+  <abgrenzung typ="hoch" refid="8013">Haushaltshilfe</abgrenzung>
+  <abgrenzung typ="mittel" refid="9079">Koch/Köchin</abgrenzung>
+  <abgrenzung typ="mittel" refid="9088">Küchenchef/in</abgrenzung>
+</kategorie>

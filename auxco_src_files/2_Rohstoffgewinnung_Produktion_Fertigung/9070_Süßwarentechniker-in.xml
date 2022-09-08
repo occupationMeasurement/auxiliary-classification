@@ -1,0 +1,15 @@
+<kategorie>
+  <id>9070</id>
+  <taetigkeit>Planung, Koordination und Optimierung der industriellen Herstellung von Süßwaren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Probenentnahme und -untersuchung von Roh- und Halbrohstoffen wie z.B. Kakao, Mandeln, Zucker, Eiern und Milch; Produktionsabläufe planen, organisieren und überwachen; Betriebsbereitschaft von Produktionsanlagen sicherstellen und Wartungen durchführen; Qualitätskontrollen durchführen und dabei Produkte chemisch, physikalisch und mikrobiologisch untersuchen; neue Produkte mitentwickeln; kaufmännisch-organisatorische Aufgaben wahrnehmen; Bedarfsanalysen durchführen; Produktangebote dem Markt anpassen</taetigkeitsbeschreibung>
+  <bezeichnung>Süßwarentechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29263">Süßwarenherstellung - Spezialist</kldb>
+      <isco schluessel="3116">Chemical engineering technicians</isco>
+      <dkz codenr="29263-102" refid="90795">Süßwarentechniker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9069">Süßwarenfacharbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9076">Leiter/in - Lebensmittelindustrie</abgrenzung>
+</kategorie>

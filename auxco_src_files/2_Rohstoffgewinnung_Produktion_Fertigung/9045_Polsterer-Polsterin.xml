@@ -1,0 +1,19 @@
+<kategorie>
+  <id>9045</id>
+  <taetigkeit>Fertigung von Polstermöbeln, Matratzen, Kissen und Decken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Materialbedarf ermitteln; Füll-, Werk- und Hilfsstoffe auswählen; Modelle, Schablonen und Formteile herstellen; Formteile zuschneiden; Schablonen feststecken, einzeichnen und Schnittkonturen fixieren; Unterfederung und Federkerne anbringen; Fasson und Pikierung herstellen; Bezugs-, Spannteile und abnehmbare Bezüge nähen; Formteile, Unterfederungen oder Matratzen beziehen; Polsterelemente zu Polstermöbeln zusammensetzen; Rollen oder Drehfüße montieren und Verzierungsarbeiten ausführen; Dekorationsstoffe zuschneiden; Gardinen, Vorhänge oder ähnliche Produkte nähen; Qualitätsvorgaben berücksichtigen und betriebliche Richtlinien des Qualitätsmanagements umsetzen; an Qualitätsverbesserungsprozessen mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Polsterer/Polsterin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28242">Polsterei,Fahrzeuginnenausstat-Fachkraft</kldb>
+      <isco schluessel="7534">Upholsterers and related workers</isco>
+      <dkz codenr="28242-104" refid="4439">Matratzenhersteller/in</dkz>
+      <dkz codenr="28242-107" refid="4448">Vorpolsterer/-polsterin (Polstermöbelindustrie)</dkz>
+      <dkz codenr="28242-101" refid="4431">Polsterer/Polsterin</dkz>
+      <dkz codenr="28242-102" refid="4434">Möbelpolsterer/-polsterin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9046">Leiter/in - Textilverarbeitung</abgrenzung>
+  <abgrenzung typ="mittel" refid="9094">Technische/r Konfektionär/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9020">Textilverarbeitungshelfer/in</abgrenzung>
+</kategorie>

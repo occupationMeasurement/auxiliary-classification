@@ -1,0 +1,16 @@
+<kategorie>
+  <id>1010</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten in der Ernte und im Ackerbau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. kleine Reparaturen durchführen; Erzeugnisse entladen; Felder bestellen und bearbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Acker- und Erntehelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11101">Berufe in der Landwirtschaft (o.S.) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9211">Crop farm labourers</isco>
+      <dkz codenr="11101-107" refid="501">Helfer/in - Landwirtschaft</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1011">Helfer/in - Tierwirtschaft und im Ackerbau</abgrenzung>
+  <abgrenzung typ="mittel" refid="1012">Landwirt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1013">Ackerwirt/in</abgrenzung>
+</kategorie>

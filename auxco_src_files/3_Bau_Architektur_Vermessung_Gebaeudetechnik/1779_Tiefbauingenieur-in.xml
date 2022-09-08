@@ -1,0 +1,30 @@
+<kategorie>
+  <id>1779</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Bauarbeiten im Tiefbau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. an der Konzeption von öffentlichen Tiefbaumaßnahmen mitwirken; Bauvorhaben im Tiefbau entwerfen und planen; Baustellen vorbereiten, leiten und überwachen; baureife Ausführungszeichnungen sowie Detailpläne erstellen; Proben von Bau- und Hilfsstoffen entnehmen und die Ergebnisse bewerten; Baugenehmigungsverfahren einleiten und Baugenehmigungen einholen; bauphysikalische Berechnungen und Vermessungsarbeiten durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Tiefbauingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32203">Berufe im Tiefbau (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Bauingenieurwesen oder Architektur erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Bauingenieurwesen oder Architektur erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="32204">Tiefbau (o.S.) - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="32204-103" refid="59339">Tiefbauingenieur/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="32203">Tiefbau (o.S.) - Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="32203-100" refid="5668">Techniker/in - Bautechnik (Tiefbau)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5301">Vorarbeiter/in- Tiefbau</abgrenzung>
+  <abgrenzung typ="hoch" refid="1754">Tunnelbautechniker/in</abgrenzung>
+</kategorie>

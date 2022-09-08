@@ -1,0 +1,52 @@
+<kategorie>
+  <id>7009</id>
+  <taetigkeit>Untersuchung von Körperflüssigkeiten und Körpergewebe im medizinisch-technischen Laboratorium</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Proben von Blut, Urin, Sekreten und Magensaft entnehmen; Gewebepräparate herstellen und mikroskopisch untersuchen; Tests und Messungen an den Proben durchführen und diese auf Beschaffenheit oder auf mögliche Krankheitserreger kontrollieren; Ergebnisse auswerten und dokumentieren; Geräte und Instrumente sterilisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Medizinisch-technische/r Laboratoriumsassistent/in (MTLA)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81212">Medizinisch-technische Berufe im Laboratorium - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3212">Medical and pathology laboratory technicians</isco>
+      <dkz codenr="81212-100" refid="8955">Medizin Laborant/in</dkz>
+      <dkz codenr="81212-103" refid="8959">Medizinisch-technische/r Laboratoriumsassistent/in</dkz>
+      <dkz codenr="81212-105" refid="9012">Zytologieassistent/in</dkz>
+      <dkz codenr="81213-108" refid="58482">Biomed. Fachanalytiker/in - Immunhämatolog.,Transfusionsmed.</dkz>
+      <dkz codenr="81213-109" refid="58484">Fachassistent/in - Virologie</dkz>
+      <dkz codenr="81213-110" refid="58486">Biomed. Fachanalytiker/in - Histologie</dkz>
+      <dkz codenr="81213-111" refid="58488">Biomed. Fachanalytiker/in - molekulare Biologie, Diagnostik</dkz>
+      <dkz codenr="81213-100" refid="8960">Biomed. Fachanalytiker/in - klinische Chemie, Pathobiochemie</dkz>
+      <dkz codenr="81213-101" refid="8997">Fachassistent/in - Mikrobiologie</dkz>
+      <dkz codenr="81213-102" refid="8998">Biomed. Fachanalytiker/in - Hämatologie</dkz>
+      <dkz codenr="81213-112" refid="93348">Biomed. Fachanalytiker/in -med. Mikrobio., Virolog., Hygiene</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine Weiterbildung als biomedizinische/r Fachanalytiker/in für Immunhämatologie und Transfusionsmedizin erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine Weiterbildung als biomedizinische/r Fachanalytiker/in für Immunhämatologie und Transfusionsmedizin erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="81212">Medizinisch-technische Berufe im Laboratorium - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3212">Medical and pathology laboratory technicians</isco>
+      <dkz codenr="81212-100" refid="8955">Medizin Laborant/in</dkz>
+      <dkz codenr="81212-103" refid="8959">Medizinisch-technische/r Laboratoriumsassistent/in</dkz>
+      <dkz codenr="81212-105" refid="9012">Zytologieassistent/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="81213">Medizinisch-technische Berufe im Laboratorium - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3212">Medical and pathology laboratory technicians</isco>
+      <dkz codenr="81213-108" refid="58482">Biomed. Fachanalytiker/in - Immunhämatolog.,Transfusionsmed.</dkz>
+      <dkz codenr="81213-109" refid="58484">Fachassistent/in - Virologie</dkz>
+      <dkz codenr="81213-110" refid="58486">Biomed. Fachanalytiker/in - Histologie</dkz>
+      <dkz codenr="81213-111" refid="58488">Biomed. Fachanalytiker/in - molekulare Biologie, Diagnostik</dkz>
+      <dkz codenr="81213-100" refid="8960">Biomed. Fachanalytiker/in - klinische Chemie, Pathobiochemie</dkz>
+      <dkz codenr="81213-101" refid="8997">Fachassistent/in - Mikrobiologie</dkz>
+      <dkz codenr="81213-102" refid="8998">Biomed. Fachanalytiker/in - Hämatologie</dkz>
+      <dkz codenr="81213-112" refid="93348">Biomed. Fachanalytiker/in -med. Mikrobio., Virolog., Hygiene</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7016">Medizinisch-technische/r Laborleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7001">Arzthelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4001">Biologisch-Technische/r Assistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7010">Facharzt/-ärztin für Mikrobiologie</abgrenzung>
+</kategorie>

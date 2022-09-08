@@ -1,0 +1,36 @@
+<kategorie>
+  <id>7094</id>
+  <taetigkeit>Fertigung, Anpassung und Reparatur orthopädietechnischer Hilfsmittel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rezepte der Ärzte interpretieren; Patienten befragen und messen; Abgüsse oder Abdrücke von Gliedmaßen herstellen; orthopädische und prothetische Vorrichtungen mithilfe verschiedener Materialien herstellen; Prothesen und andere orthopädietechnische Hilfsmittel individuell anpassen; Patienten im Gebrauch schulen und Pflegehinweise geben</taetigkeitsbeschreibung>
+  <bezeichnung>Orthopädietechnik-Mechaniker/In</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82512">Berufe in der Orthopädie- und Rehatechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3214">Medical and dental prosthetic technicians</isco>
+      <dkz codenr="82512-102" refid="2424">Orthopädiemechaniker/in und Bandagist/in</dkz>
+      <dkz codenr="82512-111" refid="122347">Orthopädietechnik-Mechaniker/in</dkz>
+      <dkz codenr="82512-112" refid="122348">Orthopädietechnik-Mechaniker/in - Prothetik</dkz>
+      <dkz codenr="82512-113" refid="122349">Orthopädietechnik-Mechaniker/in - Individuelle Orthetik</dkz>
+      <dkz codenr="82512-114" refid="122350">Orthopädietechnik-Mechaniker/in - Individuelle Rehatechnik</dkz>
+      <dkz codenr="82513-106" refid="90871">Orthopädietechniker/in</dkz>
+      <dkz codenr="82513-103" refid="90724">Rehabilitationsmitteltechniker/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="82512">Berufe in der Orthopädie- und Rehatechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3214">Medical and dental prosthetic technicians</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="82513">Berufe in der Orthopädie- und Rehatechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3214">Medical and dental prosthetic technicians</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7096">Ingenieur/in - Orthopädie- und Rehatechnik</abgrenzung>
+  <abgrenzung typ="hoch" refid="1830">Orthopädietechnikermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6039">Fachverkäufer/in - Sanitäts- und Medizinbedarf</abgrenzung>
+</kategorie>

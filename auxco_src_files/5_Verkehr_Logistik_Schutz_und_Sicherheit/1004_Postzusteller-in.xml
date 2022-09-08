@@ -1,0 +1,38 @@
+<kategorie>
+  <id>1004</id>
+  <taetigkeit>Zustellung von Postsendungen, Paketen oder Zeitungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Sendungen vom Kunden abholen; Post im Verteilzentrum sortieren; Transport vorbereiten; Zustellung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Postzusteller/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51321">Berufe für Post- und Zustelldienste - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9621">Messengers, package deliverers and luggage porters</isco>
+      <dkz codenr="51321-108" refid="58538">Helfer/in - Kurier-, Zustell- und Postdienstleistungen</dkz>
+      <dkz codenr="51322-109" refid="35154">Postjungbot(e/in)</dkz>
+      <dkz codenr="51322-102" refid="7370">Postabfertiger/in</dkz>
+      <dkz codenr="51322-103" refid="7371">Dienstleistungsfachkraft - Postbetrieb</dkz>
+      <dkz codenr="51322-104" refid="7372">Fachkraft - Brief- und Frachtverkehr</dkz>
+      <dkz codenr="51322-108" refid="33363">Fachkraft - Kurier-, Express- und Postdienstleistungen</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine abgeschlossene Berufsausbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine abgeschlossene Berufsausbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Ja</text>
+      <kldb schluessel="51322">Berufe für Post- und Zustelldienste - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="4412">Mail carriers and sorting clerks</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="1">
+      <text>Nein</text>
+      <kldb schluessel="51321">Berufe für Post- und Zustelldienste - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9621">Messengers, package deliverers and luggage porters</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5037">Kaufmann/-frau - Kurier-, Express- u. Postdienstleistungen</abgrenzung>
+  <abgrenzung typ="hoch" refid="5045">Lieferwagenfahrer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5171">Fahrradkurier/in bzw. Handwagenkurier/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5172">Kraftradkurier/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1005">Lagerleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1006">Verladeaufseher/in</abgrenzung>
+</kategorie>

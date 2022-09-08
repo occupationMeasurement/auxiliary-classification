@@ -1,0 +1,35 @@
+<kategorie>
+  <id>1835</id>
+  <taetigkeit>Planung, Durchführung und Dokumentation der Ergebnisse von archäologischen Ausgrabungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Genehmigungen für archäologische Grabungen einholen; Maschineneinsatz planen; Ausrüstung vorbereiten; Grabungstechniken auswählen; Funde bergen und Transport vorbereiten; Lektüre- und Recherchearbeiten zur Einordnung von Fundstücken; Interpretation der Fundstücke; Denkmäler erhalten; Forschungsergebnisse veröffentlichen</taetigkeitsbeschreibung>
+  <bezeichnung>Techniker/in - Grabungstechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="91233">Berufe in der Archäologie - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Archäologie erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Archäologie erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="91234">Berufe in der Archäologie  - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2632">Sociologists, anthropologists and related professionals</isco>
+      <dkz codenr="91234-105" refid="58573">Archäologe/Archäologin</dkz>
+      <dkz codenr="91234-106" refid="59305">Industrie-Archäologe/-Archäologin</dkz>
+      <dkz codenr="91234-108" refid="100535">Altertumswissenschaftler/in</dkz>
+      <dkz codenr="91234-107" refid="100542">Grabungsleiter/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="91233">Berufe in der Archäologie - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="91233-100" refid="6064">Techniker/in - Grabungstechnik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1797">Geologielaborant/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1102">Historiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8037">Dozent/in / Professor/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1300">Kurator/in / Museologe/in</abgrenzung>
+</kategorie>

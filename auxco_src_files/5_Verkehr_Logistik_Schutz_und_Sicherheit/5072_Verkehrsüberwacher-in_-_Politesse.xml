@@ -1,0 +1,16 @@
+<kategorie>
+  <id>5072</id>
+  <taetigkeit>Kontrolle der Einhaltung von Halteverboten und Dokumentation von Parkzeitüberschreitungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. überprüfen, ob Halteverbotsregelungen eingehalten werden; Parkzeiten kontrollieren; Verwarnungen und Strafmandate ausstellen; Autofahrer über die Rechtslage informieren; Polizei und Abschleppdienst verständigen</taetigkeitsbeschreibung>
+  <bezeichnung>Verkehrsüberwacher/in / Politesse</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53182">Obj.Pers.Brandschutz (ssT)-Fachkraft</kldb>
+      <isco schluessel="5419">Protective services workers not elsewhere classified</isco>
+      <dkz codenr="53182-102" refid="14694">Verkehrsüberwacher/in / Hilfspolizist/in (nicht Beamte)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5073">Diensthundführer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5061">Sicherheitsdienstmitarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5078">Polizeivollzugsbeamter/-beamtin</abgrenzung>
+</kategorie>

@@ -1,0 +1,21 @@
+<kategorie>
+  <id>6070</id>
+  <taetigkeit>Erteilung von Auskünften an Hotelrezeptionen sowie die Durchführung von Servicedienstleistungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gäste beim Check-in und Check-out betreuen; ankommende Gäste registrieren; Zimmer zuteilen und Zimmerschlüssel ausgeben; Zimmerbelegungspläne führen; Kunden über die Verfügbarkeit von Zimmern informieren; Reservierungen vornehmen; Gäste über Essenszeiten, die Minibar, Ausflugsmöglichkeiten sowie andere Angebote und Dienstleistungen informieren; Fragen der Gäste beantworten; Beschwerden entgegennehmen und Lösungen finden; Nachrichten persönlich, per Telefon und Post entgegennehmen und weiterleiten; Rechnungen erstellen und Zahlungen entgegennehmen; die Kostenaufstellung überprüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Rezeptionist/in - Hotel</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63222">Hotelservice - Fachkraft</kldb>
+      <isco schluessel="4224">Hotel receptionists</isco>
+      <dkz codenr="63222-110" refid="14469">Empfangskraft</dkz>
+      <dkz codenr="63222-100" refid="10006">Hotelfachmann/-frau</dkz>
+      <dkz codenr="63222-103" refid="10016">Night-Auditor</dkz>
+      <dkz codenr="63222-104" refid="10017">Reservierungssachbearbeiter/in (Hotel)</dkz>
+      <dkz codenr="63222-105" refid="10018">Empfangsmitarbeiter/in (Hotel)</dkz>
+      <dkz codenr="63222-108" refid="10094">Nachtportier (Gaststätte, Hotel)</dkz>
+      <dkz codenr="63222-109" refid="10095">Portier (Gaststätte, Hotel)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6083">Hotelpage</abgrenzung>
+  <abgrenzung typ="mittel" refid="6077">Zimmermädchen/ Roomboy</abgrenzung>
+</kategorie>

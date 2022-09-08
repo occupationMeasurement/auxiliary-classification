@@ -1,0 +1,20 @@
+<kategorie>
+  <id>4243</id>
+  <taetigkeit>Planung, Steuerung und Überwachung von technischen Maßnahmen im Umweltschutz sowie Prüfung umweltrechtlicher Sachverhalte</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Genehmigungsanträge bearbeiten, beurteilen und Entscheidungen treffen; Bauprojekte im Hinblick auf Umweltverträglichkeit und Auswirkungen kontrollieren und genehmigen; Industrieanlagen, Abwasseranlagen oder Deponien regelmäßig kontrollieren; gesetzliche Grundlagen zum Umweltschutz durchsetzen; Lösungsvorschläge und Konzepte zur Vermeidung von Abfällen entwickeln; Gutachten verfassen</taetigkeitsbeschreibung>
+  <bezeichnung>Beamt(er/in) - Umweltverwaltung (höh. techn. Dienst)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42314">Umweltschutzverwaltung,-beratung-Experte</kldb>
+      <isco schluessel="2143">Environmental engineers</isco>
+      <dkz codenr="42314-111" refid="35302">Beamt(er/in) - Umweltverwaltung (höh. techn. Dienst)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4249">Leiter/in – Sachverständigenbüro für Umweltfragen</abgrenzung>
+  <abgrenzung typ="hoch" refid="4254">Energieberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4255">Abfall- und Umweltberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1799">Umweltschutzingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4004">Biologe/Biologin, Fachgebiet Ökologie</abgrenzung>
+  <abgrenzung typ="hoch" refid="4242">Umweltschutzbeauftragte/r</abgrenzung>
+  <abgrenzung typ="hoch" refid="4700">Klimaschutzmanager/in</abgrenzung>
+</kategorie>

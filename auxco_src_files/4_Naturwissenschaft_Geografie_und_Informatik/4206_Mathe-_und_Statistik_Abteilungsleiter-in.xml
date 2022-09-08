@@ -1,0 +1,14 @@
+<kategorie>
+  <id>4206</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in einer Mathematik- oder Statistikabteilung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bereitgestellte Dienstleistungen, wie z.B, Statistik- und Methodenberichte, evaluieren und ihre Aktualität gewährleisten; Arbeitsabläufe im Unternehmen planen und überwachen; Budgetplanung vornehmen; Schulung und Leistung der Mitarbeiter überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Mathe- und Statistik Abteilungsleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41194">Führung - Mathematik und Statistik</kldb>
+      <isco schluessel="1349">Professional services managers not elsewhere classified</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1788">Mathematiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4202">Statistiker/in</abgrenzung>
+</kategorie>

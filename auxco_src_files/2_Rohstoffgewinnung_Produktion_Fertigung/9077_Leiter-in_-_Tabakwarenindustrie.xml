@@ -1,0 +1,45 @@
+<kategorie>
+  <id>9077</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Herstellung von Tabakwaren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Tabakwarenproduktion planen und überwachen; Produktionsziele und Wirtschaftlichkeit sicherstellen; Qualitätsprüfungen sicherstellen, optimieren und durchführen; bei Investitionen und Auswahl der Betriebsmittel mitentscheiden; Wartung, Instandhaltung, Inbetriebnahme von Anlagen und Einhaltung der Sicherheitsvorschriften gewährleisten; Arbeitskräfteeinsatz planen; Schulungen und Weiterbildungen für Mitarbeiter und den betrieblichen Teil der Ausbildung organisieren und durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - Tabakwarenindustrie</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29293">Aufsicht - Lebens-,Genussmittelherstellung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="29293-100" refid="3625">Bäckermeister/in</dkz>
+      <dkz codenr="29293-101" refid="3653">Konditormeister/in</dkz>
+      <dkz codenr="29293-102" refid="3671">Fleischermeister/in</dkz>
+      <dkz codenr="29293-104" refid="3856">Molkereimeister/in</dkz>
+      <dkz codenr="29293-105" refid="3879">Müllermeister/in</dkz>
+      <dkz codenr="29293-110" refid="6127">Industriemeister/in - Lebensmittel</dkz>
+      <dkz codenr="29293-111" refid="6128">Industriemeister/in - Süßwaren</dkz>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="29294">Führung - Lebens-,Genussmittelherstellung</kldb>
+      <isco schluessel="1321">Manufacturing managers</isco>
+      <dkz codenr="29294-100" refid="90821">Molkereileiter/in</dkz>
+      <dkz codenr="29294-101" refid="90830">Leiter/in - Konservenherstellung</dkz>
+      <dkz codenr="29294-102" refid="90848">Backstubenleiter/in</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="29293">Aufsicht - Lebens-,Genussmittelherstellung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="29293-100" refid="3625">Bäckermeister/in</dkz>
+      <dkz codenr="29293-101" refid="3653">Konditormeister/in</dkz>
+      <dkz codenr="29293-102" refid="3671">Fleischermeister/in</dkz>
+      <dkz codenr="29293-104" refid="3856">Molkereimeister/in</dkz>
+      <dkz codenr="29293-105" refid="3879">Müllermeister/in</dkz>
+      <dkz codenr="29293-110" refid="6127">Industriemeister/in - Lebensmittel</dkz>
+      <dkz codenr="29293-111" refid="6128">Industriemeister/in - Süßwaren</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9068">Molkereitechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9005">Getränkeproduktionsleiter/in</abgrenzung>
+</kategorie>

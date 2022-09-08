@@ -1,0 +1,81 @@
+<kategorie>
+  <id>5246</id>
+  <taetigkeit>Planung und Überwachung des Baus von Gebäuden und Bauwerken aus ingenieurtechnischer Perspektive</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Zeichnungen per Hand oder mithilfe von CAD-Anwendungen anfertigen; Bauwerke und bauliche Anlagen statisch, bauphysikalisch und hydromechanisch berechnen und entwerfen; die Herstellung von Bauindustrieprodukten organisieren; die Bauausführung überwachen und dabei auf die qualitäts- und zeitgerechte Ausführung achten; Baumethoden, Materialien und Qualitätsstandards festlegen; die Einhaltung von behördlichen Vorschriften im Rahmen von Bauprojekten überwachen; Leistungen abrechnen und Rechnungen erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Bauingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="31104">Bauplanung, -überwachung (oS) - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="31104-106" refid="27849">Beamt(er/in) - Höherer bautechnischer Dienst</dkz>
+      <dkz codenr="31104-115" refid="58576">Ingenieur/in - Bau</dkz>
+      <dkz codenr="31104-117" refid="59333">Ingenieur/in - Bau (Bauinformatik)</dkz>
+      <dkz codenr="31194-102" refid="5626">Bauleiter/in</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>Arbeiten Sie hauptsächlich an Projekten im Hochbau, im Tiefbau oder an Projekten im Hoch- und Tiefbau gleichermaßen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie hauptsächlich an Projekten im Hochbau, im Tiefbau oder an Projekten im Hoch- und Tiefbau gleichermaßen gearbeitet?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Verkehrswege und Verkehrsanlagen planen</text>
+      <kldb schluessel="31134">Bauplan. Verkehrswege,-anlagen - Experte</kldb>
+      <isco schluessel="2164">Town and traffic planners</isco>
+      <dkz codenr="31134-105" refid="59341">Verkehrsbauingenieur/in</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>wasserwirtschaftliche Anlagen planen</text>
+      <kldb schluessel="31144">Berufe in der Wasserwirtschaft - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+    </antwort>
+    <antwort position="3">
+      <text>im Hochbau Bauarbeiten an Gebäuden planen und überwachen</text>
+      <kldb schluessel="32104">Hochbau (o.S.) - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="32104-103" refid="59335">Hochbauingenieur/in</dkz>
+    </antwort>
+    <antwort position="4">
+      <text>im Tiefbau Bauarbeiten an Straßen überwachen</text>
+      <kldb schluessel="32224">Straßen- und Asphaltbau - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="32224-101" refid="90857">Straßenbauingenieur/in</dkz>
+      <dkz codenr="32224-100" refid="90808">Wegebauingenieur/in</dkz>
+    </antwort>
+    <antwort position="5">
+      <text>im Tiefbau Bauarbeiten an Wasserstraßen und Wasserbauwerken überwachen</text>
+      <kldb schluessel="32264">Kultur- und Wasserbau - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+    </antwort>
+    <antwort position="6">
+      <text>im Tiefbau Bauarbeiten verschiedener Art überwachen</text>
+      <kldb schluessel="32204">Tiefbau (o.S.) - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="32204-103" refid="59339">Tiefbauingenieur/in</dkz>
+    </antwort>
+    <antwort position="7">
+      <text>im Hoch- und Tiefbau Bauarbeiten verschiedener Art planen und überwachen</text>
+      <kldb schluessel="31104">Bauplanung, -überwachung (oS) - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="31104-106" refid="27849">Beamt(er/in) - Höherer bautechnischer Dienst</dkz>
+      <dkz codenr="31104-115" refid="58576">Ingenieur/in - Bau</dkz>
+      <dkz codenr="31104-117" refid="59333">Ingenieur/in - Bau (Bauinformatik)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1776">Verkehrswegeplaner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5279">Ingenieur/in - Stadt- und Regionalplanung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1779">Tiefbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1746">Betriebs- und Verkehrstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5337">Ver- und Entsorger/in - Wasserversorgung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1785">Wasserwerksingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5275">Kanalbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5278">Bodenkulturbauarbeiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1781">Wasserbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1775">Bautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5402">Baukalkulator/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1778">Hochbauingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5252">Architekt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5400">Polier/in im Hochbau</abgrenzung>
+  <abgrenzung typ="mittel" refid="5301">Vorarbeiter/in- Tiefbau</abgrenzung>
+  <abgrenzung typ="mittel" refid="5351">Statiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5257">Leiter/in - Bauplanung</abgrenzung>
+  <abgrenzung typ="mittel" refid="5254">Bausachverständiger/in</abgrenzung>
+</kategorie>

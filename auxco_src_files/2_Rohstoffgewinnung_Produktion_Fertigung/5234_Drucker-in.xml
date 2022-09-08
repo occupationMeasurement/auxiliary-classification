@@ -1,0 +1,47 @@
+<kategorie>
+  <id>5234</id>
+  <taetigkeit>Herstellung von Druckerzeugnissen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Druckerzeugnisse auf Digital-, Flach-, Hoch- und Tiefdruckmaschinen herstellen; Farben über Pumpsysteme zuführen; Andrucke und Farbskalen erstellen; Farben und Farbtöne mit den jeweiligen Vorlagen abstimmen; Druckformen für Flexo- und Buchdruck sowie Druckplatten und Druckzylinder bereitstellen; Qualitätskontrollen durchführen; Vorrichtungen zum Stanzen, Perforieren, Prägen und Nummerieren einbauen; für den störungsfreien Lauf von Druckmaschinen, elektronischen Regel- und Steuerelementen und Farbsteuereinrichtungen sorgen</taetigkeitsbeschreibung>
+  <bezeichnung>Drucker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23411">Drucktechnik - Helfer</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="23411-101" refid="1497">Helfer/in - Druck</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine abgeschlossene Berufsausbildung im Bereich Druck erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine abgeschlossene Berufsausbildung im Bereich Druck erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Ja</text>
+      <kldb schluessel="23412">Drucktechnik - Fachkraft</kldb>
+      <isco schluessel="7322">Printers</isco>
+      <dkz codenr="23412-100" refid="1324">Stahlstichpräger/in</dkz>
+      <dkz codenr="23412-101" refid="1328">Papierpräger/in</dkz>
+      <dkz codenr="23412-106" refid="1419">Buchdrucker/in</dkz>
+      <dkz codenr="23412-141" refid="14395">Drucker/in - Hochdruck</dkz>
+      <dkz codenr="23412-108" refid="1429">Flexodrucker/in</dkz>
+      <dkz codenr="23412-139" refid="14391">Drucker/in - Digitaldruck</dkz>
+      <dkz codenr="23412-115" refid="1440">Rotationsdrucker/in</dkz>
+      <dkz codenr="23412-116" refid="1441">Steindrucker/in</dkz>
+      <dkz codenr="23412-142" refid="14397">Drucker/in - Flachdruck</dkz>
+      <dkz codenr="23412-140" refid="14393">Drucker/in - Tiefdruck</dkz>
+      <dkz codenr="23412-123" refid="1452">Foliendrucker/in</dkz>
+      <dkz codenr="23412-124" refid="1455">Spezialdrucker/in</dkz>
+      <dkz codenr="23412-125" refid="1457">Textildrucker/in</dkz>
+      <dkz codenr="23412-130" refid="1466">Siebdrucker/in</dkz>
+      <dkz codenr="23412-132" refid="1475">Vervielfältiger/in</dkz>
+      <dkz codenr="23412-135" refid="1487">Kleinoffsetdrucker/in</dkz>
+      <dkz codenr="23412-154" refid="90581">Medientechnologe/-technologin Druck</dkz>
+      <dkz codenr="23412-155" refid="90583">Medientechnologe/-technologin Siebdruck</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="1">
+      <text>Nein</text>
+      <kldb schluessel="23411">Drucktechnik - Helfer</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="23411-101" refid="1497">Helfer/in - Druck</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1718">Techniker/in - Druck- und Medientechnik</abgrenzung>
+</kategorie>

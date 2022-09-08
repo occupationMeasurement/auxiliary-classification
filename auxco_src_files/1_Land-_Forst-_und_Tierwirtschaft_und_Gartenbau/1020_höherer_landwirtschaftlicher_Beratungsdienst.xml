@@ -1,0 +1,16 @@
+<kategorie>
+  <id>1020</id>
+  <taetigkeit>Beratung von Behörden, Unternehmen und Organisationen zu landwirtschaftlichen Themen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. ländliche Strukturentwicklungen und Förderprogramme planen; Gutachten zur landwirtschaftlichen Entwicklung erstellen; Unternehmen beraten; Lehrtätigkeit in Agrarwirtschaft wahrnehmen</taetigkeitsbeschreibung>
+  <bezeichnung>höherer landwirtschaftlicher Beratungsdienst</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11124">Landwirtschaftlicher Sachverständiger - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2132">Farming, forestry and fisheries advisers</isco>
+      <dkz codenr="11124-103" refid="15784">Beamt(er/in) - Höherer landwirtschaftlicher Dienst</dkz>
+      <dkz codenr="11124-100" refid="416">Geschäftsführer/in - Maschinen- und Betriebshilfering</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1018">Landwirtschaftliche/r Gutachter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4004">Biologe/Biologin, Fachgebiet Ökologie</abgrenzung>
+</kategorie>

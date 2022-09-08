@@ -1,0 +1,41 @@
+<kategorie>
+  <id>3214</id>
+  <taetigkeit>Übersetzung von gesprochenen und geschriebenen Texten in eine andere Sprache</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei Sitzungen und Konferenzen das gesprochene Wort übersetzen; Texte aller Art übersetzen, prüfen und bei Bedarf korrigieren; Gehörlosen durch Übersetzung in die Gebärdensprache assistieren</taetigkeitsbeschreibung>
+  <bezeichnung>Dolmetscher/in und Übersetzer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71423">Dolmetscher/innen und Übersetzer/innen - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+      <dkz codenr="71423-100" refid="8307">Wirtschaftsdolmetscher/in/-übersetzer/in</dkz>
+      <dkz codenr="71423-107" refid="35204">Schriftdolmetscher/in</dkz>
+      <dkz codenr="71424-101" refid="8302">Dolmetscher/in / Übersetzer/in</dkz>
+      <dkz codenr="71424-115" refid="59289">Gebärdensprachdolmetscher/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Welcher Art sind Ihre Übersetzungen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welcher Art waren Ihre Übersetzungen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>simultanes oder konsekutives Dolmetschen auf Basis einer entsprechenden Ausbildung</text>
+      <kldb schluessel="71424">Dolmetscher/innen und Übersetzer/innen - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Übersetzung von literarischen Texten oder anspruchsvollen Fachtexten auf Basis einer entsprechenden Ausbildung</text>
+      <kldb schluessel="71424">Dolmetscher/innen und Übersetzer/innen - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+    </antwort>
+    <antwort position="3">
+      <text>Live-Übersetzung in die Gebärdensprache zur Assistenz von Gehörlosen</text>
+      <kldb schluessel="71424">Dolmetscher/innen und Übersetzer/innen - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+    </antwort>
+    <antwort position="4">
+      <text>andere Übersetzungsleistungen</text>
+      <kldb schluessel="71423">Dolmetscher/innen und Übersetzer/innen - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3219">Fremdsprachenassistent/in</abgrenzung>
+</kategorie>

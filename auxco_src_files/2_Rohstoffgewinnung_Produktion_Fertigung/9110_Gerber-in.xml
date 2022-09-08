@@ -1,0 +1,41 @@
+<kategorie>
+  <id>9110</id>
+  <taetigkeit>Verarbeitung von Rohhäuten zu Leder mit handwerklichen Verfahren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Leder für die Schuhherstellung, Sattlerereien und Kürschneiereien herstellen; die Qualität der Rohwaren überprüfen; konservierte Häute im Rohwarenlager nach Art, Beschaffenheit, Qualität und Gewicht sortieren und Kategorien zuordnen; Rohhäute ggf. mithilfe von Maschinen reinigen, weichen, maschinell enthaaren, entfleischen, entfetten, zerteilen und zur Blöße verarbeiten; Blößen in Gruben, Gerbfässern oder -maschinen zu Leder weiterverarbeiten; Leder trocknen und durch Öle und chemische Lösungen konservieren; Leder durch Färben, Fetten, Prägen und Nachgerben veredeln</taetigkeitsbeschreibung>
+  <bezeichnung>Gerber/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28312">Lederherstellung - Fachkraft</kldb>
+      <isco schluessel="7535">Pelt dressers, tanners and fellmongers</isco>
+      <dkz codenr="28312-101" refid="3464">Gerber/in</dkz>
+      <dkz codenr="28312-111" refid="90021">Fachkraft - Lederverarbeitung</dkz>
+      <dkz codenr="28312-178" refid="126793">Fachkraft - Lederherstellung und Gerbereitechnik</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine vertiefende berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine vertiefende berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="28313">Lederherstellung - Spezialist</kldb>
+      <isco schluessel="7535">Pelt dressers, tanners and fellmongers</isco>
+      <dkz codenr="28313-102" refid="5913">Techniker/in - Ledertechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="28312">Lederherstellung - Fachkraft</kldb>
+      <isco schluessel="7535">Pelt dressers, tanners and fellmongers</isco>
+      <dkz codenr="28312-101" refid="3464">Gerber/in</dkz>
+      <dkz codenr="28312-111" refid="90021">Fachkraft - Lederverarbeitung</dkz>
+      <dkz codenr="28312-178" refid="126793">Fachkraft - Lederherstellung und Gerbereitechnik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9052">Schuhmacher/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9505">Bediener/in von Maschinen zur Schuhfertigung</abgrenzung>
+  <abgrenzung typ="hoch" refid="9039">Lederwarenhersteller/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9053">Pelzveredler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9506">Kürschner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9048">Lederverarbeitungshelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9504">Bediener/in von Lederzurichtungsmaschinen</abgrenzung>
+  <abgrenzung typ="hoch" refid="1742">Ledertechniker/in</abgrenzung>
+</kategorie>

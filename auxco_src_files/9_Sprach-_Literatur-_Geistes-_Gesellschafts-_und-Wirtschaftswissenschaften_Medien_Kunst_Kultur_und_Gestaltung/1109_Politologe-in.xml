@@ -1,0 +1,15 @@
+<kategorie>
+  <id>1109</id>
+  <taetigkeit>Erforschung politikwissenschaftlicher Fragestellungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. politische Systeme und Entscheidungen analysieren; politische Einstellungen und politisches Verhalten beobachten; Staatsbeziehungen und nationale Organisationen analysieren; mit politischen Theorien arbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Politologe/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="91314">Berufe in der Politologie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2633">Philosophers, historians and political scientists</isco>
+      <dkz codenr="91314-116" refid="58769">Politologe/Politologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8037">Dozent/in / Professor/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3546">Verwaltungswissenschaftler/in</abgrenzung>
+</kategorie>

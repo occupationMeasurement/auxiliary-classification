@@ -1,0 +1,35 @@
+<kategorie>
+  <id>1800</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in einem chemischen Produktionsbetrieb</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Arbeitsabläufe und Einhaltung von Terminen überwachen; Feinabstimmungen komplexer Fertigungsanlagen vornehmen; Einhaltung der Sicherheits-, Qualitäts- und Umweltschutzvorschriften überwachen; Kosten kalkulieren; Investitionen planen; Personaleinsatz und Einsatz von Betriebsmitteln steuern; Mitarbeiter führen und anleiten</taetigkeitsbeschreibung>
+  <bezeichnung>Produktionsleiter/in in der Chemie</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41393">Aufsicht - Chemie</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="41394">Führung - Chemie</kldb>
+      <isco schluessel="1321">Manufacturing Managers</isco>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="41393">Aufsicht - Chemie</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="41393-102" refid="6115">Industriemeister/in - Pharmazie</dkz>
+      <dkz codenr="41393-103" refid="6122">Industriemeister/in - Chemie</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1792">Laborleiter/in in der Chemie</abgrenzung>
+  <abgrenzung typ="hoch" refid="1791">Chemikant/in / Pharmakant/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4014">Chemische/r Laboratorium-Spezialist/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1789">Biologisch-Technische/r Laborleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1790">Chemiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4012">Ingenieur/in - Chemietechnik</abgrenzung>
+  <abgrenzung typ="hoch" refid="4015">Steuer(er/in) - chemische Verfahrensanlagen</abgrenzung>
+</kategorie>

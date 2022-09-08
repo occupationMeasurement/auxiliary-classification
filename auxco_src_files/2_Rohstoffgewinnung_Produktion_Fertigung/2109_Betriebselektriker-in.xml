@@ -1,0 +1,39 @@
+<kategorie>
+  <id>2109</id>
+  <taetigkeit>Montage, Überwachung und Optimierung der elektrischen Systeme sowie der elektrischen Schalt- und Steueranlagen in Industriebetrieben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. in Betriebs- und Produktionsstätten elektrische Anlagen und Anlagenbauteile montieren und reparieren; Verteiler-, Schalt- und Steuereinrichtungen montieren und installieren; elektrische Systeme nach Vorgaben programmieren, konfigurieren und prüfen; Stromleitungen anhand von Schaltplänen verlegen; Machbarkeitsstudien zum Bau von elektrischen Anlagen erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Betriebselektriker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26252">Berufe in der elektrischen Betriebstechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7412">Electrical mechanics and fitters</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="26253">Berufe in der elektrischen Betriebstechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3113">Electrical engineering technicians</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="26252">Berufe in der elektrischen Betriebstechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7412">Electrical mechanics and fitters</isco>
+      <dkz codenr="26252-120" refid="76432">Industrieelektriker/in - Betriebstechnik</dkz>
+      <dkz codenr="26252-117" refid="35112">Starkstromelektriker/in</dkz>
+      <dkz codenr="26252-102" refid="2772">Energieelektroniker/in - Anlagentechnik</dkz>
+      <dkz codenr="26252-116" refid="35074">Starkstrommonteur/in</dkz>
+      <dkz codenr="26252-105" refid="2788">Energieelektroniker/in - Betriebstechnik</dkz>
+      <dkz codenr="26252-114" refid="15624">Elektroniker/in - Betriebstechnik</dkz>
+      <dkz codenr="26252-106" refid="2793">Elektroniker/in - Betriebstechnik (Schalt- und Steueranl.)</dkz>
+      <dkz codenr="26252-119" refid="58995">Elektroniker/in - Prüffeld</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="2059">Maschinenschlosser/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1730">Elektrotechniker/in - Automatisierungstechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="2094">Mechatroniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1729">Mechatroniktechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2104">Kraftwerker/in</abgrenzung>
+</kategorie>

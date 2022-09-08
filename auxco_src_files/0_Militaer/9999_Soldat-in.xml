@@ -1,0 +1,57 @@
+<kategorie>
+  <id>9999</id>
+  <taetigkeit>Angehörige der regulären Streitkräfte</taetigkeit>
+  <taetigkeitsbeschreibung>Es gilt die militärische Disziplin und die Pflicht zum militärischen Gehorsam gegenüber Vorgesetzten.</taetigkeitsbeschreibung>
+  <bezeichnung>Soldat/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="01402">Angehörige der regulären Streitkräfte in sonstigen Rängen</kldb>
+      <isco schluessel="0310">Armed forces occupations, other ranks</isco>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Welchen Dienstgrad haben Sie?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welchen Dienstgrad hatten Sie?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>einen Mannschaftsdienstgrad</text>
+      <kldb schluessel="01402">Angehörige der regulären Streitkräfte in sonstigen Rängen</kldb>
+      <isco schluessel="0310">Armed forces occupations, other ranks</isco>
+      <dkz codenr="01402-101" refid="15474">Soldat/in auf Zeit - Laufbahngruppe Mannschaften</dkz>
+      <dkz codenr="01402-105" refid="93551">Freiwil. Wehrdienstleistende/r - Laufbahngruppe Mannschaften</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>einen Unteroffiziersdienstgrad ohne Portepee (z.B. Unteroffizier, Stabsunteroffizier)</text>
+      <kldb schluessel="01302">Unteroffiziere ohne Portepee</kldb>
+      <isco schluessel="0210">Non-commissioned armed forces officers</isco>
+      <dkz codenr="01302-102" refid="15333">Fachunteroffizier - Sanitätsdienst</dkz>
+      <dkz codenr="01302-104" refid="15337">Fachunteroffizier - Militärmusikdienst</dkz>
+      <dkz codenr="01302-103" refid="15335">Fachunteroffizier - Geoinformationsdienst</dkz>
+      <dkz codenr="01302-101" refid="15327">Fachunteroffizier - Allgemeiner Fachdienst</dkz>
+    </antwort>
+    <antwort position="3">
+      <text>einen Unteroffiziersdienstgrad mit Portepee (z.B. Feldwebel, Oberfeldwebel usw.)</text>
+      <kldb schluessel="01203">Unteroffiziere mit Portepee</kldb>
+      <isco schluessel="0210">Non-commissioned armed forces officers</isco>
+      <dkz codenr="01203-100" refid="15329">Feldwebel - Truppendienst</dkz>
+      <dkz codenr="01203-102" refid="15441">Feldwebel - Sanitätsdienst</dkz>
+      <dkz codenr="01203-103" refid="15443">Feldwebel - Militärmusikdienst</dkz>
+      <dkz codenr="01203-104" refid="15445">Feldwebel - Geoinformationsdienst</dkz>
+      <dkz codenr="01203-101" refid="15331">Feldwebel - Allgemeiner Fachdienst</dkz>
+    </antwort>
+    <antwort position="4">
+      <text>einen Offiziersdienstgrad bis einschließlich Hauptmann (z.B. Leutnant, Hauptmann)</text>
+      <kldb schluessel="01104">Offiziere</kldb>
+      <isco schluessel="0110">Commissioned armed forces officers</isco>
+      <dkz codenr="01104-102" refid="15341">Offizier - Truppendienst</dkz>
+      <dkz codenr="01104-104" refid="15345">Offizier - Sanitätsdienst</dkz>
+      <dkz codenr="01104-106" refid="15349">Offizier - Militärmusikdienst</dkz>
+      <dkz codenr="01104-105" refid="15347">Offizier - Geoinformationsdienst</dkz>
+      <dkz codenr="01104-101" refid="15339">Offizier - Militärfachlicher Dienst</dkz>
+    </antwort>
+    <antwort position="5">
+      <text>einen Offiziersdienstgrad ab Major</text>
+      <kldb schluessel="01104">Offiziere</kldb>
+      <isco schluessel="0110">Commissioned armed forces officers</isco>
+    </antwort>
+  </untergliederung>
+</kategorie>

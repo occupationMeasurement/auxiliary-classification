@@ -1,0 +1,17 @@
+<kategorie>
+  <id>6043</id>
+  <taetigkeit>Verkauf von Kunstobjekten und Antiquitäten im Einzelhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden über Epochen, Künstler oder Pflege und Restaurierungsmöglichkeiten der Objekte beraten; Objekte ausstellen und präsentieren; Marktwerte schätzen; Ware ersteigern, kaufen und weiterverkaufen; Werbe - und Informationsmaterialien auslegen; Zahlungsmittel entgegennehmen; Waren für den Transport vorbereiten; Lager- und Bestandslisten überwachen; Lieferungen veranlassen und verfolgen</taetigkeitsbeschreibung>
+  <bezeichnung>Kunst- und Antiquitätenhändler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62522">Kunst-, Antiquitätenhandel - Fachkraft</kldb>
+      <isco schluessel="5223">Shop sales assistants</isco>
+      <dkz codenr="62522-100" refid="6563">Kunst-, Antiquitätenhändler/in</dkz>
+      <dkz codenr="62522-103" refid="29385">Fachverkäufer/in - Kunst-/Antiquitätenhandel</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1305">Kunstsachverständige/r</abgrenzung>
+  <abgrenzung typ="mittel" refid="6009">Auktionator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6013">Einrichtungsfachverkäufer/in</abgrenzung>
+</kategorie>

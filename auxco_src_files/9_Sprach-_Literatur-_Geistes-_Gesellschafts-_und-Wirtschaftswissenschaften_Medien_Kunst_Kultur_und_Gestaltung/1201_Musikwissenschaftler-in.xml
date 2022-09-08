@@ -1,0 +1,16 @@
+<kategorie>
+  <id>1201</id>
+  <taetigkeit>Erforschung von musikwissenschaftlichen Fragestellungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Grundlagen, Erscheinungsform und Wirkungsweisen der Musik im kulturellen und historischen Kontext erforschen; Verständnis für Werke entwickeln</taetigkeitsbeschreibung>
+  <bezeichnung>Musikwissenschaftler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94114">Musiker/innen - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2633">Philosophers, historians and political scientists</isco>
+      <dkz codenr="94114-126" refid="59518">Musikwissenschaftler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="8041">Musiklehrer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1200">Musiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1204">Komponist/in</abgrenzung>
+</kategorie>

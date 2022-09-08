@@ -1,0 +1,17 @@
+<kategorie>
+  <id>5044</id>
+  <taetigkeit>Führen von Bussen oder Straßenbahnen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Busse oder Straßenbahnen im Netz des Unternehmens führen; Fahrscheine verkaufen; Unfallstellen absichern; Personaleinsatz planen</taetigkeitsbeschreibung>
+  <bezeichnung>Bus - bzw. Straßenbahnfahrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52132">Bus-, Straßenbahnfahrer/innen-Fachkraft</kldb>
+      <isco schluessel="8331">Bus and tram drivers</isco>
+      <dkz codenr="52132-106" refid="15084">Fachkraft - Fahrbetrieb</dkz>
+      <dkz codenr="52132-105" refid="7169">Busfahrer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5042">Kraftfahrer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5046">Lokführer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5043">U-Bahnfahrer/in</abgrenzung>
+</kategorie>

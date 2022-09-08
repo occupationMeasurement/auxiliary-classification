@@ -1,0 +1,17 @@
+<kategorie>
+  <id>6018</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Groß- und Außenhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Mitarbeiter führen und anleiten; ausländische Märkte beobachten; Absatzpotenzialanalysen für bestimmte Regionen erstellen; Budget festlegen und kontrollieren; Einkaufs- und Marketingrichtlinien formulieren und implementieren; neue Geschäftspartner/innen akquirieren; Exportprogramme und -wege gestalten; Standards bezüglich der Produktvielfalt und Lagerbestände festlegen</taetigkeitsbeschreibung>
+  <bezeichnung>Exportleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61294">Führung-Handel</kldb>
+      <isco schluessel="1420">Führungskräfte in Groß- und Einzelhandel</isco>
+      <dkz codenr="61294-100" refid="90841">Gebietsleiter/in - Außenwirtschaft</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1748">Handelsagent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="6012">Vertriebs- und Marketingmanager/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1750">Verkaufs- und Kassenaufsicht</abgrenzung>
+  <abgrenzung typ="mittel" refid="1749">internationale/r Handelsagent/in</abgrenzung>
+</kategorie>

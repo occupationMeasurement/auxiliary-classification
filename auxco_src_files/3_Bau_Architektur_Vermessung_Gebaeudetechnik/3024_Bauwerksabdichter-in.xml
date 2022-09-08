@@ -1,0 +1,19 @@
+<kategorie>
+  <id>3024</id>
+  <taetigkeit>Herstellung und Instandhaltung von Abdichtungen für Bauwerke gegen Wasser und Feuchtigkeit</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Arbeits- und Schutzgerüste aufstellen; Bitumen und Kunststoffbahnen zur Herstellung von Isolierungen auswählen, anbringen, bereitstellen und sachgerecht lagern; Abdichtungsuntergründe prüfen; Schutzschichten und Beläge herstellen; Oberflächenschutz anbringen; Qualität und Zustand von Abdichtungen prüfen; Sanierungen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Bauwerksabdichter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33232">Berufe in der Bauwerksabdichtung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7121">Roofers</isco>
+      <dkz codenr="33232-101" refid="4296">Bauwerksabdichter/in</dkz>
+      <dkz codenr="33232-103" refid="4302">Dachabdichter/in</dkz>
+      <dkz codenr="33232-105" refid="13618">Klebeabdichter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5311">Bauabdichtungstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5312">Holz- und Bautenschützer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5283">Dachdecker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3013">Isolierfacharbeiter/in</abgrenzung>
+</kategorie>

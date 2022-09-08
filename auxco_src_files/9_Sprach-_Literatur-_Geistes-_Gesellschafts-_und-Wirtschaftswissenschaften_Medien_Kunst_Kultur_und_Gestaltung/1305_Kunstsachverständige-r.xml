@@ -1,0 +1,16 @@
+<kategorie>
+  <id>1305</id>
+  <taetigkeit>Ermittlung des Wertes von Kunstwerken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunstgegenstände und Antiquitäten nach Zeiträumen, Stilrichtungen und Künstlern einordnen; Erhaltungszustand und künstlerischen sowie materiellen Wert von Kunstwerken bestimmen; Sicherheitsberatungen über den fachgerechten Transport von Kunstgegenständen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Kunstsachverständige/r</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94724">Kunstsachverständige - Experte</kldb>
+      <isco schluessel="3315">Valuers and loss assessors</isco>
+      <dkz codenr="94724-101" refid="14851">Kunstsachverständige/r</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1300">Kurator/in / Museologe/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="6043">Kunst- und Antiquitätenhändler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1306">Gemmologe/Gemmologin</abgrenzung>
+</kategorie>

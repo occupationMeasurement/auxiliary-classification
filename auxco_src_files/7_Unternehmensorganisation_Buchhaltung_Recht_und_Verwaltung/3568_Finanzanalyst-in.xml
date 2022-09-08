@@ -1,0 +1,20 @@
+<kategorie>
+  <id>3568</id>
+  <taetigkeit>Analyse von Möglichkeiten und Risiken von finanziellen Investments</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Finanzinformationen über geschäftliche, branchenspezifische und wirtschaftliche Investitionsbedingungen analysieren; Daten wie Preis, Ertrag, Stabilität, zukünftige Trends in Bezug auf Investitionsrisiken und wirtschaftliche Einflüsse interpretieren; Wirtschafts-, Industrie- und Unternehmensentwicklungen überwachen; die Entwicklung von Wertpapieren analysieren; Anlagevorschläge und -strategien entwickeln; mündliche und schriftliche Berichte über allgemeine Wirtschaftstrends präsentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Finanzanalyst/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="72144">Finanzanalysten/innen - Experte</kldb>
+      <isco schluessel="2413">Financial analysts</isco>
+      <dkz codenr="72144-100" refid="6767">Konsortialreferent/in</dkz>
+      <dkz codenr="72144-101" refid="6779">Wertpapieranalyst/in</dkz>
+      <dkz codenr="72144-103" refid="15003">Risk-Manager/in</dkz>
+      <dkz codenr="72144-102" refid="14990">Venture-Capitalist</dkz>
+      <dkz codenr="72144-104" refid="27779">Rating-Analyst/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4202">Statistiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3577">Geldanlageberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3581">Wirtschaftsprüfer/in</abgrenzung>
+</kategorie>

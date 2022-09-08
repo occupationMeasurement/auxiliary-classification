@@ -1,0 +1,31 @@
+<kategorie>
+  <id>5099</id>
+  <taetigkeit>Sicherstellung der Betriebssicherheit und Verkehrstauglichkeit von Eisenbahnzügen vor der Abfahrt</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Betriebssicherheit und Verkehrstauglichkeit von Wagen, Zügen und Ladungen vor der Abfahrt überprüfen; augenscheinliche Kontrollen von Wagenuntergestell, Bremsen, Federung, Zug- und Stoß-einrichtungen, Klimaanlagen und Heizsystemen, durchführen; festgestellte Mängel und Schäden an den Zugsystemen nach Anweisung beheben</taetigkeitsbeschreibung>
+  <bezeichnung>Wagenuntersucher/in (Eisenbahn)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51112">Technischer Eisenbahnbetrieb - Fachkraft</kldb>
+      <isco schluessel="8312">Railway brake, signal and switch operators</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren beruflichen Aufgaben, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren beruflichen Aufgaben gehört, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Aufsichtskraft">
+      <text>Ja</text>
+      <kldb schluessel="51193">Aufsichtskräfte - Technischer Betrieb im Eisenbahn-, Luft- und Schiffsverkehr</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="51193-102" refid="15196">Industriemeister/in - Techn. Wagenbehandlung - Eisenbahn</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="51112">Technischer Eisenbahnbetrieb - Fachkraft</kldb>
+      <isco schluessel="8312">Railway brake, signal and switch operators</isco>
+      <dkz codenr="51112-101" refid="90773">Achslagerprüfer/in (Bahn)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5100">Eisenbahn-Wagenmeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5107">Streckenwärter/in (Bahn)</abgrenzung>
+  <abgrenzung typ="mittel" refid="5011">Eisenbahnbetriebsregler/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,15 @@
+<kategorie>
+  <id>5137</id>
+  <taetigkeit>Konservierung und Restaurierung von Objekten durch Vergoldung oder Metallauflagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. fach- und denkmalgerechte Retuschen von Vergoldungen und anderen Metallauflagen ausführen; Putz und Stuck ausbessern; Holzuntergründe vorbereiten; Korrosionspunkte entfernen; Öl- und Polimentvergoldungen ausführen; Blattgold anschießen und Polierarbeiten ausführen; Goldtönungen und Goldretuschen ausführen; zeichnerische, schriftliche und fotografische Dokumentationen zur Bestandsaufnahme anfertigen</taetigkeitsbeschreibung>
+  <bezeichnung>Restaurator/in - Vergolderhandwerk</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93343">Vergolderhandwerk - Spezialist</kldb>
+      <isco schluessel="2651">Visual artists</isco>
+      <dkz codenr="93343-100" refid="4636">Restaurator/in - Vergolderhandwerk</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5128">bildende/r Künstler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5136">Vergolder/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,17 @@
+<kategorie>
+  <id>9009</id>
+  <taetigkeit>Planung, Koordination und Optimierung der Produktion von Wein und Sekt</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei der Entwicklung von neuen Rezepturen oder Gärprozessen für Wein und Sekt mitwirken; Maschinen und Anlagen warten und einrichten; Qualitätskontrollen durchführen; technische Aspekte der Getränkeherstellung überwachen und für die Einhaltung der gesetzlichen Bestimmungen sorgen</taetigkeitsbeschreibung>
+  <bezeichnung>Weinbautechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29123">Weinküfer/innen - Spezialist</kldb>
+      <isco schluessel="3116">Chemical engineering technicians</isco>
+      <dkz refid="90836" codenr="29123-102">Techniker/in - Kellerwirtschaft</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9008">Weinküfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9016">Getränketechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9005">Getränkeproduktionsleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9004">Lebensmitteltechniker/in in der Frucht- und Gemüsesaftproduktion</abgrenzung>
+</kategorie>

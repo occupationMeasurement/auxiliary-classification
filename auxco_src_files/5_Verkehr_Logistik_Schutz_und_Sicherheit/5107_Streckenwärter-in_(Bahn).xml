@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5107</id>
+  <taetigkeit>Überprüfung und Instandhaltung von Gleisanlagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Telekommunikations- und Signalanlagen warten; Streckenabschnitte auf Schienenbrüche, Spurveränderungen und andere mögliche Schäden kontrollieren; notwendige Reparaturmaßnahmen einleiten; Gleisbereich während der Durchführung von Gleisarbeiten überwachen; Gleisarbeiter durch akustische Signalmittel vor näherkommenden Schienenfahrzeugen warnen; nicht sofort behebbaren Mängel kennzeichnen</taetigkeitsbeschreibung>
+  <bezeichnung>Streckenwärter/in (Bahn)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51222">Wart. Eisenbahninfrastruktur - Fachkraft</kldb>
+      <isco schluessel="9312">Civil engineering labourers</isco>
+      <dkz codenr="51222-106" refid="90849">Sicherungsposten</dkz>
+      <dkz codenr="51222-100" refid="90617">Signalfacharbeiter/in</dkz>
+      <dkz codenr="51222-103" refid="90762">Streckenwärter/in (Bahn)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5114">Straßenwärtermeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5011">Eisenbanbetriebsregler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5108">Bahnbeamter/-beamtin (gehobener technischer Dienst)</abgrenzung>
+</kategorie>

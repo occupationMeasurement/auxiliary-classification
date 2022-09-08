@@ -1,0 +1,17 @@
+<kategorie>
+  <id>7033</id>
+  <taetigkeit>Diagnose und Behandlung von psychischen oder neurologischen Erkrankungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Epilepsie, Gehirnhaut- und Gehirnentzündung therapieren; CCT, MRT, PET durchführen; Veränderungen der Verhaltensweisen ermitteln; Leistungsfähigkeit und Belastbarkeit sowie Pflegebedürftigkeit bewerten; Sprach-, Sprech- und Schluckstörungen untersuchen und therapieren; neurologisch-psychiatrische Anamnese erheben</taetigkeitsbeschreibung>
+  <bezeichnung>Neurologe/ Neurologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81464">Fachärzte/-ärztinnen in der Neurologie, Psychiatrie, Psychotherapie und psychosomatischen Medizin - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2212">Specialist medical practitioners</isco>
+      <dkz codenr="81464-101" refid="8677">Facharzt/-ärztin - Nervenheilkunde</dkz>
+      <dkz codenr="81464-102" refid="8678">Facharzt/-ärztin - Neurologie</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7042">Psychotherapeut/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7041">Psychologe/Psychologin</abgrenzung>
+  <abgrenzung typ="mittel" refid="7028">Allgemeinarzt /-ärztin</abgrenzung>
+</kategorie>

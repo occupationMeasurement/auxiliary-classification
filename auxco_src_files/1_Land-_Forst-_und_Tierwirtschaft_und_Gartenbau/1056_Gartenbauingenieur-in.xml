@@ -1,0 +1,18 @@
+<kategorie>
+  <id>1056</id>
+  <taetigkeit>Forschung, Entwicklung und Beratung in der Gartenbautechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. neue Verfahren für Pflanzenzucht entwickeln; Qualitätskontrollen durchführen; Maßnahmen zur Optimierung der Produktivität und Vermarktung von Pflanzen entwickeln; Versuche zu Pflanzenschutz und Düngung durchführen; beratende Tätigkeiten ausüben</taetigkeitsbeschreibung>
+  <bezeichnung>Gartenbauingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="12104">Berufe im Gartenbau (o.S.)  - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2132">Farming, forestry and fisheries advisers</isco>
+      <dkz codenr="12104-107" refid="58719">Ingenieur/in - Gartenbau</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1055">Gartenbautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1015">Agraringenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1067">Landschaftsarchitekt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9204">Natur- und Landschaftspfleger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1713">Gärtnermeister/in</abgrenzung>
+</kategorie>

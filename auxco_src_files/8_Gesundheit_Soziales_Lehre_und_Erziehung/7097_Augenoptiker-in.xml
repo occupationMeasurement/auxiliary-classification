@@ -1,0 +1,38 @@
+<kategorie>
+  <id>7097</id>
+  <taetigkeit>Herstellung, Reparatur und Anpassung von Sehhilfen sowie Kundenberatung und Durchführung von Sehtests</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. optische Rezepte interpretieren und Arbeitsaufträge für optische Labors erstellen; Brillenfassungen und -gläser herstellen und reparieren; Brillengläser messen, zentrieren, schleifen und einpassen; Kunden bei der Brillenauswahl beraten; Pflegehinweise geben; Preise für Sehhilfen bzw. Reparaturen kalkulieren</taetigkeitsbeschreibung>
+  <bezeichnung>Augenoptiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82522">Berufe in der Augenoptik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3254">Dispensing opticians</isco>
+      <dkz codenr="82522-101" refid="2629">Augenoptiker/in</dkz>
+      <dkz codenr="82522-102" refid="2630">Augenoptiker/in - Werkstatt</dkz>
+      <dkz codenr="82522-103" refid="2631">Augenoptiker/in - Beratung und Verkauf</dkz>
+      <dkz codenr="82523-100" refid="2633">Augenoptiker/in (Weiterbildung)</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung als staatlich geprüfte/r Augenoptiker/in erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung als staatlich geprüfte/r Augenoptiker/in erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="82522">Berufe in der Augenoptik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3254">Dispensing opticians</isco>
+      <dkz codenr="82522-101" refid="2629">Augenoptiker/in</dkz>
+      <dkz codenr="82522-102" refid="2630">Augenoptiker/in - Werkstatt</dkz>
+      <dkz codenr="82522-103" refid="2631">Augenoptiker/in - Beratung und Verkauf</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="82523">Berufe in der Augenoptik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3254">Dispensing opticians</isco>
+      <dkz codenr="82523-100" refid="2633">Augenoptiker/in (Weiterbildung)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7098">Ingenieur/in - Augenoptik</abgrenzung>
+  <abgrenzung typ="hoch" refid="9229">Feinoptiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1832">Augenoptikermeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8001">Augenarztgehilfe/-gehilfin (Orthoptist/in)</abgrenzung>
+</kategorie>

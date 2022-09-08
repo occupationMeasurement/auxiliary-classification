@@ -1,0 +1,25 @@
+<kategorie>
+  <id>3519</id>
+  <taetigkeit>Durchführung von kaufmännischen und organisatorischen Aufgaben in einem Verlag</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei der Produkt- und Programmplanung für Medienprodukte wie Film-, TV- und Hörfunkprojekte, Computerspiele, Websites, Bücher und Zeitungen mitwirken; bei der Entwicklung von Marketingkonzepten für Print-, elektronische und audiovisuelle Medien assistieren; deren Gestaltungs- und Herstellungsprozesse organisieren; beim Kauf und Verkauf von Rechten und Lizenzen mitwirken; Produktions- und Vertriebskosten mithilfe eines vorgefertigten Schemas berechnen</taetigkeitsbeschreibung>
+  <bezeichnung>Medienkaufmann/-frau - Digital und Print</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92302">Verlags-,Medienkaufleute(oS) - Fachkraft</kldb>
+      <isco schluessel="4419">Clerical support workers not elsewhere classified</isco>
+      <dkz codenr="92302-111" refid="14211">Verlagskaufmann/-frau</dkz>
+      <dkz codenr="92302-114" refid="35280">Medienkaufmann/-frau Digital und Print</dkz>
+      <dkz codenr="92302-102" refid="6683">Kaufmann/-frau - Zeitungs- u. Zeitschriftenverlag</dkz>
+      <dkz codenr="92302-104" refid="6691">Buchhändler/in - Verlag</dkz>
+      <dkz codenr="92302-105" refid="7003">Verlagswerber/in</dkz>
+      <dkz codenr="92302-106" refid="7010">Media-Fachkraft</dkz>
+      <dkz codenr="92302-107" refid="7011">Medienassistent/in</dkz>
+      <dkz codenr="92302-108" refid="7014">Kfm. Ass./Wirtschaftsassistent/in - Medien</dkz>
+      <dkz codenr="92302-109" refid="7016">Kaufmann/-frau - audiovisuelle Medien</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3506">Medienfachwirt/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3503">Marketingassistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3501">Redaktionsassistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="6086">Vertriebsagent/in - Buchhandel</abgrenzung>
+</kategorie>

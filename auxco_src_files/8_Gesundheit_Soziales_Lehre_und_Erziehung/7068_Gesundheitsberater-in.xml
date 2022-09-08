@@ -1,0 +1,16 @@
+<kategorie>
+  <id>7068</id>
+  <taetigkeit>Beratung von Privatpersonen zu einer gesunden Lebensweise, gesundheitlichen Gefährdungen und Krankheiten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Informationen für Familien und Kommunen in verschiedenen Gesundheitsfragen bereistellen; Schwangeren- oder Mütterberatung sowie Beratung für Menschen mit körperlicher und geistiger Behinderung anbieten; Impftermine organisieren; Maßnahmen zur Gesundheitsförderung für Familien im häuslichen Umfeld durchführen; Informationsveranstaltungen wie Aids-Kampagnen begleiten; Ergebnisse der Untersuchungen und Beratungen auswerten</taetigkeitsbeschreibung>
+  <bezeichnung>Gesundheitsberater/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82213">Berufe in der Gesundheitsberatung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3253">Community health workers</isco>
+      <dkz codenr="82213-100" refid="9009">Sozialmedizinische/r Assistent/in</dkz>
+      <dkz codenr="82213-101" refid="9037">Gesundheitsberater/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7067">Gesundheitstrainer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7070">Gesundheitsförderer/-förderin</abgrenzung>
+</kategorie>

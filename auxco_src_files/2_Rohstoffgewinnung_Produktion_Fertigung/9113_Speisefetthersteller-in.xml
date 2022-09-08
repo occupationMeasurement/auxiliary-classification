@@ -1,0 +1,17 @@
+<kategorie>
+  <id>9113</id>
+  <taetigkeit>Herstellung von Speisefetten und Ölen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Öl aus Ölsaaten, Nüssen oder Früchten gewinnen; Warenannahme und Wareneingangskontrolle in der Fett- und Ölproduktion vornehmen; Geschmack, Geruch, Konsistenz und Aussehen der Produkte und Rohwaren laufend überwachen; Endprodukte portionieren, verpacken und lagern; Qualitätskontrollen durchführen; Bewertungen erstellen; Prüfberichte verfassen; Maschinen und Anlagen der Lebensmitteltechnik bedienen, überwachen und steuern; Maschinen und Anlagen reinigen und warten</taetigkeitsbeschreibung>
+  <bezeichnung>Speisefetthersteller/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29282">Berufe in der Lebensmittelherstellung (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7514">Fruit, vegetable and related preservers</isco>
+      <dkz codenr="29282-105" refid="3768">Tiefkühlkosthersteller/in</dkz>
+      <dkz codenr="29282-110" refid="3869">Speisefetthersteller/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9041">Helfer/in - Lebensmitteltechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="9049">Lebensmitteltechniker/in - Feinkost, Fertiggerichte, Obstverwertung</abgrenzung>
+  <abgrenzung typ="mittel" refid="9040">Tiefkühlkosthersteller/in</abgrenzung>
+</kategorie>

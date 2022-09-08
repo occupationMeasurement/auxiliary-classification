@@ -1,0 +1,24 @@
+<kategorie>
+  <id>5179</id>
+  <taetigkeit>Bedienung von Maschinen und Bearbeitung von Kautschukerzeugnissen in der industriellen Fertigung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kautschukrohmasse vorbereiten und ggf. Mischungen herstellen; Hilfsstoffe wie Farbstoffe und Stabilisatoren nach Rezeptur beigeben; Gummibögen oder gummiertes Gewebe mit Hilfe von Walzverfahren produzieren; Anlagen im laufenden Betrieb überwachen; Einstellwerte nachjustieren und Probeläufe durchführen; Produkte nachbereiten und sie entgraten, waschen und trocknen; Produkte verpacken und abtransportieren; Erzeugnisse im Labor untersuchen; Reinigungs- und Wartungsarbeiten durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Verfahrensmechaniker/in - Kautschuktechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22102">Berufe in der Kunststoff- und Kautschukherstellung (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8141">Rubber products machine operators</isco>
+      <dkz codenr="22102-101" refid="1174">Gummiverarbeiter/in</dkz>
+      <dkz codenr="22102-107" refid="1204">Verfahrensmech.-Kunststoff-/Kautschukt.-Formteile</dkz>
+      <dkz codenr="22102-108" refid="1205">Verfahrensmech.-Kunststoff-/Kautschukt.-Halbzeuge</dkz>
+      <dkz codenr="22102-109" refid="1206">Verfahrensmech.-Kunststoff-/Kautschukt.-Mehrschichtkautsch.</dkz>
+      <dkz codenr="22102-110" refid="1207">Verfahrensmech.-Kunststoff-/Kautschukt.-Bauteile</dkz>
+      <dkz codenr="22102-122" refid="13840">Verfahrensmech.-Kunststoff-/Kautschuktechnik (m. Schwerp.)</dkz>
+      <dkz codenr="22102-143" refid="50946">Verfahrensmech.-Kunststoff-/Kautschukt.-Kunststofffenster</dkz>
+      <dkz codenr="22102-144" refid="50948">Verfahrensmech.-Kunststoff-/Kautschukt.-Faserverbundtechn.</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5177">Produktionshelfer/in – Kunststoff und Kautschuk</abgrenzung>
+  <abgrenzung typ="mittel" refid="1716">Techniker/in - Kunststoff- und Kautschuktechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="5183">Mechaniker/in - Reifen und Vulkanisation</abgrenzung>
+  <abgrenzung typ="hoch" refid="5178">Verfahrensmechaniker/in - Kunststofftechnik</abgrenzung>
+</kategorie>

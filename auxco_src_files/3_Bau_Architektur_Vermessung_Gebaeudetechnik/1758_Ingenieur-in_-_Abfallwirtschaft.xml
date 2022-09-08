@@ -1,0 +1,19 @@
+<kategorie>
+  <id>1758</id>
+  <taetigkeit>Forschung und Entwicklung von Anlagen, Geräten und Maschinen für die Abfallbehandlung und -entsorgung sowie für das Recycling</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Anlagen und Verfahren zur Abfallentsorgung und -verwertung projektieren, planen und entwickeln; Berechnungen zur Dimensionierung durchführen; technische Abwicklung von Genehmigungsverfahren für Anlagen der Abfallwirtschaft durchführen; spezielle Verwertungslösungen entwickeln, z.B. um schwer recycelbare Stoffe und Produkte zu verwerten</taetigkeitsbeschreibung>
+  <bezeichnung>Ingenieur/in - Abfallwirtschaft</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34334">Berufe in der Abfallwirtschaft - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2143">Environmental engineers</isco>
+      <dkz codenr="34334-103" refid="59321">Ingenieur/in - Abfallwirtschaft</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1799">Umweltschutzingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4246">Störfallbeauftragte/r</abgrenzung>
+  <abgrenzung typ="mittel" refid="1774">Gewässer-, Abfall- und Immissionsschutzbeauftragte/r</abgrenzung>
+  <abgrenzung typ="mittel" refid="4255">Abfall- und Umweltberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5358">Leiter/in - Abfallentsorgung und Städtereinigung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1759">Leiter/in - Umweltschutztechnik</abgrenzung>
+</kategorie>

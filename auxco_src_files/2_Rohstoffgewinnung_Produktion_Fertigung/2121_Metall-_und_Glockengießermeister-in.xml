@@ -1,0 +1,18 @@
+<kategorie>
+  <id>2121</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Herstellung von Metall</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Überwachung des reibungslosen Betriebsablaufs in Metallerzeugungsbetrieben; Rohstoffe sowie Endprodukte zur Qualitätssicherung überprüfen; Einhaltung von Arbeitssicherheitsbestimmungen überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Metall- und Glockengießermeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24193">Aufsichtskräfte - Metallerzeugung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="24193-100" refid="1694">Metall- und Glockengießermeister/in</dkz>
+      <dkz codenr="24193-104" refid="6102">Industriemeister/in - Hüttentechnik</dkz>
+      <dkz codenr="24193-106" refid="6165">Industriemeister/in - Gießerei</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2122">Leiter/in - Metallbearbeitung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1844">Gießereitechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1719">Steuerer von Verfahren in der Metallerzeugung</abgrenzung>
+</kategorie>

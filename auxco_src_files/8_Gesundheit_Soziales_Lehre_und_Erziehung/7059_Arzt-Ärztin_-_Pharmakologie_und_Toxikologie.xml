@@ -1,0 +1,17 @@
+<kategorie>
+  <id>7059</id>
+  <taetigkeit>Diagnose und Behandlung von Vergiftungen sowie toxikologische Beratung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Ursache, Zeitpunkt und Menge des aufgenommenen Giftes diagnostizieren; Sofortmaßnahmen ergreifen und Gegenmittel geben; über den Giftnotruf Privatpersonen, Ärzte und Apotheker beraten; Krankenberichte erstellen und Gutachten verfassen</taetigkeitsbeschreibung>
+  <bezeichnung>Arzt/Ärztin - Pharmakologie und Toxikologie</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81814">Fachärzte/-ärztinnen in der Pharmakologie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2212">Specialist medical practitioners</isco>
+      <dkz codenr="81814-101" refid="27438">Facharzt/-ärztin - Pharmakologie und Toxikologie</dkz>
+      <dkz codenr="81814-100" refid="8689">Facharzt/-ärztin - Klinische Pharmakologie</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7058">Pharmakologe/Pharmakologin</abgrenzung>
+  <abgrenzung typ="mittel" refid="7057">Apotheker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7010">Facharzt/-ärztin für Mikrobiologie</abgrenzung>
+</kategorie>

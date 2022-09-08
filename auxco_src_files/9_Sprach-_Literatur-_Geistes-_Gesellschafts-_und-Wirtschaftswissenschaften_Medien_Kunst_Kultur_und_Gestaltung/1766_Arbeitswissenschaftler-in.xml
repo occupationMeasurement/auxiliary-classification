@@ -1,0 +1,17 @@
+<kategorie>
+  <id>1766</id>
+  <taetigkeit>Erforschung arbeitswissenschaftlicher Fragestellungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. den digitalen Wandel von Berufen erforschen; Beratungen hinsichtlich der praktischen Anwendung von Erkenntnissen durchführen; Daten erheben und mithilfe qualitativer oder quantitativer Methoden der Sozialforschung auswerten und aufbereiten</taetigkeitsbeschreibung>
+  <bezeichnung>Arbeitswissenschaftler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="91384">Berufe in Gesellschaftswissenschaften (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2632">Sociologists, anthropologists and related professionals</isco>
+      <dkz codenr="91384-102" refid="9791">Arbeitswissenschaftler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3598">Berufsberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8037">Dozent/in / Professor/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1765">Kriminologe/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1858">Kulturwissenschaftler/in</abgrenzung>
+</kategorie>

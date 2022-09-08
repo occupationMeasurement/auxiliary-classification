@@ -1,0 +1,14 @@
+<kategorie>
+  <id>3580</id>
+  <taetigkeit>Abwicklung von Lohn- und Gehaltsabrechnungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Lohn- und Gehaltsabrechnungen berechnen bzw. auf ihre Richtigkeit hin überprüfen; Stammdaten der Mitarbeiter erstellen, verwalten und pflegen; Anwesenheits- und Arbeitszeiten erfassen; interne Lohnkonten führen; Lohnsteuerdaten an das Finanzamt übermitteln; Daten für die Finanzbuchhaltung aufbereiten; bei der Erstellung von Geschäftsberichten mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Lohn- und Gehaltsbuchhalter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="72212">Buchhaltung - Fachkraft</kldb>
+      <isco schluessel="4313">Payroll clerks</isco>
+      <dkz codenr="72213-104" refid="7700">Lohn- und Gehaltsbuchhalter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1823">Buchführungsfachkraft</abgrenzung>
+</kategorie>

@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5063</id>
+  <taetigkeit>Beratung und Unterstützung der Betriebsleitung in Fragen des Arbeits- und  Gesundheitsschutzes sowie der Unfallverhütung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gestaltung von Arbeitsstätten, Arbeitsabläufen und Arbeitsumgebung im Hinblick auf Arbeitsschutz und Unfallverhütung untersuchen; sicherheitstechnische Prüfungen von Betriebsanlagen durchführen; Arbeitsunfälle erfassen, auswerten und Verbesserungsmaßnahmen erarbeiten; Einhaltung der EU- Richtlinien kontrollieren</taetigkeitsbeschreibung>
+  <bezeichnung>Sicherheitsbeauftragte/r- Arbeitsschutz</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53123">Arbeitssicherh.,Sich.-technik-Spezialist</kldb>
+      <isco schluessel="3257">Environmental and occupational health inspectors and associates</isco>
+      <dkz codenr="53123-101" refid="14801">Arbeitsplatz-Auditor/in</dkz>
+      <dkz codenr="53123-100" refid="13957">Fachkraft - Arbeitssicherheit</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5062">Brandbekämpfungsbeauftragte/r und Ersthelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5064">Arbeitsschutzingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1774">Gewässer-, Abfall- und Immissionsschutzbeauftragte/r</abgrenzung>
+  <abgrenzung typ="hoch" refid="1773">Strahlenschutzbeauftragte/r</abgrenzung>
+  <abgrenzung typ="mittel" refid="4248">Dekontaminateur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5085">Beamt(er/in) - Gewerbeaufsicht</abgrenzung>
+</kategorie>

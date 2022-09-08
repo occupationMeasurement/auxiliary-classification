@@ -1,0 +1,51 @@
+<kategorie>
+  <id>9900</id>
+  <taetigkeit>Durchführung kaufmännischer und organisatorischer Tätigkeiten im Luftverkehr</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Flugpassagen oder Frachtraum verkaufen; Transportmärkte analysieren und marktgerechte Angebote entwickeln; Flugpläne ausarbeiten und die Streckenführung sowie die Start- und Landezeiten aushandeln; mit Geschäftspartnern verhandeln; bei der Einsatzplanung des Personals mitwirken; Teilbereiche der Flugzeugabfertigung organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Luftverkehrskaufmann/-frau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51642">Luftverkehrskaufleute - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="4323">Bürokräfte in der Transportwirtschaft und verwandte Berufe</isco>
+      <dkz refid="15355" codenr="51642-101">Duty-Officer</dkz>
+      <dkz refid="6927" codenr="51642-100">Luftverkehrskaufmann/-frau</dkz>
+      <dkz codenr="51643-100" refid="90667">Luftfrachtagent/in</dkz>
+      <dkz codenr="51643-102" refid="90780">Fachwirt/in - Luftverkehr</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung zum Fachwirt erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung zum Fachwirt erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="51643">Luftverkehrskaufleute - komplexe Spezialistentätigkeiten</kldb>
+    </antwort>
+    <antwort position="2" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="51642">Luftverkehrskaufleute - fachlich ausgerichtete Tätigkeiten</kldb>
+    </antwort>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>Welche Aufgaben führen Sie dabei in der Regel aus?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Aufgaben haben Sie dabei in der Regel ausgeführt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>für Fluggäste Beratungs- und Serviceleistungen erbringen</text>
+      <isco schluessel="4221">Travel consultants and clerks</isco>
+    </antwort>
+    <antwort position="2">
+      <text>mit anderen Unternehmen Geschäftsbeziehungen unterhalten</text>
+      <isco schluessel="3324">Trade brokers</isco>
+    </antwort>
+    <antwort position="3">
+      <text>Transportleistungen koordinieren</text>
+      <isco schluessel="4323">Transport clerks</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1000">Schalterangestellte/r - Flughafen</abgrenzung>
+  <abgrenzung typ="mittel" refid="1001">Steward/Stewardess (Flugzeug)</abgrenzung>
+  <abgrenzung typ="hoch" refid="5014">Ramp-Agent</abgrenzung>
+  <abgrenzung typ="hoch" refid="1820">Tourismuskaufmann/ -frau</abgrenzung>
+  <abgrenzung typ="hoch" refid="5022">Verkehrsbetriebswirt/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5023">Fachwirt/in - Personen- und Reiseverkehr</abgrenzung>
+  <abgrenzung typ="hoch" refid="5039">Logistikleiter/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,16 @@
+<kategorie>
+  <id>5184</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Herstellung und Weiterverarbeitung von Kunststoff und Kautschuk</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Betriebsbereitschaft der Maschinen und Produktionsanlagen sicherstellen; besonders anspruchsvolle Arbeiten selbst durchführen; Personaleinsatz planen und koordinieren; Einhaltung rechtlicher Vorschriften sicherstellen; Schulung und Weiterbildung für Mitarbeiter organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Industriemeister/in - Kunststoff und Kautschuk</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22193">Aufsicht-Kunststoff,Kautschukher,verarb.</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="22193-100" refid="1192">Mechanikermeister/in - Reifen- und Vulkanisationstechnik</dkz>
+      <dkz codenr="22193-104" refid="27456">Meister/in - Kunststofftechnik</dkz>
+      <dkz codenr="22193-103" refid="6125">Industriemeister/in - Kunststoff und Kautschuk</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1716">Techniker/in - Kunststoff- und Kautschuktechnik</abgrenzung>
+</kategorie>

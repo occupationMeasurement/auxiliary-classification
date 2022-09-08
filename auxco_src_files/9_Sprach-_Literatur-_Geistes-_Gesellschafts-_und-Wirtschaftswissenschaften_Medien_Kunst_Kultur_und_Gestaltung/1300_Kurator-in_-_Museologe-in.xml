@@ -1,0 +1,21 @@
+<kategorie>
+  <id>1300</id>
+  <taetigkeit>Sammlung, Beurteilung und Verwaltung von künstlerischen oder historischen Objekten sowie Konzeption von Ausstellungen in Museen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Sammlungen künstlerisch, kulturell, wissenschaftlich oder historisch bedeutsamer Objekte organisieren und entwickeln; Ursprung der Objekte erforschen; Dokumente erforschen; Austellungen konzipieren; Öffentlichkeitsarbeit eines Museums organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Kurator/in / Museologe/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94704">Museumsberufe (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2621">Archivists and curators</isco>
+      <dkz codenr="94704-110" refid="58759">Museologe/Museologin</dkz>
+      <dkz codenr="94704-109" refid="58751">Kunsthistoriker/in</dkz>
+      <dkz codenr="94704-107" refid="34925">Registrar/in (Museum)</dkz>
+      <dkz codenr="94704-108" refid="35328">Kurator/in</dkz>
+      <dkz codenr="94704-111" refid="100521">Kunstwissenschaftler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1307">Museumsleiter/in /Museumsdirektor/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1305">Kunstsachverständige/r</abgrenzung>
+  <abgrenzung typ="mittel" refid="1303">Konservator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3553">Archivdienstbeamt(er/in)</abgrenzung>
+</kategorie>

@@ -1,0 +1,17 @@
+<kategorie>
+  <id>4239</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Überprüfung von Schornsteinen, Feuerungsstätten und Lüftungsanlagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die in der Kehr- und Überprüfungsordnung vorgeschriebenen Arbeiten im Kehrbezirk steuern; Kehrbuch führen; Schornsteine und Feuerstätten kehren; bei Erstellung von Emissionskatastern mitwirken; gesetzliche Regelungen in den Bereichen Immissionsschutz, Zivilschutz und Baurecht anwenden; Mitarbeiter schulen und ihre Tätigkeiten beaufsichtigen</taetigkeitsbeschreibung>
+  <bezeichnung>Schornsteinfegermeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42293">Aufsicht - Umweltschutztechnik</kldb>
+      <isco schluessel="7133">Fassadenreiniger und Schornsteinfeger/Rauchfangkehrer</isco>
+      <dkz codenr="42293-100" refid="8209">Bezirksschornsteinfegermeister/in</dkz>
+      <dkz codenr="42293-101" refid="8212">Schornsteinfegermeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4237">Schornsteinfeger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5355">Leiter/in - Anlagenbau</abgrenzung>
+  <abgrenzung typ="mittel" refid="5356">Leiter/in - Leitungsbau</abgrenzung>
+</kategorie>

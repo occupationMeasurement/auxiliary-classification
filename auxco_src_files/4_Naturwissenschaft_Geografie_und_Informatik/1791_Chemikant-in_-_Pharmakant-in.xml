@@ -1,0 +1,41 @@
+<kategorie>
+  <id>1791</id>
+  <taetigkeit>Steuerung und Überwachung von Prozessen in der chemischen oder pharmazeutischen Produktion</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Anlagen bedienen und warten; nach Rezeptur Mischungen für chemische Produkte herstellen; Arzneimittel in diversen Darreichungsformen herstellen; Qualitätskontrollen von Rohstoffen und Endprodukten durchführen; chemische Labortests durchführen; Rohstoff- und Betriebsmitteleinsatz planen; technische Berechungen durchführen; Optimierungspotenzial von Produktionsabläufen erarbeiten; Sicherheitsprüfungen von Anlagen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Chemikant/in / Pharmakant/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41312">Berufe in der Chemie- und Pharmatechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8131">Bediener von Anlagen und Maschinen für chemische Erzeugnisse</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="41312">Chemie- und Pharmatechnik - Fachkraft</kldb>
+      <isco schluessel="8131">Bediener von Anlagen und Maschinen für chemische Erzeugnisse</isco>
+      <dkz codenr="41312-100" refid="811">Raffinierer/in (Erdöl)</dkz>
+      <dkz codenr="41312-102" refid="1141">Chemikant/in</dkz>
+      <dkz codenr="41312-108" refid="34949">Produktionsfachkraft Chemie</dkz>
+      <dkz codenr="41312-104" refid="1150">Pharmakant/in</dkz>
+      <dkz codenr="41312-101" refid="1139">Chemiebetriebsjungwerker/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="41313">Chemie- und Pharmatechnik - Spezialist</kldb>
+      <isco schluessel="3116">Chemical engineering technicians</isco>
+      <dkz codenr="41313-101" refid="5788">Techniker/in - Chemietechnik (Betriebstechnik)</dkz>
+      <dkz codenr="41313-102" refid="5791">Techniker/in - Chemietechnik (ohne Schwerpunkt)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1800">Produktionsleiter/in in der Chemie</abgrenzung>
+  <abgrenzung typ="hoch" refid="4013">Chemisch-Technische/r Assistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4009">Hilfskraft in der Chemieindustrie</abgrenzung>
+  <abgrenzung typ="mittel" refid="1790">Chemiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4014">Chemische/r Laboratorium-Spezialist/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4015">Steuer(er/in) - chemische Verfahrensanlagen</abgrenzung>
+  <abgrenzung typ="hoch" refid="4016">Steuer(er/in) - Erdöl- und Erdgasraffinationsanlagen</abgrenzung>
+  <abgrenzung typ="mittel" refid="4012">Ingenieur/in - Chemietechnik</abgrenzung>
+</kategorie>

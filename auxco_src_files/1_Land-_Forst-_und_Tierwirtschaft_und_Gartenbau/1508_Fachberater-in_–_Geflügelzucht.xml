@@ -1,0 +1,13 @@
+<kategorie>
+  <id>1508</id>
+  <taetigkeit>Prüfung der Qualität von Geflügelprodukten sowie Beratung von Geflügelzuchtbetrieben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Geflügelhaltung in Zuchtbetrieben kontrollieren; Zuchtplan für Futter aufstellen und optimieren; Gesundheit der Geflügeltiere überwachen und Krankheiten feststellen; über Marktanalysen die Vermarktung und den Verkauf von Geflügelprodukten planen und durchführen; technische Geräte des Zuchtbetriebs optimieren</taetigkeitsbeschreibung>
+  <bezeichnung>Fachberater/in – Geflügelzucht</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11223">Berufe in der Geflügelhaltung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3142">Agricultural technicians</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1506">Tierwirt/in - Geflügelhaltung</abgrenzung>
+</kategorie>

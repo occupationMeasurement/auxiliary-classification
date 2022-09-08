@@ -1,0 +1,40 @@
+<kategorie>
+  <id>7036</id>
+  <taetigkeit>Diagnose und Behandlung von Krankheiten und Verletzungen von Tieren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Allgemeinzustand der Tiere beurteilen; Tierkrankheiten durch Schutzimpfungen vorbeugen; Tiere einschläfern; Tiere operieren; Tiere künstlich besamen; Geburtshilfe leisten; die Tierhalter hinsichtlich artgerechter Haltung, Fütterung und Hygiene beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Tierarzt/-ärztin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81504">Tierärzte/-ärztinnen (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2250">Veterinarians</isco>
+      <dkz codenr="81504-103" refid="77629">Fachtierarzt/-ärztin</dkz>
+      <dkz codenr="81504-102" refid="58781">Tierarzt/Tierärztin</dkz>
+      <dkz codenr="81524-100" refid="90611">Tierarzt/-ärztin - Haus- und Heimtiere</dkz>
+      <dkz codenr="81514-100" refid="90722">Tierarzt/-ärztin - Groß- und Nutztiere</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Welche Tiere behandeln Sie?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Tiere haben Sie behandelt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Groß- und Nutztiere </text>
+      <kldb schluessel="81514">Tierärzte für Groß-, Nutztiere - Experte</kldb>
+      <isco schluessel="2250">Veterinarians</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Haus- und Heimtiere </text>
+      <kldb schluessel="81524">Tierärzte/-ärztinnen für Haus- und Heimtiere - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2250">Veterinarians</isco>
+    </antwort>
+    <antwort position="3">
+      <text>sonstige</text>
+      <kldb schluessel="81504">Tierärzte/-ärztinnen (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2250">Veterinarians</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7039">Tierärztliche/r Direktor/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7037">Tierheilpraktiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7038">Tierpsychologe/-psychologin</abgrenzung>
+  <abgrenzung typ="hoch" refid="1826">Tierarzthelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7008">Tierarztfachhelfer/in - Besamungswesen</abgrenzung>
+</kategorie>

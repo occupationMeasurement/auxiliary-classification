@@ -1,0 +1,15 @@
+<kategorie>
+  <id>3505</id>
+  <taetigkeit>Aushandeln von Projekten und Verträgen in der Verlags- oder Medienwirtschaft sowie die Betreuung von Autoren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kontakte zu Autoren, Verlagen und Rechteinhabern halten; Honorare verhandeln und Verträge ausarbeiten; Abrechnungen durchführen sowie die Einhaltung der Konditionen und Zahlungen kontrollieren; Manuskripte hinsichtlich ihrer Qualität und ihrer Marktchancen prüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Literaturagent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92384">Verlags-, Medienkaufleute (ssT)- Experte</kldb>
+      <isco schluessel="3339">Business services agents not elsewhere classified</isco>
+      <dkz codenr="92384-100" refid="7075">Literaturagent/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3526">Listbroker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3509">Art-Buyer</abgrenzung>
+</kategorie>

@@ -1,0 +1,15 @@
+<kategorie>
+  <id>8032</id>
+  <taetigkeit>Beratung von Schülern und Eltern sowie Übernahme fachbereichsbezogener Verwaltungs- und Koordinationsaufgaben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Schüler und deren Eltern über geeignete Schulart und Berufsmöglichkeiten beraten und informieren; bei Lernproblemen sowie Verhaltensauffälligkeiten, Hilfestellungen geben und individuelle Lösungsmöglichkeiten aufzeigen; einheitliche Leistungsanforderungen definieren; Prüfungsaufgaben im jeweiligen Fach erstellen; Lernmittel anschaffen</taetigkeitsbeschreibung>
+  <bezeichnung>Beratungslehrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84184">Lehrkräfte allg. Schule (ssT)-Experte</kldb>
+      <isco schluessel="2359">Teaching professionals not elsewhere classified </isco>
+      <dkz codenr="84184-101" refid="9155">Beratungslehrer/in</dkz>
+      <dkz codenr="84184-105" refid="9312">Fachleiter/in - allgemeinbildende Schulen</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="8033">Schulleiter/in - allgemeinbildende Schulen</abgrenzung>
+</kategorie>

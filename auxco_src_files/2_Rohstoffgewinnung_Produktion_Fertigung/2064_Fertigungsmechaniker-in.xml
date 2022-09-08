@@ -1,0 +1,21 @@
+<kategorie>
+  <id>2064</id>
+  <taetigkeit>Zusammensetzung und Endmontage von Geräten des täglichen Gebrauchs</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. genauen Montageanleitungen folgen; Maschinenbestandteile verschrauben, -löten, -nieten, -schweißen oder -kleben; Kleinbauteile zu Baugruppen zusammensetzen; Baugruppen zu Geräten und Maschinen montieren; Funktionen prüfen; produktbezogene Reparaturen durchführen; messen, ob die Sollwerte erreicht werden</taetigkeitsbeschreibung>
+  <bezeichnung>Fertigungsmechaniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25112">Maschinen- und Gerätezusammensetzer/innen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8211">Mechanical machinery assemblers</isco>
+      <dkz codenr="25112-100" refid="2483">Gerätezusammensetzer/in</dkz>
+      <dkz codenr="25112-101" refid="2484">Maschinenzusammensetzer/in</dkz>
+      <dkz codenr="25112-102" refid="2485">Fertigungsmechaniker/in</dkz>
+      <dkz codenr="25112-103" refid="2989">Montierer/in</dkz>
+      <dkz codenr="25112-127" refid="122291">Fachkraft für Metalltechnik - Montagetechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2059">Maschinenschlosser/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2063">Montagehelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2048">Feinmechaniker/in</abgrenzung>
+</kategorie>

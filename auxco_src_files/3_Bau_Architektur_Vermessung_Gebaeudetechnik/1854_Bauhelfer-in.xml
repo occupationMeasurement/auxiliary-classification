@@ -1,0 +1,43 @@
+<kategorie>
+  <id>1854</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten im Hochbau oder im Tiefbau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fachkräfte bei den Bauarbeiten unterstützen; Baumaterial und Ausrüstung mittels Schub- und Handkarren transportieren; Oberflächen aus Stein, Beton und Bitumen mit Presslufthämmern schneiden; Aufräumarbeiten durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Bauhelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32201">Berufe im Tiefbau (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9312">Civil engineering labourers</isco>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>Arbeiten Sie vorwiegend im Hochbau oder im Tiefbau?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie vorwiegend im Hochbau oder im Tiefbau gearbeitet?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Hochbau (d.h. Errichtung von Gebäuden)</text>
+      <kldb schluessel="32101">Hochbau (o.S.) - Helfer</kldb>
+      <isco schluessel="9313">Building construction labourers</isco>
+      <dkz codenr="32101-100" refid="3969">Helfer/in - Hochbau</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Tiefbau (d.h. Bauarbeiten an Rohrleitungen, Tunneln, Straßen, Brücken, Kanälen, Gleisen usw.)</text>
+      <kldb schluessel="32201">Berufe im Tiefbau (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9312">Civil engineering labourers</isco>
+      <dkz codenr="32201-117" refid="4213">Helfer/in - Tiefbau</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9401">Spezialtiefbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5350">Hochbauarbeiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5055">Baumaschinenführer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5285">Pflasterer/ Pflasterin</abgrenzung>
+  <abgrenzung typ="hoch" refid="5268">Straßenbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5271">Gleisbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5286">Brunnenbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5275">Kanalbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5262">Maurer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5282">Beton- und Stahlbetonbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5283">Dachdecker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5265">Fassadenmonteur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5316">Trockenbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1755">Helfer/in - Bodenverlegung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1756">Helfer/in - Gebäudeausbau</abgrenzung>
+</kategorie>

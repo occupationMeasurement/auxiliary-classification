@@ -1,0 +1,17 @@
+<kategorie>
+  <id>5221</id>
+  <taetigkeit>Graphische Gestaltung von IT-Systemen für eine zielgruppengerechte Aufbereitung des Informationsangebots</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Websites, Intranets und Datenbanksystemen planen und gestalten; Kosten kalkulieren; anhand von Nutzerinterviews spezielle Ansprüche des IT-Systems analysieren; Strukturbäume zur Bestimmung der Prozessabläufe entwickeln; Applikationskonzepte erarbeiten; Projekte koordinieren und überwachen; Kunden beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Informationsarchitekt/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23223">Berufe im Grafik-, Kommunikations- und Fotodesign - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2513">Web and multimedia developers</isco>
+      <dkz codenr="23223-106" refid="14997">Information-Architect</dkz>
+      <dkz codenr="23223-102" refid="8450">Designer/in (Fachschule) - Informationsdesign</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4043">Medieninformatiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5219">Grafikdesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5220">Grafik- und Gamedesigner/in</abgrenzung>
+</kategorie>

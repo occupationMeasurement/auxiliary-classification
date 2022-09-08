@@ -1,0 +1,19 @@
+<kategorie>
+  <id>1102</id>
+  <taetigkeit>Erforschung historischer Fragestellungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. historische Überlieferungen erforschen und analysieren; Korrelationen von Politik, Wirtschaft und Kultur mit sozialen Phänomenen dukumentieren; Quellen recherchieren und bewerten; Artefakte auswerten; wissenschaftliche Bücher und Artikel verfassen</taetigkeitsbeschreibung>
+  <bezeichnung>Historiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="91224">Berufe in Geschichtswissenschaften - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2633">Philosophers, historians and political scientists</isco>
+      <dkz codenr="91224-112" refid="59163">Ägyptologe/Ägyptologin</dkz>
+      <dkz codenr="91224-111" refid="58708">Historiker/in</dkz>
+      <dkz codenr="91224-113" refid="59616">Sozial- und Wirtschaftshistoriker/in</dkz>
+      <dkz codenr="91224-114" refid="100534">Keltologe/Keltologin</dkz>
+      <dkz codenr="91224-115" refid="100729">Mediävist/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1300">Kurator/in / Museologe/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8037">Dozent/in / Professor/in</abgrenzung>
+</kategorie>

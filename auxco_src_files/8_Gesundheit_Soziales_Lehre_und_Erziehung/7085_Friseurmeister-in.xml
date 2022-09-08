@@ -1,0 +1,16 @@
+<kategorie>
+  <id>7085</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Friseurwesen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden hinsichtlich Haarpflege, Trendfrisuren, Typveränderung und kosmetischer Produkte beraten; Haare schneiden und färben; Mitarbeiter fachlich unterstützen; Salonaussattung festlegen; Kundenkartei und Terminkalender führen; Personaleinsatz planen und bei Aus- und Weiterbildung mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Friseurmeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82393">Aufsichtskräfte - Körperpflege</kldb>
+      <isco schluessel="5141">Hairdressers</isco>
+      <dkz codenr="82393-100" refid="9905">Friseurmeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7078">Friseur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7086">Kosmetikmeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7087">Chefmaskenbildner/in</abgrenzung>
+</kategorie>

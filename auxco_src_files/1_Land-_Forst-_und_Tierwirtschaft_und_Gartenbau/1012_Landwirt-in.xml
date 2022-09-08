@@ -1,0 +1,34 @@
+<kategorie>
+  <id>1012</id>
+  <taetigkeit>Erzeugung von land- und tierwirtschaftlichen Produkten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. verkaufsfördernde Maßnahmen durchführen; landwirtschaftlichen Erzeugnisse planen und vermarkten; Saaten planen und diese säen und ernten; Nutztiere züchten und halten; Pflanzen und Tiere beobachten und ggf. Krankheiten feststellen</taetigkeitsbeschreibung>
+  <bezeichnung>Landwirt/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11102">Berufe in der Landwirtschaft (o.S.) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6130">Mixed crop and animal producers</isco>
+      <dkz codenr="11102-100" refid="271">Landwirt/in</dkz>
+      <dkz codenr="11102-107" refid="35008">Fachkraft - Agrarservice</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Schließt Ihre Arbeit auch die Haltung und Zucht von Tieren mit ein?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat Ihre Arbeit auch die Haltung und Zucht von Tieren mit eingeschlossen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="11102">Berufe in der Landwirtschaft (o.S.) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6130">Mixed crop and animal producers</isco>
+      <dkz codenr="11102-100" refid="271">Landwirt/in</dkz>
+      <dkz codenr="11102-107" refid="35008">Fachkraft - Agrarservice</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="11102">Berufe in der Landwirtschaft (o.S.) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6111">Field crop and vegetable growers</isco>
+      <dkz codenr="11102-100" refid="271">Landwirt/in</dkz>
+      <dkz codenr="11102-107" refid="35008">Fachkraft - Agrarservice</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1011">Helfer/in in der Tierwirtschaft und im Ackerbau</abgrenzung>
+  <abgrenzung typ="mittel" refid="1851">Landwirtschaftliche/r Betriebsleiter/in</abgrenzung>
+</kategorie>

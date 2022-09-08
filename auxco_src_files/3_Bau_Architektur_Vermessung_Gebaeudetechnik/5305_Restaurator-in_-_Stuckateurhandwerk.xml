@@ -1,0 +1,16 @@
+<kategorie>
+  <id>5305</id>
+  <taetigkeit>Konservierung, Restaurierung und Rekonstruktion von Stuck</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bauliche Schäden an Stuck mit handwerklichen Mitteln analysieren; Stuckdecken freilegen und nach historischen Vorbildern wiederherstellen; Häuserfassaden und Fassadenstuck nach historischen Bauplänen restaurieren; Oberflächen mit Stuckmarmor oder Stuccolustro gestalten; Modelle und Abgüsse im Rahmen von Restaurierungs- und Denkmalschutzarbeiten herstellen; detaillierte Mengen- und Kostenschätzung für Materialien und Arbeitskräfte erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Restaurator/in - Stuckateurhandwerk</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33223">Stuckateurarbeiten - Spezialist</kldb>
+      <isco schluessel="7123">Plasterers</isco>
+      <dkz codenr="33223-100" refid="4262">Restaurator/in - Stuckateurhandwerk</dkz>
+      <dkz codenr="33223-101" refid="4264">Stuckateur/in - Restaurierungsarbeiten</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5304">Stuckateur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5128">bildende/r Künstler/in</abgrenzung>
+</kategorie>

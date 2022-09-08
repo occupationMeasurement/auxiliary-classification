@@ -1,0 +1,16 @@
+<kategorie>
+  <id>5254</id>
+  <taetigkeit>Beurteilung des Zustandes von Bauwerken als Beratungsleistung sowie zur Erstellung von Gutachten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kontrollsysteme zur Sicherstellung einer effizienten Funktion von Bauten bezüglich ihrer Sicherheit und Umweltschutz festlegen; Bauabnahmen durchführen; Gerichts-, Schieds- und Privatgutachten als auch bauphysikalische Gutachten erstellen; das Ausmaß von Bauschäden beurteilen; Ursachen der Schäden klären und Kosten zur Beseitigung schätzen</taetigkeitsbeschreibung>
+  <bezeichnung>Bausachverständiger/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="31164">Bausachverständige und Baukontrolleure/-kontrolleurinnen - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="31164-100" refid="5112">Bausachverständige/r</dkz>
+      <dkz codenr="31164-103" refid="59345">Ingenieur/in - Bauphysik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5281">Baukontrolleur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5255">Baubiologe/ -biologin</abgrenzung>
+</kategorie>

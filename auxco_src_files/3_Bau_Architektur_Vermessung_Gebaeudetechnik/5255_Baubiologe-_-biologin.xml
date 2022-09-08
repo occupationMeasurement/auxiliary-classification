@@ -1,0 +1,15 @@
+<kategorie>
+  <id>5255</id>
+  <taetigkeit>Untersuchung und Dokumentation der Schadstoffbelastung von Gebäuden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gebäude auf Wohn-, Umweltgifte und andere gefährliche Umwelteinflüsse untersuchen; chemische, biologische und physikalische Belastungen wie Schimmelpilzbefall, elektromagnetische Felder oder giftige Holzschutzmittel ermitteln; auf Grundlage ihrer Ergebnisse Lösungsstrategien erarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Baubiologe/ -biologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="31164">Bausachverständige und Baukontrolleure/-kontrolleurinnen - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2263">Environmental and occupational health and hygiene professionals</isco>
+      <dkz codenr="31164-102" refid="27729">Baubiologe/-biologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5281">Baukontrolleur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5254">Bausachverständige/r</abgrenzung>
+</kategorie>

@@ -1,0 +1,16 @@
+<kategorie>
+  <id>4225</id>
+  <taetigkeit>Ausführung von physikalisch-technischen Verfahren, wie beispielsweise die Erfassung von Messdaten in der Nuklear-, Mess- oder Emissionstechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. ermittelte Daten in grafischer oder Listenform aufbereiten; Messen von Drehmomenten, Emissionen, Belastungen oder Produktionsparametern; Messdaten bzw. deren Auswertung dokumentieren; bei Abweichungen in der Zusammensetzung von Metalllegierungen die Ursachen ermitteln</taetigkeitsbeschreibung>
+  <bezeichnung>Messtechniker/in - Strahlenbelastung und physikalische Größen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41483">Physik (s.s.T.) - Spezialist</kldb>
+      <isco schluessel="3111">Chemical and physical science technicians</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1793">Physiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4224">Fachkraft für physikalische Messgeräte und Apparaturen</abgrenzung>
+  <abgrenzung typ="mittel" refid="4018">Physik-Techniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1794">Werkstoffprüfer/in</abgrenzung>
+</kategorie>

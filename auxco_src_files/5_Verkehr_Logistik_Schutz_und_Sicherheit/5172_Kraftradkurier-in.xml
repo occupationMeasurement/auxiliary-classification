@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5172</id>
+  <taetigkeit>Auslieferung von Waren an Kunden mit Krafträdern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Touren zusammenstellen; Fahrzeuge beladen; Pakete abgeben und annehmen; Möbel oder Geräte aufstellen; Zahlungen entgegennehmen; Altgeräte zur Entsorgung entgegennehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Kraftradkurier/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52182">FahrzeugführerStraßenverk(ssT)-Fachkraft</kldb>
+      <isco schluessel="8321">Motorcycle drivers</isco>
+      <dkz codenr="52182-104" refid="33361">Servicefahrer/in</dkz>
+      <dkz codenr="52182-101" refid="7172">Auslieferungsfahrer/in (nicht Verkaufsfahrer/in)</dkz>
+      <dkz codenr="52182-102" refid="7186">Botenfahrer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5042">Kraftfahrer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5171">Fahrradkurier/in bzw. Handwagenkurier/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5045">Lieferwagenfahrer/in</abgrenzung>
+</kategorie>

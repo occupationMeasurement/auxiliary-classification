@@ -1,0 +1,42 @@
+<kategorie>
+  <id>5141</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Kunsthandwerk oder der bildenden Kunst</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. über die Materialauswahl und -beschaffung entscheiden; Kennzahlen, wie Holzbedarf und Fertigungszeiten, berechnen; sicherstellen, dass ausreichend Betriebs- und Hilfsmittel auf Lager sind; Arbeitsaufträge an die Mitarbeiter vergeben; Qualitätskontrollen durchführen; Eingang von Rechnungen überwachen und überprüfen; Personaleinsatz planen</taetigkeitsbeschreibung>
+  <bezeichnung>Kunsthandwerksmeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93393">Aufsicht - Kunsthandwerk,bildende Kunst</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="93393-100" refid="1161">Wachsziehermeister/in</dkz>
+      <dkz codenr="93393-101" refid="1527">Drechsler-(Elfenbeinschni.) u. Holzspielzeugmachermeister/in</dkz>
+      <dkz codenr="93393-102" refid="1532">Holzbildhauermeister/in</dkz>
+      <dkz codenr="93393-107" refid="4638">Vergoldermeister/in</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>In welchem Bereich sind Sie vorwiegend tätig?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>In welchem Bereich waren Sie vorwiegend tätig?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>in der Bildhauerei, Drechslerei und Spielzeugherstellung, in der Wachszieherei, im Vergolderhandwerk oder in anderen Bereichen der bildenden Kunst</text>
+      <kldb schluessel="93393">Aufsicht - Kunsthandwerk,bildende Kunst</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+    </antwort>
+    <antwort position="2">
+      <text>In der Keramik- und Glasgestaltung</text>
+      <kldb schluessel="93493">Aufsicht-Kunsthandw.Keramik,Glasgestalt.</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+    </antwort>
+    <antwort position="3">
+      <text>In der Schmuckherstellung und Gravur, Schilder- und Lichtreklameherstellung oder Metallbildnerei</text>
+      <kldb schluessel="93593">Aufsicht-Kunsthandwerkl.Metallgestaltung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5127">Kunsthandwerker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9230">Leiter/in - Glasherstellung</abgrenzung>
+  <abgrenzung typ="mittel" refid="9233">Leiter/in - Keramikfabrik</abgrenzung>
+  <abgrenzung typ="mittel" refid="5146">Glasdesigner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2121">Metall- und Glockengießermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2047">Metallbaumeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5148">Metalldesigner/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,21 @@
+<kategorie>
+  <id>5052</id>
+  <taetigkeit>Führen von Schiffen auf See</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Reise planen; Navigation durchführen; Route festlegen; Schiffe unter allen Bedingungen manövrieren; geeignete Maßnahmen bei Fehlern ergreifen; die Einhaltung rechtlicher Vorschriften und Maßnahmen überwachen; für Sicherheit an Bord sorgen; Einholung des Fanggerätes kontrollieren</taetigkeitsbeschreibung>
+  <bezeichnung>Kapitän/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52414">Naut.Schiffsoffiziere, Kapitäne-Experte</kldb>
+      <isco schluessel="3152">Ships' deck officers and pilots</isco>
+      <dkz codenr="52414-111" refid="58993">Kapitän/in</dkz>
+      <dkz codenr="52414-100" refid="7207">Nautiker/in (Hochschule)</dkz>
+      <dkz codenr="52414-106" refid="7249">Schiffsbetriebsoffizier (FH) - Nautik/Technik</dkz>
+      <dkz codenr="52414-103" refid="7212">Kapitän/in (FH)</dkz>
+      <dkz codenr="52414-104" refid="7215">Kapitän/in (Fachschule)</dkz>
+      <dkz codenr="52414-105" refid="7225">Kapitän/in - Große Hochseefischerei</dkz>
+      <dkz codenr="52414-112" refid="59012">Schiffsbetriebsoffizier/in - Nautik/Technik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5051">Nautische/r Schiffsoffizier/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5017">Schiffslotse/-lotsin</abgrenzung>
+</kategorie>

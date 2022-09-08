@@ -1,0 +1,15 @@
+<kategorie>
+  <id>5333</id>
+  <taetigkeit>Sammlung von Abfällen zum Abtransport auf dem Mülllastwagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Abfälle und wieder verwertbare Materialien sammeln und in Behälter einsortieren sowie auf Lastkraftwagen zur Sammlung von Abfällen und Wertstoffen laden; auf oder in Lastkraftwagen zur Sammlung von Abfällen oder Wertstoffen mitfahren; Abfälle durchsuchen und Gegenstände zur Wiederverwertung auf Deponien oder öffentlichen Plätzen sammeln; Heben von Abfallbehältnissen und Entleeren ihres Inhaltes in Lastkraftwagen und größere Behältnisse</taetigkeitsbeschreibung>
+  <bezeichnung>Müllmann/Müllfrau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34301">Ver- und Entsorgung (o.S.) - Helfer</kldb>
+      <isco schluessel="9611">Garbage and recycling collectors</isco>
+      <dkz codenr="34301-101" refid="90131">Helfer/in - Ver- und Entsorgung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1787">Organsiator/in - Abfallwirtschaft</abgrenzung>
+  <abgrenzung typ="mittel" refid="5042">Kraftfahrer/in</abgrenzung>
+</kategorie>

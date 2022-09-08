@@ -1,0 +1,37 @@
+<kategorie>
+  <id>1846</id>
+  <taetigkeit>Planung, Koordination und Überwachung von Metallbauprojekten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Leichtmetallbauteile und -konstruktionen entwerfen; Konstruktionszeichnungen mittels rechnergesteuerten Zeichenanlagen anfertigen; Materialbedarf ermitteln; Herstellungsprozesse in technischer und terminlicher Hinsicht planen und überwachen; Einrichtung von Montagebaustellen planen; Qualitätskontrollen an Metallerzeugnissen durchführen; neue Theorien und Methoden im Metallbau erforschen und entwickeln; Kontrollsysteme zur Sicherstellung einer effizienten Funktion der Konstruktion festlegen</taetigkeitsbeschreibung>
+  <bezeichnung>Metallbautechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24413">Berufe im Metallbau - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="24414">Berufe im Metallbau - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="24414-101" refid="59338">Stahl- und Metallbauingenieur/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="24413">Berufe im Metallbau - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="24413-100" refid="2121">Restaurator/in - Metallbauerhandwerk</dkz>
+      <dkz codenr="24413-108" refid="14293">Metallbauer/in - Restaurierungsarbeiten</dkz>
+      <dkz codenr="24413-112" refid="58466">Techniker/in - Metallbautechnik (Gebäudetechnik)</dkz>
+      <dkz codenr="24413-102" refid="5634">Techniker/in - Metallbautechnik (Leichtmetallbau)</dkz>
+      <dkz codenr="24413-103" refid="5638">Techniker/in - Metallbautechnik (ohne Schwerpunkt)</dkz>
+      <dkz codenr="24413-106" refid="5641">Techniker/in - Metallbautechnik (Stahlbau)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2034">Metallbauer/inn</abgrenzung>
+  <abgrenzung typ="mittel" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1720">Schweißtechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2047">Metallbaumeister/in</abgrenzung>
+</kategorie>

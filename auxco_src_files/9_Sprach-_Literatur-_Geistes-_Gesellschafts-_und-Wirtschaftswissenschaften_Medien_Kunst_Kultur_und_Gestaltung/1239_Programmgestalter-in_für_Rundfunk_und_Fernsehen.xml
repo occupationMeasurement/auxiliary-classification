@@ -1,0 +1,15 @@
+<kategorie>
+  <id>1239</id>
+  <taetigkeit>Gestaltung von Radio- und Fernsehprogrammen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. das Programm gemeinsam mit der Programmleitung, der Intendanz und den Redaktionen abstimmen; Zielgruppen definieren und Programmformate prüfen; Ausgewogenheit und Proporz des Programms beachten; Erfolg des Programms auf Basis von Zuschauerquoten überwachen und die Konkurrenz beobachten</taetigkeitsbeschreibung>
+  <bezeichnung>Programmgestalter/in für Rundfunk und Fernsehen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94484">Berufe in der Theater-, Film- und Fernsehproduktion (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2654">Film, stage and related directors and producers</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1240">Führungskraft in der Theater-, Film- und Fernsehproduktion</abgrenzung>
+  <abgrenzung typ="mittel" refid="1227">Film- und Fernsehwirt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1241">Dramaturg/in</abgrenzung>
+</kategorie>

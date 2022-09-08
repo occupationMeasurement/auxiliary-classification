@@ -1,0 +1,19 @@
+<kategorie>
+  <id>7063</id>
+  <taetigkeit>Überwachung klinischer Studien hinsichtlich gesetzlicher Vorschriften sowie die Koordination von Arzneimittelzulassungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Prüfpläne erstellen; Prüfzentren auswählen und beauftragen; Studienergebnisse sammeln und prüfen; Dokumentationen und Gutachten über klinische Studie erstellen; Zulassung von Arzneimitteln vorbereiten; Zulassungsprodukte bis zur endgültigen Marktreife betreuen; Beipackzettel hinsichtlich des Inhalts kontrollieren; Berichte über vermutete Nebenwirkungen bewerten</taetigkeitsbeschreibung>
+  <bezeichnung>Referent/in - klinische Studien (CRA)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81884">Berufe in der Pharmazie (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2262">Pharmacists</isco>
+      <dkz codenr="81884-101" refid="15006">Regulatory-Affairs-Manager/in</dkz>
+      <dkz codenr="81884-102" refid="27315">Referent/in - klinische Studien (CRA)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7061">Pharmareferent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7057">Apotheker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4012">Ingenieur/in - Chemietechnik</abgrenzung>
+  <abgrenzung typ="hoch" refid="7059">Arzt/Ärztin - Pharmakologie und Toxikologie</abgrenzung>
+  <abgrenzung typ="hoch" refid="7058">Pharmakologe/Pharmakologin</abgrenzung>
+</kategorie>

@@ -1,0 +1,14 @@
+<kategorie>
+  <id>5185</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten bei der Herstellung und Anwendung von Lacken und Farben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. alte Lackierungen von Werkstücken nach Anweisung abschleifen; zu bearbeitende Partien reinigen; beim Versiegeln von Hohlräumen und beim Konservieren von Oberflächen mit Pflegemitteln mithelfen; Werkstücke zu Trockenanlagen oder in den Lagerraum transportieren; Maschinen pflegen und reinigen; fertige Werkstücke verpacken und lagern</taetigkeitsbeschreibung>
+  <bezeichnung>Lackiererhelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22201">Farb-, Lacktechnik (o.S.) - Helfer</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="22201-101" refid="90134">Helfer/in - Farb- und Lacktechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5186">Lackierer/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,32 @@
+<kategorie>
+  <id>1843</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Produktionsprozessen bei der Umformung von Metall mittels Walzen, Pressen, Ziehen oder Schmieden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Entwurf und Konstruktion von Elementen der Metallumformung; Umformprozesse von Metall, z.B. durch Walzen oder Ziehen an multifunktionalen Prozessmaschinen planen und Durchführung überwachen; Qualitätskontrolle der Erzeugnisse durchführen; Betriebsabläufe kontrollieren; bei der Planung und Entwicklung von Rationalisierungs- und Investitionsvorhaben mitwirken; Kunden und Kundinnen beraten; betriebswirtschaftliche Planung und Weiterentwicklung von Betriebsabläufen; Forschungsmitarbeit im Bereich Metallumformung</taetigkeitsbeschreibung>
+  <bezeichnung>Metallumformungstechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24123">Berufe in der Metallumformung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3135">Metal production process controllers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="24124">Berufe in der Metallumformung - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2146">Mining engineers, metallurgists and related professionals</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="24123">Berufe in der Metallumformung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3135">Metal production process controllers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2006">Walzer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2007">Grob-/Hammerschmied/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2121">Metall- und Glockengießermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1844">Gießereitechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4022">Werkstofftechnik-Ingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1719">Steuerer von Verfahren in der Metallerzeugung</abgrenzung>
+</kategorie>

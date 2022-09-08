@@ -1,0 +1,19 @@
+<kategorie>
+  <id>5186</id>
+  <taetigkeit>Lackieren von Metall-, Holz- oder Kunststoffoberflächen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Oberflächen von Verunreinigungen befreien und mit Schleifmaschinen vorbehandeln; Unebenheiten verspachteln; Farbtöne herstellen; Farb- und Korrosionsschutzschichten auf Oberflächen aufbringen; Beschriftungen sowie Design- und Effektlackierungen entwerfen; Trocknungsprozess überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Lackierer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22202">Berufe in der Farb- und Lacktechnik (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7132">Spray painters and varnishers</isco>
+      <dkz codenr="22202-100" refid="4611">Lackierer/in - Holz und Metall</dkz>
+      <dkz codenr="22202-101" refid="4615">Lackierer/in - Spritzlackierung</dkz>
+      <dkz codenr="22202-102" refid="4617">Lackierer/in - Tauchlackierung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5185">Lackiererhelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5189">Fahrzeuglackierer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5187">Farb- und Lacktechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3023">Maler/in und Lackierer/in</abgrenzung>
+</kategorie>

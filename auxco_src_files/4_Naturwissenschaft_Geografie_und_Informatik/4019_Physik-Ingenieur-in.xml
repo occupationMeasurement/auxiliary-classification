@@ -1,0 +1,18 @@
+<kategorie>
+  <id>4019</id>
+  <taetigkeit>Entwicklung und Optimierung technischer Anwendungen auf Basis physikalischer Forschungsergebnisse</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. physikalisch-technische Geräte, wie beispielsweise Laser, konstruieren und testen; neue Mess- und Fertigungsverfahren entwickeln; physikalisch-technische Versuchsreihen auswerten; Beratungen zum Einsatz der entwickelten physikalischen Produkte durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Physik-Ingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41414">Physikalisch-techn. Laboratorium-Experte</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="41414-108" refid="58738">Ingenieur/in - Physik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1796">Laborleiter/in - Physik, Werk- und Baustoffprüfung</abgrenzung>
+  <abgrenzung typ="hoch" refid="1793">Physiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1735">Mikrosystemtechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1707">Mikrotechnologe/-login</abgrenzung>
+  <abgrenzung typ="mittel" refid="2139">Optoelektronikingenieur/in</abgrenzung>
+</kategorie>

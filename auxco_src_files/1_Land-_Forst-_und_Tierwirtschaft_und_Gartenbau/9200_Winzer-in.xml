@@ -1,0 +1,32 @@
+<kategorie>
+  <id>9200</id>
+  <taetigkeit>Anbau, Pflege und Ernte von Trauben sowie deren Verarbeitung und Vertrieb</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Reben züchten und pflegen; neue Weinberge anlegen; Saatgut und Pflanzen von Sämlingen auswählen; Arbeiten am Rebstock sowie Bodenpflege und Düngung durchführen; Rebschädlinge und Rebkrankheiten bekämpfen; Trauben lesen</taetigkeitsbeschreibung>
+  <bezeichnung>Winzer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11602">Berufe im Weinbau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6112">Tree and shrub crop growers</isco>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Haben Sie zusätzlich zur Arbeit auf dem Weinberg noch weitere Aufgaben?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hatten Sie zusätzlich zur Arbeit auf dem Weinberg noch weitere Aufgaben?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="11603">Berufe im Weinbau - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="6112">Tree and shrub crop growers</isco>
+      <dkz codenr="11603-103" refid="13753">Techniker/in - Weinbau und Kellerwirtschaft</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="11602">Berufe im Weinbau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6112">Tree and shrub crop growers</isco>
+      <dkz codenr="11602-100" refid="293">Winzer/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1060">Gärtner/in - Obstbau</abgrenzung>
+  <abgrenzung typ="hoch" refid="1012">Landwirt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9008">Weinküfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9201">Weinbauberater/in</abgrenzung>
+</kategorie>

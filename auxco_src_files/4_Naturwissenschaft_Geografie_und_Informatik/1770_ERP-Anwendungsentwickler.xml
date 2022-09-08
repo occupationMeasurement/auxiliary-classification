@@ -1,0 +1,39 @@
+<kategorie>
+  <id>1770</id>
+  <taetigkeit>Programmierung und Anpassung von ERP-Software für unternehmensspezifische Bedürfnisse</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. ERP-Software (Enterprise Resource Planning) auf spezifische Bedürfnisse des Unternehmens anpassen; Programmiersprachen und Software-Tools problemspezifisch anwenden; ergonomische Benutzerschnittstellen bedarfsgerecht konzipieren; Dokumentationen von Softwareentwicklungsprozessen erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>ERP-Anwendungsentwickler</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43412">Softwareentwicklung - Fachkraft</kldb>
+      <isco schluessel="2514">Applications programmers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="43412">Softwareentwicklung - Fachkraft</kldb>
+      <isco schluessel="2514">Applications programmers</isco>
+      <dkz codenr="43412-100" refid="6353">Mathematisch-technische/r Assistent/in</dkz>
+      <dkz codenr="43412-104" refid="14623">Mathematisch-technische/r Assistent/in</dkz>
+      <dkz codenr="43412-107" refid="51028">Mathematisch-technische/r Softwareentwickler/in</dkz>
+      <dkz codenr="43412-102" refid="7820">Assistent/in - Informatik (Softwaretechnik)</dkz>
+      <dkz codenr="43412-103" refid="13659">Fachinformatiker/in - Anwendungsentwicklung</dkz>
+      <dkz codenr="43412-106" refid="35018">Fachberater/in - Softwaretechniken</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="43413">Softwareentwicklung - Spezialist</kldb>
+      <isco schluessel="2512">Software developers</isco>
+      <dkz codenr="43413-101" refid="15284">Nutzerschnittstellenentwickler/in</dkz>
+      <dkz codenr="43413-102" refid="27544">ERP-Anwendungsentwickler/in</dkz>
+      <dkz codenr="43413-100" refid="7741">Systemprogrammierer/in</dkz>
+      <dkz codenr="43413-103" refid="89991">IT-Lösungsentwickler/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4038">Informatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4061">Softwareentwickler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4062">Organisationsprogrammierer/in</abgrenzung>
+</kategorie>

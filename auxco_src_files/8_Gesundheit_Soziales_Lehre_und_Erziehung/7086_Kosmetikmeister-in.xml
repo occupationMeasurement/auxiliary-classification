@@ -1,0 +1,16 @@
+<kategorie>
+  <id>7086</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im kosmetischen Bereich</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden beraten; im Salon praktisch mitarbeiten; Mitarbeiter fachlich unterstützen; Studioaussattung festlegen; Personaleinsatz planen und bei Aus- und Weiterbildung mitwirken; Kundenkartei und Terminkalender führen; Werbemaßnahmen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Kosmetikmeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82393">Aufsichtskräfte - Körperpflege</kldb>
+      <isco schluessel="5142">Beauticians and related workers</isco>
+      <dkz codenr="82393-106" refid="126672">Kosmetikermeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7080">Kosmetiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7085">Friseurmeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7087">Chefmaskenbildner/in</abgrenzung>
+</kategorie>

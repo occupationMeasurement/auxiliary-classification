@@ -1,0 +1,17 @@
+<kategorie>
+  <id>6052</id>
+  <taetigkeit>Verkauf von Nahrungs- und Genussmitteln sowie Präsentation und Verpackung der Produkte</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Lebensmittel präsentieren; Lebensmittel für den Verkauf vorbereiten, portionieren und abwiegen; Zahlungsmittel entgegennehmen; Kunden und über Inhaltsstoffe, Herstellung und Haltbarkeit der Ware beraten; für Sauberkeit und Hygiene in Verkaufs- und Lagerräumen sorgen; die Vorratshaltung und das Haltbarkeitsdatum der Lebensmittel überwachen; Nachbestellungen tätigen; Warenlieferungen annehmen und kontrollieren</taetigkeitsbeschreibung>
+  <bezeichnung>Lebensmittelfachverkäufer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62302">Verkauf Lebensmittel (o.S.) - Fachkraft</kldb>
+      <isco schluessel="5223">Shop sales assistants</isco>
+      <dkz codenr="62302-100" refid="14468">Fachverkäufer/in - Nahrungsmittel</dkz>
+      <dkz codenr="62302-103" refid="35121">Verkäufer/in - Nahrungsmittelhandwerk</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6038">Fleischwarenfachverkäufer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="6034">Kiosk-/Imbissverkäufer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6035">Bäcker- und Konditoreifachverkäufer/in</abgrenzung>
+</kategorie>

@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5268</id>
+  <taetigkeit>Herstellung und Instandhaltung des Unterbaus und Belags von Straßen, Wegen und Plätzen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Mithilfe von Straßenwalzen und anderen Baugeräten Erdbewegungen zur Ebnung und Glättung ausführen; Entwässerungsmöglichkeiten wie Gräben anlegen; Frostschutzmaterial in den Unterbau einbringen; Pfähle in den Untergrund einhämmern; Vorbereitungen zur Randbefestigung der seitlichen Begrenzung von Straßen und Wegen durchführen; Deckschichten, wie Asphalt oder Beton, herstellen; beschädigte Beläge maschinell ausbessern</taetigkeitsbeschreibung>
+  <bezeichnung>Straßenbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32222">Straßen- und Asphaltbau - Fachkraft</kldb>
+      <isco schluessel="8342">Earthmoving and related plant operators</isco>
+      <dkz codenr="32222-100" refid="4101">Straßenbauer/in</dkz>
+      <dkz codenr="32222-105" refid="4118">Schwarzstraßenbauer/in</dkz>
+      <dkz codenr="32222-108" refid="4301">Asphaltbauer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1854">Bauhelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1780">Straßenbautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5040">Straßenwärter/in</abgrenzung>
+</kategorie>

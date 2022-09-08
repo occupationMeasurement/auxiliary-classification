@@ -1,0 +1,17 @@
+<kategorie>
+  <id>5056</id>
+  <taetigkeit>Bedienung von Gabelstaplern und anderen Transportgeräten bei der Verladung und Lagerung von Waren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die geeigneten Geräte für Be- und Entladevorgänge auswählen; Waren vor dem Transport sichern; Funktionsfähigkeit und Sicherheit der Transport- und Fördermittel prüfen; Geräte warten</taetigkeitsbeschreibung>
+  <bezeichnung>Staplerfahrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52531">Kranführ., Bediener Hebeeinricht.-Helfer</kldb>
+      <isco schluessel="8344">Lifting truck operators</isco>
+      <dkz codenr="52531-100" refid="7427">Transportgeräteführer/in</dkz>
+      <dkz codenr="52531-101" refid="7429">Gabelstaplerfahrer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5001">Lagerarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5012">Hafenarbeiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5057">Kranfahrer/in</abgrenzung>
+</kategorie>

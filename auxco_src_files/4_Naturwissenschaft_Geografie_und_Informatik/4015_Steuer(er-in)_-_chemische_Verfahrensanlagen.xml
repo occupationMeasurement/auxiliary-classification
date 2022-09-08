@@ -1,0 +1,21 @@
+<kategorie>
+  <id>4015</id>
+  <taetigkeit>Steuerung und Überwachung chemischer Verfahrensanlagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. elektronische Schaltanlagen bedienen und überwachen; Produktionsprozesse kontrollieren; Fehlerbehebung steuern; Wartungsarbeiten an Maschinen anordnen; Routinebetriebstests durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Steuer(er/in) - chemische Verfahrensanlagen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41333">Steuerer chem. Verfahrensanl.-Spezialist</kldb>
+      <isco schluessel="3133">Steuerer von chemischen Verfahrensanlagen</isco>
+      <dkz codenr="41333-104" refid="90901">Steuer(er/in) - chemische Wärmebehandlungsanlagen</dkz>
+      <dkz codenr="41333-101" refid="90771">Steuer(er/in) - chem. Destillationsapparate und -reaktoren</dkz>
+      <dkz codenr="41333-102" refid="90787">Steuer(er/in) - chemische Filter- und Trennausrüstungen</dkz>
+      <dkz codenr="41313-101" refid="5788">Techniker/in - Chemietechnik (Betriebstechnik)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4016">Steuer(er/in) - Erdöl- und Erdgasraffinationsanlagen</abgrenzung>
+  <abgrenzung typ="hoch" refid="4014">Chemische/r Laboratorium-Spezialist/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1791">Chemikant/in / Pharmakant/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1792">Laborleiter/in in der Chemie</abgrenzung>
+  <abgrenzung typ="hoch" refid="1800">Produktionsleiter/in in der Chemie</abgrenzung>
+</kategorie>
