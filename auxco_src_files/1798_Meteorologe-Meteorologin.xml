@@ -1,0 +1,46 @@
+<kategorie>
+  <id>1798</id>
+  <taetigkeit>Sammlung und Auswertung meteorologischer Daten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wetterablauf beobachten und Wetterelemente messen; Zusammensetzung der Atmosphäre untersuchen bspw. Radioaktivität messen; arbeiten an der Entwicklung, Erprobung und Wartung metereologischer Instrumente; auf Grundlage von Wetteranaylsen metereologische Beratungen durchführen;an Wettervorhersagen arbeiten; klimatisch relevante Wetterphänomene, wie den Treibhauseffekt erforschen</taetigkeitsbeschreibung>
+  <bezeichnung>Meteorologe/Meteorologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42143">Meteorologie - Spezialist</kldb>
+      <isco schluessel="3111">Chemical and physical science technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="42142">Meteorologie - Fachkraft</kldb>
+      <isco schluessel="3111">Chemical and physical science technicians</isco>
+      <dkz codenr="42142-100" refid="5853">Beamt(er/in) - Wetterdienst (mittl. Dienst)</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="42143">Meteorologie - Spezialist</kldb>
+      <isco schluessel="3111">Chemical and physical science technicians</isco>
+      <dkz codenr="42143-100" refid="5854">Beamt(er/in) - Wetterdienst (geh. Dienst)</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium im Bereich Meteorologie</text>
+      <kldb schluessel="42143">Meteorologie - Spezialist</kldb>
+      <isco schluessel="3111">Chemical and physical science technicians</isco>
+      <dkz codenr="42143-100" refid="5854">Beamt(er/in) - Wetterdienst (geh. Dienst)</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium im Bereich Meteorologie</text>
+      <kldb schluessel="42144">Meteorologie - Experte</kldb>
+      <isco schluessel="2112">Meteorologists</isco>
+      <dkz codenr="42144-102" refid="58757">Meteorologe/Meteorologin</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="4029">Geologe/Geologin</abgrenzung>
+  <abgrenzung typ="mittel" refid="1797">Geologielaborant/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

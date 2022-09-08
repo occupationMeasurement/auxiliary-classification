@@ -1,0 +1,22 @@
+<kategorie>
+  <id>7008</id>
+  <taetigkeit>Durchführung von künstlichen Besamungen bei landwirtschaftlichen Nutztieren sowie Beratung der Tierhalter bei der Zucht</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. künstliche Besamung an Schweinen oder Rindern durchführen; Trächtigkeituntersuchungen durchführen; Sperma entnehmen und konservieren; Instrumente bedienen und pflegen; Tierhalter bezüglich der artgerechten Haltung beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Tierarztfachhelfer/in - Besamungswesen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81143">Tiermedizinische Fachangestellte - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3240">Veterinary technicians and assistants</isco>
+      <dkz codenr="81143-101" refid="6333">Fachagrarwirt/in - Besamungswesen</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7001">Arzthelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1826">Tierarzthelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7015">Veterinärmedizinische/r Laborant/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1710">Tierwirtschaftsmeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7036">Tierarzt/-ärztin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

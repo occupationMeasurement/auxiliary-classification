@@ -1,0 +1,22 @@
+<kategorie>
+  <id>1756</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten im Gebäudeausbau oder im Trockenbau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fachkräfte beim Ausbau von Gebäuden, wie z.B. bei Zimmer-, Isolier- oder Trockenbauarbeiten unterstützen;	Material, wie z.B. Gips und Mörtel, mischen, ausleeren und verbreiten; Material und Arbeitsmittel verladen, entladen und lagern</taetigkeitsbeschreibung>
+  <bezeichnung>Helfer/in - Gebäudeausbau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33301">Berufe im Aus- und Trockenbau (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9313">Building construction labourers</isco>
+      <dkz codenr="33301-106" refid="50936">Helfer/in - Ausbau</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1854">Bauhelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1755">Helfer/in - Bodenverlegung</abgrenzung>
+  <abgrenzung typ="mittel" refid="5350">Hochbauarbeiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5316">Trockenbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3013">Isolierfacharbeiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

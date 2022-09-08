@@ -1,0 +1,20 @@
+<kategorie>
+  <id>7040</id>
+  <taetigkeit>Unterstützung von Psychotherapeuten oder Psychiatern bei der Behandlung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. quantitative Tests und strukturierte Interviews nach Leitfaden durchführen; Gesundheitszustand der Patienten abfragen; Reaktion auf Behandlung aufzeichen; bei therapeutischen Gesprächen und psychologischen Beratungen assistieren; bei der Auswertung von Gesprächsanalysen, Befragungsergebnissen, Beurteilungsbögen mitwirken; Schriftverkehr mit Klienten und Versicherungen führen; Termine vereinbaren; Hilfsmittel bereitstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Psychologische/r Assistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81623">Berufe in der klinischen Psychologie - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3259">Health associate professionals not elsewhere classified</isco>
+      <dkz codenr="81623-100" refid="8991">Psychologisch-technische/r Assistent/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7041">Psychologe/Psychologin</abgrenzung>
+  <abgrenzung typ="hoch" refid="7104">Krankenschwester/-pfleger</abgrenzung>
+  <abgrenzung typ="mittel" refid="7020">Fachkinderkrankenschwester/ -pfleger</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

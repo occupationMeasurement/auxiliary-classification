@@ -1,0 +1,20 @@
+<kategorie>
+  <id>7110</id>
+  <taetigkeit>Fertigung, Anpassung und Reparatur von Zahnersatz sowie zahn- und kieferregulierenden Geräten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rezepte von Zahnärzten oder Kieferorthopäden interpretieren; Arbeitsmodelle anhand von Gebissabdrücken und Schablonen anfertigen und individuell anpassen; Voll- und Teilprothesen sowie anderen Zahnersatz modellieren, anpassen, verblenden und polieren; kieferorthopädische Geräte, Kieferbruchschienen, Parodontoseschienen oder Implantate herstellen; feinmechanische Hilfsteile einarbeiten und reparieren; Patienten in der Verwendung und Pflege unterweisen</taetigkeitsbeschreibung>
+  <bezeichnung>Zahntechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82542">Berufe in der Zahntechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3214">Medical and dental prosthetic technicians</isco>
+      <dkz codenr="82542-101" refid="2618">Zahntechniker/in</dkz>
+      <dkz codenr="82542-102" refid="2619">Zahntechniker/in (Kieferorthopädie)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7002">Zahnarzthelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1831">Zahntechnikermeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,19 @@
+<kategorie>
+  <id>5109</id>
+  <taetigkeit>Planung von Schienenverkehrsnetzen sowie die Entwicklung von Konzepten zur Optimierung der Eisenbahninfrastruktur</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Leistungsfähigkeit bestehender Schienenstrecken analysieren und prüfen; Neu- und Ausbaustrecken des Nah- und Fernverkehrs planen; Maßnahmen zur Reduktion von Lärm- und Umweltbelastungen entwickeln; Stellungnahmen und Gutachten verfassen; Beratungsaufgaben wahrnehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Ingenieur/in - Bahnbetrieb und Infrastruktur</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51224">Wart. Eisenbahninfrastruktur - Experte</kldb>
+      <isco schluessel="2164">Town and traffic planners</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5108">Bahnbeamter/-beamtin (gehobener technischer Dienst)</abgrenzung>
+  <abgrenzung typ="mittel" refid="5107">Streckenwärter/in (Bahn)</abgrenzung>
+  <abgrenzung typ="hoch" refid="1746">Betriebs- und Verkehrstechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

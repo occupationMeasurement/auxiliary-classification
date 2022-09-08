@@ -1,0 +1,38 @@
+<kategorie>
+  <id>9065</id>
+  <taetigkeit>Sortierung, Reinigung und Ausnehmen frischer Fische und deren Weiterverarbeitung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fische in Verarbeitungsanlagen sortieren, reinigen, ausnehmen und häuten; Fische filetieren und durch z.B. Würzen, Braten oder Räuchern weiterverarbeiten; Produkte konservieren oder tiefkühlen, portionieren und verpacken; Produkte während des Prozesses auf Geschmack, Konsistenz und Geruch prüfen; Produktionsanlagen Anlagen zur Fischverarbeitung reinigen, warten und pflegen; die Einhaltung von Qualitätsstandards sicherstellen; Konsumenten über Herkunft, Qualität und Zubereitung der Fischereiwaren beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Fischverarbeiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29242">Fischverarbeitung - Fachkraft</kldb>
+      <isco schluessel="8160">Food and related products machine operators</isco>
+      <dkz codenr="29242-100" refid="3709">Fischverarbeiter/in</dkz>
+      <dkz codenr="29242-106" refid="35122">Fischwerker/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Bedienen Sie bei dieser Tätigkeit hauptsächlich eine einzelne Maschine?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie bei dieser Tätigkeit hauptsächlich eine einzelne Maschine bedient?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="29242">Fischverarbeitung - Fachkraft</kldb>
+      <isco schluessel="8160">Food and related products machine operators</isco>
+      <dkz codenr="29242-100" refid="3709">Fischverarbeiter/in</dkz>
+      <dkz codenr="29242-106" refid="35122">Fischwerker/in</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="29242">Fischverarbeitung - Fachkraft</kldb>
+      <isco schluessel="7511">Butchers, fishmongers and related food preparers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9041">Helfer/in - Lebensmitteltechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="9066">Lebensmitteltechniker/in - Fischerzeugnisse</abgrenzung>
+  <abgrenzung typ="mittel" refid="9079">Koch/Köchin</abgrenzung>
+  <abgrenzung typ="mittel" refid="1518">Fischer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

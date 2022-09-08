@@ -1,0 +1,20 @@
+<kategorie>
+  <id>6064</id>
+  <taetigkeit>Verkauf von Bürobedarf im Einzelhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kundenwünsche ermitteln; Kunden über Material, Qualität und Funktion von Büroartikeln beraten; Produkte für Kunden zusammenstellen; Ware kassieren, Rechnungen erstellen und Zahlungsmittel entgegennehmen; Ware anschaulich präsentieren und den Verkaufsraum dekorieren; Reservierungen und Reklamationen entgegennehmen; Ware umtauschen; bei der Lagerhaltung, bei Produktinventarisierungen und Bestandsaufnahmen helfen</taetigkeitsbeschreibung>
+  <bezeichnung>Bürobedarfsverkäufer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62232">Verkauf (Büro,Geschenk,Spiel)-Fachkraft</kldb>
+      <isco schluessel="5223">Shop sales assistants</isco>
+      <dkz codenr="62232-101" refid="6566">Kaufmann/-frau - Einzelhandel (Bürowirtschaft)</dkz>
+      <dkz codenr="62232-103" refid="14766">Fachverkäufer/in - Bürobedarf</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+  <abgrenzung typ="mittel" refid="6080">Geschenkartikelverkäufer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

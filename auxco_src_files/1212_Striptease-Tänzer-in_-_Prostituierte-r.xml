@@ -1,0 +1,19 @@
+<kategorie>
+  <id>1212</id>
+  <taetigkeit>Ausführung von sexuellen Dienstleistungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden in Restaurants und auf Ausflüge begleiten; Kunden in Nachtclubs unterhalten; den eigenen Körper zurechtmachen und pflegen; Kunden mit dem Körper durch Tanz oder Sex unterhalten</taetigkeitsbeschreibung>
+  <bezeichnung>Striptease-Tänzer/in / Prostituierte/r</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94252">Berufe für personenbezogene Dienstleistungen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="5169">Personal services workers not elsewhere classified</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1769">Striptease-Tänzer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6098">Eintrittskartenkontrolleur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6099">Hilfskraft - Veranstaltungsservice</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

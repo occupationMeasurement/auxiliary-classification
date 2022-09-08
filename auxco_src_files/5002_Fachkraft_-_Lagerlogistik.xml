@@ -1,0 +1,28 @@
+<kategorie>
+  <id>5002</id>
+  <taetigkeit>Umschlag und Lagerung von Gütern sowie Mitwirkung bei logistischen Organisationsprozessen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Organisation, Empfang und Kontrolle von Waren; Kommissionierung; Verpackung und Verladung von Gütern und deren Bedarfsschätzung</taetigkeitsbeschreibung>
+  <bezeichnung>Fachkraft - Lagerlogistik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51312">Berufe in der Lagerwirtschaft - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="4321">Stock clerks</isco>
+      <dkz codenr="51312-101" refid="4704">Handelsfachpacker/in</dkz>
+      <dkz codenr="51312-112" refid="27538">Fachlagerist/in</dkz>
+      <dkz codenr="51312-104" refid="7399">Fachkraft - Lagerwirtschaft</dkz>
+      <dkz codenr="51312-110" refid="14094">Disponent/in - Lager</dkz>
+      <dkz codenr="51312-111" refid="27449">Fachkraft - Lagerlogistik</dkz>
+      <dkz codenr="51312-106" refid="7406">Zahnlagerist/in - Zahnlagerverwalter/in</dkz>
+      <dkz codenr="51312-107" refid="7419">Warenannehmer/in</dkz>
+      <dkz codenr="51312-108" refid="7540">Assistent/in - Logistik</dkz>
+      <dkz codenr="51312-109" refid="14013">Fachkraft - Logistik/Materialwirtschaft</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5012">Hafenarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5005">Fachkraft - Hafenlogistik</abgrenzung>
+  <abgrenzung typ="hoch" refid="5028">Kommissionierer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

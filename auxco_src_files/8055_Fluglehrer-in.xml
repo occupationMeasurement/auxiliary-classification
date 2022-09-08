@@ -1,0 +1,18 @@
+<kategorie>
+  <id>8055</id>
+  <taetigkeit>Erteilung von praktischem und theoretischem Unterricht im Führen von Flugzeugen oder Hubschraubern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Themen wie Navigation, Bedienung von Flugzeugapparaturen, Sprechfunk, Luftrecht, Flugsicherung und Meteorologie behandeln; Flugübungen durchführen; praktische Flugausbildung in Übereinstimmung mit den amtlichen Ausbildungsrichtlinien durchführen; in die Handhabung des Flugzeugs am Boden einweisen</taetigkeitsbeschreibung>
+  <bezeichnung>Fluglehrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84523">Fluglehrer/innen - Spezialist</kldb>
+      <isco schluessel="3153">Aircraft pilots and related associate professionals </isco>
+      <dkz codenr="84523-100" refid="9554">Segelfluglehrer/in</dkz>
+      <dkz codenr="84523-101" refid="9571">Fluglehrer/in</dkz>
+    </default>
+  </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

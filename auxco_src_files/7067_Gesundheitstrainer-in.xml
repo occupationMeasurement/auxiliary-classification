@@ -1,0 +1,21 @@
+<kategorie>
+  <id>7067</id>
+  <taetigkeit>Durchführung von Gesundheitstrainings in den Bereichen Bewegung, Entspannung und Körperwahrnehmung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kursprogramme konzipieren; individuelle Trainingsprogramme zusammenstellen; Veranstaltungen und Kurse durchführen; Teilnehmer anleiten und korrigieren; Fortschritte dokumentieren; zu gesundheitsbewusstem Verhalten beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Gesundheitstrainer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82212">Berufe in der Gesundheitsberatung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3423">Fitness and recreation instructors and program leaders</isco>
+      <dkz codenr="82212-101" refid="90866">Gesundheitstrainer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7068">Gesundheitsberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8058">Fitnesstrainer/in  bzw. Gymnastiklehrer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7070">Gesundheitsförderer/-förderin</abgrenzung>
+  <abgrenzung typ="mittel" refid="1828">Ernährungstrainer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

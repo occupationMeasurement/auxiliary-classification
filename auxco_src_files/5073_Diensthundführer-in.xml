@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5073</id>
+  <taetigkeit>Führen von Hunden auf Kontroll- oder Streifengängen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Hunde betreuen und anleiten; Eindringlinge aufspüren, vom Gelände verweisen oder der Polizei übergeben; nach Beweismitteln, Waffen, Rauschgift oder Sprengstoff suchen</taetigkeitsbeschreibung>
+  <bezeichnung>Diensthundführer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53182">Obj.Pers.Brandschutz (ssT)-Fachkraft</kldb>
+      <isco schluessel="5419">Protective services workers not elsewhere classified</isco>
+      <dkz codenr="53182-101" refid="8112">Hundeführer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5072">Verkehrsüberwacher/in / Politesse</abgrenzung>
+  <abgrenzung typ="mittel" refid="5061">Sicherheitsdienstmitarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5078">Polizeivollzugsbeamter/-beamtin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,19 @@
+<kategorie>
+  <id>6075</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten zur Unterstützung der Servicekräfte in der Gastronomie</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. in der Küche bei der Vor- und Zubereitung von Speisen helfen; Tische nach Vorgaben decken und dekorieren; am Büffet nach Anweisung die Gäste beim Speise ausgeben bedienen; Reinigungsarbeiten durchführen; Geschirr maschinell und von Hand spülen und anschließend trocknen</taetigkeitsbeschreibung>
+  <bezeichnung>Küchenhelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63301">Gastronomieservice (o.S.) - Helfer</kldb>
+      <isco schluessel="9412">Kitchen helpers</isco>
+      <dkz codenr="63301-106" refid="10086">Helfer/in - Gastgewerbe</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9078">Küchenhilfe</abgrenzung>
+  <abgrenzung typ="hoch" refid="6074">Fast-Food- und Imbisskoch/-köchin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

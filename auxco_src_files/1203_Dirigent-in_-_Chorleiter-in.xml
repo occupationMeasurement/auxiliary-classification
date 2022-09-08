@@ -1,0 +1,36 @@
+<kategorie>
+  <id>1203</id>
+  <taetigkeit>Leitung und Koordination von Musikensembles sowie Gestaltung der Darbietung von Werken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Musikwerke auswählen und überzeugende Interpretationen erarbeiten; Instrumentenstimmmen koordinieren; Einsingen durchführen; Ensembles durch Schlagbewegungen der Hand, Mimik und Blicke dirigieren; Steuerung von Tempo, Laustärke, etc. durch präzise Einsätze</taetigkeitsbeschreibung>
+  <bezeichnung>Dirigent/in / Chorleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94134">Dirigenten/Dirigentinnen - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2652">Musicians, singers and composers</isco>
+      <dkz codenr="94134-106" refid="77860">Musikalische/r Oberleiter/in</dkz>
+      <dkz codenr="94134-107" refid="77911">Generalmusikdirektor/in</dkz>
+      <dkz codenr="94134-108" refid="78030">Musikalische/r Leiter/in</dkz>
+      <dkz codenr="94134-109" refid="78043">Erste/r Chordirektor/in</dkz>
+      <dkz codenr="94134-110" refid="78123">Musikdirektor/in</dkz>
+      <dkz codenr="94134-111" refid="78125">Zweite/r Kapellmeister/in</dkz>
+      <dkz codenr="94134-112" refid="78154">Zweite/r Chordirektor/in</dkz>
+      <dkz codenr="94134-113" refid="78223">Erste/r Kapellmeister/in</dkz>
+      <dkz codenr="94134-114" refid="78243">Kapellmeister/in Operette</dkz>
+      <dkz codenr="94134-115" refid="78253">Kapellmeister/in Ballett</dkz>
+      <dkz codenr="94134-116" refid="78266">Chefdirigent/in</dkz>
+      <dkz codenr="94134-117" refid="78298">Kapellmeister/in Oper</dkz>
+      <dkz codenr="94134-118" refid="78327">Kapellmeister/in und Chordirektor/in</dkz>
+      <dkz codenr="94134-119" refid="78339">Konzertmeister/in (Streicher)</dkz>
+      <dkz codenr="94134-101" refid="8365">Kapellmeister/in</dkz>
+      <dkz codenr="94134-103" refid="8368">Ensembleleiter/in</dkz>
+      <dkz codenr="94134-104" refid="8373">Chordirektor/in</dkz>
+      <dkz codenr="94134-105" refid="58696">Dirigent/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1206">Korrepetior/in - Gesang/Instrumentalisten/</abgrenzung>
+  <abgrenzung typ="mittel" refid="1200">Musiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

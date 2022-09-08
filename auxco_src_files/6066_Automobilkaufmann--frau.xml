@@ -1,0 +1,46 @@
+<kategorie>
+  <id>6066</id>
+  <taetigkeit>Verkauf von Kraftfahrzeugen, Zweirädern und Zubehör im Einzelhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kundenwünsche ermitteln; Beratungsgespräche führen über Funktionen und Zubehör der Fahrzeuge führen; Produkte nach Kundenvorstellungen zusammenstellen; den Verkaufspreis, inkl. Skonti und Rabatten, berechnen; Kauf- und Mietverträge erstellen und Kunden über Finanzierungsmöglichkeiten informieren; Reservierungen, Garantieanträge und Reklamationen aufnehmen; Ware umtauschen; Leistungen wie Reparatur- und Lieferservice, Fahrzeuganmeldung bzw. -abmeldung anbieten; den Warenbedarf ermitteln und Waren bestellen; Angebote, Lieferfristen sowie Liefer- und Zahlungsbedingungen prüfen; Bestell-, Einkaufs- und Lagerlisten führen; Termine mit Werkstätten abstimmen; mit Kfz-Versicherungen zusammenarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Automobilkaufmann/-frau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62272">Verkauf (KFZ, Zweirad,Zubehör)-Fachkraft</kldb>
+      <isco schluessel="5223">Shop sales assistants</isco>
+      <dkz codenr="62272-100" refid="6572">Kaufmann/-frau - Einzelhandel (Kraftfahrzeuge/Teile/Zubeh.)</dkz>
+      <dkz codenr="62272-101" refid="6619">Automobilkaufmann/-frau</dkz>
+      <dkz codenr="62272-103" refid="15168">Fachverkäufer/in - Kraftfahrzeuge</dkz>
+      <dkz codenr="62272-102" refid="6659">Fachverkäufer/in - Kfz-Zubehör, Reifen</dkz>
+      <dkz codenr="62272-104" refid="29386">Fachverkäufer/in - Zweiradhandel</dkz>
+      <dkz codenr="62272-105" refid="35325">Automobil-Serviceberater/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung zum/zur geprüften Fachverkäufer/in für Automobilteile und -zubehör erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung zum/zur geprüften Fachverkäufer/in für Automobilteile und -zubehör erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="62272">Verkauf (KFZ, Zweirad,Zubehör)-Fachkraft</kldb>
+      <isco schluessel="5223">Verkäufer und Verkaufshilfskräfte in Handelsgeschäften</isco>
+      <dkz codenr="62272-100" refid="6572">Kaufmann/-frau - Einzelhandel (Kraftfahrzeuge/Teile/Zubeh.)</dkz>
+      <dkz codenr="62272-101" refid="6619">Automobilkaufmann/-frau</dkz>
+      <dkz codenr="62272-103" refid="15168">Fachverkäufer/in - Kraftfahrzeuge</dkz>
+      <dkz codenr="62272-104" refid="29386">Fachverkäufer/in - Zweiradhandel</dkz>
+      <dkz codenr="62272-105" refid="35325">Automobil-Serviceberater/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="2">
+      <text>Ja</text>
+      <kldb schluessel="62272">Verkauf (KFZ, Zweirad,Zubehör)-Fachkraft</kldb>
+      <isco schluessel="5223">Verkäufer und Verkaufshilfskräfte in Handelsgeschäften</isco>
+      <dkz codenr="62272-100" refid="6572">Kaufmann/-frau - Einzelhandel (Kraftfahrzeuge/Teile/Zubeh.)</dkz>
+      <dkz codenr="62272-102" refid="6659">Fachverkäufer/in - Kfz-Zubehör, Reifen</dkz>
+      <dkz codenr="62272-104" refid="29386">Fachverkäufer/in - Zweiradhandel</dkz>
+      <dkz codenr="62272-105" refid="35325">Automobil-Serviceberater/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

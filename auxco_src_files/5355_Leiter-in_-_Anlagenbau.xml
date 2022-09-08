@@ -1,0 +1,22 @@
+<kategorie>
+  <id>5355</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Behälter- und Apparatebau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. den Bau von Anlagen, Behältern und Apparaten überwachen; mit Auftraggebern und Kunden, Lieferanten, Verbänden und Kreditinstituten verhandeln und zusammenarbeiten; Arbeitsabläufe inhaltlich und terminlich planen und steuern; Mitarbeiter fachlich unterstützen und bei deren Weiterbildung mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - Anlagenbau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34393">Aufsichtskräfte - Ver- und Entsorgung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="34393-100" refid="2152">Behälter- und Apparatebauermeister/in</dkz>
+      <dkz codenr="34393-105" refid="6152">Industriemeister/in - Metall (Apparatetechnik)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5345">Anlagenmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5346">Anlagenbautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5356">Leiter/in - Leitungsbau</abgrenzung>
+  <abgrenzung typ="mittel" refid="5357">Leiter/in - Wasserversorgung und -entsorgung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

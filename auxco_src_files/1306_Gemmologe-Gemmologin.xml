@@ -1,0 +1,21 @@
+<kategorie>
+  <id>1306</id>
+  <taetigkeit>Ermittlung des Wertes von Edelsteinen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Edelsteine nach ihrer Qualität beurteilen; dabei Art, Form, Größe und Reinheit des Steines, Schnitttechnik, Schliffqualität und Reinheitsvorgaben beachten; materiellen Wert von Edelsteinen bestimmen</taetigkeitsbeschreibung>
+  <bezeichnung>Gemmologe/Gemmologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94724">Kunstsachverständige - Experte</kldb>
+      <isco schluessel="3315">Valuers and loss assessors</isco>
+      <dkz codenr="94724-100" refid="9857">Gemmologe/Gemmologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1300">Kurator/in / Museologe/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6043">Kunst- und Antiquitätenhändler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6009">Auktionator/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1305">Kunstsachverständige/r</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,26 @@
+<kategorie>
+  <id>5154</id>
+  <taetigkeit>Herstellung und Reparatur von verschiedenen Musikinstrumenten sowie Überprüfung der Klangqualität</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Instrumententeile herstellen; Ton- und Resonanzhölzer auswählen, zuschneiden und in Form biegen; Instrumententeile zusammensetzen; Oberflächen schleifen oder polieren; Mundstücke und Klappen einarbeiten; Blechkörper ausbeulen; beschädigte Holzdecken oder Lackierungen erneuern; Verschleißteile austauschen</taetigkeitsbeschreibung>
+  <bezeichnung>Musikinstrumentenbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93602">Musikinstrumentenbau (o.S.) - Fachkraft</kldb>
+      <isco schluessel="7312">Musical instrument makers and tuners</isco>
+      <dkz codenr="93602-100" refid="90624">Musikinstrumentenbauer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5155">Musikinstrumentenrestaurator/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5156">Ingenieur/in- Musikinstrumentenbau</abgrenzung>
+  <abgrenzung typ="hoch" refid="5157">Streich- und Zupfinstrumentenmacher/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5159">Holzblasinstrumentenmacher/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5161">Metallblasinstrumentenmacher/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5163">Klavier- und Cembalobauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5165">Orgel- und Harmoniumbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5167">Handzuginstrumentenmacher/in, Harmonikamacher/in oder Schlagzeugbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6044">Musikfachhändler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

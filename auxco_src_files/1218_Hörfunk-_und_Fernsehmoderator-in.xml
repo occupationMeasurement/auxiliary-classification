@@ -1,0 +1,20 @@
+<kategorie>
+  <id>1218</id>
+  <taetigkeit>Leitung und Moderation von Sendungen im Radio oder im Fernsehen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. aktuelle Ereignisse verfolgen und daraus Themenvorschläge erarbeiten; Sendungen moderieren; Recherchearbeiten leisten; Interviewpartner einladen; Texte für Moderation verfassen; beim Radio Mischpult u.ä. bedienen; Gespräche mit Interviewpartnern führen und professionell reagieren</taetigkeitsbeschreibung>
+  <bezeichnung>Hörfunk- und Fernsehmoderator/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94334">Hörfunk- und Fernsehmoderatoren/-moderatorinnen - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2656">Announcers on radio, televisionand other media</isco>
+      <dkz codenr="94334-105" refid="77876">Sprecher/in (Fernsehen/Film/Rundfunk)</dkz>
+      <dkz codenr="94334-100" refid="8297">Hörfunk- und Fernsehsprecher/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1838">Redakteur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1220">Entertainer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,24 @@
+<kategorie>
+  <id>6019</id>
+  <taetigkeit>Verbesserung und Instandhaltung der technischen Infrastruktur und Ausstattung von Gebäuden um deren optimale Bewirtschaftung zu gewährleisten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gebäude und Anlagen nach kaufmännischen Gesichtspunkten planen und führen; die Funktionstüchtigkeit der zu betreuenden Anlagen überwachen; Betriebskosten von Anlagen und Gebäuden kalkulieren und kontrollieren; Gebäude warten, pflegen und reinigen; Inspektionen vor und nach der Vermietung der Gebäude durchführen; Modernisierungsmaßnahmen planen; Verwaltungsaufgaben übernehmen; Mieter und Vermieter betreuen und beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Facilitymanager/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61323">Facility-Management - Spezialist</kldb>
+      <isco schluessel="3334">Real estate agents and property managers</isco>
+      <dkz codenr="61323-101" refid="14215">Fachmann/-frau - Gebäudebewirtschaftung</dkz>
+      <dkz codenr="61323-102" refid="15628">Facility-Manager/in</dkz>
+      <dkz codenr="61323-103" refid="15699">Fachwirt/in - Facility-Management</dkz>
+      <dkz codenr="61323-104" refid="29467">Kommunale/r Gebäudewirt/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6017">Betriebswirt/in - Facility-Management</abgrenzung>
+  <abgrenzung typ="hoch" refid="1850">Hausverwalter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1782">Gebäudetechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5326">Industriemeister/in - Gebäudetechnik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

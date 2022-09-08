@@ -1,0 +1,20 @@
+<kategorie>
+  <id>1765</id>
+  <taetigkeit>Erforschung kriminologischer Fragestellungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wege zur Kriminalitätsbekämpfung aufzeigen; Beratungen hinsichtlich der praktischen Anwendung von Erkenntnissen durchführen; soziale Phänomene wie beispielsweise Jugendkriminalität systematisch erforschen; Daten erheben und mithilfe qualitativer oder quantitativer Methoden der Sozialforschung auswerten und aufbereiten</taetigkeitsbeschreibung>
+  <bezeichnung>Kriminologe/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="91384">Berufe in Gesellschaftswissenschaften (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2632">Sociologists, anthropologists and related professionals</isco>
+      <dkz codenr="91384-103" refid="9794">Kriminologe/Kriminologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8037">Dozent/in / Professor/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1766">Arbeitswissenschaftler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1858">Kulturwissenschaftler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

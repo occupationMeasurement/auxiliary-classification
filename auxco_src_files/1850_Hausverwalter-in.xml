@@ -1,0 +1,50 @@
+<kategorie>
+  <id>1850</id>
+  <taetigkeit>Verwaltung und Bewirtschaftung von privaten und gewerblichen Immobilien</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Beschwerden bzw. Störungsmeldungen annehmen und weiterleiten; Wartung gebäudetechnischer Anlagen der Energie- und Wasserversorgung veranlassen, z.B. Lichtanlagen; Reinigung eines Objektes beauftragen und überwachen; Pflege der Ausstattung eines Objektes überwachen; bei der Planung und Betreuung von Neubau-, Sanierungs- oder Modernisierungsprojekten mitwirken; Betriebskosten aufstellen, umlegen und abrechnen; Instandhaltungsrücklagen verwalten</taetigkeitsbeschreibung>
+  <bezeichnung>Hausverwalter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61312">Immobilienvermarktung,-verwal.-Fachkraft</kldb>
+      <isco schluessel="3334">Real estate agents and property managers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="61312">Immobilienvermarktung,-verwal.-Fachkraft</kldb>
+      <isco schluessel="3334">Real estate agents and property managers</isco>
+      <dkz codenr="61312-101" refid="8006">Kaufmann/-frau - Grundstücks- und Wohnungswirtschaft</dkz>
+      <dkz codenr="61312-104" refid="93271">Technisch-kaufmännische/r Assistent/in - Gebäudeservice</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="61313">Immobilienvermarktung,verwal.-Spezialist</kldb>
+      <isco schluessel="3334">Real estate agents and property managers</isco>
+      <dkz codenr="61313-114" refid="58967">Betriebswirt/in (Fachschule) - Immobilien</dkz>
+      <dkz codenr="61313-101" refid="7045">Fachkaufmann/-frau - Verwaltung von Wohnungseigentum</dkz>
+      <dkz codenr="61313-103" refid="7048">Objektverwalter/in (Immobilien)</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="61313">Immobilienvermarktung,verwal.-Spezialist</kldb>
+      <isco schluessel="3334">Real estate agents and property managers</isco>
+      <dkz codenr="61313-114" refid="58967">Betriebswirt/in (Fachschule) - Immobilien</dkz>
+      <dkz codenr="61313-101" refid="7045">Fachkaufmann/-frau - Verwaltung von Wohnungseigentum</dkz>
+      <dkz codenr="61313-103" refid="7048">Objektverwalter/in (Immobilien)</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="61314">Immobilienvermarktung,-verwal.-Experte</kldb>
+      <isco schluessel="3334">Real estate agents and property managers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6017">Betriebswirt/in - Facility-Management</abgrenzung>
+  <abgrenzung typ="hoch" refid="1849">Immobilienmakler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

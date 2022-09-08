@@ -1,0 +1,78 @@
+<kategorie>
+  <id>5297</id>
+  <taetigkeit>Montage und Instandhaltung von Sanitär-, Heizungs- und Klimatechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. sanitäre Anlagen, Heizungen und Belüftungen montieren; Geschirrspüler, Wassererhitzer, Toiletten und Spülen installieren; Rohrleitungen und Blechbauteile verschweißen und befestigen; Heizkörper, Temperaturfühler und Druckmessgeräte installieren; Dichtheitsprüfungen an Leitungen von Heizungs- und Lüftungsrohren vornehmen; Anlagen und Systeme in Betrieb nehmen und Kunden in die Bedienung einweisen; Wartungs- und Instandsetzungsarbeiten durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Gas- und Wasserinstallateur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34212">Berufe in der Sanitär-, Heizungs- und Klimatechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7126">Plumbers and pipe fitters</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren beruflichen Aufgaben, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren beruflichen Aufgaben gehört, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" follow-up="FALSE" aufsicht="Aufsichtskraft">
+      <text>Ja</text>
+      <kldb schluessel="34293">Aufsichtskräfte - Klempnerei, Sanitär-, Heizungs- und Klimatechnik</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="34293-103" refid="2210">Installateur- und Heizungsbauermeister/in</dkz>
+      <dkz codenr="34293-111" refid="5457">Betriebsmanager/in - Sanitär- und Heizungstechnik</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="34212">Berufe in der Sanitär-, Heizungs- und Klimatechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7126">Plumbers and pipe fitters</isco>
+      <dkz codenr="34212-101" refid="2204">Gas- und Wasserinstallateur/in</dkz>
+      <dkz codenr="34212-104" refid="2213">Zentralheizungs- und Lüftungsbauer/in</dkz>
+      <dkz codenr="34212-112" refid="15625">Anlagenmechaniker/in - Sanitär-, Heizungs- und Klimatechnik</dkz>
+      <dkz codenr="34212-106" refid="2225">Klempner/in und Installateur/in</dkz>
+      <dkz codenr="34201-106" refid="58534">Helfer/in - Klempnerei, Installation</dkz>
+    </antwort>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>eine kurze Anlernphase</text>
+      <kldb schluessel="34201">Klempnerei (o.S.) - Helfer</kldb>
+      <isco schluessel="9313">Building construction labourers</isco>
+      <dkz codenr="34201-106" refid="58534">Helfer/in - Klempnerei, Installation</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung im Bereich Sanitär-, Heizungs- und Klimatechnik</text>
+      <kldb schluessel="34212">Sanitär,Heizung,Klimatechnik - Fachkraft</kldb>
+      <isco schluessel="7126">Plumbers and pipe fitters</isco>
+      <dkz codenr="34212-101" refid="2204">Gas- und Wasserinstallateur/in</dkz>
+      <dkz codenr="34212-104" refid="2213">Zentralheizungs- und Lüftungsbauer/in</dkz>
+      <dkz codenr="34212-112" refid="15625">Anlagenmechaniker/in - Sanitär-, Heizungs- und Klimatechnik</dkz>
+      <dkz codenr="34212-106" refid="2225">Klempner/in und Installateur/in</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>eine vertiefende berufliche Weiterbildung mit einer Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="34213">Sanitär,Heizung,Klimatechnik -Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="34213-100" refid="5451">Techniker/in - Sanitärtechnik</dkz>
+      <dkz codenr="34213-101" refid="5453">Techniker/in - Heizungs-, Lüftungs-, Klimatechnik</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="34213">Sanitär,Heizung,Klimatechnik -Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="34213-100" refid="5451">Techniker/in - Sanitärtechnik</dkz>
+      <dkz codenr="34213-101" refid="5453">Techniker/in - Heizungs-, Lüftungs-, Klimatechnik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="2093">Metallbearbeitungshelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5327">Klempner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5345">Anlagenmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5331">Ofen- und Luftheizungsbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5295">Rohrleitungsbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3013">Isolierfacharbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5328">Blechverarbeitungstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5330">Ingenieur/in – Klimasystemtechnik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

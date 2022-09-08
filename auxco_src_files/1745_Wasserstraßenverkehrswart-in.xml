@@ -1,0 +1,37 @@
+<kategorie>
+  <id>1745</id>
+  <taetigkeit>Sicherstellung des ordnungsgemäßen Verkehrs auf Wasserstraßen durch die Instandhaltung von Brücken und die Steuerung von Schleusen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Schifffahrtszeichen setzen und kontrollieren; an Schleusen einzelnen Schiffen die entsprechenden Schleusenkammern zuteilen; die Reihenfolge für die Schleuseneinfahrt festlegen; kommunale und betriebliche Kläranlagen, Brücken, Stauanlagen, Fischteiche, oder Kiesbaugebiete überwachen und warten; Schleusenkammern fluten und das Wasser wieder ablassen; bei Störungen, Unfällen oder Notfällen Rettungsdienste und die Wasserwacht informieren und die vorgeschriebenen Sicherheitsmaßnahmen durchführen; gewässerkundliche Messungen veranlassen und die Gewässernutzung kontrollieren; in Planungsabteilungen der Wasserwirtschaftsämter mitarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Wasserstraßenverkehrswart/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51242">Wasserstraßen-,Brückenwärter - Fachkraft</kldb>
+      <isco schluessel="8343">Crane, hoist and related plant operators</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="51242">Wasserstraßen-,Brückenwärter - Fachkraft</kldb>
+      <isco schluessel="8343">Crane, hoist and related plant operators</isco>
+      <dkz codenr="51242-100" refid="7197">Brückenwärter/in</dkz>
+      <dkz codenr="51242-101" refid="7312">Wasserstraßenverkehrswart/in</dkz>
+      <dkz codenr="51242-103" refid="7318">Schleusenwärter/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="51243">Wasserstraßen-, Brückenwärter-Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="51243-100" refid="7311">Flussmeister/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5278">Bodenkulturbauarbeiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5301">Vorarbeiter/in- Tiefbau</abgrenzung>
+  <abgrenzung typ="hoch" refid="5017">Seelotse/-lotsin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

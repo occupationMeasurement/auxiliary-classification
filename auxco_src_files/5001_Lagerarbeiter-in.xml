@@ -1,0 +1,48 @@
+<kategorie>
+  <id>5001</id>
+  <taetigkeit>Verpackung und Verladung von Waren, zumeist mit Muskelkraft</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Komissionierung, Umzüge und Möbeltransporte durchführen; Waren annehmen und ausgeben; Lagerinventur durchführen; im Lager verwendete Geräte warten</taetigkeitsbeschreibung>
+  <bezeichnung>Lagerarbeiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51311">Lagerwirtschaft -Helfer</kldb>
+      <isco schluessel="9333">Freight handlers</isco>
+      <dkz codenr="51311-124" refid="50939">Helfer/in - Lagerwirtschaft, Transport</dkz>
+      <dkz codenr="51311-118" refid="7453">Lager- und Transportarbeiter/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Führen Sie Lageraufzeichnungen durch?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie Lageraufzeichnungen durchgeführt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="51312">Berufe in der Lagerwirtschaft - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="4321">Stock clerks</isco>
+      <dkz codenr="51312-100" refid="4702">Kommissionierer/in</dkz>
+      <dkz codenr="51312-101" refid="4704">Handelsfachpacker/in</dkz>
+      <dkz codenr="51312-112" refid="27538">Fachlagerist/in</dkz>
+      <dkz codenr="51312-104" refid="7399">Fachkraft - Lagerwirtschaft</dkz>
+      <dkz codenr="51312-110" refid="14094">Disponent/in - Lager</dkz>
+      <dkz codenr="51312-111" refid="27449">Fachkraft - Lagerlogistik</dkz>
+      <dkz codenr="51312-106" refid="7406">Zahnlagerist/in - Zahnlagerverwalter/in</dkz>
+      <dkz codenr="51312-107" refid="7419">Warenannehmer/in</dkz>
+      <dkz codenr="51312-108" refid="7540">Assistent/in - Logistik</dkz>
+      <dkz codenr="51312-109" refid="14013">Fachkraft - Logistik/Materialwirtschaft</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="51311">Lagerwirtschaft -Helfer</kldb>
+      <isco schluessel="9333">Freight handlers</isco>
+      <dkz codenr="51311-124" refid="50939">Helfer/in - Lagerwirtschaft, Transport</dkz>
+      <dkz codenr="51311-118" refid="7453">Lager- und Transportarbeiter/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5002">Fachkraft - Lagerlogistik</abgrenzung>
+  <abgrenzung typ="hoch" refid="5056">Staplerfahrer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5012">Hafenarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5013">Abpackmaschinenbediener/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

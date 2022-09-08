@@ -1,0 +1,19 @@
+<kategorie>
+  <id>7038</id>
+  <taetigkeit>Diagnose und Behandlung von Verhaltensstörungen und Verhaltensauffälligkeiten bei Tieren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. verhaltensauffällige Tiere trainieren; Gründe für Verhaltensstörung bzw. -auffälligkeit des Tieres bestimmen; Verhaltenstherapie durchführen; für tierärztliche Untersuchung und Behandlung sorgen; Gutachten zum Aggressionspotenzial von verhaltensauffälligen Tieren erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Tierpsychologe/-psychologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81584">Berufe in der Tiermedizin und Tierheilkunde (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2250">Veterinarians</isco>
+      <dkz codenr="81584-100" refid="9851">Tierpsychologe/-psychologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7036">Tierarzt/-ärztin</abgrenzung>
+  <abgrenzung typ="hoch" refid="1826">Tierarzthelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

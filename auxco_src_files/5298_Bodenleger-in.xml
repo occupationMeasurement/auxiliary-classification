@@ -1,0 +1,39 @@
+<kategorie>
+  <id>5298</id>
+  <taetigkeit>Verlegen und Reparatur von Bodenbelägen aus verschiedenen Materialien</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. textile und elastische Bodenbeläge, Fertigparkett sowie Schichtwerkstoffe verlegen; alte Bodenbeläge entfernen; Unterbodenkonstruktionen herstellen; Lagerhölzer und Holzspanplatten verlegen; Schall- und Wärmedämmstoffe sowie Feuchtigkeitssperren einbauen; Estriche glätten und ausgleichen; Untergründe reinigen; Bodenbeläge mit Klebstoffen befestigen; Oberflächen mithilfe von Wachsen, Kunstharzen oder Kunststoffen versiegeln; Böden nach der Verlegung reinigen; Instandsetzungsarbeiten ausführen; Bodenplatten auswechseln und ergänzen; Oberflächen behandeln</taetigkeitsbeschreibung>
+  <bezeichnung>Bodenleger/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33102">Berufe in der Bodenverlegung (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7122">Floor layers and tile setters</isco>
+      <dkz codenr="33102-100" refid="4410">Bodenleger/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine abgeschlossene Berufsausbildung als Bodenleger/in erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine abgeschlossene Berufsausbildung als Bodenleger/in erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Ja</text>
+      <kldb schluessel="33102">Bodenverlegung (o.S.) - Fachkraft</kldb>
+      <isco schluessel="7122">Floor layers and tile setters</isco>
+      <dkz codenr="33102-100" refid="4410">Bodenleger/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="1">
+      <text>Nein</text>
+      <kldb schluessel="33101">Bodenverlegung (o.S.) - Helfer</kldb>
+      <isco schluessel="9313">Building construction labourers</isco>
+      <dkz codenr="33101-103" refid="90135">Helfer/in - Bodenverlegung</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1755">Helfer/in - Bodenverlegung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1756">Helfer/in - Gebäudeausbau</abgrenzung>
+  <abgrenzung typ="hoch" refid="5287">Fliesen-, Platten- und Mosaikleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5288">Estrich- und Terrazzoleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5289">Parkettleger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5316">Trockenbauer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

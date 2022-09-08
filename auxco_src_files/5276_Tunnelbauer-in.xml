@@ -1,0 +1,23 @@
+<kategorie>
+  <id>5276</id>
+  <taetigkeit>Konstruktion, Erweiterung und Sanierung von Verkehrs- und Versorgungstunneln</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gesteinsschichten und Erdreich für Tunnelbauten abtragen; Tunnelbohrmaschinen und Hydraulikbagger einsetzen; Ausbruchmaterial auf Seitenkipp- oder Raupenlader verladen und an die Erdoberfläche transportieren; Maschinen zum Ausbreiten und Glätten von Beton in Tunnelbauten bedienen und überwachen; Tunnel abdichten; Baustellen absichern</taetigkeitsbeschreibung>
+  <bezeichnung>Tunnelbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32252">Kanal- und Tunnelbau - Fachkraft</kldb>
+      <isco schluessel="8342">Earthmoving and related plant operators</isco>
+      <dkz codenr="32252-100" refid="4191">Tunnelbauer/in, Mineur/in</dkz>
+      <dkz codenr="32252-101" refid="4205">Kanalbauer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5275">Kanalbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1754">Tunnelbautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1854">Bauhelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5277">Kanal- und Tunnelmeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5055">Baumaschinenführer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

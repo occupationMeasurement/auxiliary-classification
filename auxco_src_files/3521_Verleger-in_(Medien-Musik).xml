@@ -1,0 +1,20 @@
+<kategorie>
+  <id>3521</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Verlags- oder Medienwirtschaft</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die strategische Zielplanung und kaufmännische Gesamtleitung eines Verlages übernehmen; die Programmplanung mit dem Lektorat und der Redaktion abstimmen; die bestehenden Produktlinien an neue Kundenbedürfnisse anpassen; Mitarbeiter anleiten und führen sowie ihre Leistung evaluieren; die administrativen Abläufe wie Berichterstellung, Ausgaben für Betriebsgüter, Ausrüstung und Dienstleistungen kontrollieren; das Budget festlegen und verwalten; die Auswahl und Schulung der Mitarbeiter überwachen; das Unternehmen nach außen vertreten; Kooperationen mit anderen Unternehmen vereinbaren, die an Produktion und Verkauf beteiligt werden sollen</taetigkeitsbeschreibung>
+  <bezeichnung>Verleger/in (Medien/Musik)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92394">Führung- Verlags- und Medienwirtschaft</kldb>
+      <isco schluessel="1349">Professional services managers not elsewhere classified</isco>
+      <dkz codenr="92394-101" refid="6686">Verleger/in (Medien, Musik)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5224">Art-Direktor/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3506">Medienfachwirt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3520">Medienmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

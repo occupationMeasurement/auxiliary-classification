@@ -1,0 +1,20 @@
+<kategorie>
+  <id>4025</id>
+  <taetigkeit>Erforschung und Entwicklung von Baustoffen für den Gebäude- und Straßenbau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Baustoffe entwickeln und Eigenschaften von Baustoffen optimieren; Verfahren der Formgebung, Fügetechnik und Oberflächenbehandlung von Baustoffen entwickeln und anwenden; Grundlagenforschung betreiben; Gutachten erstellen; Unternehmen beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Baustoffingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41434">Baustoffprüfung - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="41434-101" refid="100530">Ingenieur/in - Baustoffe</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4022">Werkstofftechnik-Ingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1793">Physiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1796">Laborleiter/in - Physik, Werk- und Baustoffprüfung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,22 @@
+<kategorie>
+  <id>5039</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im kaufmännischen Bereich von Verkehrsunternehmen und Logistikunternehmen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Transport- und Logistikstrategien unter Berücksichtigung der wirtschaftlichen Rahmenbedingungen planen, implementieren und deren Umsetzung überwachen; den Einsatz von Betriebsmitteln planen und überwachen; Budgets festlegen und verwalten sowie die Kontrolle der Ausgaben zur Sicherstellung eines effizienten Ressourceneinsatzes; Verträge mit Lieferanten zur Erfüllung von Qualitäts-, Kosten-, und Lieferanforderungen aushandeln; den reibungslosen Warenfluss zwischen Lager und den verschiedenen Unternehmensbereichen sicherstellen; Personalpläne erstellen; Auswahl, Weiterbildung und Leistungen der Mitarbeiter überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Logistikleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51694">Führung-Verkehr,Logistik (kaufm.Bereich)</kldb>
+      <isco schluessel="1324">Supply, distribution and related managers</isco>
+      <dkz codenr="51694-102" refid="29358">Leiter/in - Materialwirtschaft</dkz>
+      <dkz codenr="51694-103" refid="90130">Leiter/in - Logistik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1005">Lagerleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5022">Verkehrsbetriebswirt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5024">Betriebswirt/in im Verkehrsmanagement</abgrenzung>
+  <abgrenzung typ="mittel" refid="5029">Logistikmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

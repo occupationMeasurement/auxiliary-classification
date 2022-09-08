@@ -1,0 +1,25 @@
+<kategorie>
+  <id>1229</id>
+  <taetigkeit>Unterstützung von Regisseuren bei der Vorbereitung und Umsetzung der Dreh- und Probenarbeiten für Film-, Fernseh- und Theaterproduktionen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. ins Drehbuch einarbeiten; technisches Drehbuch einrichten; Vorproduktion mit Regie und Produktion planen; an Besprechungen mit Kostüm, Maske, etc. teilnehmen; Arbeitsabläufe koordinieren; Regiebuch führen; Probeplan erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Regieassistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94413">Berufe in der Regie - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2654">Film, stage and related directors and producers</isco>
+      <dkz codenr="94413-102" refid="77975">Regie-Anfänger/in</dkz>
+      <dkz codenr="94413-100" refid="8388">Regieassistent/in</dkz>
+      <dkz codenr="94413-105" refid="94432">Zweite/r Regieassistent/in</dkz>
+      <dkz codenr="94413-104" refid="94433">Erste/r Regieassistent/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1228">Inspizient/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1230">Regisseur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1227">Film- und Fernsehwirt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1240">Führungskraft in der Theater-, Film- und Fernsehproduktion</abgrenzung>
+  <abgrenzung typ="mittel" refid="1225">Produktionsassistent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

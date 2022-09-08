@@ -1,0 +1,21 @@
+<kategorie>
+  <id>1700</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Buchbinderei oder Buchrestaurierung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Arbeiten in der Buchfertigung, Druckweiterverarbeitung, Restaurierung und Einzel- und Sonderfertigung durchführen, steuern und überwachen; Verwaltungsarbeiten wahrnehmen; Einarbeitung neuer Mitarbeiter organisieren und überwachen; den betrieblichen Teil der Ausbildung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Buchbindermeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23493">Aufsichtskräfte - Drucktechnik und -weiterverarbeitung, Buchbinderei</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz refid="23493-100" codenr="1284">Buchbindermeister/in</dkz>
+      <dkz refid="23493-105" codenr="6245">Industriemeister/in - Buchbinderei</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1701">Druckermeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5238">Buchrestaurator/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5237">Buchbinder/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

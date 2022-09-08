@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5158</id>
+  <taetigkeit>Restaurierung und Pflege von alten Streich- und Zupfinstrumenten sowie deren Neuanfertigung nach Originalvorlage</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. mit dem Auftraggeber besprechen, ob ein nicht mehr spielbares Streich- oder Zupfinstrument wieder spielbar gemacht werden kann; Schäden schriftlich und fotografisch dokumentieren; Ersatzteile nach Originalvorlagen herstellen und Teile austauschen; Kunden über die fachgerechte Aufbewahrung eines Instruments beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Restaurator/in- Streich- und Zupfinstrumente</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93613">Streich-,Zupfinstrumentenbau-Spezialist</kldb>
+      <isco schluessel="7312">Musical instrument makers and tuners</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5157">Streich- und Zupfinstrumentenmacher/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5155">Musikinstrumentenrestaurator/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

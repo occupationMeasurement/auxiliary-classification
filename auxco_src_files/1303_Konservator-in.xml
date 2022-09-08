@@ -1,0 +1,21 @@
+<kategorie>
+  <id>1303</id>
+  <taetigkeit>Schutz und Instandhaltung von Kunstwerken und musealen Objekten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Zustand von Objekten untersuchen und erfassen; Maßnahmen zu deren Schutz empfehlen und Restaurierungsarbeiten veranlassen; bei beschädigten Kunstwerken fehlende Details rekonstruieren; in archäologischen und naturkundlichen Sammlungen Gegenstände mit Chemikalien zur Konservierung reinigen und behandeln</taetigkeitsbeschreibung>
+  <bezeichnung>Konservator/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94714">Berufe in der Museums- und Ausstellungstechnik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2621">Archivists and curators</isco>
+      <dkz codenr="94714-101" refid="35327">Konservator/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1304">Denkmalpfleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1302">Museums- / Ausstellungstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5128">bildende/r Künstler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1300">Kurator/in / Museologe/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

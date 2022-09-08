@@ -1,0 +1,43 @@
+<kategorie>
+  <id>1799</id>
+  <taetigkeit>Erforschung und Entwicklung von Verfahren, Maßnahmen und Anlagen für einen wirksamen Umweltschutz</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Ausrüstung und technische Geräte kontrollieren um Umweltverschmutzungen zu verhindern; bei der Entwicklung von Maßnahmen zur Sanierung von Umweltverschmutzungen mithelfen; neue Verfahren für den Umweltschutz erforschen; Inspektionen von industriellen und städtischen Einrichtungen im Hinblick auf Umweltschutzrichtlinien durchführen; umwelttechnische Anlagen planen, z.B. Deponien, Verbrennungsanlagen; zusammen mit Rechts- und Wirtschaftsexperten über Umweltprobleme beraten; Fortschritte von Umweltverbesserungsprogrammen überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Umweltschutzingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42204">Umweltschutztechnik (o.S.) - Experte</kldb>
+      <isco schluessel="2143">Environmental engineers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Umweltschutztechnik erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Umweltschutztechnik erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="42204">Umweltschutztechnik (o.S.) - Experte</kldb>
+      <isco schluessel="2143">Environmental engineers</isco>
+      <dkz codenr="42204-109" refid="59420">Ingenieur/in - Umweltschutz/Umwelttechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="42203">Umweltschutztechnik (o.S.) - Spezialist</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="42203-100" refid="5784">Techniker/in - Chemietechnik (Umweltschutz)</dkz>
+      <dkz codenr="42203-101" refid="6029">Techniker/in - Umweltschutzt. (Verfahrenstechnik)</dkz>
+      <dkz codenr="42203-102" refid="6032">Techniker/in - Umweltschutzt. (Labortechnik)</dkz>
+      <dkz codenr="42203-103" refid="6040">Techniker/in - Umweltschutzt. (ohne Schwerpunkt)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1706">Umweltschutzverfahrenstechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1759">Leiter/in - Umweltschutztechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="1758">Ingenieur/in - Abfallwirtschaft</abgrenzung>
+  <abgrenzung typ="mittel" refid="4234">Umweltschutztechnische/r Assistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4242">Umweltschutzbeauftragte/r</abgrenzung>
+  <abgrenzung typ="hoch" refid="4243">Beamt(er/in) - Umweltverwaltung (höh. techn. Dienst)</abgrenzung>
+  <abgrenzung typ="hoch" refid="4700">Klimaschutzmanager/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1787">Organsiator/in - Abfallwirtschaft</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

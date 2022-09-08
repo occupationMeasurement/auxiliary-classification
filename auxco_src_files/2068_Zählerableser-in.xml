@@ -1,0 +1,18 @@
+<kategorie>
+  <id>2068</id>
+  <taetigkeit>Überprüfung des Zählerstandes von Strom-, Gas- oder Wasserzählern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. den Strom-, Gas- oder Wasserverbrauch ablesen und aufzeichnen; Ableseorte zu vereinbarten Terminen aufsuchen; Funktion und Unversehrtheit der Zähler einschließlich der Plombierungen überprüfen; abgelesene Werte an Energieversorger weiterleiten; kleinere Wartungsarbeiten an Zählern durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Zählerableser/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25131">Technische Servicekräfte in Wartung und Instandhaltung - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9623">Meter readers and vending-machine collectors</isco>
+      <dkz codenr="25131-100" refid="7101">Zählerableser/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1723">Wartungs- und Servicetechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

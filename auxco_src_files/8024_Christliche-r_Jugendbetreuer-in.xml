@@ -1,0 +1,19 @@
+<kategorie>
+  <id>8024</id>
+  <taetigkeit>Organisation von Projekten und Freizeitaktivitäten in der christlichen Jugendarbeit</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei Jugendgottesdiensten mitarbeiten und diese weiterentwickeln; bei Fragen zu den Hausaufgaben helfen; regionale Mitarbeiterkreise aufbauen; an Angeboten der Ortsvereine punktuell mitarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Christliche/r Jugendbetreuer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83383">Theologie,Gemeindearbeit(ssT)-Spezialist</kldb>
+      <isco schluessel="3413">Religious associate professionals</isco>
+      <dkz codenr="83383-100" refid="9894">CVJM-Sekretär/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8023">Trauerredner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8019">Gemeindereferent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

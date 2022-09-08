@@ -1,0 +1,25 @@
+<kategorie>
+  <id>8030</id>
+  <taetigkeit>Entwicklung von Lehrmethoden und Lernhilfen sowie die Koordination der Ausbildung von Referendaren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bildungseinrichtungen bei der Einführung von Lernhilfen beraten; Kenntnisse der Didaktik vermitteln und Referendare anleiten; Unterrichtsstunden der Referendare nachbesprechen; Klassen zur Beobachtung von Lehrtechniken besuchen; Evaluierung der Lehrkräfte</taetigkeitsbeschreibung>
+  <bezeichnung>Ausbildungslehrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84144">Lehrerausbildung - Experte</kldb>
+      <isco schluessel="2351">Education methods specialists</isco>
+      <dkz codenr="84144-100" refid="9284">Dozent/in - Waldorflehrerseminar</dkz>
+      <dkz codenr="84144-101" refid="9285">Leiter/in - Waldorflehrerseminar</dkz>
+      <dkz codenr="84144-115" refid="9348">Lehrbeauftragte/r - Studienseminar</dkz>
+      <dkz codenr="84144-116" refid="9349">Leiter/in - Studienseminar</dkz>
+      <dkz codenr="84144-119" refid="59013">Betreuungslehrer/in - allgemeinbildende Schulen</dkz>
+      <dkz codenr="84144-120" refid="59015">Seminarleiter/in - Lehrer(innen)ausbildung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1501">Erziehungswissenschaftler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8037">Dozent/in / Professor/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8033">Schulleiter/in - allgemeinbildende Schulen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

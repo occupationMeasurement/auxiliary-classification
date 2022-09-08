@@ -1,0 +1,19 @@
+<kategorie>
+  <id>6017</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Immobilienwirtschaft oder im Facility-Management</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. unternehmerische Ziele für ein Unternehmen der Immobilienwirtschaft festlegen; neue Konzepte zur Immobilienvermarktung erstellen und deren Durchführung überwachen; potenzielle Investoren für Immobiliengroßprojekte akquirieren; einen effektiven Ressourceneinsatz sicherstellen; Mitarbeiter führen und Verfahrensanweisungen geben</taetigkeitsbeschreibung>
+  <bezeichnung>Betriebswirt/in - Facility-Management</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61394">Führung-Immobilienwirt., Facility-Manag.</kldb>
+      <isco schluessel="1219">Business services and administration managers not elsewhere classified</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1849">Immobilienmakler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1850">Hausverwalter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="6019">Facilitymanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

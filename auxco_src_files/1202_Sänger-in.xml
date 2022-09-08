@@ -1,0 +1,22 @@
+<kategorie>
+  <id>1202</id>
+  <taetigkeit>Gesangliche Interpretation und Aufführung von Liedern und Musikstücken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. sich mit musikalischen Werken vertraut machen; Gesangspartien erarbeiten; Lieder oder Arien interpretieren; an Gesangsproben teilnehmen; bei Konzerten auftreten</taetigkeitsbeschreibung>
+  <bezeichnung>Sänger/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94124">Sänger/innen - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2652">Musicians, singers and composers</isco>
+      <dkz codenr="94124-101" refid="8397">Sänger/in</dkz>
+      <dkz codenr="94124-102" refid="8398">Chorsänger/in</dkz>
+      <dkz codenr="94124-104" refid="8400">Solosänger/in</dkz>
+      <dkz codenr="94124-109" refid="27279">Liedermacher/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1200">Musiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8041">Musiklehrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

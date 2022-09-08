@@ -1,0 +1,21 @@
+<kategorie>
+  <id>4250</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in Abteilungen oder im Unternehmensbereich Informatik und des Informationsmanagements</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Arbeitsabläufe und Informationsflüsse planen; Aufträge zeitlich, personell und finanziell planen; Ausführung von Aufträgen und Einhaltung von Terminen überwachen; Mitarbeiter führen und anleiten; kaufmännische und verwaltende Aufgaben wahrnehmen; gegenüber der Geschäftsleitung Verantwortung übernehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - Informatik und Informationsmanagement</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43194">Führung - Informatik</kldb>
+      <isco schluessel="1330">Information and communications technology service managers</isco>
+      <dkz codenr="43194-101" refid="90772">Multimedia-Projektleiter/in</dkz>
+      <dkz codenr="43194-102" refid="90774">Leiter/in - Informationsmanagement</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4252">IT-Projektleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4253">Software-Projektleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4038">Informatiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

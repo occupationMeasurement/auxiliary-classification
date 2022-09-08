@@ -1,0 +1,49 @@
+<kategorie>
+  <id>5292</id>
+  <taetigkeit>Bau von Fachwerkhäusern, Dachstühlen, Veranden und anderen Holzbauwerken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Hölzer abmessen, anreißen und zurichten; Holz- und Holzwerkstoffe für Aufbauten sägen, hobeln, schleifen, bohren, kleben und imprägnieren; CNC-gesteuerte Maschinen bedienen; Bauwerke und Bauwerksteile montieren und instand halten; Holzteile säubern; Verschalungen, Lattungen und Verkleidungen herstellen und montieren; Holzschutzarbeiten durchführen, um Bauwerksteile vor Witterungseinflüssen zu schützen; Holzarbeiten beim Bau bzw. bei der Reparatur von Schiffen übernehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Zimmerer/Zimmerin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33322">Berufe in der Zimmerei - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7115">Carpenters and joiners</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren beruflichen Aufgaben, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren beruflichen Aufgaben gehört, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Aufsichtskraft">
+      <text>Ja</text>
+      <kldb schluessel="33393">Aufsichtskräfte - Aus- und Trockenbau, Isolierung, Zimmerei, Glaserei, Rollladen- und Jalousiebau</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="33393-101" refid="4008">Zimmerermeister/in</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="33322">Berufe in der Zimmerei - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7115">Carpenters and joiners</isco>
+      <dkz codenr="33322-100" refid="4003">Ausbauzimmer(er/in)</dkz>
+      <dkz codenr="33322-103" refid="4007">Zimmerer/Zimmerin</dkz>
+      <dkz codenr="33322-104" refid="4016">Bauzimmer(er/in)</dkz>
+      <dkz codenr="33322-106" refid="4018">Bühnenzimmer(er/in)</dkz>
+      <dkz codenr="33322-107" refid="4019">Treppenbauzimmer(er/in)</dkz>
+      <dkz codenr="33322-108" refid="4021">Schiffszimmer(er/in)</dkz>
+      <dkz codenr="33322-109" refid="4024">Fertighausmonteur/in</dkz>
+      <dkz codenr="33322-114" refid="13912">Ausbaufacharbeiter/in (Zimmerarbeiten)</dkz>
+      <dkz codenr="33322-112" refid="4547">Bootsbauer/in (ohne Fachrichtungen)</dkz>
+      <dkz codenr="33322-113" refid="4548">Kunststoffbootsbauer/in</dkz>
+      <dkz codenr="33322-117" refid="90468">Bootsbauer/in - Technik</dkz>
+      <dkz codenr="33322-118" refid="90470">Bootsbauer/in - Neu-, Aus- und Umbau</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5316">Trockenbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5318">Restaurator/in - Zimmererhandwerk</abgrenzung>
+  <abgrenzung typ="mittel" refid="5197">Sägewerker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5198">Holzmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5200">Tischler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5293">Bautischler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

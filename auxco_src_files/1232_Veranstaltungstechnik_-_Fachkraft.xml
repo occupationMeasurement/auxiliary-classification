@@ -1,0 +1,24 @@
+<kategorie>
+  <id>1232</id>
+  <taetigkeit>Auf- und Abbau von bühnentechnischen und veranstaltungstechnischen Einrichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Konzert- und Stadthallen vorbereiten; Stühle aufstellen; Technik anbringen; Beleuchtungsportale und Dekoration sowie andere technische Anlagen anbringen</taetigkeitsbeschreibung>
+  <bezeichnung>Veranstaltungstechnik - Fachkraft</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94512">Berufe in der Veranstaltungs- und Bühnentechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3435">Artistic and cultural associate professionals not elsewhere classified</isco>
+      <dkz codenr="94512-106" refid="78019">Orchesterwart/in</dkz>
+      <dkz codenr="94512-103" refid="8523">Fachkraft - Veranstaltungstechnik</dkz>
+      <dkz codenr="94512-105" refid="15015">Assistent/in - Veranstaltungstechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1234">Beleuchter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1233">Technische/r Assistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1242">Kamera-Assistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1247">Pyrotechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1842">Tontechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

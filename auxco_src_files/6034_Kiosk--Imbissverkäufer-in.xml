@@ -1,0 +1,34 @@
+<kategorie>
+  <id>6034</id>
+  <taetigkeit>Verkauf von Speisen zum sofortigen Verzehr an öffentlichen Plätzen wie Bahnhöfen, Kinos oder an Imbissständen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Speisen und Getränke zubereiten; Kunden und bedienen und gegebenenfalls über Inhaltsstoffe und Zubereitung der Lebensmittel informieren; Lebensmittel verpacken; Zahlungsmittel entgegennehmen; Sicherheits- und Hygienevorschriften einhalten; Waren ansprechend präsentieren; Warenbestände prüfen; Nachbestellungen tätigen</taetigkeitsbeschreibung>
+  <bezeichnung>Kiosk-/Imbissverkäufer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62301">Verkauf Lebensmittel (o.S.) - Helfer</kldb>
+      <isco schluessel="5246">Food service counter attendants</isco>
+      <dkz codenr="62301-101" refid="14762">Kiosk-/Imbissverkäufer/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Verkaufen Sie Ihre Speisen an ständig wechselnden Standorten?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie Ihre Speisen an ständig wechselnden Standorten verkauft?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Nein</text>
+      <kldb schluessel="62301">Verkauf Lebensmittel (o.S.) - Helfer</kldb>
+      <isco schluessel="5246">Food service counter attendants</isco>
+      <dkz codenr="62301-101" refid="14762">Kiosk-/Imbissverkäufer/in</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Ja</text>
+      <kldb schluessel="62301">Verkauf Lebensmittel (o.S.) - Helfer</kldb>
+      <isco schluessel="5212">Street food salespersons</isco>
+      <dkz codenr="62301-101" refid="14762">Kiosk-/Imbissverkäufer/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6052">Lebensmittelfachverkäufer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

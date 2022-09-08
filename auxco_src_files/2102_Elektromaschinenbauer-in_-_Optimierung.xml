@@ -1,0 +1,19 @@
+<kategorie>
+  <id>2102</id>
+  <taetigkeit>Konzeption und Optimierung von Elektromotoren, Generatoren oder anderen elektrischen Maschinen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Antriebssysteme für Förderbänder, Toranlagen oder Krananlagen nach Kundenwunsch konzipieren; am Leitstand über Monitore oder Anzeigegeräte den korrekten Betrieb von elektrischen Maschinen überwachen; Mess-, Steuer- und Regelungseinrichtungen konzipieren und weiterentwickeln; Funktionskontrollen von mechanischen und elektrotechnischen Maschinen und Bauteilen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Elektromaschinenbauer/in - Optimierung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26223">Berufe in der Elektromaschinentechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3113">Electrical engineering technicians</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2101">Elektromaschinenbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1729">Mechatroniktechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

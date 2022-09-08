@@ -1,0 +1,19 @@
+<kategorie>
+  <id>6056</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Organisation von Aufräum- und Reinigungsarbeiten in Hotels, Herbergen oder Pensionen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Personaleinsatz- und Urlaubspläne erstellen; das Reinigungspersonal anweisen; gereinigte Zimmer anhand von Checklisten kontrollieren; für den guten und sauberen Zustand einer Etage in einem Hotel sorgen; Wäschebestände verwalten; Wäscherei und Büglerei kontrollieren</taetigkeitsbeschreibung>
+  <bezeichnung>Hausdame/Housekeeper</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63293">Aufsicht - Hotellerie</kldb>
+      <isco schluessel="5151">Cleaning and housekeeping supervisors in offices, hotels and other establishments</isco>
+      <dkz codenr="63293-108" refid="10139">Hausdame/Housekeeper</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6021">Empfangschef/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6055">Pension- bzw. Herbergsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

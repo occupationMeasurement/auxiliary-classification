@@ -1,0 +1,28 @@
+<kategorie>
+  <id>5295</id>
+  <taetigkeit>Fertigung und Montage von versorgungstechnischen Rohrleitungssystemen zum Transport von Wasser, Gas, Öl oder Fernwärme</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rohrstücke laut Plänen erstellen; Abzweigungen, Absperr- und Druckreduzierungsanlagen aus Metall oder Kunststoff anfertigen; Hausanschlüsse an das Gas- oder Wassernetz herstellen; Armaturen, Schieber, Hydranten und Messgeräte einbauen und anschließen; Rohrnetze auf Leckstellen überwachen; Dichtheit der Rohre überprüfen; Rohrsanierungs-, Wartungs- und Reparaturarbeiten durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Rohrleitungsbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34322">Berufe im Rohrleitungsbau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7126">Plumbers and pipe fitters </isco>
+      <dkz codenr="34322-126" refid="50989">Netzmonteur/in</dkz>
+      <dkz codenr="34322-100" refid="2233">Rohrvorrichter/in</dkz>
+      <dkz codenr="34322-101" refid="2234">Rohrnetzbauer/in und -schlosser/in</dkz>
+      <dkz codenr="34322-109" refid="35108">Rohrnetzbauer/in</dkz>
+      <dkz codenr="34322-103" refid="2242">Rohrleitungsbauer/in</dkz>
+      <dkz codenr="34322-108" refid="35102">Hochdruckrohrschlosser/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1786">Rohrnetzingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5345">Anlagenmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1784">Fernwärmetechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1856">Gasversorgungstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5275">Kanalbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5337">Ver- und Entsorger/in - Wasserversorgung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

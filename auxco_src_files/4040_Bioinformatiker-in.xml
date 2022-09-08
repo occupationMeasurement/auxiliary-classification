@@ -1,0 +1,38 @@
+<kategorie>
+  <id>4040</id>
+  <taetigkeit>Verarbeitung von Daten über biologische Prozesse und Strukturen mithilfe von Informationstechnologien</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Daten aus der biologischen Forschung oder der Genanalyse rechnergestützt verarbeiten; Software für die Simulation biologischer Prozesse planen und entwickeln; Visualisierungen von biologischen Daten erstellen; Daten mit Methoden der Bildverarbeitung analysieren; computergestützte Synthesen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Bioinformatiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43134">Bio-, Medizininformatik - Experte</kldb>
+      <isco schluessel="2512">Software developers</isco>
+      <dkz codenr="43134-114" refid="58689">Bioinformatiker/in</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>In welchem Bereich sind Sie vorwiegend tätig?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>In welchem Bereich waren Sie vorwiegend tätig?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Entwicklung von Computersoftware</text>
+      <kldb schluessel="43134">Bio-, Medizininformatik - Experte</kldb>
+      <isco schluessel="2512">Software developers</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Konzeption und Entwicklung von IT-Systemen für spezielle Anforderungen</text>
+      <kldb schluessel="43134">Bio-, Medizininformatik - Experte</kldb>
+      <isco schluessel="2511">Systems analysts</isco>
+    </antwort>
+    <antwort position="3">
+      <text>Oder etwas anderes?</text>
+      <isco schluessel="????">Freitextantwort</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4038">Informatiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4041">Medizininformatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4204">Computer-/ Technomathematiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

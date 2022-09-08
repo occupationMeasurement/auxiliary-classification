@@ -1,0 +1,19 @@
+<kategorie>
+  <id>4007</id>
+  <taetigkeit>Erforschung der Struktur, der Genetik und des Stoffwechsels von Mikroorganismen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Mikroorganismen kultivieren und klassifizieren; Bakterien, Pilze und Algen untersuchen; Proben für die Bereiche Biotechnik, Medizin und Pharmazie analysieren</taetigkeitsbeschreibung>
+  <bezeichnung>Mikrobiologe/-biologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41264">Biologie (Mikrobiologie) - Experte</kldb>
+      <isco schluessel="2131">Biologen, Botaniker, Zoologen und verwandte Berufe</isco>
+      <dkz codenr="41264-101" refid="100536">Mikrobiologe/-biologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1789">Biologisch-Technische/r Laborleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4002">Biotechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

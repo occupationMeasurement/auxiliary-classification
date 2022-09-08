@@ -1,0 +1,24 @@
+<kategorie>
+  <id>7011</id>
+  <taetigkeit>Messen von Körperfunktionen der Patienten mithilfe medizinischer Geräte nach ärztlicher Anweisung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Atemfunktion prüfen; Untersuchungen zur Überprüfung von Hörstörungen durchführen; unter ärztlicher Aufsicht Belastungsuntersuchen durchführen; EKG, PKG, MKG erstellen; bei Untersuchungen assistieren; Untersuchungsergebnisse auswerten</taetigkeitsbeschreibung>
+  <bezeichnung>Medizinisch-technische/r Assistent/in (MTA)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81222">Medizinisch-technische Berufe in der Funktionsdiagnostik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3256">Medical assistants</isco>
+      <dkz codenr="81222-109" refid="33208">HNO-Audiologieassistent/in</dkz>
+      <dkz codenr="81222-102" refid="8963">EEG-Assistent/in</dkz>
+      <dkz codenr="81222-105" refid="8974">Medizinisch-technische/r Assistent/in - Funktionsdiagnostik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7012">Ingenieur/in - Kardiotechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="7013">Radiologieassistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1829">Medizintechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8001">Augenarztgehilfe/-gehilfin (Orthoptist/in)</abgrenzung>
+  <abgrenzung typ="hoch" refid="7101">Fachassistent/in - Herz-Kreislauf-Funktionsdiagnostik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

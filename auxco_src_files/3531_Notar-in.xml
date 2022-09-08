@@ -1,0 +1,19 @@
+<kategorie>
+  <id>3531</id>
+  <taetigkeit>Beurkundung von Rechtsgeschäften aller Art sowie Durchführung notarieller Beglaubigungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. innerhalb der Rechtspflege betreuen und beraten; Urkunden entwerfen, niederschreiben und von den Beteiligten unterschreiben lassen; den Vollzug von Beurkundungen und Rechtsgeschäften vollziehen und überwachen; behördliche Genehmigungen einholen; bei Streitigkeiten eine unparteiische, neutrale Vermittlerrolle übernehmen; Urkunden, Abschriften und andere Dokumente beglaubigen; beglaubigte Testamente und Urkunden verwahren</taetigkeitsbeschreibung>
+  <bezeichnung>Notar/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73124">Notare/Notarinnen- Experte</kldb>
+      <isco schluessel="2619">Legal professionals not elsewhere classified</isco>
+      <dkz codenr="73124-100" refid="7599">Bezirksnotar/in</dkz>
+      <dkz codenr="73124-101" refid="8247">Notar/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3529">Rechtsanwalts- und Notarfachangestellte/r</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

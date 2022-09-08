@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5069</id>
+  <taetigkeit>Sicherstellung des gefahrlosen Badebetriebs in Badeeinrichtungen sowie Pflege der Anlage</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei Fehlverhalten von Badegästen eingreifen; in Not geratene Badegäste retten; für die Einhaltung der Badeordnung sorgen; Badezeiten kontrollieren; Wasseraufbereitungsanlagen kontrollieren; Reinigungsarbeiten durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Badeaufseher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53142">Badeaufsicht - Fachkraft</kldb>
+      <isco schluessel="5419">Protective services workers not elsewhere classified</isco>
+      <dkz codenr="53142-100" refid="8109">Badewärter/in (Schwimmbad)</dkz>
+      <dkz codenr="53142-102" refid="14410">Rettungsschwimmer/in</dkz>
+      <dkz codenr="53142-101" refid="9485">Fachangestellte/r für Bäderbetriebe</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1763">Aufsichtsleiter/in - Badeaufsicht</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

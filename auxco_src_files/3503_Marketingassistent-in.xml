@@ -1,0 +1,23 @@
+<kategorie>
+  <id>3503</id>
+  <taetigkeit>Unterstützung von akademischen Fachkräften bei der Vorbereitung und Durchführung von Marketingveranstaltungen und Werbekampagnen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei der Entwicklung von Kommunikationskonzepten für medienübergreifende Kampagnen oder für Einzelmaßnahmen assistieren; Aufträge von Kunden für Werbe- und Marketingaktionen entgegennehmen sowie die Korrespondenz vorbereiten; interne und externe Herstellungsprozesse überwachen; bei der Vertragsgestaltung mitwirken; Rechnungen für die erbrachten Leistungen erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Marketingassistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92112">Werbung und Marketing- Fachkraft</kldb>
+      <isco schluessel="4419">Clerical support workers not elsewhere classified</isco>
+      <dkz codenr="92112-105" refid="27416">Kfm. Ass./Wirtschaftsassistent/in - Werbung</dkz>
+      <dkz codenr="92112-101" refid="6997">Werbekaufmann/-frau</dkz>
+      <dkz codenr="92112-108" refid="35278">Kaufmann/-frau - Marketingkommunikation</dkz>
+      <dkz codenr="92112-102" refid="9759">Marketingfachkraft/-assistent/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1837">Produktmanager/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1002">Callcenteragent/in (Inbound)</abgrenzung>
+  <abgrenzung typ="hoch" refid="3519">Medienkaufmann/-frau - Digital und Print</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

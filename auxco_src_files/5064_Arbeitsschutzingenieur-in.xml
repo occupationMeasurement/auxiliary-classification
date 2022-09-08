@@ -1,0 +1,23 @@
+<kategorie>
+  <id>5064</id>
+  <taetigkeit>Beratung zu Fragen des Arbeitsschutzes sowie Entwicklung von Arbeitsschutzkonzepten und Verfassen von Gutachten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Risiko- und Gefährdungsanalysen durchführen; Verfahrensabläufe und Risiken analysieren; Sicherheitsrisiken minimieren; Qualitätssicherung durchführen; Einsatzbereitschaft von Geräten und ggf. Hilfsgütern für Rettungseinsätze sicherstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Arbeitsschutzingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53124">Arbeitssicherh.,Sich.-technik-Experte</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="53124-101" refid="5233">Technische/r Sachverständige/r</dkz>
+      <dkz codenr="53124-109" refid="59399">Ingenieur/in - Rettungswesen</dkz>
+      <dkz codenr="53124-110" refid="59408">Ingenieur/in - Sicherheitstechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5063">Sicherheitsbeauftragte/r- Arbeitsschutz</abgrenzung>
+  <abgrenzung typ="hoch" refid="5076">Aufsichtsleiter/in – Sicherheitswesen</abgrenzung>
+  <abgrenzung typ="mittel" refid="5077">Leiter/in - Rettungsstelle</abgrenzung>
+  <abgrenzung typ="hoch" refid="5085">Beamt(er/in) - Gewerbeaufsicht</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

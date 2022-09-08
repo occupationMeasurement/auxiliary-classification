@@ -1,0 +1,19 @@
+<kategorie>
+  <id>6051</id>
+  <taetigkeit>Führen von Reisegruppen sowie Vermittlung von Informationen über Zielorte und Sehenswürdigkeiten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. (kunst)historische und freizeitorientierte Reisen begleiten; Konzepte für Vorträge unter Rücksichtnahme auf politische, wirtschaftliche, gesellschaftliche und kulturelle Besonderheiten erstellen; sachkundiges und fundiertes Wissen über Zielorte und Sehenswürdigkeiten während der Führungen vermitteln; die Durchsetzung von Reise- und Sicherheitsvorschriften gewährleisten; als Ansprechpartner für Fragen und Probleme zur Verfügung stehen</taetigkeitsbeschreibung>
+  <bezeichnung>Fremdenführer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63143">Reiseleiter, Fremdenführer - Spezialist</kldb>
+      <isco schluessel="5113">Travel guides</isco>
+      <dkz codenr="63143-100" refid="6964">Fremdenführer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6049">Freizeit- und Reisebetreuer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="6050">Reiseleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

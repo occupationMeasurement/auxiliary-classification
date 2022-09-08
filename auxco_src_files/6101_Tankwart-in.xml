@@ -1,0 +1,20 @@
+<kategorie>
+  <id>6101</id>
+  <taetigkeit>Verkauf von Benzin und Treibstoff sowie kleinen Speisen und anderen Waren an Tankstellen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kraftfahrzeuge mit Treib- und Schmierstoffen versorgen und betanken; den Ölstand kontrollieren; SB-Tankvorgänge überwachen; Kunden beraten; Zündkerzen und Batterien austauschen; Autowäsche veranlassen; Reifen wechseln; Getränke, Verpflegung und Illustrierte verkaufen; Verkaufspreise, Skonti und Rabatte berechnen; Rechnungen ausstellen; Bargeld oder Kreditkartenzahlung kassieren; Waren bei Großhändlern und Lieferanten einkaufen bzw. bestellen; das Sortiment unter Berücksichtigung von Kundenwünschen planen; den Verkaufsraum gestalten</taetigkeitsbeschreibung>
+  <bezeichnung>Tankwart/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62282">Verkauf (ssT) - Fachkraft</kldb>
+      <isco schluessel="5245">Service station attendants</isco>
+      <dkz codenr="62282-100" refid="6562">Kaufmann/-frau - Einzelhandel (Tankstelle)</dkz>
+      <dkz codenr="62282-101" refid="6721">Tankwart/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+  <abgrenzung typ="mittel" refid="2075">Kraftfahrzeugmechanikerhelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

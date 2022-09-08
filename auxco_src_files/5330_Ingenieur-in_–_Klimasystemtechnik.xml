@@ -1,0 +1,39 @@
+<kategorie>
+  <id>5330</id>
+  <taetigkeit>Planung, Koordination und Optimierung des Bau und Betriebs von Großanlagen in der Sanitär-, Heizungs- und Klimatechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. komplexe Montage-, Steuerungs- oder Installationspläne von klima- oder wärmetechnischen Anlagen erstellen; Ergebnisse klimatechnischer Berechnungen, wie Wärme- und Wasserbedarfsberechnungen oder lüftungstechnische Anlagen analysieren; Installationsmethoden, Materialien und Qualitätsstandards festlegen und spezifizieren; Beratungs- und Planungsleistungen über Bau und Pflege erbringen; Kontrollstandards und Verfahren zur Sicherstellung der effizienten Funktion und Sicherheit erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Ingenieur/in – Klimasystemtechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34214">Sanitär,Heizung,Klimatechnik - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="34214-102" refid="90739">Ingenieur/in - Lüftungstechnik</dkz>
+      <dkz codenr="34214-103" refid="90759">Ingenieur/in - technische Gebäudeausrüstung</dkz>
+      <dkz codenr="34214-104" refid="90782">Ingenieur/in - Klimasystemtechnik</dkz>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren beruflichen Aufgaben, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren beruflichen Aufgaben gehört, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Aufsichtskraft">
+      <text>Ja</text>
+      <kldb schluessel="34293">Aufsichtskräfte - Klempnerei, Sanitär-, Heizungs- und Klimatechnik</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="34293-103" refid="2210">Installateur- und Heizungsbauermeister/in</dkz>
+      <dkz codenr="34293-111" refid="5457">Betriebsmanager/in - Sanitär- und Heizungstechnik</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="34214">Sanitär,Heizung,Klimatechnik - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="34214-102" refid="90739">Ingenieur/in - Lüftungstechnik</dkz>
+      <dkz codenr="34214-103" refid="90759">Ingenieur/in - technische Gebäudeausrüstung</dkz>
+      <dkz codenr="34214-104" refid="90782">Ingenieur/in - Klimasystemtechnik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5297">Gas- und Wasserinstallateur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,24 @@
+<kategorie>
+  <id>9401</id>
+  <taetigkeit>Bau von Betonfundamenten für Bauwerke im Tiefbau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. maschinelle Bohrungen zur Baugrunduntersuchung durchführen; Erdaushubarbeiten veranlassen; Gründungselemente für Betonfundamente einbringen und das Fundament verankern; Stahlbetonböden, -wände, -tanks und -silos errichten</taetigkeitsbeschreibung>
+  <bezeichnung>Spezialtiefbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32202">Berufe im Tiefbau (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7114">Concrete placers, concrete finishers and related workers</isco>
+      <dkz codenr="32202-101" refid="4100">Tiefbaufacharbeiter/in</dkz>
+      <dkz codenr="32202-105" refid="13838">Spezialtiefbauer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1854">Bauhelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1779">Tiefbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5055">Baumaschinenführer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5301">Vorarbeiter/in- Tiefbau</abgrenzung>
+  <abgrenzung typ="mittel" refid="5275">Kanalbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1754">Tunnelbautechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

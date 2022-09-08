@@ -1,0 +1,40 @@
+<kategorie>
+  <id>5017</id>
+  <taetigkeit>Sicherstellung des ordnungsgemäßen und sicheren Schiffsverkehrs auf Seewegen und in Häfen durch Beratung von Kapitänen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Schiffe auf Seeschifffahrtstraßen oder in den Hafen lotsen; Brückendienst übernehmen; Schiffe den Liegeplätze zuweisen; die Einhaltung von Sicherheitsvorschriften sicherstellen; den Kapitän bei der Schiffsführung beraten; die landseitige Radarkontrolle durchführen; den Einsatz von Mitarbeitern, Materialien und Fahrzeugen koordinieren</taetigkeitsbeschreibung>
+  <bezeichnung>Schiffslotse/-lotsin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51543">Üerwach.Schiffsverkehrsbetr.-Spezialist</kldb>
+      <isco schluessel="3152">Ships' deck officers and pilots</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Ist ein wesentlicher Bestandteil ihrer Arbeit, andere Arbeitnehmer zu beaufsichtigen oder als Führungskraft strategische Entscheidungen für das Unternehmen zu treffen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War ein wesentlicher Bestandteil ihrer Arbeit, andere Arbeitnehmer zu beaufsichtigen oder als Führungskraft strategische Entscheidungen für das Unternehmen zu treffen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="keine Führungsverantwortung">
+      <text>weder Führungs- noch Aufsichtstätigkeit</text>
+      <kldb schluessel="51543">Üerwach.Schiffsverkehrsbetr.-Spezialist</kldb>
+      <isco schluessel="3152">Ships' deck officers and pilots</isco>
+      <dkz codenr="51543-101" refid="7241">Lotse/Lotsin</dkz>
+      <dkz codenr="51543-103" refid="7316">Hafenmeister/in</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Aufsichtstätigkeit mit Verantwortung für untergeordnetes Personal</text>
+      <kldb schluessel="51593">Aufsichtskräfte - Überwachung und Steuerung des Verkehrsbetriebs</kldb>
+      <isco schluessel="3152">Ships' deck officers and pilots</isco>
+    </antwort>
+    <antwort position="3" aufsicht="Führungskraft">
+      <text>Führungstätigkeit mit strategischer Entscheidungsbefugnis (z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen, oder zur Einstellung und Entlassung von Personal)</text>
+      <kldb schluessel="51594">Führungskräfte - Überwachung und Steuerung des Verkehrsbetriebs</kldb>
+      <isco schluessel="1324">Supply, distribution and related managers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1745">Wasserstraßenverkehrswart/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5051">Nautische/r Schiffsoffizier/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5053">Binnenschiffsführer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

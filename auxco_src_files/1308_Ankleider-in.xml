@@ -1,0 +1,21 @@
+<kategorie>
+  <id>1308</id>
+  <taetigkeit>Zusammenstellung der Kostüme für Schauspieler in Bühnen-, Film- oder Fernsehproduktionen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kostüme für einzelne Darsteller in der Garderobe bereitlegen; Künstlern beim Ankleiden helfen; passenden Sitz und Chronologie der Garderobe gewährleisten; kleinere Schäden selbst ausbesssern; kurzfristige Änderungen an der Bekleideung vornehmen; Reinigung und größere Reparaturen von Kostümen veranlassen</taetigkeitsbeschreibung>
+  <bezeichnung>Ankleider/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94622">Berufe in der Requisite - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3435">Artistic and cultural associate professionals not elsewhere classified</isco>
+      <dkz codenr="94622-101" refid="78107">Requisitenfahrer/in</dkz>
+      <dkz codenr="94622-100" refid="14324">Ankleider/in / Garderobier/e</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1309">Requisiteur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1249">Bühnen- und Kostümbildner/i</abgrenzung>
+  <abgrenzung typ="mittel" refid="1310">Ausstattungsleiter/in - Bühne/Film/Fernsehen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

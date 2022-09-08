@@ -1,0 +1,23 @@
+<kategorie>
+  <id>4046</id>
+  <taetigkeit>Analyse bestehender IT-Systeme und dazugehöriger Geschäftsprozesse sowie Konzeption optimierter IT-Lösungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Programme, IT-Systeme und IT-Technologien analysieren, um sie optimal einzusetzen; Anwender zu Einsatzmöglichkeiten von IT-Systemen im betrieblichen Umfeld beraten; Geschäftsprozesse von Unternehmen analysieren und damit neue IT-Lösungen konzipieren; Einführung von IT-Systemen begleiten</taetigkeitsbeschreibung>
+  <bezeichnung>IT-Systemanalytiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43214">IT-Systemanalyse - Experte</kldb>
+      <isco schluessel="2511">Systems analysts</isco>
+      <dkz codenr="43214-100" refid="7730">IT-Systemanalytiker/in</dkz>
+      <dkz codenr="43214-101" refid="15316">IT-Systemplaner/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4251">Leiter/in - IT-Vertrieb und -Anwendungsberatung</abgrenzung>
+  <abgrenzung typ="mittel" refid="4054">System-/ Netzwerkadministrator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1772">IT-Netzwerktechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4061">Softwareentwickler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4048">IT-Berater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

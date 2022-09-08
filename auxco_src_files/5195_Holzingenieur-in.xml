@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5195</id>
+  <taetigkeit>Entwicklung technischer Verfahren zur Herstellung von Holzprodukten sowie Koordination der Herstellungsprozesse</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. genaue physikalische und mechanische Eigenschaften von Hölzern ermitteln; Herstellungsanforderungen von Produkten wie Möbel oder Decken technisch entwickeln und umsetzen; Bearbeitungsparameter für die elektronisch gesteuerten Maschinen und Anlagen bestimmen; für eine termin- und qualitätsgerechte Produktion sorgen; Produktionsabläufe und Werkstoffe optimieren; Qualitätsnormen und -standards erarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Holzingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22304">Berufe in der Holzbe- und -verarbeitung (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="22304-104" refid="58722">Ingenieur/in - Holztechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5194">Holztechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1717">Industriemeister/in - Holz- und Sägeindustrie</abgrenzung>
+  <abgrenzung typ="mittel" refid="5208">Handwerksmeister/in - Holz</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

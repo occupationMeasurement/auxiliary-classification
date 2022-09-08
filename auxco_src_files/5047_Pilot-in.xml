@@ -1,0 +1,37 @@
+<kategorie>
+  <id>5047</id>
+  <taetigkeit>Steuerung von Flugzeugen zum Transport von Personen oder Fracht</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Flugvorbereitungen treffen und Flüge durchführen; Wetterbedingungen überprüfen; Flugroute und -höhe laufend überprüfen; Anweisungen der Flugsicherung befolgen; Berichte erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Pilot/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52313">PilotenVerkehrsflugzeugführer-Spezialist</kldb>
+      <isco schluessel="3153">Aircraft pilots and related associate professionals</isco>
+      <dkz codenr="52313-100" refid="7329">Testpilot/in</dkz>
+      <dkz codenr="52313-102" refid="7332">Verkehrsflugzeugführer/in (ATPL (A))</dkz>
+      <dkz codenr="52313-103" refid="7333">Co-Pilot/in</dkz>
+      <dkz codenr="52313-104" refid="7334">Berufsflugzeugführer/in (CPL (A))</dkz>
+      <dkz codenr="52314-100" refid="7328">Chefpilot/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren Tätigkeiten, Piloten auszubilden oder Personaleinsatzpläne zu entwerfen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren Tätigkeiten gehört, Piloten auszubilden oder Personaleinsatzpläne zu entwerfen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="52314">Piloten,Verkehrsflugzeugführer - Experte</kldb>
+      <isco schluessel="3153">Aircraft pilots and related associate professionals</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="52313">PilotenVerkehrsflugzeugführer-Spezialist</kldb>
+      <isco schluessel="3153">Aircraft pilots and related associate professionals</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5049">Luftfahrzeugführer/in - Hubschrauber, Heißluftballons, Luftschiffe</abgrenzung>
+  <abgrenzung typ="hoch" refid="5050">Checkkapitän/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

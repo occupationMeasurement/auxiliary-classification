@@ -1,0 +1,35 @@
+<kategorie>
+  <id>7049</id>
+  <taetigkeit>Behandlung von Patienten durch künstlerisch-kreative Betätigung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Diagnose stellen und therapeutische Befunde erheben; Maltherapie; plastisch-therapeutisches Gestalten; Drama- und Theatertherapie durchführen; musizieren oder singen; individuelle Förderungs- und Behandlungspläne erstellen; zu künstlerisch-kreativen Tätigkeiten anregen; Gruppenprozesse beobachten; Therapiestunden und -verläufe dokumentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Musik- oder Kunsttherapeut/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81743">Berufe in der Musik- und Kunsttherapie - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2269">Health professionals not elsewhere classified</isco>
+      <dkz codenr="81743-100" refid="8776">Kunsttherapeut/in</dkz>
+      <dkz codenr="81743-101" refid="8777">Musiktherapeut/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Kunst- oder Musiktherapie erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Kunst- oder Musiktherapie erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="81743">Berufe in der Musik- und Kunsttherapie - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2269">Health professionals not elsewhere classified</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="81744">Berufe in der Musik- und Kunsttherapie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2269">Health professionals not elsewhere classified</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7056">therapeutische/r Einrichtungsleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7047">Ergotherapeut/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8041">Musiklehrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

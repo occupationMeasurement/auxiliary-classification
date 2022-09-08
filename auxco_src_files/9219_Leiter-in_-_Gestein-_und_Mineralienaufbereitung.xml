@@ -1,0 +1,19 @@
+<kategorie>
+  <id>9219</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Aufbereitung von rohen Sanden und Gesteinen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Personal einteilen; Fachkräfte bei der Werkstoffbearbeitung anleiten; Be- und Verarbeitungstechniken für die Erzeugnisse auswählen; Einhaltung der Arbeits-, Brand- und Umweltschutzbestimmungen innerhalb des Verantwortungsbereichs sicherstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - Gestein- und Mineralienaufbereitung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21293">Aufsichtskräfte - Naturstein- und Mineralaufbereitung und -verarbeitung und Baustoffherstellung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="21293-108" refid="6129">Industriemeister/in - Naturwerkstein</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9212">Kohleaufbereiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9216">Steinmetz/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

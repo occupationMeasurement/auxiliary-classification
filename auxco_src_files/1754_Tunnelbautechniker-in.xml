@@ -1,0 +1,23 @@
+<kategorie>
+  <id>1754</id>
+  <taetigkeit>Planung, Koordination und Optimierung des Baus und der Instandhaltung von Verkehrs- und Versorgungstunneln</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Material- und Personeneinsatz planen; bauphysikalische und statische Berechnungen durchführen; Schacht- und Bohrarbeiten planen und deren Durchführung technisch überwachen; Einhaltung der Bauplanung unter Berücksichtigung gesetzlicher Bestimmungen sicherstellen; Proben von Bau- und Hilfsstoffen entnehmen, analysieren und Ergebnisse bewerten; Qualität der Bauleistung prüfen und sicherstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Tunnelbautechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32253">Berufe im Kanal- und Tunnelbau - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians </isco>
+      <dkz codenr="32253-100" refid="4204">Kanalmeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1775">Bautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1779">Tiefbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5275">Kanalbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5276">Tunnelbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5277">Kanalmeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5301">Vorarbeiter/in- Tiefbau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

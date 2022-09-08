@@ -1,0 +1,25 @@
+<kategorie>
+  <id>1217</id>
+  <taetigkeit>Unterhaltung von Publikum durch den Vortrag von satirischen oder kabarettistischen Texten oder als Clown</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Publikums mit witzigen Geschichten, Anekdoten und Spielszenen unterhalten; bekannte Werke auswählen und diese verfremden; bekannte Persönlichkeiten parodieren; Szenen konzipieren und einstudieren</taetigkeitsbeschreibung>
+  <bezeichnung>Komiker/in / Kabarettist/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94313">Komiker/innen und Kabarettisten/Kabarettistinnen - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2659">Creative and performing artists not elsewhere classified</isco>
+      <dkz codenr="94313-106" refid="78507">Musikclown/in</dkz>
+      <dkz codenr="94313-105" refid="78021">Humorist/in</dkz>
+      <dkz codenr="94313-100" refid="8417">Parodist/in</dkz>
+      <dkz codenr="94313-101" refid="8419">Komiker/in</dkz>
+      <dkz codenr="94313-102" refid="8420">Kabarettist/in</dkz>
+      <dkz codenr="94313-103" refid="8601">Clown/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1220">Entertainer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1600">Diskjockey / Bauchredner/in / Travestiekünstler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1208">Schauspieler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5205</id>
+  <taetigkeit>Fertigung, Montage und Reparatur von Fahrzeuggestellen und Fahrzeugteilen aus Holz</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Hölzer für das herzustellende Produkt auswählen und gegebenenfalls einlagern; Skizzen und Zeichnungen erstellen; Holzteile ausmessen und passgenau bearbeiten; Oberflächen veredeln; historische Wagen und Kutschen restaurieren</taetigkeitsbeschreibung>
+  <bezeichnung>Wagner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22382">Holzbe-, -verarbeitung (ssT) - Fachkraft</kldb>
+      <isco schluessel="7522">Cabinet-makers and related workers </isco>
+      <dkz codenr="22382-101" refid="4532">Wagner/in</dkz>
+      <dkz codenr="22382-108" refid="35067">Fahrzeugstellmacher/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5206">Böttcher/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5193">Holzbearbeitungsmechaniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

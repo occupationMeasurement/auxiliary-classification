@@ -1,0 +1,22 @@
+<kategorie>
+  <id>6001</id>
+  <taetigkeit>Interne Abfrage und Erfassung des Warenbedarfs in den Fachabteilungen in einem Unternehmens</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bedarf an Waren und Dienstleistungen abfragen; Lagerbestandslisten führen und deren Korrektheit überprüfen; nach Anweisung Neubestellungen vornehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Beschaffungsassistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61112">Berufe im Einkauf - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="4322">Production clerks</isco>
+      <dkz codenr="61112-101" refid="90736">Sachbearbeiter/in - Einkauf</dkz>
+      <dkz codenr="61112-102" refid="90753">Assistent/in - Beschaffungswesen</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1747">Vertriebsspezialist/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1823">Buchführungsfachkraft</abgrenzung>
+  <abgrenzung typ="mittel" refid="5025">Kaufmann/-frau für Spedition und Logistikdienstleistung</abgrenzung>
+  <abgrenzung typ="hoch" refid="6002">Einkäufer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

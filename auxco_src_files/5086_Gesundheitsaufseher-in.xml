@@ -1,0 +1,24 @@
+<kategorie>
+  <id>5086</id>
+  <taetigkeit>Durchführung von Hygienekontrollen sowie Beratungstätigkeiten im Gesundheitswesen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. hygienische Verhältnisse und Durchführung angeordneter Maßnahmen überwachen; örtlich zuständige Organe oder die Bevölkerung in Fragen der Seuchenhygiene und der Umweltmedizin beraten; Untersuchungs- und Überwachungsergebnisse dokumentieren; bei epidemiologischen Erhebungen und Auswertungen mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Gesundheitsaufseher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53322">Gesundheitsaufs.,Hygieneüberw.-Fachkraft</kldb>
+      <isco schluessel="3257">Environmental and occupational health inspectors and associates</isco>
+      <dkz codenr="53322-101" refid="13886">Beamt(er/in) - Gesundheitsdienst (mittl. Dienst)</dkz>
+      <dkz codenr="53322-100" refid="9041">Gesundheitsaufseher/in</dkz>
+      <dkz codenr="53322-102" refid="35020">Fachkraft - Hygieneüberwachung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5090">Abteilungsleiter/in - Gewerbeaufsicht</abgrenzung>
+  <abgrenzung typ="hoch" refid="5087">Fachkrankenschwester/-pfleger für Hygiene</abgrenzung>
+  <abgrenzung typ="mittel" refid="5085">Beamt(er/in) - Gewerbeaufsicht</abgrenzung>
+  <abgrenzung typ="hoch" refid="5088">amtliche/r Lebensmittelkontrolleur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5089">Schädlingsbekämpfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

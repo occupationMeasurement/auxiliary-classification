@@ -1,0 +1,38 @@
+<kategorie>
+  <id>9202</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Weinanbau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Einhaltung von Vorschriften zum Arbeits- und Umweltschutz sicherstellen; Arbeitsverfahren und -abläufe planen und steuern, z.B. Bodenpflege, Arbeiten am Rebstock, Weinlese und Traubenverarbeitung; Einsatz von Maschinen und Geräten planen; Maschinen bedienen und warten</taetigkeitsbeschreibung>
+  <bezeichnung>Weinbergsverwalter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11694">Führungskräfte - Weinbau</kldb>
+      <isco schluessel="1311">Agricultural and forestry production managers</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="11694">Führungskräfte - Weinbau</kldb>
+      <isco schluessel="1311">Agricultural and forestry production managers</isco>
+      <dkz codenr="11604-102" refid="452">Weinbauberater/in</dkz>
+      <dkz codenr="11604-103" refid="58743">Ingenieur/in - Weinbau</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="11693">Aufsichtskräfte - Weinbau</kldb>
+      <isco schluessel="6112">Tree and shrub crop growers</isco>
+      <dkz codenr="11693-100" refid="292">Winzermeister/in</dkz>
+      <dkz codenr="11693-101" refid="455">Wirtschafter/in - Weinbau</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1851">Landwirtschaftliche/r Betriebsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1713">Gärtnermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9200">Winzer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9201">Weinbauberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

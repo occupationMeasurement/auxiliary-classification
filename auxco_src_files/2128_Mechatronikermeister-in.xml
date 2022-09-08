@@ -1,0 +1,20 @@
+<kategorie>
+  <id>2128</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Mechatronik und Automatisierungstechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Arbeitsabläufe in der Fertigung und Montage mechatronischer Systeme koordinieren und überwachen; Kosten- und Kapazitätspläne der betrieblichen Fertigung erstellen; Maschinen- und Materialbedarf planen; die Einhaltung von Arbeitssicherheits- und Umweltbestimmungen sicherstellen; Mitarbeiter bei komplexen Aufgaben anleiten sowie die Einarbeitung neuer MItarbeiter überwachen; Schulungs- und Weiterbildungsmaßnahmen der Mitarbeiter organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Mechatronikermeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26193">Aufsichtskräfte - Mechatronik und Automatisierungstechnik</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="26193-104" refid="30215">Industriemeister/in - Mechatronik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1729">Mechatroniktechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1730">Elektrotechniker/in - Automatisierungstechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="2130">Leiter/in - Elektrotechnik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

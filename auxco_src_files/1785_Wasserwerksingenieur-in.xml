@@ -1,0 +1,35 @@
+<kategorie>
+  <id>1785</id>
+  <taetigkeit>Planung, Betrieb und Überwachung von Anlagen zur Wassergewinnung und Wasseraufbereitung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Berechnungen zur Dimensionierung wasserversorgungs- und abwassertechnischer Anlagen durchführen; Betrieb von wasserversorgungs- und abwassertechnischen Anlagen planen und überwachen; Durchfluss, Behandlung und Entsorgung von Abwasser und Abfallstoffen mithilfe von Steuerungssystemen regulieren; neue Pumpsysteme testen und einführen; Wasser- und Abwasserproben sammeln und auf Chemikalien und Bakterien prüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Wasserwerksingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34314">Wasserversorg.,Abwassertechn.-Experte </kldb>
+      <isco schluessel="2143">Environmental engineers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="34314">Wasserversorg.,Abwassertechn.-Experte </kldb>
+      <isco schluessel="2143">Environmental engineers</isco>
+      <dkz codenr="34314-100" refid="90798">Wasserwerksingenieur/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="34313">Berufe in der Wasserversorgungs- und Abwassertechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5337">Ver- und Entsorger/in - Wasserversorgung</abgrenzung>
+  <abgrenzung typ="mittel" refid="5355">Leiter/in - Anlagenbau</abgrenzung>
+  <abgrenzung typ="mittel" refid="5403">Bauplaner/in für wasserwirtschaftliche Anlagen</abgrenzung>
+  <abgrenzung typ="mittel" refid="1774">Gewässer-, Abfall- und Immissionsschutzbeauftragte/r</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

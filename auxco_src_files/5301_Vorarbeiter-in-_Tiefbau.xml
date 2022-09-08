@@ -1,0 +1,26 @@
+<kategorie>
+  <id>5301</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Tiefbau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Baumaßnahmen im Straßen-, Brunnen, Abwasser- oder Wasserbau beaufsichtigen und koordinieren; Vermessungen und Absteckarbeiten für den Verlauf von Wegen, Straßen oder Kanälen überwachen; in Betrieb befindliche Tiefbauanlagen kontrollieren und Instandsetzung veranlassen; Arbeitsabläufe und Termine planen; Bauabläufe und Termineinhaltung überwachen; den Personaleinsatz planen; Qualität der ausgeführten Arbeiten überprüfen; Mitarbeiter anleiten; Weiterbildungsmaßnahmen organisieren; den betrieblichen Teil der Ausbildung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Vorarbeiter/in- Tiefbau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32293">Aufsicht - Tiefbau</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="32293-102" refid="4102">Straßenbauermeister/in</dkz>
+      <dkz codenr="32293-103" refid="4103">Polier/in - Tiefbau</dkz>
+      <dkz codenr="32293-104" refid="4104">Werkpolier/in - Tiefbau</dkz>
+      <dkz codenr="32293-108" refid="4169">Wasserbaumeister/in</dkz>
+      <dkz codenr="32293-113" refid="4197">Brunnenbauermeister/in</dkz>
+      <dkz codenr="32293-120" refid="6283">Industriemeister/in - Gleisbau</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1779">Tiefbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5272">Gleisbautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1775">Bautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5274">Brunnenbautechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,21 @@
+<kategorie>
+  <id>9068</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Produktionsprozessen in Molkereien</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Milchannahme und Probenentnahme überwachen; Produktionsabläufe planen, organisieren und überwachen; Betriebsbereitschaft von Produktionsanlagen sicherstellen; Qualitätskontrollen durchführen und Produkte chemisch, physikalisch und mikrobiologisch untersuchen; bei der Entwicklung neuer Produkte mitwirken; kaufmännisch-organisatorische Aufgaben wahrnehmen; Milch erzeugende oder bearbeitende Betriebe beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Molkereitechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29253">Milchproduktherstellung - Spezialist</kldb>
+      <isco schluessel="3116">Chemical engineering technicians</isco>
+      <dkz codenr="29253-100" refid="3857">Milchwirtschaftliche/r Fachberater/in</dkz>
+      <dkz codenr="29253-101" refid="3858">Wirtschafter/in - Milchwirtschaft und Molkereiwesen</dkz>
+      <dkz codenr="29253-102" refid="5871">Techniker/in - Milchwirtschaft, Molkereiwesen</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9068">Molkereitechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9076">Leiter/in - Lebensmittelindustrie</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

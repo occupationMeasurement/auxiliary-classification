@@ -1,0 +1,42 @@
+<kategorie>
+  <id>7001</id>
+  <taetigkeit>Unterstützung von Ärzten bei der  Untersuchung, Behandlung und Beratung von Patienten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Verbände anlegen; Proben für Laboruntersuchungen nehmen; medizinische Instrumente vorbereiten und warten; Patienten empfangen</taetigkeitsbeschreibung>
+  <bezeichnung>Arzthelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81102">Medizinische Fachangestellte/r (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3256">Medical assistents</isco>
+      <dkz codenr="81102-102" refid="8918">Arzthelfer/in</dkz>
+      <dkz codenr="81102-106" refid="33213">Medizinische/r Fachangestellte/r</dkz>
+      <dkz codenr="81103-101" refid="77548">Fachwirt/in - ambulante medizinische Versorgung</dkz>
+      <dkz codenr="81103-100" refid="8917">Arztfachhelfer/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="81102">Medizinische Fachangestellte (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3256">Medical assistants</isco>
+      <dkz codenr="81102-102" refid="8918">Arzthelfer/in</dkz>
+      <dkz codenr="81102-106" refid="33213">Medizinische/r Fachangestellte/r</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="81103">Medizinische Fachangestellte (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3256">Medical assistants</isco>
+      <dkz codenr="81103-101" refid="77548">Fachwirt/in - ambulante medizinische Versorgung</dkz>
+      <dkz codenr="81103-100" refid="8917">Arztfachhelfer/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7002">Zahnarzthelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7104">Krankenschwester/-pfleger</abgrenzung>
+  <abgrenzung typ="mittel" refid="7009">Medizinisch-technische/r Laboratoriumsassistent/in (MTLA)</abgrenzung>
+  <abgrenzung typ="hoch" refid="7003">Arztsekretär/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

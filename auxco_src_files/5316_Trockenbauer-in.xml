@@ -1,0 +1,61 @@
+<kategorie>
+  <id>5316</id>
+  <taetigkeit>Montage von Trockenbauelementen, Verkleidung von Wänden und Decken und Einbau von Dämmstoffen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Leichtbauwände, Brandwände, Unterdecken oder Bekleidungen von Decken, Wänden und Fassaden herstellen; Untergründe vorbereiten und Unterkonstruktionen herstellen, um Aus- und Trockenbauten durchzuführen; Konstruktionsteile aus Holz, Holzverschalungen und einfaches Balkenwerk bauen; Dämmungen für Wärme-, Kälte- und Schallschutz einbauen; Trockenbauelemente und Holzelemente gegen nichtdrückendes Wasser schützen; Maschinen und Werkzeuge reinigen; Material und Arbeitsmittel verladen</taetigkeitsbeschreibung>
+  <bezeichnung>Trockenbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33302">Aus- und Trockenbau (o.S.) - Fachkraft</kldb>
+      <isco schluessel="7123">Plasterers</isco>
+      <dkz codenr="33301-106" refid="50936">Helfer/in - Ausbau</dkz>
+      <dkz codenr="33302-100" refid="4002">Ausbaufacharbeiter/in</dkz>
+      <dkz codenr="33302-104" refid="4287">Ausbaufacharbeiter/in (Trockenbauarbeiten)</dkz>
+      <dkz codenr="33302-105" refid="4288">Trockenbaumonteur/in</dkz>
+      <dkz codenr="33302-107" refid="59062">Fachkraft - Trockenbau</dkz>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren beruflichen Aufgaben, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren beruflichen Aufgaben gehört, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" follow-up="FALSE" aufsicht="Aufsichtskraft">
+      <text>Ja</text>
+      <kldb schluessel="33393">Aufsichtskräfte - Aus- und Trockenbau, Isolierung, Zimmerei, Glaserei, Rollladen- und Jalousiebau</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="33393-102" refid="4242">Polier/in - Ausbau</dkz>
+      <dkz codenr="33393-116" refid="6284">Industriemeister/in - Akustik- und Trockenbau</dkz>
+      <dkz codenr="33393-128" refid="67088">Werkpolier/in - Ausbau</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="33302">Aus- und Trockenbau (o.S.) - Fachkraft</kldb>
+      <isco schluessel="7123">Plasterers</isco>
+    </antwort>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine abgeschlossene Berufsausbildung im Bereich Trockenbau erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine abgeschlossene Berufsausbildung im Bereich Trockenbau erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="33302">Aus- und Trockenbau (o.S.) - Fachkraft</kldb>
+      <isco schluessel="7123">Plasterers</isco>
+      <dkz codenr="33302-100" refid="4002">Ausbaufacharbeiter/in</dkz>
+      <dkz codenr="33302-104" refid="4287">Ausbaufacharbeiter/in (Trockenbauarbeiten)</dkz>
+      <dkz codenr="33302-105" refid="4288">Trockenbaumonteur/in</dkz>
+      <dkz codenr="33302-107" refid="59062">Fachkraft - Trockenbau</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="1">
+      <text>Nein</text>
+      <kldb schluessel="33301">Aus- und Trockenbau (o.S.) - Helfer</kldb>
+      <isco schluessel="9313">Building construction labourers</isco>
+      <dkz codenr="33301-106" refid="50936">Helfer/in - Ausbau</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1756">Helfer/in - Gebäudeausbau</abgrenzung>
+  <abgrenzung typ="mittel" refid="5292">Zimmerer/Zimmerin</abgrenzung>
+  <abgrenzung typ="mittel" refid="5293">Bautischler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3013">Isolierfacharbeiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

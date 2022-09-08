@@ -1,0 +1,53 @@
+<kategorie>
+  <id>1839</id>
+  <taetigkeit>Entwurf und Design von Produkten für die serielle Massenproduktion sowie die Begleitung des Fertigungsprozess bis zum Beginn der Serienproduktion</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Aufgaben in der Kundenakquisition übernehmen; Informationen über Zielgruppe, Preisvorstellungen, Position am Markt, Konkurrenzprodukte, Materialien, Sicherheitsvorschriften u.Ä. einholen; Gestaltungsvorschläge in Verbindung mit technischen Ausführungsvorgaben erarbeiten und dem Designteam unterbreiten; technische Zeichnungen erstellen; Oberfläche, Material, Farbe und Formgebung festlegen; Prototypen erstellen; bei der Hinführung zur Marktreife des Produkts assistieren</taetigkeitsbeschreibung>
+  <bezeichnung>Produkt- und Industriedesigner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93102">Produkt-, Industriedesign - Fachkraft</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="2" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="93102">Produkt-, Industriedesign - Fachkraft</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+      <dkz codenr="93102-100" refid="15423">Assistent/in - Produktdesign</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="93103">Produkt-, Industriedesign - Spezialist</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+      <dkz codenr="93103-100" refid="13680">Formenentwerfer/in</dkz>
+      <dkz codenr="93103-101" refid="13980">Gestalter/in - Handwerk</dkz>
+      <dkz codenr="93103-103" refid="30241">Gestalter/in - Produktdesign</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="93103">Produkt-, Industriedesign - Spezialist</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+    </antwort>
+    <antwort position="5" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="93104">Produkt-, Industriedesign - Experte</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5222">Mediengestalter/in - Digital und Print</abgrenzung>
+  <abgrenzung typ="hoch" refid="2146">Technische/r Zeichner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5124">Ausstellungsgestalter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1737">Konstruktionstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5135">Spielzeugdesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5143">Keramikdesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5148">Metalldesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1841">Gold- und Silberschmied/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9014">Modedesigner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

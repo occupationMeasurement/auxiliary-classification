@@ -1,0 +1,18 @@
+<kategorie>
+  <id>4009</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten in der chemischen Forschung oder chemischen Produktion</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fachkräfte beim Bedienen chemischer Produktionsanlagen unterstützen; Reinigung von Maschinen und Werkzeugen; nach Vorgabe Proben ziehen; Substanzen abwiegen; Rohstoffe sortieren</taetigkeitsbeschreibung>
+  <bezeichnung>Hilfskraft in der Chemieindustrie</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41311">Chemie- und Pharmatechnik - Helfer</kldb>
+      <isco schluessel="9329">Hilfsarbeiter bei der Herstellung von Waren, anderweitig nicht genannt</isco>
+      <dkz codenr="41311-100" refid="1153">Helfer/in - Chemie- und Pharmatechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1791">Chemikant/in / Pharmakant/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

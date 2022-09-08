@@ -1,0 +1,18 @@
+<kategorie>
+  <id>3539</id>
+  <taetigkeit>Sicherstellung der ordnungsgemäßen Handhabung und des Schutzes personenbezogener Daten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. im Bereich Datenschutz den Missbrauch von personengebundenen Daten verhindern; den Umgang mit dem Datenbestand eines Unternehmens oder einer Behörde kontrollieren; Umsetzung von Datenschutzanforderungen beim Einsatz von Informations- und Kommunikationstechnologie sicherstellen; Datenschutzfolgenabschätzungen durchführen; Wirksamkeit, Wirtschaftlichkeit, Praktikabilität sowie Akzeptanz von Datenschutzmaßnahmen beurteilen; Prüfberichte erstellen; sich laufend über gesetzliche Änderungen und aktuelle Rechtsprechung informieren</taetigkeitsbeschreibung>
+  <bezeichnung>Datenschutzbeauftragte/r</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73183">Rechtsber.,sprech.,ordn.(ssT)-Spezialist</kldb>
+      <isco schluessel="3411">Legal and related associate professionals</isco>
+      <dkz codenr="73183-102" refid="8261">Datenschutzbeauftragte/r</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3530">Rechtliche/r Berater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

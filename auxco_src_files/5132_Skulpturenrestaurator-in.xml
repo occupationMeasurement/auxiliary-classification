@@ -1,0 +1,24 @@
+<kategorie>
+  <id>5132</id>
+  <taetigkeit>Konservierung und Restaurierung von plastischen Kunstobjekten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Skulpturen und Plastiken gestalten und restaurieren; alte Fotografien zur Rekonstruktion heranziehen; geeignete Konzepte zur Konservierung und Restaurierung erarbeiten; Zustand der zu restaurierenden Objekte feststellen; Schäden analysieren und dokumentieren; eventuelle Übermalungen aus jüngerer Zeit entfernen; vorbeugende Schutzmaßnahmen gegen Umwelteinflüsse an den Objekten durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Skulpturenrestaurator/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93313">Bildhauerei - Spezialist</kldb>
+      <isco schluessel="2651">Visual artists</isco>
+      <dkz codenr="93313-100" refid="1533">Restaurator/in - Holzbildhauerhandwerk</dkz>
+      <dkz codenr="93313-101" refid="8426">Restaurator/in - Skulpturen, Plastiken</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5127">Kunsthandwerker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5128">bildende/r Künstler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5129">Bildhauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5130">Holzbildhauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5131">Steinbildhauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5137">Restaurator/in - Vergolderhandwerk</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

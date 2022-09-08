@@ -1,0 +1,21 @@
+<kategorie>
+  <id>3570</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Rechnungswesen, Controlling oder der Revision</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die fachliche und disziplinarische Führung im Bereich Rechnungswesen, Controlling oder Revision übernehmen; Gewinn-, Verlust-, Bilanz-, Liquiditäts- und Investitionsrechnungen erstellen sowie Budgets aufstellen; betriebliche Kosten planen; Strategien entwickeln, um operative Entscheidungs- und Steuerungsprozesse zu verbessern; die Finanz- und Liquiditätssteuerung verantworten; interne Revisionen überwachen; Personal einstellen und Mitarbeiter anleiten</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in Rechnungswesen/ Revision/ Controlling</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="72294">Führung-Rechnungsw.,Controlling,Revision</kldb>
+      <isco schluessel="1211">Finance managers</isco>
+      <dkz codenr="72294-100" refid="6894">Leiter/in - Revision</dkz>
+      <dkz codenr="72294-101" refid="7481">Leiter/in - Finanz- und Rechnungswesen</dkz>
+      <dkz codenr="72294-108" refid="29194">Leiter/in - Controlling</dkz>
+      <dkz codenr="72294-102" refid="7677">Leiter/in - Kostenrechnung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3210">Regionalleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

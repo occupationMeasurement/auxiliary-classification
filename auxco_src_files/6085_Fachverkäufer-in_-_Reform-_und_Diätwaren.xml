@@ -1,0 +1,20 @@
+<kategorie>
+  <id>6085</id>
+  <taetigkeit>Verkauf von Produkten aus dem Diät- und Reformwarenbereich im Einzelhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden zu Reform- und Diätwaren beraten und auf Inhaltsstoffe hinweisen; Verkaufsräume und Schaufenster dekorieren und Waren präsentieren sowie verkaufsfördernde Maßnahmen durchführen; Haltbarkeitsüberprüfungen und andere Qualitätskontrollen durchführen; Einhaltung lebensmittelrechtlicher Vorschriften überwachen; Warenbestandsaufnahme überwachen; Geräte, Laden- und Verkaufseinrichtungen reinigen; Kundenbestellungen und -reklamationen entgegennehmen; Vorratshaltung überwachen und auf genügend frische Ware achten; den rechtzeitigen Warennachschub sicherstellen; Waren verkaufen und Zahlungen entgegennehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Fachverkäufer/in - Reform- und Diätwaren</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62382">Verkauf Lebensmittel (s.s.T.)-Fachkraft</kldb>
+      <isco schluessel="5223">Shop sales assistants</isco>
+      <dkz codenr="62382-100" refid="6567">Kaufmann/-frau - Einzelhandel (Diät-, Reformwaren, Lebensm.)</dkz>
+      <dkz codenr="62382-101" refid="6658">Fachverkäufer/in - Reform- und Diätwaren</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6052">Lebensmittelfachverkäufer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6037">Drogeriefachverkäufer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,51 @@
+<kategorie>
+  <id>9231</id>
+  <taetigkeit>Industrielle Fertigung von Porzellan, Waschbecken, Fliesen oder anderen Produkten aus Keramik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. keramische Massen für die Produktion aufbereiten; keramische Massen bzw. Rohlinge formen und vorbereiten; Trocknungs- und Brennprozess der Ware steuern und überwachen; Rohlinge maschinell glasieren und dekorieren</taetigkeitsbeschreibung>
+  <bezeichnung>Industriekeramiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21412">Berufe in der Industriekeramik (Verfahrens- und Anlagentechnik) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8181">Glass and ceramics plant operators</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="1">
+      <text>eine kurze Anlernphase</text>
+      <kldb schluessel="21411">Berufe in der Industriekeramik (Verfahrens- und Anlagentechnik) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="21411-102" refid="1019">Helfer/in - Keramik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="21412">Berufe in der Industriekeramik (Verfahrens- und Anlagentechnik) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8181">Glass and ceramics plant operators</isco>
+      <dkz codenr="21412-101" refid="989">Industriekeramiker/in - Formgebung</dkz>
+      <dkz codenr="21412-102" refid="991">Industriekeramiker/in - Mechanik</dkz>
+      <dkz codenr="21412-131" refid="34940">Industriekeramiker/in Anlagentechnik</dkz>
+      <dkz codenr="21412-132" refid="34942">Industriekeramiker/in Verfahrenstechnik</dkz>
+      <dkz codenr="21412-133" refid="35134">Technokeramformer/in</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="21413">Berufe in der Industriekeramik (Verfahrens- und Anlagentechnik) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="21413-101" refid="5975">Techniker/in - Keramiktechnik</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="21413">Berufe in der Industriekeramik (Verfahrens- und Anlagentechnik) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="21413-101" refid="5975">Techniker/in - Keramiktechnik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5142">Keramiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5144">Glas- und Porzellanmaler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9233">Leiter/in - Keramikfabrik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,43 @@
+<kategorie>
+  <id>1823</id>
+  <taetigkeit>Durchführung der Buchhaltung über finanzielle Transaktionen in Unternehmen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Betriebsabrechnungen durchführen und auf ihre Richtigkeit prüfen; den Zahlungsverkehr und die Kassenführung führen und überwachen; finanzstatistische Buchhaltungsberichte und Tabellen erstellen; Lohn- und Gehaltsabrechnungen überwachen; bei Monats- und Jahresabschlüssen mitarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Buchführungsfachkraft</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="72212">Buchhaltung - Fachkraft</kldb>
+      <isco schluessel="4311">Accounting and bookkeeping clerks</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="72212">Buchhaltung - Fachkraft</kldb>
+      <isco schluessel="4311">Accounting and bookkeeping clerks</isco>
+      <dkz codenr="72212-102" refid="7770">Kfm. Ass./Wirtschaftsassistent/in - DV/Rechnungswesen</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="72213">Buchhaltung - Spezialist</kldb>
+      <isco schluessel="3313">Accounting associate professionals</isco>
+      <dkz codenr="72213-100" refid="7680">Betriebswirt/in (Fachschule) - Rechnungswesen</dkz>
+      <dkz codenr="72213-111" refid="15013">Assistent/in/Fachkraft - Rechnungswesen</dkz>
+      <dkz codenr="72213-101" refid="7692">Buchhalter/in</dkz>
+      <dkz codenr="72213-102" refid="7695">Bilanzbuchhalter/in</dkz>
+      <dkz codenr="72213-103" refid="7698">Kontokorrentbuchhalter/in</dkz>
+      <dkz codenr="72213-107" refid="7705">Fachagrarwirt/in - Rechnungswesen</dkz>
+      <dkz codenr="72213-108" refid="7708">Fachkaufmann/-frau - Geschäfts- u. Finanzbuchführung</dkz>
+      <dkz codenr="72213-117" refid="33199">Finanzbuchhalter/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3587">Steuerfachmann/-frau</abgrenzung>
+  <abgrenzung typ="hoch" refid="3580">Lohn- und Gehaltsbuchhalter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3581">Wirtschaftsprüfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3573">Controller/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

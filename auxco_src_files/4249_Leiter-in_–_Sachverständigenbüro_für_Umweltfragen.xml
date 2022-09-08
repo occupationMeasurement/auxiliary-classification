@@ -1,0 +1,18 @@
+<kategorie>
+  <id>4249</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Bereich des Umweltmanagements und der Umweltberatung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. laufende Umweltschutzprojekte evaluieren; umweltpolitische Fragestellungen bearbeiten; Regierungen und Unternehmen zu Umweltthemen beraten; Personal- und Ressourceneinsatz planen; Budget planen und verwalten; Schulung und Leistung der Mitarbeiter überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in – Sachverständigenbüro für Umweltfragen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42394">Führung - Umweltmanagement und -beratung</kldb>
+      <isco schluessel="1349">Professional services managers not elsewhere classified</isco>
+      <dkz codenr="42394-100" refid="90752">Leiter/in - Sachverständigenbüro für Umweltfragen</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4242">Umweltschutzbeauftragte/r</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

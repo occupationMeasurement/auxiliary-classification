@@ -1,0 +1,22 @@
+<kategorie>
+  <id>4006</id>
+  <taetigkeit>Erforschung von Verhaltensweisen, Stoffwechselprozessen und Interaktion von Tieren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Tierarten und ihre Verbreitung untersuchen und klassifizieren; Zellen und Gewebe von Tieren analysieren; Verhalten von Tiergruppen beobachten; Zuchtprogramme für den Artenschutz entwickeln; beratende Tätigkeit zu Artenschutzfragestellungen</taetigkeitsbeschreibung>
+  <bezeichnung>Biologe/Biologin, Fachgebiet Zoologie</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41254">Biologie (Zoologie) - Experte</kldb>
+      <isco schluessel="2131">Biologen, Botaniker, Zoologen und verwandte Berufe</isco>
+      <dkz codenr="41254-100" refid="5275">Toxikologe/Toxikologin</dkz>
+      <dkz codenr="41254-101" refid="14075">Verhaltensforscher/in</dkz>
+      <dkz codenr="41254-102" refid="14076">Zoologe/Zoologin</dkz>
+      <dkz codenr="41254-106" refid="100509">Neurowissenschaftler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1789">Biologisch-Technische/r Laborleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1712">Tierpflegemeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

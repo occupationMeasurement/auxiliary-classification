@@ -1,0 +1,18 @@
+<kategorie>
+  <id>8054</id>
+  <taetigkeit>Erteilung von praktischem und theoretischem Fahrunterricht</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kenntnisse über Verkehrsregeln, das Verhalten im Straßenverkehr und den Betrieb von Kraftfahrzeugen vermitteln; über Gefahren im Straßenverkehr aufklären; Testfragebögen korrigieren; Lernschritte unter Berücksichtigung der Schwächen der Fahrschüler wiederholen und das Erlernte festigen; Fahren, Bremsen und Einparken mit den Fahrschüler üben; Fahrschüler zur Führerscheinprüfung anmelden und bei der Prüfungsfahrt begleiten</taetigkeitsbeschreibung>
+  <bezeichnung>Fahrlehrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84513">Fahrlehrer/innen - Spezialist</kldb>
+      <isco schluessel="5165">Driving instructors</isco>
+      <dkz codenr="84513-100" refid="9557">Fahrlehrer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1762">Fahrprüfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

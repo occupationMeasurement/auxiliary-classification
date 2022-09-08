@@ -1,0 +1,19 @@
+<kategorie>
+  <id>3594</id>
+  <taetigkeit>Durchführung von Verwaltungs- und Sachbearbeitungsaufgaben bei Personalangelegenheiten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Personalakten führen und pflegen; Verwaltungsaufgaben erledigen, die beim Ein- und Austritt von Personal anfallen; Krankheits- und Arbeitszeiten sowie Urlaubsansprüche überwachen; Termine für Bewerbungsgespräche und Schulungen koordinieren; Arbeitsverträge, Zeugnisse und Bescheinigungen nach Vorgabe ausstellen; schriftliche, telefonische und mündliche Korrespondenz erledigen</taetigkeitsbeschreibung>
+  <bezeichnung>Personalsachbearbeiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71512">Personalentwick.,sachbearbeit.-Fachkraft</kldb>
+      <isco schluessel="4416">Personnel clerks</isco>
+      <dkz codenr="71512-100" refid="15408">Personalsachbearbeiter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3595">Personalfachkaufmann/-frau</abgrenzung>
+  <abgrenzung typ="mittel" refid="3597">Personalvermittler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

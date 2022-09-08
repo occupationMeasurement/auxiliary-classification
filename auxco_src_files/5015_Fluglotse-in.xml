@@ -1,0 +1,41 @@
+<kategorie>
+  <id>5015</id>
+  <taetigkeit>Sicherstellung des ordnungsgemäßen und sicheren Flugverkehrs am Boden und im Luftraum</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Radar-, Navigations- und Informations-übertragungsanlagen bedienen; Kontakt zu Kontrollzentren sicherstellen; Anweisungen für einen sicheren Flug geben; Entscheidungen bei Gefahrenlagen treffen; mit dem Flugwetterdienst zusammenarbeiten; Personal, technischen Einrichtungen und Landebahnen überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Fluglotse/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51533">Überwachung Luftverkehrsbetr.-Spezialist</kldb>
+      <isco schluessel="3154">Air traffic controllers</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Ist ein wesentlicher Bestandteil ihrer Arbeit, andere Arbeitnehmer zu beaufsichtigen oder als Führungskraft strategische Entscheidungen für das Unternehmen zu treffen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War ein wesentlicher Bestandteil ihrer Arbeit, andere Arbeitnehmer zu beaufsichtigen oder als Führungskraft strategische Entscheidungen für das Unternehmen zu treffen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="keine Führungsverantwortung">
+      <text>weder Führungs- noch Aufsichtstätigkeit</text>
+      <kldb schluessel="51533">Überwachung Luftverkehrsbetr.-Spezialist</kldb>
+      <isco schluessel="3154">Air traffic controllers</isco>
+      <dkz codenr="51533-100" refid="7353">Fluglotse/Fluglotsin</dkz>
+      <dkz codenr="51533-101" refid="7359">Sachbearbeiter/in - Luftaufsicht</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Aufsichtstätigkeit mit Verantwortung für untergeordnetes Personal</text>
+      <kldb schluessel="51593">Aufsichtskräfte - Überwachung und Steuerung des Verkehrsbetriebs</kldb>
+      <isco schluessel="3154">Air traffic controllers</isco>
+    </antwort>
+    <antwort position="3" aufsicht="Führungskraft">
+      <text>Führungstätigkeit mit strategischer Entscheidungsbefugnis (z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen, oder zur Einstellung und Entlassung von Personal)</text>
+      <kldb schluessel="51594">Führungskräfte - Überwachung und Steuerung des Verkehrsbetriebs</kldb>
+      <isco schluessel="1324">Supply, distribution and related managers</isco>
+      <dkz codenr="51594-101" refid="7352">Flugbetriebsleiter/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5014">Ramp-Agent</abgrenzung>
+  <abgrenzung typ="mittel" refid="5016">Flugunfalluntersucher/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1744">Flugsicherungstechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

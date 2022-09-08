@@ -1,0 +1,23 @@
+<kategorie>
+  <id>6049</id>
+  <taetigkeit>Betreuung von Gästen auf Freizeit- und Reiseveranstaltungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gäste am Flughafen, im Hotel, in der Ferienanlage und anderen Orten und Einrichtungen empfangen; Transfers organisieren; Gäste bezüglich verschiedener Angebote und Aktivitäten beraten; Freizeitprogramme nach Wünschen der Gäste organisieren und durchführen; bei der Planung die Zielgruppe berücksichtigen; die Kinderbetreuung organisieren; auf Kundenwünsche eingehen und ggf. auf Beschwerden reagieren</taetigkeitsbeschreibung>
+  <bezeichnung>Freizeit- und Reisebetreuer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63132">Animateure und Gästebetreuer - Fachkraft</kldb>
+      <isco schluessel="3423">Fitness and recreation instructors and program leaders</isco>
+      <dkz codenr="63132-104" refid="14508">Animateur/in - Freizeit</dkz>
+      <dkz codenr="63132-102" refid="10026">Guest-Relations-Manager/in</dkz>
+      <dkz codenr="63132-103" refid="10090">Gästebetreuer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6050">Reiseleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1820">Tourismuskaufmann/ -frau</abgrenzung>
+  <abgrenzung typ="hoch" refid="6051">Fremdenführer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6070">Rezeptionist/in - Hotel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

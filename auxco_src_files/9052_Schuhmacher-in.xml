@@ -1,0 +1,26 @@
+<kategorie>
+  <id>9052</id>
+  <taetigkeit>Fertigung und Reparatur von Schuhen mit handwerklichen Verfahren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Schnittmuster für Schäfte nach Vorgaben oder Leisten erstellen; Material nach Vorgaben bearbeiten; ausgestanzte Schaftteile für die Weiterverarbeitung vorbereiten; Leder z.B. spalten, aufrauen, kaschieren und Kanten schärfen; Schaftteile markieren, weiterleiten und zusammensteppen; Ziernähte, Kappen, Laufsohlen und Absätze anbringen; Schäfte und Brandsohlen verbinden; Ösen, Schlaufen und Schnallen anbringen; Schuhe verkaufsfertig machen; Endprodukte imprägnieren, reinigen und für den Verkauf vorbereiten; für Anfertigungen von Maßschuhen Trittspurabdruck und Fußumrisszeichnungen anfertigen; Orthopädieschuhe herstellen; Schuhe mit fußmedizinischem Zubehör ausrüsten; Schuhe umarbeiten und reparieren</taetigkeitsbeschreibung>
+  <bezeichnung>Schuhmacher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28332">Schuhherstellung - Fachkraft</kldb>
+      <isco schluessel="7536">Shoemakers and related workers</isco>
+      <dkz refid="3486" codenr="28332-101">Schuhmacher/in</dkz>
+      <dkz refid="3487" codenr="28332-102">Schuhinstandsetzer/in</dkz>
+      <dkz refid="3495" codenr="28332-104">Orthopädieschuhmacher/in</dkz>
+      <dkz refid="3500" codenr="28332-105">Schäftemacher/in (Schuhmacher/in)</dkz>
+      <dkz refid="3511" codenr="28332-108">Schuhfertiger/in</dkz>
+      <dkz refid="3525" codenr="28332-116">Schuh- und Lederwarenstepper/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9003">Schuhtechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9048">Lederverarbeitungshelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9002">Schuhmodelleur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9039">Lederwarenhersteller/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

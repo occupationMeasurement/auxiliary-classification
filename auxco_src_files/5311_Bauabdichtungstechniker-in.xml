@@ -1,0 +1,19 @@
+<kategorie>
+  <id>5311</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Bauarbeiten zur Abdichtung von Gebäuden gegen Wasser und Feuchtigkeit</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Oberflächen von Bauwerken mithilfe von Messinstrumenten auf bauliche Schäden, Feuchtigkeit und eindringendes Wasser untersuchen; Möglichkeiten der Instandhaltung und Reparatur analysieren; Abdichtungsarbeiten koordinieren; zeichnerische, schriftliche und fotografische Dokumentationen des Bestandes, der Restaurierungsarbeiten und des Endzustandes durchführen; Möglichkeiten und Techniken der Bauwerksabdichtung weiterentwickeln; die Haltbarkeit neuer Materialien erproben; detaillierte Mengen- und Kostenschätzung für Materialien und Arbeitskräfte erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Bauabdichtungstechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33233">Bauwerksabdichtung - Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="33233-100" refid="90685">Bauabdichtungstechniker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3024">Bauwerksabdichter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5313">Holz- und Bautenschutztechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

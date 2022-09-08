@@ -1,0 +1,21 @@
+<kategorie>
+  <id>5067</id>
+  <taetigkeit>Kontrolle der Funktion feuerwehrtechnischer Geräte sowie Ausführung von Aufgaben im betrieblichen Brandschutz</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Flucht-, Alarm- und Einsatzpläne für den Notfall erstellen; für die Einhaltung der gesetzlichen Vorgaben sorgen; überprüfen, dass die Gefahrenmeldeanlagen und Sprinkleranlagen funktionieren; Mitarbeiter in Unternehmen über Gefahrenquellen informieren</taetigkeitsbeschreibung>
+  <bezeichnung>Brandschutzbeauftragte/r</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53133">Brandschutz - Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="53133-103" refid="51005">Werkfeuerwehrtechniker/in</dkz>
+      <dkz codenr="53133-102" refid="15037">Brandschutzfachkraft</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5065">Feuerwehrmann/-frau</abgrenzung>
+  <abgrenzung typ="hoch" refid="5068">Brandschutzingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5077">Leiter/in - Rettungsstelle</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

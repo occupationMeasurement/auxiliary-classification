@@ -1,0 +1,19 @@
+<kategorie>
+  <id>4224</id>
+  <taetigkeit>Einstellung und Wartung feinmechanischer Messgeräte in der Physik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei dem Aufbau von Versuchsreihen zur Messung von z.B. Strahlungsbelastungen mithelfen; mit speziellen Messgeräten/Sonden Rohrleitungen oder Wasseradern aufspüren; Metalldetektoren bedienen; feinmechanische Messgeräte regelmäßig prüfen und warten; Abweichungen und Messungenauigkeiten feststellen</taetigkeitsbeschreibung>
+  <bezeichnung>Fachkraft für physikalische Messgeräte und Apparaturen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41482">Physik (s.s.T.) - Fachkraft</kldb>
+      <isco schluessel="3111">Chemical and physical science technicians</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4225">Messtechniker/in - Strahlenbelastung und physikalische Größen</abgrenzung>
+  <abgrenzung typ="hoch" refid="4017">Physikalisch-Technische/r Assistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4013">Chemisch-Technische/r Assistent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

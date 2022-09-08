@@ -1,0 +1,19 @@
+<kategorie>
+  <id>5313</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Bauarbeiten im Holz- und Bautenschutz</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bauwerke und Gebäudeteile mithilfe von Messinstrumenten auf bauliche Schäden, Feuchtigkeit und Schädlingsbefall untersuchen; Möglichkeiten der Instandhaltung und Reparatur analysieren; Sanierungsarbeiten koordinieren; zeichnerische, schriftliche und fotografische Dokumentation des Bestandes, der Restaurierungsarbeiten und des Endzustandes durchführen; Möglichkeiten und Techniken der Bauwerkssanierung weiterentwickeln; die Wirkung und Haltbarkeit neuer Materialien erproben; detaillierte Mengen- und Kostenschätzungen für Materialien und Arbeitskräfte von Projekten erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Holz- und Bautenschutztechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33243">Holz- und Bautenschutz - Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="33243-101" refid="90832">Holzschutzsachverständige/r</dkz>
+      <dkz codenr="33243-100" refid="90677">Holz- und Bautenschutztechniker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5312">Holz- und Bautenschützer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

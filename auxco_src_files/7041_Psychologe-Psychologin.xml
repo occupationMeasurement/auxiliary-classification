@@ -1,0 +1,49 @@
+<kategorie>
+  <id>7041</id>
+  <taetigkeit>Erforschung von spezifischen Teilbereichen der Psychologie</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Menschen in Ausnahme- oder Notfallsituationen psychologische Hilfestellung geben; Tests zur Messung von mentalen, physischen oder anderen Merkmalen durchführen; Maßnahmen zur Verringerung von psychischen Belastungen durchführen; psychischen Entwicklungsstand begutachten; posttraumatischen Belastungsstörungen vorbeugen und diese bewältigen; Familienmitgliedern, Bildungsbehörden, oder Arbeitgebern mögliche Lösungen und Behandlungen für Probleme empfehlen; Forschungsarbeiten durchführen und publizieren</taetigkeitsbeschreibung>
+  <bezeichnung>Psychologe/Psychologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81624">Berufe in der klinischen Psychologie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2634">Psychologists</isco>
+      <dkz codenr="81624-110" refid="58770">Psychologe/Psychologin</dkz>
+      <dkz codenr="81624-100" refid="9764">Schulpsychologe/-psychologin</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>Sind Sie in der klinischen Psychologie tätig?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie in der klinischen Psychologie tätig?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="81624">Berufe in der klinischen Psychologie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2634">Psychologists</isco>
+      <dkz codenr="81624-101" refid="9766">Forensische/r Psychologe/Psychologin</dkz>
+      <dkz codenr="81624-102" refid="9768">Klinische/r Psychologe/Psychologin</dkz>
+      <dkz codenr="81624-103" refid="9770">Suchtpsychologe/-psychologin</dkz>
+      <dkz codenr="81624-106" refid="27309">Neuropsychologe/-psychologin</dkz>
+      <dkz codenr="81624-112" refid="59551">Rehabilitationspsychologe/-psychologin</dkz>
+      <dkz codenr="81624-113" refid="59553">Sozialpsychologe/-psychologin</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="81614">Berufe in der nicht klinischen Psychologie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2634">Psychologists</isco>
+      <dkz codenr="81614-100" refid="9765">Arbeitspsychologe/-psychologin</dkz>
+      <dkz codenr="81614-102" refid="9771">Verkehrspsychologe/-psychologin</dkz>
+      <dkz codenr="81614-108" refid="59449">Kognitionswissenschaftler/in</dkz>
+      <dkz codenr="81614-109" refid="59549">Kommunikationspsychologe/-psychologin</dkz>
+      <dkz codenr="81614-110" refid="59555">Wirtschaftspsychologe/-psychologin</dkz>
+      <dkz codenr="81614-111" refid="100518">Sportpsychologe/-psychologin</dkz>
+      <dkz codenr="81614-112" refid="100546">Pädagogische/r Psychologe/Psychologin</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7040">Psychologische/r Assistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7033">Neurologe/ Neurologin</abgrenzung>
+  <abgrenzung typ="hoch" refid="7042">Psychotherapeut/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8011">Sozialberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

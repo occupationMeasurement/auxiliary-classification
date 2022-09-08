@@ -1,0 +1,23 @@
+<kategorie>
+  <id>4018</id>
+  <taetigkeit>Bearbeitung technischer Aufgaben und Fragestellungen zur Unterstützung von Physikingenieuren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. physikalisch-technische Geräte einrichten und warten; Materialien und Ausrüstung für Experimente zusammenstellen; Mengen- und Kostenschätzungen erstellen; Labortests durchführen; Experimente überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Physik-Techniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41413">Physikal.-techn. Laboratorium-Spezialist</kldb>
+      <isco schluessel="3111">Chemical and physical science technicians</isco>
+      <dkz codenr="41413-100" refid="5825">Techniker/in - Physiktechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1793">Physiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4225">Messtechniker/in - Strahlenbelastung und physikalische Größen</abgrenzung>
+  <abgrenzung typ="hoch" refid="1735">Mikrosystemtechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1794">Werkstoffprüfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4017">Physikalisch-Technische/r Assistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4019">Physik-Ingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

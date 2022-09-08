@@ -1,0 +1,25 @@
+<kategorie>
+  <id>1600</id>
+  <taetigkeit>Unterhaltung von Publikum, beispielsweise als DJ, Puppenspieler oder Bauchredner</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. nach individueller Auswahl und Folge CDs oder Schallplatten abspielen; Puppen führen und auf der Bühne mit ihnen agieren; Kunst des Bauchredens beherrschen; auf Travestiebühnen Frauenrollen verkörpern</taetigkeitsbeschreibung>
+  <bezeichnung>Diskjockey / Bauchredner/in / Travestiekünstler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94383">Berufe in Moderation und Unterhaltung (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2659">Creative and performing artists not elsewhere classified</isco>
+      <dkz codenr="94383-111" refid="59558">Puppenspieler/in</dkz>
+      <dkz codenr="94383-102" refid="8602">Bauchredner/in</dkz>
+      <dkz codenr="94383-106" refid="8637">Weihnachtsmann/-frau</dkz>
+      <dkz codenr="94383-112" refid="78164">Büttenredner/in</dkz>
+      <dkz codenr="94383-100" refid="8421">Diskjockey</dkz>
+      <dkz codenr="94383-109" refid="15930">Travestie-Künstler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1220">Entertainer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1217">Komiker/in / Kabarettist/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1216">Illusionskünstler/in / Zauberer/ Zauberin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,21 @@
+<kategorie>
+  <id>2090</id>
+  <taetigkeit>Wartung, Reparatur und Montage von Fahrrädern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Pflege und Instand halten von Fahrrädern; Bremsbeläge austauschen; Gangschaltung einstellen; Pedale, Beleuchtung und andere Fahrradkomponenten an Fahrräder schrauben, nieten, schweißen, löten und kleben; Zubehör und Sonderausstattungen an- und einbauen Kunden und Kundinnen beraten; Waren oder Ersatzteile beschaffen; Fahrräder und deren Komponenten in Werkstatt oder Verkaufsraum präsentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Fahrradmechaniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25252">Berufe in der Zweiradtechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7234">Bicycle and related repairers</isco>
+      <dkz codenr="25252-100" refid="2469">Zweiradmechaniker/in (ohne Fachrichtungen)</dkz>
+      <dkz codenr="25252-103" refid="15576">Zweiradmechaniker/in - Fahrradtechnik</dkz>
+      <dkz codenr="25252-105" refid="27395">Fahrradmonteur/in</dkz>
+      <dkz codenr="25252-119" refid="124407">Zweiradmechatroniker/in - Fahrradtechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1728">Zweiradtechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

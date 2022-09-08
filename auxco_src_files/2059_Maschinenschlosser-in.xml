@@ -1,0 +1,30 @@
+<kategorie>
+  <id>2059</id>
+  <taetigkeit>Aufbau und Montage von Maschinen und Anlagen sowie die Herstellung ihrer Bauteile</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Produktionsmaschinen und Fertigungsanlagen, wie auch Aufzüge oder Förderbänder einstellen; Bauteile zu Maschinen montieren und deren Funktion prüfen; benötigte Bauteile durch Drehen, Fräsen, Bohren und Schleifen bearbeiten; elektronische, pneumatische und hydraulische Steuerungen installieren; Montagezeichnungen anfertigen</taetigkeitsbeschreibung>
+  <bezeichnung>Maschinenschlosser/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25102">Berufe in der Maschinenbau- und Betriebstechnik (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7233">Agricultural and industrial machinery mechanics and repairers</isco>
+      <dkz codenr="25102-100" refid="2274">Konstruktionsmechaniker/in - Ausrüstungstechnik</dkz>
+      <dkz codenr="25102-101" refid="2311">Industriemechaniker/in - Maschinen- und Systemtechnik</dkz>
+      <dkz codenr="25102-105" refid="2450">Maschinenbaumechaniker/in - Erzeugende Mechanik</dkz>
+      <dkz codenr="25102-110" refid="13865">Maschinenbaumechaniker/in</dkz>
+      <dkz codenr="25102-102" refid="2312">Maschinenbaumechaniker/in - Allgemeiner Maschinenbau</dkz>
+      <dkz codenr="25102-104" refid="2337">Industriemechaniker/in - Betriebstechnik</dkz>
+      <dkz codenr="25102-116" refid="29056">Industriemechaniker/in</dkz>
+      <dkz codenr="25102-111" refid="14235">Betriebsschlosser/in</dkz>
+      <dkz codenr="25102-112" refid="15173">Feinwerkmechaniker/in - Maschinenbau</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2064">Fertigungsmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2066">Kesselwärter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2063">Montagehelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2034">Metallbauer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

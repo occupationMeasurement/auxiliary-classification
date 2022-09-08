@@ -1,0 +1,43 @@
+<kategorie>
+  <id>5085</id>
+  <taetigkeit>Überprüfung von Gewerbetreibenden in Bezug auf die Einhaltung von Vorschriften des Arbeits-, Umwelt- und Verbraucherschutzes</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Aufsichts- und Kontrolltätigkeiten in Betrieben und auf Baustellen ausüben; überprüfen, ob Maßnahmen der Unfallverhütung oder die gesetzlichen Arbeitszeitregelungen eingehalten werden; Anträge auf Arbeitszeitverlängerung oder auf Ausnahmegenehmigungen für die Beschäftigung von Kindern und Jugendlichen, unter Beachtung der geltenden Gesetze eigenständig bearbeiten; Beschwerden prüfen; sicherheitstechnische Kenntnisse an die Betriebe weitergeben; Betriebe über Rechtsvorschriften und Auswirkungen von Immissionen beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Beamt(er/in) - Gewerbeaufsicht</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53312">Gewerbeaufsicht - Fachkraft</kldb>
+      <isco schluessel="3354">Government licensing officials</isco>
+      <dkz codenr="53312-100" refid="8182">Beamt(er/in) - Gewerbeaufsicht (mittl. techn. Dienst)</dkz>
+      <dkz codenr="53313-100" refid="8183">Beamt(er/in) - Gewerbeaufsicht (geh. techn. Dienst)</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Sind Sie Beamte/r im mittleren, gehobenen oder höheren technischen Dienst?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie Beamte/r im mittleren, gehobenen oder höheren technischen Dienst?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>im mittleren technischen Dienst oder vergleichbar</text>
+      <kldb schluessel="53312">Gewerbeaufsicht - Fachkraft</kldb>
+      <isco schluessel="3354">Government licensing officials</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>im gehobenen technischen Dienst oder vergleichbar</text>
+      <kldb schluessel="53313">Gewerbeaufsicht - Spezialist</kldb>
+      <isco schluessel="3354">Government licensing officials</isco>
+    </antwort>
+    <antwort position="3" anforderungsniveau="4">
+      <text>im höheren technischen Dienst oder vergleichbar</text>
+      <kldb schluessel="53314">Gewerbeaufsicht - Experte</kldb>
+      <isco schluessel="2263">Environmental and occupational health and hygiene professionals</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5086">Gesundheitsaufseher/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5088">amtliche/r Lebensmittelkontrolleur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5063">Sicherheitsbeauftragte/r- Arbeitsschutz</abgrenzung>
+  <abgrenzung typ="mittel" refid="5090">Abteilungsleiter/in - Gewerbeaufsicht</abgrenzung>
+  <abgrenzung typ="mittel" refid="5064">Arbeitsschutzingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5176">Eichbeamt(er/in)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,54 @@
+<kategorie>
+  <id>1837</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Marketingkampagnen und Marketingkonzepten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. durch die Festlegung von Marketingzielen für Wachstum und Entwicklung des Unternehmens sorgen; Informationen über wichtige Marktfaktoren, wie Zielgruppen und die Situation der Konkurrenzunternehmen erheben; Marketingstrategien und Absatzpläne erstellen und der Geschäftsleitung präsentieren; Werbeträger bewerten und auswählen; Preisverhandlungen über Werbeflächen und -zeiten führen; Vorgaben für die Kreation formulieren, die kreative Umsetzung steuern und Arbeitsergebnisse kontrollieren und abnehmen; interne und externe Herstellungsprozesse organisieren und planen sowie Zeit, Kosten und Qualität überwachen; potenzielle Nachfrage- und Marktmerkmale neuer Güter und Dienstleistungen erforschen; Beratungen hinsichtlich aller Marketingelemente wie Produktmix, Preise, Werbung und Verkaufsförderung</taetigkeitsbeschreibung>
+  <bezeichnung>Produktmanager/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92113">Werbung und Marketing- Spezialist</kldb>
+      <isco schluessel="2431">Advertising and marketing professionals</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="92114">Werbung und Marketing- Experte</kldb>
+      <isco schluessel="2431">Advertising and marketing professionals</isco>
+      <dkz codenr="92114-106" refid="59191">Betriebswirt/in (Hochschule) - Dienstleistungsmanagement</dkz>
+      <dkz codenr="92114-107" refid="59209">Betriebswirt/in (Hochschule) - Marketing</dkz>
+      <dkz codenr="92114-100" refid="14464">Category-Manager/in</dkz>
+      <dkz codenr="92114-108" refid="100734">Betriebswirt/in (Hochschule) - Werbung, Marketingkommunik.</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="92113">Werbung und Marketing- Spezialist</kldb>
+      <isco schluessel="2431">Advertising and marketing professionals</isco>
+      <dkz codenr="92113-133" refid="58555">Betriebswirt/in (Fachschule) - Marketingkommunikation</dkz>
+      <dkz codenr="92113-134" refid="58557">Betriebswirt/in (Fachschule) - Absatz/Marketing</dkz>
+      <dkz codenr="92113-105" refid="6985">Fachkaufmann/-frau - Werbung und Kommunikation</dkz>
+      <dkz codenr="92113-106" refid="6986">Medienberater/in - Audiovisuelle Medien</dkz>
+      <dkz codenr="92113-123" refid="14999">Merchandiser/in</dkz>
+      <dkz codenr="92113-108" refid="7002">Kontakter/in</dkz>
+      <dkz codenr="92113-109" refid="7012">Mediaplaner/in</dkz>
+      <dkz codenr="92113-110" refid="7026">Werbetexter/in</dkz>
+      <dkz codenr="92113-124" refid="15004">POS-Manager/in</dkz>
+      <dkz codenr="92113-113" refid="7511">Fachkaufmann/-frau - Marketing</dkz>
+      <dkz codenr="92113-115" refid="7513">Produktmanager/in</dkz>
+      <dkz codenr="92113-117" refid="7515">Absatz- und Werbewirtschaftler/in</dkz>
+      <dkz codenr="92113-118" refid="7516">Fachwirt/in - Werbung</dkz>
+      <dkz codenr="92113-125" refid="15010">Onlinemarketing-Manager/in</dkz>
+      <dkz codenr="92113-183" refid="126567">Fachwirt/in - Marketing</dkz>
+      <dkz codenr="92113-184" refid="126684">Social-Media-Manager/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3503">Marketingassistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3515">Werbeleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1747">Vertriebsspezialist/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3520">Medienmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

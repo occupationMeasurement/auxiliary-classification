@@ -1,0 +1,36 @@
+<kategorie>
+  <id>2115</id>
+  <taetigkeit>Bau, Installation und Wartung von elektrotechnischen und elektronischen Erzeugnissen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. elektrotechnische und elektronische Schaltungen aufbauen und prüfen; Schaltungen entwerfen und nach Vorlage bauen; elektrotechnische Geräte und Anlagen in Betrieb nehmen und warten; elektrotechnische Messungen und Experimente durchführen und auswerten</taetigkeitsbeschreibung>
+  <bezeichnung>Elektromechaniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26302">Berufe in der Elektrotechnik (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7412">Electrical mechanics and fitters</isco>
+      <dkz codenr="26302-102" refid="2866">Elektromechaniker/in</dkz>
+      <dkz codenr="26302-103" refid="5496">Elektrotechnische/r Assistent/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Arbeiten Sie hauptsächlich an elektronischen Geräten oder an elektrischen Anlagen und Maschinen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie hauptsächlich an elektronischen Geräten oder an elektrischen Anlagen und Maschinen gearbeitet?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>an elektronischen Geräten</text>
+      <kldb schluessel="26302">Berufe in der Elektrotechnik (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7421">Electronics mechanics and servicers</isco>
+    </antwort>
+    <antwort position="2">
+      <text>an elektrischen Anlagen und Maschinen</text>
+      <kldb schluessel="26302">Berufe in der Elektrotechnik (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7412">Electrical mechanics and fitters</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1733">Elektrotechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2114">Elektrohelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2118">Informations- und Kommunikationselektroniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2094">Mechatroniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

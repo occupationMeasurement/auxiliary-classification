@@ -1,0 +1,46 @@
+<kategorie>
+  <id>1794</id>
+  <taetigkeit>Prüfung von Werkstoffen mit physikalischen und chemischen Verfahren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. zerstörende und zerstörungsfreie metallografische, röntgenologische, Ultraschall- und andere Prüfungen durchführen; Werkstoffeigenschaften wie Elastizität oder Härte bestimmen; Analysegeräte bedienen; technische Anlagen überwachen und warten; Untersuchungsergebnisse aufzeichnen und für Werkstoffingenieure aufbereiten; chemische Prüfverfahren durchführen; Messergebnisse auswerten und aufbereiten</taetigkeitsbeschreibung>
+  <bezeichnung>Werkstoffprüfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41422">Berufe in der Werkstofftechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3111">Chemical and Physical Science Technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="41422">Werkstofftechnik - Fachkraft</kldb>
+      <isco schluessel="3111">Chemical and Physical Science Technicians</isco>
+      <dkz codenr="41422-101" refid="6357">Rissprüfer/in</dkz>
+      <dkz codenr="41422-102" refid="6358">Röntgenkontrolleur/in (Metallprüfer/in)</dkz>
+      <dkz codenr="41422-103" refid="6359">Techn. Assistent/in - Metallografie/Werkstoffkunde</dkz>
+      <dkz codenr="41422-107" refid="6365">Werkstoffprüfer/in - Wärmebehandlungstechnik</dkz>
+      <dkz codenr="41422-108" refid="6366">Werkstoffprüfer/in - Metalltechnik</dkz>
+      <dkz codenr="41422-109" refid="6367">Werkstoffprüfer/in - Halbleitertechnik</dkz>
+      <dkz codenr="41422-112" refid="13843">Werkstoffprüfer/in (mit Schwerpunkten)</dkz>
+      <dkz codenr="41422-111" refid="6417">Edelmetallprüfer/in</dkz>
+      <dkz codenr="41422-129" refid="122364">Werkstoffprüfer/in - Systemtechnik</dkz>
+      <dkz codenr="41422-130" refid="122365">Werkstoffprüfer/in - Kunststofftechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="41423">Werkstofftechnik - Spezialist</kldb>
+      <isco schluessel="3111">Chemical and Physical Science Technicians</isco>
+      <dkz codenr="41423-103" refid="5840">Techniker/in - Werkstofftechnik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4017">Physikalisch-Technische/r Assistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1795">Baustoffprüfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2160">Qualitätskontrolleur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4022">Werkstofftechnik-Ingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4018">Physik-Techniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

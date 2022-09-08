@@ -1,0 +1,18 @@
+<kategorie>
+  <id>1601</id>
+  <taetigkeit>Wahrsagung auf Basis übersinnlicher Methoden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. den Sternenhimmel mit astrologischen Techniken deuten; Handflächen lesen; Kartenlegen; zukünftige Ereignisse im Leben des Kunden vorhersagen; Lebens- und Entscheidungshilfen geben; Horoskope für die Medien erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Wahrsager/in / Astrolog/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94383">Berufe in Moderation und Unterhaltung (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="5161">Astrologers, fortune-tellers and related workers</isco>
+      <dkz codenr="94383-103" refid="8634">Astrologe/Astrologin</dkz>
+      <dkz codenr="94383-105" refid="8636">Wahrsager/in</dkz>
+    </default>
+  </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5271</id>
+  <taetigkeit>Bau und Instandhaltung von Eisenbahngleisen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Baustelle vorbereiten und sichern; Verkehrseinrichtungen laut Verkehrszeichenplan anbringen; Baumaschinen und -geräte für die Ausführung von Gleisbauarbeiten bedienen, führen und warten; Entwässerungsanlagen, Bahndämme und -übergänge herstellen, profilieren und instand halten; Untergrund für Gleisbauarbeiten vorbereiten; Schienen und Weichen auf Risse und Verschleiß prüfen und austauschen; Spurweite der Gleise auf richtige Maße kontrollieren</taetigkeitsbeschreibung>
+  <bezeichnung>Gleisbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32232">Berufe im Gleisbau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8342">Earthmoving and related plant operators</isco>
+      <dkz codenr="32232-103" refid="4141">Gleisbauer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1854">Bauhelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5272">Gleisbautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9401">Spezialtiefbauer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

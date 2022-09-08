@@ -1,0 +1,19 @@
+<kategorie>
+  <id>6092</id>
+  <taetigkeit>Unterstützung von Food-and-Beverage-Managern in Hotels und gastronomischen Einrichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei der Ausgestaltung des Speisen- und Getränkeangebotes sowie des Service mitwirken; bei der Planung des Einkaufs und der Lagerung des Speisen- und Getränkevorrats mitwirken; bei der Entwicklung und Umsetzung von Marketingstrategien helfen; Investitionsvorschläge mitentwickeln; gesetzliche Bestimmungen, Qualitätsstandards und andere und Rahmenbedingungen kontrollieren; Gewinn- und Verlustrechnungen sowie Kostenanalysen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Food-and-Beverage-Assistant</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63382">Gastronomie (s.s.T.) - Fachkraft</kldb>
+      <isco schluessel="5131">Waiters</isco>
+      <dkz codenr="63382-100" refid="9986">Food-and-Beverage-Assistant</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1822">Kellner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6073">Restaurantmeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

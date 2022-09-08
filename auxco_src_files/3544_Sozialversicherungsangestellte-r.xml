@@ -1,0 +1,54 @@
+<kategorie>
+  <id>3544</id>
+  <taetigkeit>Bearbeitung von Anträgen bei gesetzlichen Sozialversicherungsträgern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Versicherungsverhältnisse und Beitragsfragen klären sowie Leistungsfälle bearbeiten; Schriftverkehr erledigen; Stufe der Pflegebedürftigkeit von Versicherten prüfen; Pflegequalität in Einrichtungen kontrollieren; Beratungen bezüglich staatlicher Leistungsprogramme durchführen; Aufgaben im Bereich der Arbeitsförderung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Sozialversicherungsangestellte/r</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73212">Sozialverwaltung,-versicherung-Fachkraft</kldb>
+      <isco schluessel="3353">Government social benefits officials</isco>
+      <dkz codenr="73212-100" refid="7908">Sozialversicherungsfachangestellte/r - Allg. Krankenversich.</dkz>
+      <dkz codenr="73212-101" refid="7909">Sozialversicherungsfachangestellte/r - Unfallversicherung</dkz>
+      <dkz codenr="73212-102" refid="7910">Sozialversicherungsfachangestellte/r - Rentenversicherung</dkz>
+      <dkz codenr="73212-103" refid="7911">Fachangestellte/r für Arbeitsförderung</dkz>
+      <dkz codenr="73212-104" refid="7912">Sozialversicherungsfachangestellte/r - Knappsch. Sozialvers.</dkz>
+      <dkz codenr="73212-105" refid="7913">Sozialversicherungsfachangestellte/r - Landwirt. Sozialvers.</dkz>
+      <dkz codenr="73212-106" refid="7917">Beamt(er/in) - Sozialversicherung (mittl. Dienst)</dkz>
+      <dkz codenr="73212-107" refid="13891">Beamt(er/in) - Sozialverwaltung (mittl. Dienst)</dkz>
+      <dkz codenr="73212-112" refid="100808">Fachangestellte/r für Arbeitsmarktdienstleistungen</dkz>
+      <dkz codenr="73213-108" refid="77209">Beamt(er/in) - Sozialverwaltung (geh. Dienst)</dkz>
+      <dkz codenr="73213-100" refid="7590">Beamt(er/in) - Sozialversicherung (geh. Dienst)</dkz>
+      <dkz codenr="73213-101" refid="7608">Beamt(er/in) - Bundesagentur für Arbeit (geh. Dienst)</dkz>
+      <dkz codenr="73213-102" refid="15417">Beamt(er/in) - Eisenbahn-Unfallkasse (geh. techn. Dienst)</dkz>
+      <dkz codenr="73213-103" refid="27293">Betriebswirt/in (Fachschule) - Krankenkassen</dkz>
+      <dkz codenr="73213-107" refid="74109">Fachwirt/in - Krankenkasse</dkz>
+      <dkz codenr="73213-116" refid="122247">Fachwirt/in - Gesetzl. Renten- und knappschaftl. Sozialvers.</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="73212">Sozialverwaltung,-versicherung-Fachkraft</kldb>
+      <isco schluessel="3353">Government social benefits officials</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="73213">Sozialverwaltung,versicherung-Spezialist</kldb>
+      <isco schluessel="3353">Government social benefits officials</isco>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="73213">Sozialverwaltung,versicherung-Spezialist</kldb>
+      <isco schluessel="3353">Government social benefits officials</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3542">Sozialversicherungsbeamter/-beamtin (höh. Dienst)</abgrenzung>
+  <abgrenzung typ="mittel" refid="3584">Versicherungsagent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3550">Verwaltungsangestellte/r im öffentlichen Dienst</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

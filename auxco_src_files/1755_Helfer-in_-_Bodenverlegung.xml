@@ -1,0 +1,21 @@
+<kategorie>
+  <id>1755</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten bei der Verlegung von Bodenbelägen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fachkräfte in der Bodenverlegung unterstützen; Werkzeuge und Maschinen bereitstellen, reinigen und pflegen; Vorarbeiten durchführen, wie alte Bodenbeläge entfernen, Untergrund reinigen oder Material anmischen; Arbeitsmittel verladen</taetigkeitsbeschreibung>
+  <bezeichnung>Helfer/in - Bodenverlegung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33101">Berufe in der Bodenverlegung (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9313">Building construction labourers</isco>
+      <dkz codenr="33101-103" refid="90135">Helfer/in - Bodenverlegung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1756">Helfer/in - Gebäudeausbau</abgrenzung>
+  <abgrenzung typ="hoch" refid="5302">Bodenlegermeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5298">Bodenleger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1854">Bauhelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

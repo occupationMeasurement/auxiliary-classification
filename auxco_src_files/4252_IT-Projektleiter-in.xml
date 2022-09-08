@@ -1,0 +1,22 @@
+<kategorie>
+  <id>4252</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Administration von Servern, IT-Systemen und IT-Netzwerken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. IT-Projekte organisieren und den Projektablauf unter Berücksichtigung definierter Prioritäten überwachen und steuern; Qualitätssicherung durchführen; Risiken erkennen; IT-Projekte abschließen und auflösen; Projektnachkalkulationen durchführen und Abschlussberichte verfassen; Mitarbeiter führen und für die Qualifizierung und Ausbildung sorgen</taetigkeitsbeschreibung>
+  <bezeichnung>IT-Projektleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43394">Führung-IT-Netzw.,-Koord.,-Admin.,-Orga.</kldb>
+      <isco schluessel="1330">Information and communications technology service managers</isco>
+      <dkz codenr="43394-102" refid="15320">IT-Projektleiter/in</dkz>
+      <dkz codenr="43394-103" refid="15487">Leiter/in - IT</dkz>
+      <dkz codenr="43394-105" refid="100508">IT-Manager/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1771">IT-Sicherheitstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1772">IT-Netzwerktechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4253">Software-Projektleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

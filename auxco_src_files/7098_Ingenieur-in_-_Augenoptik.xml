@@ -1,0 +1,19 @@
+<kategorie>
+  <id>7098</id>
+  <taetigkeit>Entwicklung augenoptischer Geräte und Hilfsmittel sowie die Beratung von Kunden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. optometrische Dienstleistungen durchführen; Sehhilfen individuell anpassen; optische Geräte auf Leistung, Komfort und Sicherheit überprüfen; Beratungen in Hinblick auf die Erhaltung des Sehvermögens, visuelle Ergonomie und Augenschutz am Arbeitsplatz durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Ingenieur/in - Augenoptik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82524">Berufe in der Augenoptik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2267">Optometrists and ophthalmic opticians</isco>
+      <dkz codenr="82524-103" refid="59327">Ingenieur/in - Augenoptik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7097">Augenoptiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1832">Augenoptikermeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

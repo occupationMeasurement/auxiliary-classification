@@ -1,0 +1,27 @@
+<kategorie>
+  <id>8043</id>
+  <taetigkeit>Erteilung von Unterricht in Religion in Schulen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Religionsunterricht an Schulen erteilen; an der Gestaltung von Gottesdiensten bzw. der Liturgie mitwirken; in sozialen Diensten mitarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Religionslehrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84424">Religionspädagogik - Experte</kldb>
+      <isco schluessel="2330">Secondary education teachers </isco>
+      <dkz codenr="84424-106" refid="58771">Religionspädagoge/-pädagogin - evangelisch</dkz>
+      <dkz codenr="84424-105" refid="51013">Katechet/in (evangelisch)</dkz>
+      <dkz codenr="84424-107" refid="59579">Religionspädagoge/-pädagogin - katholisch</dkz>
+      <dkz codenr="84424-108" refid="100527">Religionspädagoge/-pädagogin - jüdische Gemeinden</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8044">Gemeindepädagoge/-pädagogin</abgrenzung>
+  <abgrenzung typ="hoch" refid="8019">Gemeindereferent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1101">Philosoph/in / Religionswissenschaftler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8018">Pfarrer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8029">Sonderschullehrer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8028">Lehrer/in Sekundarstufe</abgrenzung>
+  <abgrenzung typ="mittel" refid="8027">Grundschullehrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

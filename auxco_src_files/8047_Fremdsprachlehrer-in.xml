@@ -1,0 +1,22 @@
+<kategorie>
+  <id>8047</id>
+  <taetigkeit>Erteilung von Fremdsprachenunterricht an außerschulischen Bildungseinrichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Unterrichtseinheiten- und material vorbereiten; Wissen zu Literatur und Kultur des entsprechenden Sprachraums vermitteln; mündliche oder schriftliche Übungen durchführen; Kursinhalt auf Lernfortschritt der Teilnehmer abstimmen; die Fortschritte beurteilen; Hausaufgaben erteilen und besprechen; Lernziele vergleichen</taetigkeitsbeschreibung>
+  <bezeichnung>Fremdsprachlehrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84454">(Fremd-)Sprachenlehrer/innen - Experte</kldb>
+      <isco schluessel="2353">Other language teachers </isco>
+      <dkz codenr="84454-106" refid="59474">Lehrer/in - Deutsch als Fremdsprache</dkz>
+      <dkz codenr="84454-105" refid="59285">Fremdsprachenlehrer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8039">Dozent/in - Erwachsenenbildung</abgrenzung>
+  <abgrenzung typ="mittel" refid="8051">Leiter/in - außerschulische Bildungseinrichtungen</abgrenzung>
+  <abgrenzung typ="mittel" refid="8028">Lehrer/in Sekundarstufe</abgrenzung>
+  <abgrenzung typ="mittel" refid="8034">Berufsschullehrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

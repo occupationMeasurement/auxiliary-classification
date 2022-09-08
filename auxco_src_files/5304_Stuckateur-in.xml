@@ -1,0 +1,22 @@
+<kategorie>
+  <id>5304</id>
+  <taetigkeit>Verputzen von Rohbauten sowie Anfertigung von Stuckobjekten und Stuckgestaltungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Untergründe durch Abstrahlen oder Anbringen von Putzträgern vorbereiten; eine oder mehrere Schichten von Putz auf Wände und Gebäudedecken auftragen, um die gewünschte Oberflächenstruktur herzustellen; Stuck als Dekorelement messen, markieren und versetzen; Gipsgesimse gießen; Bauwerke durch dekorative Stuckgestaltung, wie Stucksäulen und Stuckdecken verschönern; spezielle Stucktechniken ausführen; Putz- und Stuckschäden mit handwerklichen Mitteln untersuchen</taetigkeitsbeschreibung>
+  <bezeichnung>Stuckateur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33222">Stuckateurarbeiten - Fachkraft</kldb>
+      <isco schluessel="7123">Plasterers</isco>
+      <dkz codenr="33222-100" refid="4243">Stuckateur/in</dkz>
+      <dkz codenr="33222-102" refid="4247">Ausbaufacharbeiter/in (Stuckateurarbeiten)</dkz>
+      <dkz codenr="33222-103" refid="4258">Gipsbildhauer/in (Stuckateur/in)</dkz>
+      <dkz codenr="33222-134" refid="126841">Ausbaumanager/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5305">Restaurator/in - Stuckateurhandwerk</abgrenzung>
+  <abgrenzung typ="mittel" refid="3023">Maler/in und Lackierer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

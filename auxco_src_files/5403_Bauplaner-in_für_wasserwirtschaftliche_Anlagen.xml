@@ -1,0 +1,49 @@
+<kategorie>
+  <id>5403</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Bau- und Instandhaltungsprozessen bei wasserwirtschaftlichen Anlagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wasserproben entnehmen und Wasserstandsmessungen durchführen; Anlagen zur Wassergewinnung, -aufbereitung und -versorgung planen und deren Bau koordinieren; beim Hochwasser- und Küstenschutz, bei Flussregulierungen oder bei Gewässerrenaturierungen mitwirken; bauphysikalische, boden- und hydromechanische Berechnungen durchführen; wasserrechtliche Verfahren bearbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Bauplaner/in für wasserwirtschaftliche Anlagen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="31142">Berufe in der Wasserwirtschaft - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="31142">Berufe in der Wasserwirtschaft - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="31142-101" refid="14377">Fachkraft - Wasserwirtschaft</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine vertiefende berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="31143">Berufe in der Wasserwirtschaft - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium im Bereich Wasser- und Bodenmanagement oder eines vergleichbaren Fachs</text>
+      <kldb schluessel="31143">Berufe in der Wasserwirtschaft - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium im Bereich Wasser- und Bodenmanagement oder eines vergleichbaren Fachs</text>
+      <kldb schluessel="31144">Berufe in der Wasserwirtschaft - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5337">Ver- und Entsorger/in - Wasserversorgung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1785">Wasserwerksingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5275">Kanalbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5278">Bodenkulturbauarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1781">Wasserbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1775">Bautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5257">Leiter/in - Bauplanung</abgrenzung>
+  <abgrenzung typ="mittel" refid="5402">Baukalkulator/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

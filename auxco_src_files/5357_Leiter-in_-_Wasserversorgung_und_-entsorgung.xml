@@ -1,0 +1,23 @@
+<kategorie>
+  <id>5357</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Wasserversorgungs- und Abwassertechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wassernetze und -anlagen überwachen; über Wartungs- und Reparaturmaßnahmen entscheiden; Betriebsprotokolle mit Daten zu Schmutzmengen und Analysewerten der verschiedenen Reinigungsstufen führen; Qualitäts- und Sicherheitsanforderungen überprüfen und ihre Umsetzung durchsetzen; Schulungen und Weiterbildungen für Mitarbeiter organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - Wasserversorgung und -entsorgung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34393">Aufsichtskräfte - Ver- und Entsorgung</kldb>
+      <isco schluessel="3132">Incinerator and water treatment plant operators</isco>
+      <dkz codenr="34393-104" refid="4763">Wassermeister/in</dkz>
+      <dkz codenr="34393-122" refid="50991">Netzmeister/in</dkz>
+      <dkz codenr="34393-108" refid="10246">Abwassermeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5337">Ver- und Entsorger/in - Wasserversorgung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1785">Wasserwerksingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5356">Leiter/in - Leitungsbau</abgrenzung>
+  <abgrenzung typ="mittel" refid="5358">Leiter/in - Abfallentsorgung und Städtereinigung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

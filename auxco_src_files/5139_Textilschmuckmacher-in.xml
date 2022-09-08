@@ -1,0 +1,17 @@
+<kategorie>
+  <id>5139</id>
+  <taetigkeit>Herstellung von Kunstblumen oder Textilschmuck mit handwerklichen Verfahren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Ausgangsmaterialien wie Textilien, Papier oder Kunststoff mithilfe von Schablonen ausstanzen; Materialien ggf. einfärben und appretieren; ausgestanzte Teile, Federn sowie vorgefertigte Werkstücke durch Wickeln, Binden oder Kleben, zusammensetzen; Textilien kunstvoll einfärben; die fertigen Erzeugnisse ggf. verzieren</taetigkeitsbeschreibung>
+  <bezeichnung>Textilschmuckmacher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93382">Kunsthandwerk, bild.Kunst(ssT)-Fachkraft</kldb>
+      <isco schluessel="7319">Handicraft workers not elsewhere classified</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5127">Kunsthandwerker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

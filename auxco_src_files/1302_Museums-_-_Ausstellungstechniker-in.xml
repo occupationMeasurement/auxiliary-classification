@@ -1,0 +1,20 @@
+<kategorie>
+  <id>1302</id>
+  <taetigkeit>Sicherstellung der optimalen technischen Bedingungen für die Lagerung, die Ausstellung und den Transport von Kulturgütern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Aufbewahrungsbedingungen von Museumsobjekten und Kulturgütern auf Lichtverhältnisse, Temperatur und Luftfeuchtigkeit überprüfen; bei der Vorbereitung und Organisiation von Veranstaltungen mitarbeiten; den sachgemäßen Auf- und Abbau organisieren; an der Erstellung konservatorischer Konzepte mitarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Museums- / Ausstellungstechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94713">Berufe in der Museums- und Ausstellungstechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3433">Gallery, museum and library technicians</isco>
+      <dkz codenr="94713-100" refid="8351">Techniker/in - Museums-, Ausstellungstechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1301">Fachkraft - Präparator/in in Museen</abgrenzung>
+  <abgrenzung typ="hoch" refid="1303">Konservator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1234">Beleuchter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

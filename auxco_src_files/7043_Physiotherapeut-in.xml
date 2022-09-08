@@ -1,0 +1,49 @@
+<kategorie>
+  <id>7043</id>
+  <taetigkeit>Behandlung von Patienten mit physiotherapeutischen Methoden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. nach ärztlicher Verordnung individuelle Behandlungspläne und Übungsprogramme erstellen; medizinische Massagen, Bewegungstherapien, Elektrotherapien und andere Physiotherapien durchführen; Patienten beim Durchführen der Bewegungen anleiten; Patienten zu Therapiekonzept, Zweck und Wirkungsweise informieren; neue physiotherapeutische Programme planen und implementieren</taetigkeitsbeschreibung>
+  <bezeichnung>Physiotherapeut/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81713">Berufe in der Physiotherapie - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2264">Physiotherapists</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung als Masseur/in und medizinische/r Bademeister/in</text>
+      <kldb schluessel="81712">Berufe in der Physiotherapie - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3255">Physiotherapy technicians and assistants</isco>
+      <dkz codenr="81712-100" refid="8733">Masseur/in und medizinische/r Bademeister/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine abgeschlossene Berufsausbildung oder ein Bachelorstudium im Bereich Physiotherapie</text>
+      <kldb schluessel="81713">Berufe in der Physiotherapie - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2264">Physiotherapists</isco>
+      <dkz codenr="81713-100" refid="8737">Lymphdrainage- und Ödemtherapeut/in</dkz>
+      <dkz codenr="81713-101" refid="8744">Hippotherapeut/in</dkz>
+      <dkz codenr="81713-102" refid="8745">Bobath-Therapeut/in</dkz>
+      <dkz codenr="81713-104" refid="8747">Physiotherapeut/in</dkz>
+      <dkz codenr="81713-105" refid="8748">Vojta-Therapeut/in</dkz>
+      <dkz codenr="81713-109" refid="15675">Physiotherapeut/in (Sportphysiotherapie)</dkz>
+      <dkz codenr="81713-106" refid="8752">Bewegungstherapeut/in</dkz>
+      <dkz codenr="81713-107" refid="8754">Motopäde/Motopädin</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium im Bereich Motologie</text>
+      <kldb schluessel="81714">Berufe in der Physiotherapie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2264">Physiotherapists</isco>
+      <dkz codenr="81714-105" refid="100526">Motologe/Motologin</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7056">therapeutische/r Einrichtungsleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7050">Heilpraktiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7104">Krankenschwester/-pfleger</abgrenzung>
+  <abgrenzung typ="mittel" refid="7047">Ergotherapeut/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

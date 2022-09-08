@@ -1,0 +1,19 @@
+<kategorie>
+  <id>1211</id>
+  <taetigkeit>Professionelle Ausübung eines Sports</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. an sportlichen Wettbewerben teilnehmen; an Trainingseinheiten teilnehmen; Strategien und Technik mit Trainern abstimmen; selbstkritische Analysen zu den erbrachten Leistungen durchführen; Medieninterviews geben</taetigkeitsbeschreibung>
+  <bezeichnung>Berufssportler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94243">Athleten/Athletinnen und Berufsportler/innen - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3421">Athletes and sports players</isco>
+      <dkz codenr="94243-101" refid="8628">Berufssportler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="8057">Trainer/in- Ballsport</abgrenzung>
+  <abgrenzung typ="mittel" refid="1209">Tänzer/in / Choreograf/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

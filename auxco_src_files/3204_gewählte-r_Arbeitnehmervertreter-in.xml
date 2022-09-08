@@ -1,0 +1,17 @@
+<kategorie>
+  <id>3204</id>
+  <taetigkeit>Vertretung von Arbeitnehmern in einem gewählten Gremium eines Betriebs in Bezug auf Arbeitnehmerrechte, Gleichstellung oder Diskriminierung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Interessen und Belange der Arbeitnehmer vertreten; bei Einstellungen und Personalmaßnahmen Mitsprache ausüben; Einhaltung von Arbeitnehmerrechten und -schutzvorschriften überwachen; Informationsveranstaltungen und Personalversammlungen organisieren und Arbeitnehmer über Beschäftigungsbedingungen beraten</taetigkeitsbeschreibung>
+  <bezeichnung>gewählte/r Arbeitnehmervertreter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71234">Betriebsinterne Wahlämter - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="1114"> Senior Officials of Special-interest Organizations</isco>
+      <dkz codenr="71234-100" refid="29517">Gleichstellungsbeauftragte/r</dkz>
+    </default>
+  </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5241</id>
+  <taetigkeit>Herstellung von Stempeln oder Flexodruckplatten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Stempel mit Schriften, Linien und Grafiken aus Gummi und Fotopolymeren herstellen, abformen, vulkanisieren bzw. nachformen; Stempel und Klischees beschneiden und montieren; computergesteuerte Prägepressen, Kreissägen und Schleifgeräte bedienen; Arbeitsgeräte pflegen und instandhalten; Texte, Signets und Zeichnungen nach Kundenvorstellungen zu einem typografisch und technisch einwandfreien Produkt aufbereiten; lasergravierte Stempel herstellen; Flexodruckplatten mit Text und Bild für mehrfarbige Drucksachen erstellen; Etiketten, Formulare und Erzeugnisse des Verpackungsdrucks im Spezialdruckverfahren herstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Flexograf/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23282">Techn.Mediengestaltung (ssT) - Fachkraft</kldb>
+      <isco schluessel="7321">Pre-press technicians</isco>
+      <dkz codenr="23282-104" refid="1401">Flexograf/in</dkz>
+      <dkz codenr="23282-105" refid="1403">Stempelmacher/in</dkz>
+      <dkz codenr="23282-112" refid="90549">Mediengestalter/in Flexografie</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5222">Mediengestalter/in - Digital und Print</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

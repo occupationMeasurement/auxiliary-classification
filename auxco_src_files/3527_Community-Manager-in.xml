@@ -1,0 +1,18 @@
+<kategorie>
+  <id>3527</id>
+  <taetigkeit>Entwicklung und Betreuung von Online-Communities in den sozialen Medien</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Diskussionsforen einrichten und moderieren; Expertenchats organisieren; Online-Gewinnspiele organisieren; Veranstaltungen und Treffen der Community-Mitglieder außerhalb des virtuellen Raumes organisieren; Nutzerkontakte und Forumsbeiträge auswerten; Unternehmen bei zielgerechten Marketing, Markterkundungen und Wettbewerbsanalysen unterstützen</taetigkeitsbeschreibung>
+  <bezeichnung>Community-Manager/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92413">Redakteure, Journalisten - Spezialist</kldb>
+      <isco schluessel="3514">Web technicians</isco>
+      <dkz codenr="92413-108" refid="14586">Community-Manager/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1838">Redakteur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

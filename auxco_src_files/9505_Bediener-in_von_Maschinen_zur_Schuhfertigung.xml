@@ -1,0 +1,26 @@
+<kategorie>
+  <id>9505</id>
+  <taetigkeit>Einstellung und Bedienung von Maschinen zur Fertigung von Schuhen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Leder spalten, aufrauen, kaschieren und Kanten schärfen; Schaftteile markieren, weiterleiten und zusammensteppen; Ziernähte, Kappen, Laufsohlen und Absätze anbringen; Schäfte und Brandsohlen verbinden; Ösen, Schlaufen und Schnallen anbringen; Schuhe verkaufsfertig machen; Endprodukte imprägnieren, reinigen und für den Verkauf vorbereiten</taetigkeitsbeschreibung>
+  <bezeichnung>Bediener/in von Maschinen zur Schuhfertigung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28332">Schuhherstellung - Fachkraft</kldb>
+      <isco schluessel="8156">Shoemaking and related machine operators</isco>
+      <dkz refid="3486" codenr="28332-101">Schuhmacher/in</dkz>
+      <dkz refid="3487" codenr="28332-102">Schuhinstandsetzer/in</dkz>
+      <dkz refid="3495" codenr="28332-104">Orthopädieschuhmacher/in</dkz>
+      <dkz refid="3500" codenr="28332-105">Schäftemacher/in (Schuhmacher/in)</dkz>
+      <dkz refid="3511" codenr="28332-108">Schuhfertiger/in</dkz>
+      <dkz refid="3525" codenr="28332-116">Schuh- und Lederwarenstepper/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9002">Schuhmodelleur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9504">Bediener/in von Lederzurichtungsmaschinen</abgrenzung>
+  <abgrenzung typ="mittel" refid="9048">Lederverarbeitungshelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9039">Lederwarenhersteller/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

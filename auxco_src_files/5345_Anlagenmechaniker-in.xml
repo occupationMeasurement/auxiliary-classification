@@ -1,0 +1,23 @@
+<kategorie>
+  <id>5345</id>
+  <taetigkeit>Fertigung und Montage von Metallbauteilen für den Behälter- und Apparatebau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. auf Grundlage technischer Dokumente im Anlagen-, Behälter- und Apparatebau, z.B. Fertigungs-, Schweiß- und Montagepläne, Maße übernehmen und anzeichnen; unterschiedliche Metallbearbeitungs und - verbindungstechniken anwenden; Metallbearbeitungsmaschinen bedienen; Bleche, Profile und Rohre mit Techniken wie Biegen, Aufweiten, Drücken und Bördeln in die gewünschte Form bringen; Bauteile zu transportablen Baugruppen vormontieren und Transport veranlassen; Bauteile und Baugruppen vor Ort zu technischen Systemen der Anlagen- und Versorgungstechnik zusammenbauen; Schweißnähte prüfen und Anlagen unter hohem Druck auf Dichtheit prüfen; Armaturen, Mess- und Steueranlagen einbauen; Apparate regelmäßig warten und instand halten; Austauschteile herstellen und einpassen</taetigkeitsbeschreibung>
+  <bezeichnung>Anlagenmechaniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34342">Anlagen-,Behälter-,Apparatebau-Fachkraft</kldb>
+      <isco schluessel="7213">Sheet metal workers</isco>
+      <dkz codenr="34342-100" refid="2148">Anlagenmechaniker/in - Apparatetechnik</dkz>
+      <dkz codenr="34342-101" refid="2151">Behälter- und Apparatebauer/in</dkz>
+      <dkz codenr="34342-105" refid="29048">Anlagenmechaniker/in</dkz>
+      <dkz codenr="34342-103" refid="2316">Montagemechaniker/in, Anlagenmonteur/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="2042">Schweißer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5346">Anlagenbautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5297">Gas- und Wasserinstallateur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

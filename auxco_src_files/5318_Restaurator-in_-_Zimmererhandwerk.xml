@@ -1,0 +1,39 @@
+<kategorie>
+  <id>5318</id>
+  <taetigkeit>Konservierung, Restaurierung und Rekonstruktion von Fachwerkhäusern, Veranden und anderen Holzbauwerken unter Verwendung historischer Arbeitstechniken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Holztreppen und Dachstühle entwerfen und planen; Bauzustand begutachten und beurteilen; Proben entnehmen; Skizzen und Pläne anfertigen und auf dieser Grundlage Restaurierungsarbeiten planen; in der Sanierungsarbeit historisch Handwerks- und Holzverbindungstechniken anwenden; Arbeitsausführung an historischen Bauplänen orientieren; Schutzmaßnahmen gegen Witterungseinflüsse oder tierische und pflanzliche Schädigungen treffen und die Oberflächen vorbeugend behandeln; Fenster und Türen unter Kenntnis und Beachtung ihres historischen Vorbilds konstruieren und gestalten; Dachstühle, Tore, Holztreppen und Geländer reparieren und restaurieren</taetigkeitsbeschreibung>
+  <bezeichnung>Restaurator/in - Zimmererhandwerk</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33323">Zimmerei - Spezialist</kldb>
+      <isco schluessel="7115">Carpenters and joiners</isco>
+      <dkz codenr="33323-100" refid="4030">Restaurator/in - Zimmererhandwerk</dkz>
+      <dkz codenr="33323-101" refid="4031">Zimmerer/Zimmerin - Restaurierungsarbeiten</dkz>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren beruflichen Aufgaben, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren beruflichen Aufgaben gehört, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Aufsichtskraft">
+      <text>Ja</text>
+      <kldb schluessel="33393">Aufsichtskräfte - Aus- und Trockenbau, Isolierung, Zimmerei, Glaserei, Rollladen- und Jalousiebau</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="33393-101" refid="4008">Zimmerermeister/in</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="33323">Zimmerei - Spezialist</kldb>
+      <isco schluessel="7115">Carpenters and joiners</isco>
+      <dkz codenr="33323-100" refid="4030">Restaurator/in - Zimmererhandwerk</dkz>
+      <dkz codenr="33323-101" refid="4031">Zimmerer/Zimmerin - Restaurierungsarbeiten</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5292">Zimmerer/Zimmerin</abgrenzung>
+  <abgrenzung typ="mittel" refid="5201">Restaurator/in - Möbel und Holzobjekte</abgrenzung>
+  <abgrenzung typ="mittel" refid="5317">Ausbautechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5293">Bautischler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

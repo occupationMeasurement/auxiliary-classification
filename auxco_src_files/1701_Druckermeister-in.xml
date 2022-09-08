@@ -1,0 +1,21 @@
+<kategorie>
+  <id>1701</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Druckwesen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Arbeiten in der Druckformherstellung, der Drucktechnik und -weiterverarbeitung anleiten; Arbeitsprozesse planen, organisieren und überwachen; die Einarbeitung neuer Mitarbeiter organisieren und überwachen, den betrieblichen Teil der Ausbildung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Druckermeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23493">Aufsichtskräfte - Drucktechnik und -weiterverarbeitung, Buchbinderei</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz refid="23493-102" codenr="1420">Druckermeister/in</dkz>
+      <dkz refid="23493-103" codenr="1467">Siebdruckermeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1718">Techniker/in - Druck- und Medientechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="5238">Buchrestaurator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1700">Buchbindermeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

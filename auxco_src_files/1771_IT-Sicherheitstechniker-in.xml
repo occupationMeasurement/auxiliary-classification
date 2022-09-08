@@ -1,0 +1,36 @@
+<kategorie>
+  <id>1771</id>
+  <taetigkeit>Entwicklung von IT-Sicherheitskonzepten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Schwachstellen und Schutzbedarf ermitteln u.a. zur Betrugsprävention; Sicherheitskonzepte unter Berücksichtigung vorangegangener Analysen erarbeiten; Sicherheitssysteme in die IT-Infrastruktur integrieren; Kunden bei der Konkretisierung von Sicherheitszielen beraten; IT-Strukturanalysen durchführen; Kosten und Aufwand schätzen</taetigkeitsbeschreibung>
+  <bezeichnung>IT-Sicherheitstechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43383">IT-Netzw,Koord,Admin,Org(ssT)-Spezialist</kldb>
+      <isco schluessel="2529">Database and network professionals not elsewhere classified</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="43384">IT-Netzw.,Koord.,Admin,Orga(ssT)-Experte</kldb>
+      <isco schluessel="2529">Database and network professionals not elsewhere classified</isco>
+      <dkz codenr="43384-100" refid="15000">Fraud-Analyst/in</dkz>
+      <dkz codenr="43384-101" refid="15300">IT-Sicherheitskoordinator/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="43383">IT-Netzw,Koord,Admin,Org(ssT)-Spezialist</kldb>
+      <isco schluessel="2529">Database and network professionals not elsewhere classified</isco>
+      <dkz codenr="43383-101" refid="15268">Sicherheitstechniker/in (IT)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="4038">Informatiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1771">IT-Sicherheitstechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4252">IT-Projektleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

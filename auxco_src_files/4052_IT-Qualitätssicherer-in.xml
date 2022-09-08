@@ -1,0 +1,23 @@
+<kategorie>
+  <id>4052</id>
+  <taetigkeit>Koordination von Tests in IT-Projekten zur Sicherstellung der Qualität</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. qualitätssichernde Maßnahmen in Entwicklungsprozessen planen, umsetzen und kontrollieren; Testrichtlinien und -verfahren entwickeln; Reifegradanalysen durchführen; Qualitätsmanagement-Handbücher erstellen; Audits im IT-Bereich vorbereiten und betreuen</taetigkeitsbeschreibung>
+  <bezeichnung>IT-Qualitätssicherer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43323">IT-Koordination - Spezialist</kldb>
+      <isco schluessel="2519">Software and applications developers and analysts not elsewhere classified</isco>
+      <dkz codenr="43323-103" refid="15282">IT-Konfigurationskoordinator/in</dkz>
+      <dkz codenr="43323-106" refid="15312">IT-Testkoordinator/in</dkz>
+      <dkz codenr="43323-104" refid="15302">IT-Qualitätssicherungskoordinator/in</dkz>
+      <dkz codenr="43323-105" refid="15304">IT-Projektkoordinator/in</dkz>
+      <dkz codenr="43323-108" refid="89990">IT-Tester/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4252">IT-Projektleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1771">IT-Sicherheitstechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

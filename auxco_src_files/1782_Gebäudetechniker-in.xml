@@ -1,0 +1,39 @@
+<kategorie>
+  <id>1782</id>
+  <taetigkeit>Planung, Betrieb und Optimierung von gebäudetechnischen Anlagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Einrichtung von gebäudetechnischen Anlagen wie Überwachungsanlagen, Alarmanlagen und Löschanlagen, Aufzugs- oder Transportanlagen sowie Anlagen zum Schallschutz planen; die Montage und Installation der gebäudetechnischen Anlagen überwachen; über Energiesparmöglichkeiten durch Optimierung der Gebäudetechnik beraten; Kunden in die fachgerechte Bedienung einweisen; den Arbeitsschutz beim Betrieb der Anlagen überwachen und die Einhaltung der gesetzlichen Bestimmungen sicherstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Gebäudetechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34103">Berufe in der Gebäudetechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="34104">Gebäudetechnik (o.S.) - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="34104-114" refid="59367">Ingenieur/in - Gebäudetechnik/Facility-Management</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="34103">Gebäudetechnik (o.S.) - Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="34103-103" refid="15687">Techniker/in - Gebäudesystemtechnik</dkz>
+      <dkz codenr="34103-102" refid="5607">Fachkraft - Gebäudetechnik</dkz>
+      <dkz codenr="34103-106" refid="90096">Fachplaner/in - Energie- und Gebäudetechnik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5326">Industriemeister/in - Gebäudetechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="5297">Gas- und Wasserinstallateur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1733">Elektrotechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6019">Facilitymanager/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1850">Hausverwalter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

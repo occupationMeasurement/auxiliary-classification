@@ -1,0 +1,20 @@
+<kategorie>
+  <id>7109</id>
+  <taetigkeit>Planung, Koordination und Optimierung der Entwicklung und Produktion hörtechnischer Geräte</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Verfahren zur Bestimmung und Anpassung von Hörgeräten entwickeln und testen; Mess- und Prüfgeräte für audiologische Untersuchungen entwickeln; Qualitätssicherung in Herstellung, Service und Anwendung organisieren und überwachen; Gerätebeschreibungen auf technische Richtigkeit prüfen; Service- und Vertriebspersonal schulen; Hörlabore in Betrieb nehmen und testen</taetigkeitsbeschreibung>
+  <bezeichnung>Ingenieur/in - Hörtechnik und Audiologie</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82534">Berufe in der Hörgeräteakustik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="82534-101" refid="59373">Ingenieur/in - Hörtechnik und Audiologie</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7099">Hörgeräteakustiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1833">Hörgerätemeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1829">Medizintechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

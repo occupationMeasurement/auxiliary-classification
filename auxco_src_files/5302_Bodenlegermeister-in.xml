@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5302</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei Bodenverlegearbeiten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bauzeichnungen für die geplanten Estrich- oder Bodenverlegearbeiten anfertigen; Berechnungen zu Wärme- und Schallschutz erstellen; den Bauablauf inhaltlich und terminlich planen; Material- und Personalbedarf kalkulieren; Material, Geräte und Maschinen disponieren; Kunden beraten; mit Lieferanten verhandeln; Mitarbeiter fachlich anleiten; Ausführung der Arbeiten auf Qualität kontrollieren; Einhaltung von Schutzvorschriften durchsetzen; Schulung und Weiterbildung für Mitarbeiter organisieren; den betrieblichen Teil der Ausbildung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Bodenlegermeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33193">Aufsicht - Bodenverlegung</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="33193-102" refid="4324">Fliesen-, Platten- und Mosaiklegermeister/in</dkz>
+      <dkz codenr="33193-104" refid="4388">Estrichlegermeister/in</dkz>
+      <dkz codenr="33193-106" refid="4413">Parkettlegermeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5126">Raumausstattermeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

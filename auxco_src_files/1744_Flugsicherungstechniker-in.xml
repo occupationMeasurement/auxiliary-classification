@@ -1,0 +1,37 @@
+<kategorie>
+  <id>1744</id>
+  <taetigkeit>Planung, Instandhaltung und Optimierung von Radaranlagen, Flugzeug-Navigationssystemen und ähnlichen flugsicherungstechnischen Einrichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Radaranlagen oder Anlagen für die Navigation, Kommunikation und Flugdatenverarbeitung erforschen, installieren und warten; Navigationssysteme entwickeln und implementieren; Störanalysen durchführen und Fehler beheben; flugsicherungstechnische Systeme modifizieren und weiterentwickeln; bei der Erstellung von Kostenschätzungen und technischen Schulungsspezifikationen für Luftverkehrskontroll- und Sicherheitsausrüstung mithelfen</taetigkeitsbeschreibung>
+  <bezeichnung>Flugsicherungstechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51233">Berufe in der Flugsicherungstechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3155">Air traffic safety electronics technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="51234">Flugsicherungstechnik - Experte</kldb>
+      <isco schluessel="2152">Electronics engineers</isco>
+      <dkz codenr="51234-100" refid="90687">Messingenieur/in - Flugsicherung</dkz>
+      <dkz codenr="51234-101" refid="90805">Wartungsingenieur/in - Flugsicherung</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="51233">Berufe in der Flugsicherungstechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3155">Air traffic safety electronics technicians</isco>
+      <dkz codenr="51233-100" refid="7354">Flugsicherungstechniker/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5015">Fluglotse/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1726">Luftfahrttechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5102">Technische/r Flugzeugprüfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5016">Flugunfalluntersucher/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

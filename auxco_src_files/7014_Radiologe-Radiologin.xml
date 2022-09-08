@@ -1,0 +1,21 @@
+<kategorie>
+  <id>7014</id>
+  <taetigkeit>Diagnose und Behandlung von Krankheiten mithilfe von radiologischen und nuklearmedizinischen Verfahren</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Magnetresonanz- und Computertomografien, Sonografien oder Ultraschall-, SPECT- und PET-Untersuchungen durchführen; Strahlen- oder Röntgentherapie anwenden; interventionelle und minimalinvasive radiologische Verfahren anwenden; Diagnose stellen; Befunde dokumentieren und Krankheitsverlauf ermitteln</taetigkeitsbeschreibung>
+  <bezeichnung>Radiologe/Radiologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81234">Medizinisch-technische Berufe in der Radiologie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2212">Specialist medical practitioners</isco>
+      <dkz codenr="81234-100" refid="8668">Facharzt/-ärztin - Radiologie</dkz>
+      <dkz codenr="81234-101" refid="8669">Facharzt/-ärztin - Nuklearmedizin</dkz>
+      <dkz codenr="81234-102" refid="8670">Facharzt/-ärztin - Strahlentherapie</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7013">Radiologieassistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7030">Internist/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

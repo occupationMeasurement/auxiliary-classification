@@ -1,0 +1,19 @@
+<kategorie>
+  <id>9029</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten in der Textiltechnik oder Textilproduktion</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Spul-, Zwirn- oder Spinnmaschinen bestücken; Material nachlegen; bei der Textilveredelung zuarbeiten; Beim Umrüsten und Pflegen von Maschinen mithelfen; Sortier- und Reinigungsarbeiten übernehmen; fertige Stücke lagern und verpacken</taetigkeitsbeschreibung>
+  <bezeichnung>Textilhilfsarbeiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28101">Textiltechnik (o.S.) - Helfer</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="28101-114" refid="58515">Helfer/in - Textilherstellung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8999">Maschinenführer/in zur Fertigung von Kleidungsstücken</abgrenzung>
+  <abgrenzung typ="hoch" refid="9030">Textilmaschinenführer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,18 @@
+<kategorie>
+  <id>1237</id>
+  <taetigkeit>Soufflieren von Text für Opernsäger oder Schauspieler</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Texte während der Vorstellung mitverfolgen; Darstellern durch Zuflüstern von Stichworten weiterhelfen; Textänderungen, Kunstpausen und Kürzungen im Textbuch festhalten; auf Wunsch der Darsteller nach der Vorstellung Textprobleme besprechen</taetigkeitsbeschreibung>
+  <bezeichnung>Souffleur/Souffleuse</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94482">Berufe in der Theater-, Film- und Fernsehproduktion (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3435">Artistic and cultural associate professionals not elsewhere classified</isco>
+      <dkz codenr="94482-100" refid="8415">Souffleur/Souffleuse</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1228">Inspizient/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

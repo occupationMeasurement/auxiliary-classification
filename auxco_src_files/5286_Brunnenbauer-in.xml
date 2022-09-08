@@ -1,0 +1,22 @@
+<kategorie>
+  <id>5286</id>
+  <taetigkeit>Bau, Erweiterung und Sanierung von technischen Anlagen zur Grundwasserförderung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. erforderliche Bohrgeräte und -werkzeuge auswählen, einrichten, bedienen und pflegen; Bohrmaschinen warten und instand halten; vertikale und horizontale Bohrarbeiten für die Wassergewinnung durchführen; Brunnenschächte herstellen und befestigen; Schachtabdeckungen und Brunnenköpfe einbauen; Abdichtungsarbeiten ausführen; Brunnen klarpumpen und entsanden; Wasserbeförderungs- und Wasseraufbereitungsanlagen installieren; Leitungspumpversuche ausführen; Brunnenanlagen sanieren</taetigkeitsbeschreibung>
+  <bezeichnung>Brunnenbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32242">Berufe im Brunnenbau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8113">Well drillers and borers and related workers</isco>
+      <dkz codenr="32242-102" refid="4198">Brunnenbauer/in</dkz>
+      <dkz codenr="32242-103" refid="4199">Bohrgeräteführer/in</dkz>
+      <dkz codenr="32242-104" refid="4210">Rammer/in (Pfahlrammer)</dkz>
+      <dkz codenr="32242-106" refid="4776">Bohrmaschinist/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5274">Brunnenbautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1854">Bauhelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

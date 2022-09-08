@@ -1,0 +1,21 @@
+<kategorie>
+  <id>7064</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten bei der Pflege und Betreuung von älteren Menschen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. beim Aufstehen, An- und Auskleiden sowie der Körperpflege unterstützen; Mahlzeiten austeilen und bei der Nahrungsmittelaufnahme helfen; Patientenzimmer aufräumen und Betten beziehen; pflegebedürftige Menschen bei Arztbesuchen oder Behördengängen begleiten</taetigkeitsbeschreibung>
+  <bezeichnung>Altenpflegehelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82101">Berufe in der Altenpflege (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="5321">Health care assistants</isco>
+      <dkz codenr="82101-100" refid="8868">Krankenpflegehelfer/in - Altenpflege</dkz>
+      <dkz codenr="82101-101" refid="9053">Altenpflegehelfer/in</dkz>
+      <dkz codenr="82101-103" refid="14641">Helfer/in - Altenpflege/Persönliche Assistenz</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7065">Altenpfleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7017">Ambulante/r Pflegediensthelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

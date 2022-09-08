@@ -1,0 +1,18 @@
+<kategorie>
+  <id>1064</id>
+  <taetigkeit>Gestaltung und Verkauf von Blumen und Pflanzenschmuck in der Floristik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Vorarbeiten zum Herstellen von Blumen- und Pflanzenschmuck ausführen (z.B. waschen, stutzen...); Sträuße und Kränze binden; Gestecke, Tischschmuck und Brautschmuck anfertigen; Schaufenster und Verkaufsräume dekorieren und gestalten</taetigkeitsbeschreibung>
+  <bezeichnung>Florist/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="12202">Berufe in der Floristik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7549">Craft and related workers not elsewhere classified</isco>
+      <dkz codenr="12202-101" refid="676">Florist/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1065">Gestalter/in - Blumenkunst</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,23 @@
+<kategorie>
+  <id>5098</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Gebäude- oder Textilreinigungshandwerk</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Betriebe, Abteilungen oder Filiale leiten; Investitionsentscheidungen treffen; Kunden beraten; Angebote bearbeiten; Kosten kalkulieren; Materialbedarf berechnen und sicherstellen, dass der Bedarf an Reinigungs- und anderen Verbrauchsmitteln gedeckt ist; Arbeitspläne erstellen; Reinigungsmittel, -maschinen, und -geräte auswählen und einkaufen; Arbeitsaufträge an die Mitarbeiter vergeben; die Einhaltung von Hygienevorschriften, technischen und rechtlichen Vorschriften sicherstellen; Schulung und Weiterbildung für Mitarbeiter und den betrieblichen Teil der Ausbildung organisieren und durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Objektleiter/in - Gebäudereinigung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="54193">Aufsicht - Reinigung</kldb>
+      <isco schluessel="1349">Professional services managers not elsewhere classified</isco>
+      <dkz codenr="54193-100" refid="10208">Textilreinigermeister/in</dkz>
+      <dkz codenr="54193-101" refid="10232">Gebäudereinigermeister/in</dkz>
+      <dkz codenr="54193-102" refid="14784">Objektleiter/in (Gebäudereinigung)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5226">Gebäudeinnenreiniger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1764">Fahrzeugpfleger/in (Schiffe, Flugzeuge, Züge)</abgrenzung>
+  <abgrenzung typ="mittel" refid="5092">Reinigungs- und Hygienetechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5093">Glas- und Fensterreiniger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

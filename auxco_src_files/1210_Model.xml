@@ -1,0 +1,18 @@
+<kategorie>
+  <id>1210</id>
+  <taetigkeit>Präsentation von Mode auf Laufstegen und bei Fotoshootings</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bekleidung in neuem Stil anziehen; Produkte aller Art vorführen; gehen, drehen und posieren auf dem Laufsteg; als Modell für bildende Künste posieren</taetigkeitsbeschreibung>
+  <bezeichnung>Model</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94232">Mannequins, Dressmen und sonstige Models - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="5241">Fashion and other models</isco>
+      <dkz codenr="94232-100" refid="8632">Fotomodell</dkz>
+      <dkz codenr="94232-101" refid="14965">Mannequin/Dressman</dkz>
+    </default>
+  </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

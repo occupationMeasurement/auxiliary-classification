@@ -1,0 +1,51 @@
+<kategorie>
+  <id>3584</id>
+  <taetigkeit>Vermittlung und Verkauf von Versicherungsleistungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. persönliche Verkaufs- und Beratungsgespräche planen, führen und nachbearbeiten; geeignete Produkte auswählen; Verkaufsargumente entwickeln; Angebote präsentieren; den individuellen Versicherungs- und Vorsorgebedarf von Kunden ermitteln und Risiken analysieren; Neukunden akquirieren; Versicherungsverträge aushandeln</taetigkeitsbeschreibung>
+  <bezeichnung>Versicherungsagent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="72132">Versicherungskaufleute - Fachkraft</kldb>
+      <isco schluessel="3321">Insurance representatives</isco>
+      <dkz codenr="72132-107" refid="6861">Versicherungskaufmann/-frau</dkz>
+      <dkz codenr="72132-108" refid="6864">Versicherungsfachmann/-frau</dkz>
+      <dkz codenr="72132-111" refid="6890">Versicherungsleistungssachbearbeiter/in</dkz>
+      <dkz codenr="72132-100" refid="6833">Krankenversicherungsfachmann/-frau</dkz>
+      <dkz codenr="72132-115" refid="35276">Kaufmann/-frau - Versicherungen u. Finanzen - Versicherung</dkz>
+      <dkz codenr="72133-120" refid="74091">Fachwirt/in - Versicherungen und Finanzen</dkz>
+      <dkz codenr="72133-115" refid="7058">Versicherungsmakler/in</dkz>
+      <dkz codenr="72133-111" refid="6881">Versicherungsvertreter/in</dkz>
+      <dkz codenr="72133-109" refid="6875">Generalagent/in (Versicherung)</dkz>
+      <dkz codenr="72133-110" refid="6879">Direktionsbevollmächtigte/r (Versicherung)</dkz>
+      <dkz codenr="72133-108" refid="6870">Fachwirt/in - Versicherung</dkz>
+      <dkz codenr="72133-119" refid="58973">Betriebswirt/in (Fachschule) - Versicherung</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="72132">Versicherungskaufleute - Fachkraft</kldb>
+      <isco schluessel="3321">Insurance representatives</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="72133">Versicherungskaufleute - Spezialist</kldb>
+      <isco schluessel="3321">Insurance representatives</isco>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="72133">Versicherungskaufleute - Spezialist</kldb>
+      <isco schluessel="3321">Insurance representatives</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3586">Versicherungsberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3544">Sozialversicherungsangestellte/r</abgrenzung>
+  <abgrenzung typ="mittel" refid="3578">Versicherungssachbearbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3585">Versicherungsgutachter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

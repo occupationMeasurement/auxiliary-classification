@@ -1,0 +1,52 @@
+<kategorie>
+  <id>8041</id>
+  <taetigkeit>Erteilung von Unterricht in Musik an außerschulischen Bildungseinrichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die jeweilige individelle musikalische Begabung prüfen, beobachten und fördern; zu musikalischer Betätigung motivieren; mit Kindern tanzen, singen und musizieren; musiktheoretische Kenntnisse vermitteln; Eltern beraten; Musikveranstaltungen musikpädagogisch vorbereiten und organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Musiklehrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84413">Musikpädagogik - Spezialist</kldb>
+      <isco schluessel="2354">Other Music Teachers</isco>
+      <dkz codenr="84413-100" refid="14828">Facherzieher/in - Musik</dkz>
+      <dkz codenr="84414-114" refid="58760">Musikpädagoge/-pädagogin</dkz>
+      <dkz codenr="84414-110" refid="9461">Musikschullehrer/in</dkz>
+      <dkz codenr="84414-115" refid="59584">Rhythmiklehrer/in</dkz>
+      <dkz codenr="84412-101" refid="9463">Musiklehrer/in</dkz>
+      <dkz codenr="84412-102" refid="9464">Singschullehrer/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="84412">Musikpädagogik - Fachkraft</kldb>
+      <isco schluessel="2354">Other music teachers</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="84413">Musikpädagogik - Spezialist</kldb>
+      <isco schluessel="2354">Other music teachers</isco>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="84413">Musikpädagogik - Spezialist</kldb>
+      <isco schluessel="2354">Other music teachers</isco>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="84414">Musikpädagogik - Experte</kldb>
+      <isco schluessel="2354">Other music teachers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8003">Erzieher/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1200">Musiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1201">Musikwissenschaftler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1202">Sänger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8039">Dozent/in - Erwachsenenbildung</abgrenzung>
+  <abgrenzung typ="mittel" refid="8051">Leiter/in - außerschulische Bildungseinrichtungen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

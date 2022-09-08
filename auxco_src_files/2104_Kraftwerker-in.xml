@@ -1,0 +1,40 @@
+<kategorie>
+  <id>2104</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Anlagen zur Energiegewinnung aus fossilen Brennstoffen oder mittels Kernspaltung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. am Leitstand über Monitore den ordnungsgemäßen Betrieb von kraftwerkstechnischen Anlagen überwachen; Ursachen von technischen Problemen analysieren und Lösungen erarbeiten; Prozessleitsysteme sowie sämtliche kraftwerksinterne leittechnische Funktionen überwachen; Routinechecks an Reaktordruckbehältern, Pumpen oder Anlagen zur Kühlwasserreinigung in Kernkraftwerken durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Kraftwerker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26233">Berufe in der Energie- und Kraftwerkstechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3131">Power production plant operators</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="26233">Berufe in der Energie- und Kraftwerkstechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3131">Power production plant operators</isco>
+      <dkz codenr="26233-101" refid="4731">Kraftwerker/in</dkz>
+      <dkz codenr="26233-107" refid="5516">Techniker/in - Elektrotechnik (Energietechnik)</dkz>
+      <dkz codenr="26233-108" refid="5584">Messtechniker/in (Energietechnik)</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="26232">Berufe in der Energie- und Kraftwerkstechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8182">Steam engine and boiler operators</isco>
+      <dkz codenr="26232-115" refid="76888">Industrietechnologe/-technologin - Maschinenbau/Energietech.</dkz>
+      <dkz codenr="26232-152" refid="6381">Wärmestellengehilfe/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2109">Betriebselektriker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2106">Technische/r Assistent/in für regenerative Energietechnik</abgrenzung>
+  <abgrenzung typ="hoch" refid="2105">Kraftwerksingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2129">Leiter/in - Energietechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="1731">Solar- und Windenergietechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

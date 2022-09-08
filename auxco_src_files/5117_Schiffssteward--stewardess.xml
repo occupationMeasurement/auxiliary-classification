@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5117</id>
+  <taetigkeit>Betreuung von Passagieren im gastronomischen Service an Bord eines Schiffes</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Passagiere bei Betreten des Schiffes begrüßen; Tickets überprüfen; Passagiere zu ihren Kojen leiten; die Wünsche und Anforderungen der Passagiere erfüllen; Speisen und Getränke im Bordrestaurant servieren; Tische eindecken und dekorieren; in Anlaufhäfen über örtliche Verhältnisse und Freizeitaktivitäten informieren; dafür sorgen, dass Sicherheitsrichtlinien eingehalten werden; in Notfällen Passagiere zum richtigen Handeln anweisen</taetigkeitsbeschreibung>
+  <bezeichnung>Schiffssteward/-stewardess</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51432">Servicefachkräfte Schiffsverk.-Fachkraft</kldb>
+      <isco schluessel="5111">Travel attendants and travel stewards</isco>
+      <dkz codenr="51432-101" refid="10060">Schiffssteward/-stewardess</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5118">Leitender Fahrgastbetreuer im Reiseverkehr</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

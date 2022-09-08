@@ -1,0 +1,23 @@
+<kategorie>
+  <id>9023</id>
+  <taetigkeit>Bedienung von Maschinen zur Herstellung von alkoholischen Konzentraten und Spirituosen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rohstoffe wie Obst, Getreide, Kartoffeln, Melasse oder Gewürze entgegennehmen und aufbereiten; Rohspiritus, Trinkbranntweine, alkoholische Konzentrate und Spirituosen herstellen; Maische zubereiten und vergären; Zutaten nach Rezept mischen und destillieren; Brennanlagen bedienen; Qualität der Endprodukte kontrollieren und Alkoholgehalt bestimmen; Produktionsanlagen sauber halten</taetigkeitsbeschreibung>
+  <bezeichnung>Brenner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29132">Brenner, Destillateure - Fachkraft</kldb>
+      <isco schluessel="8160">Food and related products machine operators</isco>
+      <dkz codenr="29132-100" refid="3808">Brenner/in</dkz>
+      <dkz codenr="29132-101" refid="3810">Destillateur/in</dkz>
+      <dkz codenr="29132-104" refid="35142">Destillatbrenner/in</dkz>
+      <dkz codenr="29132-105" refid="51030">Fachkraft - Brennereiwesen</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9015">Getränkemaschinensteuerer/-steuerin</abgrenzung>
+  <abgrenzung typ="hoch" refid="9024">Brennereitechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9018">Brauereifacharbeiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,21 @@
+<kategorie>
+  <id>5174</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Kriminalpolizei</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kriminalpolizeidienststellen, Gruppen, Sachbereiche oder Referate in kriminalpolizeilichen Zentralstellen leiten; den Personaleinsatz planen; Aus- und Weiterbildungsmaßnahmen organisieren und koordinieren; bei der Gesamtplanung überregionaler kriminalpolizeilicher Aktivitäten mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - Kriminalpolizeidienststellen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53224">Kriminaldienst - Experte</kldb>
+      <isco schluessel="1349">Professional services managers not elsewhere classified</isco>
+      <dkz codenr="53224-100" refid="13919">Beamt(er/in) - Kriminaldienst (höh. Dienst)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5078">Polizeivollzugsbeamter/-beamtin</abgrenzung>
+  <abgrenzung typ="mittel" refid="5070">Detektiv/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5079">Kriminalbeamter/-beamtin</abgrenzung>
+  <abgrenzung typ="mittel" refid="1123">Experte/in für spezielle Gesellschafts- und Kulturwissenschaften</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

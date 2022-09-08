@@ -1,0 +1,18 @@
+<kategorie>
+  <id>6007</id>
+  <taetigkeit>Verleihen von Geld gegen Hinterlegung von Gegenständen und Vermögenswerten als Pfand</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. den Wert des als Pfand hinterlegten Gegenstands schätzen; Geld je nach Wert des Pfandgegenstandes verleihen; Pfandgegenstände nach Zurückzahlung des Kredits herausgeben und andernfalls Gegenstände weiterverkaufen; dokumentieren der Pfandein- und Geldausgänge</taetigkeitsbeschreibung>
+  <bezeichnung>Pfandleiher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61152">Geld- und Pfandverleih - Fachkraft</kldb>
+      <isco schluessel="4213">Pfandleiher und Geldverleiher</isco>
+      <dkz codenr="61152-102" refid="90723">Pfandleiher/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6008">Verleiher/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

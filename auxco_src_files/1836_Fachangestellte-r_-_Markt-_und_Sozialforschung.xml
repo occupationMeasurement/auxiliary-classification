@@ -1,0 +1,69 @@
+<kategorie>
+  <id>1836</id>
+  <taetigkeit>Durchführung und Organisation von Forschungsprojekten in der Markt- und Meinungsforschung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wahl- oder Konsumverhalten der Bevölkerung untersuchen; Informationen und Daten über Marktgegebenheiten und Unternehmen zusammenstellen und aufarbeiten; Mengen- und Kostenschätzungen für Projekte erstellen; Fragebögen ausarbeiten; Arbeit der Interviewer organisieren; bei der Auswertung von Projekten mitwirken; wissenschaftliche Berichte erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Fachangestellte/r - Markt- und Sozialforschung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="91343">Markt-, Meinungsforschung - Spezialist</kldb>
+      <isco schluessel="3314">Statistical, mathematical and related associate professionals</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" follow-up="FALSE" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="91342">Berufe in der Markt- und Meinungsforschung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3314">Statistical, mathematical and related associate professionals</isco>
+      <dkz codenr="91342-100" refid="35269">Fachangestellte/r für Markt- und Sozialforschung</dkz>
+    </antwort>
+    <antwort position="2" follow-up="FALSE" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="91343">Markt-, Meinungsforschung - Spezialist</kldb>
+      <isco schluessel="3314">Statistical, mathematical and related associate professionals</isco>
+      <dkz codenr="91343-101" refid="90829">Fachwirt/in - Marktforschung</dkz>
+    </antwort>
+    <antwort position="3" follow-up="FALSE" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="91343">Markt-, Meinungsforschung - Spezialist</kldb>
+      <isco schluessel="3314">Statistical, mathematical and related associate professionals</isco>
+      <dkz codenr="91343-101" refid="90829">Fachwirt/in - Marktforschung</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="91344">Markt-, Meinungsforschung - Experte</kldb>
+      <isco schluessel="2120">Mathematicians, actuaries and statisticians</isco>
+      <dkz codenr="91344-101" refid="9755">Meinungsforscher/in</dkz>
+      <dkz codenr="91344-103" refid="9757">Marktforscher/in</dkz>
+    </antwort>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>Welche Aufgaben führen Sie dabei in der Regel aus?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Aufgaben haben Sie dabei in der Regel ausgeführt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Entwicklung statistischer Analysewerkzeuge; Evaluation und Analyse statistischer Daten</text>
+      <kldb schluessel="91344">Markt-, Meinungsforschung - Experte</kldb>
+      <isco schluessel="2120">Mathematicians, actuaries and statisticians</isco>
+      <dkz codenr="91344-101" refid="9755">Meinungsforscher/in</dkz>
+      <dkz codenr="91344-103" refid="9757">Marktforscher/in</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Erarbeiten von Fragestellungen; Konzeption von Befragungsstudien; Diskussion der Ergebnisse</text>
+      <kldb schluessel="91344">Markt-, Meinungsforschung - Experte</kldb>
+      <isco schluessel="2632">Sociologists, anthropologists and related professionals</isco>
+      <dkz codenr="91344-101" refid="9755">Meinungsforscher/in</dkz>
+      <dkz codenr="91344-103" refid="9757">Marktforscher/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3503">Marketingassistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1117">Interviewer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1110">Soziologe/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4202">Statistiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1112">Wirtschaftswissenschaftler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1837">Produktmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

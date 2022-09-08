@@ -1,0 +1,21 @@
+<kategorie>
+  <id>5314</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei Maler-, Lackierer- oder Stuckateurarbeiten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Angebote erstellen; Leistungen und Materialien kalkulieren; Preisverhandlungen führen; Einhaltung der Kosten kontrollieren; Aufträge inhaltlich und terminlich planen und für die termingerechte Ausführung sorgen; Mitarbeiter einteilen und anleiten; Kunden beraten; Farbkonzepte, Arbeitsverfahren und Materialien festlegen; Betriebsmittel disponieren und die rechtzeitige Bereitstellung gewährleisten; Ausführung und Qualität der Arbeiten prüfen; fachlich anspruchsvolle Arbeiten selbst durchführen; Einhaltung der Bestimmungen zu Arbeits-, Sicherheits- und Umweltschutz veranlassen und sicherstellen; Schulung und Weiterbildung für Mitarbeiter organisieren; den betrieblichen Teil der Ausbildung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Handwerksmeister/in - Maler-, Lackier- und Stuckateurarbeiten</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33293">Aufsicht-MalerStuckBauwerksabdBautensch.</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="33293-101" refid="4246">Stuckateurmeister/in</dkz>
+      <dkz codenr="33293-103" refid="4581">Maler- und Lackierermeister/in</dkz>
+      <dkz codenr="33293-120" refid="119750">Meister/in - Holz- und Bautenschutzgewerbe</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1768">Chefdekorateur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5191">Lackierermeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,41 @@
+<kategorie>
+  <id>5076</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Objekt- und Personenschutz</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Betriebsbereitschaft und Wirksamkeit von betrieblichen Schutz- und Sicherheitseinrichtungen sicherstellen; Arbeitsabläufe planen; Mitarbeiter einteilen und anleiten; Betriebsbereitschaft der technischen Anlagen sicherstellen; Einhaltung der gesetzlichen Sicherheitsvorschriften überwachen; den betrieblichen Teil der Ausbildung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Aufsichtsleiter/in – Sicherheitswesen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53193">Aufsicht-Objekt,Brandschutz,Arbeitssich.</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="53193-101" refid="8071">Sicherheitsbeauftragte/r (Werkschutz)</dkz>
+      <dkz codenr="53193-102" refid="8072">Werkschutzleiter/in</dkz>
+      <dkz codenr="53193-103" refid="8078">Meister/in - Schutz und Sicherheit</dkz>
+      <dkz codenr="53193-105" refid="8095">Wachleiter/in (Wach- und Sicherheitsgewerbe)</dkz>
+      <dkz codenr="53193-107" refid="14054">Meister/in - Bäderbetriebe</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>In welchem Bereich sind Sie vorwiegend tätig?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>In welchem Bereich waren Sie vorwiegend tätig?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>im Wach- und Sicherheitsgewerbe</text>
+      <kldb schluessel="53193">Aufsicht-Objekt,Brandschutz,Arbeitssich.</kldb>
+      <isco schluessel="5414">Security guards</isco>
+    </antwort>
+    <antwort position="2">
+      <text>im Werkschutz</text>
+      <kldb schluessel="53193">Aufsicht-Objekt,Brandschutz,Arbeitssich.</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+    </antwort>
+    <antwort position="3">
+      <text>in der Badeaufsicht</text>
+      <kldb schluessel="53193">Aufsicht-Objekt,Brandschutz,Arbeitssich.</kldb>
+      <isco schluessel="5419">Protective services workers not elsewhere classified</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5077">Leiter/in - Rettungsstelle</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

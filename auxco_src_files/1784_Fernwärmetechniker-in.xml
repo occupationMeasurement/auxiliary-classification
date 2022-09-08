@@ -1,0 +1,44 @@
+<kategorie>
+  <id>1784</id>
+  <taetigkeit>Planung, Betrieb und Überwachung von Anlagen zur Fernwärmeversorgung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Berechnungen zur Dimensionierung fernwärmetechnischer Anlagen durchführen; Betrieb von fernwärmetechnischen Anlagen planen und überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Fernwärmetechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34302">Berufe in der Ver- und Entsorgung (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7126">Plumbers and pipe fitters</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="34302">Berufe in der Ver- und Entsorgung (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7126">Plumbers and pipe fitters</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="34303">Ver- und Entsorgung (o.S.) - Spezialist</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="34303">Ver- und Entsorgung (o.S.) - Spezialist</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="34304">Ver- und Entsorgung (o.S.) - Experte</kldb>
+      <isco schluessel="2144">Mechanical engineers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5295">Rohrleitungsbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1786">Rohrnetzingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5337">Ver- und Entsorger/in - Wasserversorgung</abgrenzung>
+  <abgrenzung typ="mittel" refid="5355">Leiter/in - Anlagenbau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

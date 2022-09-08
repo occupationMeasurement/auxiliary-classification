@@ -1,0 +1,21 @@
+<kategorie>
+  <id>6021</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Empfangsbereich eines Hotels</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Zimmer reservieren; Post, E-Mails und Onlinebuchungen bearbeiten; Gäste betreuen und empfangen; Rechnungen ausstellen und Abrechnungen tätigen; Personaleinsatz in den Bereichen Rezeption, Reservierung, Kasse, Halle und Information, einschließlich der Zentrale für Telefon und Telefax, planen; Dienst- und Urlaubspläne erstellen; VIP Treatments zur Behandlung wichtiger Hotelgäste erstellen und diese Hotelgäste selbst betreuen; Beschwerden und Reklamationen entgegennehmen und bearbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Empfangschef/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63293">Aufsicht - Hotellerie</kldb>
+      <isco schluessel="3341">Office supervisors</isco>
+      <dkz codenr="63293-107" refid="10019">Empfangschef/in (Hotel)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6055">Pension- bzw. Herbergsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6056">Hausdame/Housekeeper</abgrenzung>
+  <abgrenzung typ="hoch" refid="1821">Hotelkaufmann/-frau</abgrenzung>
+  <abgrenzung typ="mittel" refid="6057">Hoteldirektor/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

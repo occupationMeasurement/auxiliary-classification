@@ -1,0 +1,23 @@
+<kategorie>
+  <id>5287</id>
+  <taetigkeit>Verlegen von Fliesen, Platten und Mosaiken zur Verkleidung von Wänden, Böden und Fassaden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Platten zuschneiden; Untergrund vermessen; Unterböden vorbereiten; Dämmstoffe für den Wärme-, Kälte-, Schall- und Brandschutz einbauen; Fliesen, Platten und Mosaik zusammenstellen und laut Verlegeplänen verlegen; fertige Beläge verfugen; großformatige Platten verankern; Fliesen-, Platten- und Mosaikbeläge sanieren und instand setzen; Mängel dokumentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Fliesen-, Platten- und Mosaikleger/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33112">Berufe in der Fliesen-, Platten- und Mosaikverlegung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7122">Floor layers and tile setters</isco>
+      <dkz codenr="33112-100" refid="4320">Fliesen-, Platten- und Mosaikleger/in</dkz>
+      <dkz codenr="33112-101" refid="4322">Ausbaufacharbeiter/in (Fliesen-, Platten- u. Mosaikarbeiten)</dkz>
+      <dkz codenr="33112-105" refid="4331">Mosaikleger/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1755">Helfer/in - Bodenverlegung</abgrenzung>
+  <abgrenzung typ="hoch" refid="5298">Bodenleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5288">Estrich- und Terrazzoleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5285">Pflasterer/ Pflasterin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

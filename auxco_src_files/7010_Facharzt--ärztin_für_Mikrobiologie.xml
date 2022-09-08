@@ -1,0 +1,29 @@
+<kategorie>
+  <id>7010</id>
+  <taetigkeit>Beratung und Unterstützung von Ärzten durch mikrobiologische und molekulargenetische Untersuchungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. mikrobiologische Untersuchungen durchführen; Rsikofaktoren von Krankheiten ermitteln; medizinische Diagnosen stellen und Befunde dokumentieren; ärztliche Gutachten anfertigen; über Therapiemöglichkeiten informieren</taetigkeitsbeschreibung>
+  <bezeichnung>Facharzt/-ärztin für Mikrobiologie</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81214">Medizinisch-technische Berufe im Laboratorium - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2212">Specialist medical practitioners</isco>
+      <dkz codenr="81214-100" refid="8685">Facharzt/-ärztin - Biochemie</dkz>
+      <dkz codenr="81214-101" refid="8690">Facharzt/-ärztin - Laboratoriumsmedizin</dkz>
+      <dkz codenr="81214-102" refid="8691">Facharzt/-ärztin - Mikrobiol./Virolog./Infektionsepi.</dkz>
+      <dkz codenr="81214-103" refid="8692">Facharzt/-ärztin - Neuropathologie</dkz>
+      <dkz codenr="81214-104" refid="8694">Facharzt/-ärztin - Pathologie</dkz>
+      <dkz codenr="81214-105" refid="8697">Facharzt/-ärztin - Rechtsmedizin</dkz>
+      <dkz codenr="81214-106" refid="8698">Facharzt/-ärztin - Transfusionsmedizin</dkz>
+      <dkz codenr="81214-116" refid="59507">Molekularmediziner/in</dkz>
+      <dkz codenr="81214-117" refid="100541">Epidemiologe/Epidemiologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7016">Medizinisch-technische/r Laborleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7009">Medizinisch-technische Laboratoriumsassistent/in (MTLA)</abgrenzung>
+  <abgrenzung typ="hoch" refid="7028">Allgemeinarzt /-ärztin</abgrenzung>
+  <abgrenzung typ="hoch" refid="4210">Molekularbiologe/-biologin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

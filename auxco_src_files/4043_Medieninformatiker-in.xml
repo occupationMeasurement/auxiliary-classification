@@ -1,0 +1,79 @@
+<kategorie>
+  <id>4043</id>
+  <taetigkeit>Planung und Realisation von Multimedia-Anwendungen in den Bereichen Text-, Grafik-, Audio-, Video-, Animations- und Virtual-Reality-Technologie</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. IT-Systeme und Software-Tools zur Medienerstellung und -bearbeitung entwickeln und anwenden; Aufbau von Internet-Seiten analysieren und entwickeln; multimediale Elemente bearbeiten und in Webseiten einbetten; Designer bei der Erstellung von Storyboards unterstützen</taetigkeitsbeschreibung>
+  <bezeichnung>Medieninformatiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43153">Medieninformatik - Spezialist</kldb>
+      <isco schluessel="2513">Web and Multimedia Developers</isco>
+      <dkz codenr="43152-101" refid="7819">Assistent/in - Informatik (Medieninformatik)</dkz>
+      <dkz codenr="43153-104" refid="15276">E-Marketing-Entwickler/in</dkz>
+      <dkz codenr="43153-101" refid="8445">Multimediafachmann/-frau</dkz>
+      <dkz codenr="43153-105" refid="15314">Multimediaentwickler/in</dkz>
+      <dkz codenr="43153-110" refid="51032">Betriebswirt/in (Fachschule) - E-Government</dkz>
+      <dkz codenr="43153-112" refid="59431">Internettechnologe/-technologin</dkz>
+      <dkz codenr="43153-113" refid="89994">Entwickler/in Digitale Medien</dkz>
+      <dkz codenr="43154-102" refid="58754">Medieninformatiker/in</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>In welchem Bereich sind Sie vorwiegend tätig?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>In welchem Bereich waren Sie vorwiegend tätig?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Entwurf und Entwicklung von Computersoftware</text>
+      <isco schluessel="2512">Software developers</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Entwicklung und Entwurf von Webseiten, Grafiken, Videos und Animationen</text>
+      <isco schluessel="2513">Web and Multimedia Developers</isco>
+    </antwort>
+    <antwort position="3">
+      <text>Entwicklung und Wartung von Code</text>
+      <isco schluessel="2514">Application Programmers</isco>
+    </antwort>
+    <antwort position="4">
+      <text>Entwicklung, Kontrolle und Wartung von Datenbanken</text>
+      <isco schluessel="2521">Database Designers and Administrators</isco>
+    </antwort>
+    <antwort position="5">
+      <text>Wartung und Administration von Webseiten</text>
+      <isco schluessel="3514">Web technicians</isco>
+    </antwort>
+    <antwort position="6">
+      <text>Oder etwas anderes?</text>
+      <isco schluessel="????">Freitextantwort</isco>
+    </antwort>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="43152">Medieninformatik - Fachkraft</kldb>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine vertiefende berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="43153">Medieninformatik - Spezialist</kldb>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium in Informatik, Medieninformatik oder ein vergleichbares Studium</text>
+      <kldb schluessel="43153">Medieninformatik - Spezialist</kldb>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium in Informatik, Medieninformatik oder ein vergleichbares Studium</text>
+      <kldb schluessel="43154">Medieninformatik - Experte</kldb>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="4038">Informatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1770">ERP-Anwendungsentwickler</abgrenzung>
+  <abgrenzung typ="mittel" refid="5222">Mediengestalter/in - Digital und Print</abgrenzung>
+  <abgrenzung typ="mittel" refid="5221">Informationsarchitekt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5220">Video- und Game-Designer/in/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5219">Grafikdesigner/in/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5240">Medien- und Kommunikationsdesigner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

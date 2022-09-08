@@ -1,0 +1,21 @@
+<kategorie>
+  <id>3540</id>
+  <taetigkeit>Ausführung von administrativen Aufgaben und Korrespondenz in der öffentlichen Justizverwaltung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. gerichtliche Vorgänge verwalten und Akten führen; bei der Vorbereitung von richterlichen Geschäften mitwirken; die Versendung rechtlicher Korrespondenz an Klienten, Zeugen und Gerichtsbeamte veranlassen; Kostenangelegenheiten bei Gericht bearbeiten; Dokumente, Fallakten und juristische Bibliotheken ordnen und pflegen</taetigkeitsbeschreibung>
+  <bezeichnung>Sachbearbeiter/in in der öffentlichen Justizverwaltung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73252">Justizverwaltung - Fachkraft</kldb>
+      <isco schluessel="3342">Legal secretaries</isco>
+      <dkz codenr="73252-100" refid="7899">Beamt(er/in) - Justizdienst (mittl. Dienst)</dkz>
+      <dkz codenr="73252-101" refid="7905">Justizfachangestellte/r</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3529">Rechtsanwalts- und Notarfachangestellte/r</abgrenzung>
+  <abgrenzung typ="hoch" refid="3541">Justizverwaltungsbeamter/-beamtin</abgrenzung>
+  <abgrenzung typ="mittel" refid="3550">Verwaltungsangestellte/r im öffentlichen Dienst</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

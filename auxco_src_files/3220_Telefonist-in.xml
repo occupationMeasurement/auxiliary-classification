@@ -1,0 +1,21 @@
+<kategorie>
+  <id>3220</id>
+  <taetigkeit>Entgegennahme und Weiterleitung von Telefonanrufen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bestellungen entgegennehmen, Nachrichten aufzeichnen und zur Bearbeitung weitergeben; Anrufe weiterleiten; telefonische Verbindungen herstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Telefonist/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71401">Büro- und Sekretariatskräfte (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="4223">Telephone switchboard operators</isco>
+      <dkz codenr="71401-100" refid="7154">Funkbediener/in (Taxibetrieb)</dkz>
+      <dkz codenr="71401-102" refid="7389">Telefonist/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3221">Bürohilfskraft</abgrenzung>
+  <abgrenzung typ="mittel" refid="3218">Auskunfterteiler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1002">Callcenteragent/in (Inbound)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

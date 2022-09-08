@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5203</id>
+  <taetigkeit>Fertigung von Bürsten, Besen und Pinseln</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rohmaterial für die Herstellung auswählen; Rohmaterialien reinigen, trocknen und zuschneiden; Haare oder Fasern für die Pinselherstellung bündeln und in einen Pinselkopf fassen; Pinsel mit Klebstoff verkitten und Stiel ansetzen; Pinsel auf Sauberkeit, Länge und Elastizität der Haare und Borsten prüfen; fertige Pinsel und Bürsten verpacken und lagern</taetigkeitsbeschreibung>
+  <bezeichnung>Bürsten- und Pinselmacher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22352">Flechtwerk,Bürste,Pinselmacher-Fachkraft</kldb>
+      <isco schluessel="7317">Handicraft workers in wood, basketry and related materials </isco>
+      <dkz codenr="22352-100" refid="1551">Bürsten- und Pinselmacher/in - Pinselherstellung</dkz>
+      <dkz codenr="22352-101" refid="1552">Bürsten- und Pinselmacher/in - Bürstenherstellung</dkz>
+      <dkz codenr="22352-102" refid="1558">Borstpinselmacher/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5203">Flechtwarenmacher/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

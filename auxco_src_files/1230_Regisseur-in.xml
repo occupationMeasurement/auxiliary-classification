@@ -1,0 +1,24 @@
+<kategorie>
+  <id>1230</id>
+  <taetigkeit>Steuerung und Leitung von Produktionen für Film, Fernsehen oder das Theater</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Spielpläne gestalten; künstlerische Intention und finanzielle sowie technische Gegebenheiten in Einklang bringen; Besetzungsvorschläge einbringen; technischen Stab auswählen; optische und szenische Konzeption entwickeln; Regiebuch erstellen; Probenarbeit durchführen; Darsteller bei der Erarbeitung ihrer Rollen anleiten; Gestaltungspotential der Ensemblemitglieder ausloten; Spielräume entwickeln endgültige Filmfassung herstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Regisseur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94414">Berufe in der Regie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2654">Film, stage and related directors and producers</isco>
+      <dkz codenr="94414-106" refid="78116">Oberspielleiter/in (Schauspiel)</dkz>
+      <dkz codenr="94414-107" refid="78208">Oberspielleiter/in (Oper/Operette)</dkz>
+      <dkz codenr="94414-108" refid="78358">Spielleiter/in (Schauspiel)</dkz>
+      <dkz codenr="94414-105" refid="77769">Spielleiter/in (Oper/Operette)</dkz>
+      <dkz codenr="94414-100" refid="8386">Regisseur/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1240">Führungskraft in der Theater-, Film- und Fernsehproduktion</abgrenzung>
+  <abgrenzung typ="hoch" refid="1227">Film- und Fernsehwirt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1228">Inspizient/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

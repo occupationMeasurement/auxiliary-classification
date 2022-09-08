@@ -1,0 +1,20 @@
+<kategorie>
+  <id>3509</id>
+  <taetigkeit>Organisation und Koordination von Werbeproduktionen sowie Vermittlung von Kontakten zwischen Werbeagenturen und künstlerischen Auftragsnehmern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Informationen über zu verkaufende Dienste und über potenzielle Käufer beschaffen; Adressen interessanter Zielgruppen für ein Produkt bzw. ein Unternehmen recherchieren; Fotografen, Stylisten, Models und Kleindarsteller für Fotoshootings auswählen; Kontakt zu nationalen und internationalen Agenturen im Marketing- und Werbebereich sowie zu Location Scouts halten; Casting-Vorschläge mit den Kunden besprechen; Aufträge und Termine koordinieren; Honorarverhandlungen führen; Kostenvoranschläge erstellen; Aufträge erteilen und Verträge unterzeichnen; Produktionskosten überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Art-Buyer</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92383">Verlags-,Medienkaufleute (ssT)-Spezialist</kldb>
+      <isco schluessel="3339">Business services agents not elsewhere classified</isco>
+      <dkz codenr="92383-100" refid="7024">Art-Buyer (Werbung)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3508">Assistent/in - Filmgeschäftsführung</abgrenzung>
+  <abgrenzung typ="mittel" refid="3505">Literaturagent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3520">Medienmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

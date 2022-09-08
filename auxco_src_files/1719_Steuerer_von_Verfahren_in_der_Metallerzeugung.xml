@@ -1,0 +1,39 @@
+<kategorie>
+  <id>1719</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Produktionsprozessen in der Hüttentechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. von Leitständen oder Kontrollräumen den Betriebsablauf überwachen; Einhaltung von Qualitätsvorschriften und rechtlichen Vorgaben kontrollieren; Entwurf und Konstruktion von Hüttentechnikkomponenten</taetigkeitsbeschreibung>
+  <bezeichnung>Steuerer von Verfahren in der Metallerzeugung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24113">Berufe in der Hüttentechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3135">Metal production process controllers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="24114">Berufe in der Hüttentechnik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2146">Mining engineers, metallurgists and related professionals</isco>
+      <dkz codenr="24114-100" refid="5149">Ingenieur/in - Hüttentechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="24113">Berufe in der Hüttentechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3135">Metal production process controllers</isco>
+      <dkz codenr="24113-105" refid="5774">Techniker/in - Hüttentechnik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2002">Hüttentechnik - Fachkraft</abgrenzung>
+  <abgrenzung typ="mittel" refid="1843">Metallumformungstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1794">Werkstoffprüfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2004">Bergbau- und Hüttentechniker</abgrenzung>
+  <abgrenzung typ="hoch" refid="2121">Metall- und Glockengießermeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4022">Werkstofftechnik-Ingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1844">Gießereitechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,19 @@
+<kategorie>
+  <id>5177</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten bei der Herstellung und Verarbeitung von Kunststoff und Kautschuk</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Maschinen und Anlagen nach Anweisung beschicken; beim Stanzen, Prägen, Entgraten, Reinigen und Montieren von Kunststoffteilen mitarbeiten; beim Bereitstellen von Materialien und Betriebsstoffen wie Kunststoffgranulat, Farben und Lösungsmittel mitwirken; fertige Erzeugnisse auf sichtbare Fehler kontrollieren, sortieren und verpacken</taetigkeitsbeschreibung>
+  <bezeichnung>Produktionshelfer/in – Kunststoff und Kautschuk</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22101">Kunststoff-,Kautschukherst. (oS.)-Helfer</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="22101-102" refid="1226">Helfer/in - Kunststoff, Kautschuk</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5178">Verfahrensmechaniker/in - Kunststofftechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="5179">Gummiverarbeiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

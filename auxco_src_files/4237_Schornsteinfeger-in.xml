@@ -1,0 +1,18 @@
+<kategorie>
+  <id>4237</id>
+  <taetigkeit>Reinigung und Prüfung von Heizungs-, Abgas- und Lüftungsanlagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Schornsteine, Verbindungsstücke und Feuerstätten kehren und reinigen; Feuerungs- und Lüftungsanlagen überprüfen; Immissionsmessungen, wie Schadstoffmessungen an Feuerungsanlagen, durchführen; Messbescheinigungen und Abrechnungen erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Schornsteinfeger/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42212">Schornsteinfeger/innen - Fachkraft</kldb>
+      <isco schluessel="7133">Building structure cleaners</isco>
+      <dkz codenr="42212-100" refid="8211">Schornsteinfeger/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4239">Schornsteinfegermeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,24 @@
+<kategorie>
+  <id>4013</id>
+  <taetigkeit>Durchführung von chemischen Untersuchungen und Überprüfung von Proben in einem Chemielabor</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. nach Anweisung Versuche vorbereiten und Versuchsabläufe überwachen; Laborgeräte bedienen und pflegen; Stoffgemische herstellen und trennen; Versuchsprotokolle führen; Stichproben der Textil- oder Kosmetikindustrie untersuchen</taetigkeitsbeschreibung>
+  <bezeichnung>Chemisch-Technische/r Assistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41322">Chemisch-techn. Laboratorium - Fachkraft</kldb>
+      <isco schluessel="3111">Chemo- und Physikotechniker</isco>
+      <dkz codenr="41322-100" refid="1167">Chemielaborjungwerker/in</dkz>
+      <dkz codenr="41322-101" refid="5789">Chemisch-technische/r Assistent/in</dkz>
+      <dkz codenr="41322-117" refid="14386">Chemielaborant/in</dkz>
+      <dkz codenr="41322-112" refid="6410">Stoffprüfer/in (Chemie) Glas-, Keram.-Ind., Steine u. Erden</dkz>
+      <dkz codenr="41322-118" refid="15939">Textillaborant/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1791">Chemikant/in / Pharmakant/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4014">Chemische/r Laboratorium-Spezialist/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4001">Biologisch-Technische/r Assistent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

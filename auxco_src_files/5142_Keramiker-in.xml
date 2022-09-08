@@ -1,0 +1,24 @@
+<kategorie>
+  <id>5142</id>
+  <taetigkeit>Handwerkliche Herstellung von Keramikerzeugnissen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. in Handarbeit Essgeschirr, Vasen, Blumentöpfe, Fliesen oder andere keramische Erzeugnisse herstellen; Tone, Zuschlagstoffe und Wasser mischen und zu einer homogenen Masse verarbeiten; Arbeitsmasse von Hand modellieren oder durch Drehen auf der Töpferscheibe formen; Einzelteile, wie Henkel, mit keramischem Schlicker am Rohling befestigen; mehrteilige Gegenstände zusammenfügen; Rohlinge brennen; Genauigkeit der Form und Größe der Objekte überprüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Keramiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93412">Kunsthandw. Keramikgestaltung-Fachkraft</kldb>
+      <isco schluessel="7314">Potters and related workers</isco>
+      <dkz codenr="93412-112" refid="76609">Keramiker/in</dkz>
+      <dkz codenr="93412-110" refid="35125">Töpfer/in</dkz>
+      <dkz codenr="93412-102" refid="993">Keramiker/in - Baukeramik</dkz>
+      <dkz codenr="93412-103" refid="1011">Keramiker/in - Scheibentöpferei</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5143">Keramikdesigner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9231">Industriekeramiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5141">Kunsthandwerksmeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5144">Glas- und Porzellanmaler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

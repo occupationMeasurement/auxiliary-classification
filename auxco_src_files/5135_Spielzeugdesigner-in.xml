@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5135</id>
+  <taetigkeit>Entwurf und Gestaltung von Spielzeugen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Entwürfe für Holzspielzeug, Plüsch- und Stofftiere oder Puppen, vornehmen; künstlerische, betriebswirtschaftliche und fertigungstechnische Gesichtspunkte beachten; Materialien unter ästhetischen und funktionalen Gesichtspunkten auswählen; Modelle konstruieren und Mustervorlagen erstellen; den Herstellungsprozess begleiten; Ergebnisse überprüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Spielzeugdesigner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93333">Drechslerei, Spielzeugherst.-Spezialist</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+      <dkz codenr="93333-100" refid="8434">Gestalter/in - Spielzeug</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5134">Drechsler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

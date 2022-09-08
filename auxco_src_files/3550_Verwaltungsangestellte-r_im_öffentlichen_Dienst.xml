@@ -1,0 +1,57 @@
+<kategorie>
+  <id>3550</id>
+  <taetigkeit>Erarbeitung von Verwaltungsentscheidungen auf der Basis von Bundes-, Landes- und kommunalem Recht</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. organisatorische und verwaltungstechnische Abläufe koordinieren; Bürger beraten sowie Anträge entgegennehmen und bearbeiten; Sachverhalte ermitteln und prüfen; bei der Erstellung von Gesetzes- und Verordnungsvorlagen und Weisungen an nachgeordnete Dienststellen mitwirken; Sitzungen vorbereiten und an der Umsetzung der gefassten Beschlüsse mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Verwaltungsangestellte/r im öffentlichen Dienst</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73202">Öffentliche Verwaltung(o.S.) - Fachkraft</kldb>
+      <isco schluessel="3354">Government licensing officials</isco>
+      <dkz codenr="73202-100" refid="6014">Beamt(er/in) - Kommunalverwaltung (mittl. techn. Dienst)</dkz>
+      <dkz codenr="73202-101" refid="6015">Beamt(er/in) - Länder (mittl. techn. Dienst)</dkz>
+      <dkz codenr="73202-102" refid="7896">Verwaltungsfachangestellte/r - Kommunalverwaltung</dkz>
+      <dkz codenr="73202-104" refid="7901">Verwaltungsfachangestellte/r - Bundesverwaltung</dkz>
+      <dkz codenr="73202-105" refid="7903">Beamt(er/in) - Länder (mittl. Dienst)</dkz>
+      <dkz codenr="73202-106" refid="7915">Verwaltungsfachangestellte/r - Landesverwaltung</dkz>
+      <dkz codenr="73202-107" refid="7918">Beamt(er/in) - Bund (mittl. Dienst)</dkz>
+      <dkz codenr="73202-108" refid="7919">Beamt(er/in) - Kommunalverwaltung (mittl. Dienst)</dkz>
+      <dkz codenr="73203-100" refid="5219">Beamt(er/in) - Bund (geh. techn. Dienst)</dkz>
+      <dkz codenr="73203-101" refid="5222">Beamt(er/in) - Kommunalverwaltung (geh. techn. Dienst)</dkz>
+      <dkz codenr="73203-102" refid="5223">Beamt(er/in) - Länder (geh. techn. Dienst)</dkz>
+      <dkz codenr="73203-103" refid="7588">Beamt(er/in) - Bund (geh. Dienst)</dkz>
+      <dkz codenr="73203-104" refid="7591">Beamt(er/in) - Länder (geh. Dienst)</dkz>
+      <dkz codenr="73203-105" refid="7598">Beamt(er/in) - Kommunalverwaltung (geh. Dienst)</dkz>
+      <dkz codenr="73203-106" refid="7605">Fachwirt/in - Verwaltung</dkz>
+      <dkz codenr="73203-107" refid="7617">Betriebswirt/in (Fachschule) - Verwaltung</dkz>
+      <dkz codenr="73203-111" refid="33220">Verwaltungsangestellte/r - gehobener Dienst</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="73202">Öffentliche Verwaltung(o.S.) - Fachkraft</kldb>
+      <isco schluessel="3354">Government licensing officials</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine abgeschlossene berufliche Weiterbildung mit Mindestdauer 1 Jahr</text>
+      <kldb schluessel="73203">Öffentliche Verwaltung (o.S.)-Spezialist</kldb>
+      <isco schluessel="3354">Government licensing officials</isco>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="73203">Öffentliche Verwaltung (o.S.)-Spezialist</kldb>
+      <isco schluessel="3354">Government licensing officials</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3540">Sachbearbeiter/in in der öffentlichen Justizverwaltung</abgrenzung>
+  <abgrenzung typ="mittel" refid="3222">Sekretär/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3546">Verwaltungswissenschaftler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3544">Sozialversicherungsangestellte/r</abgrenzung>
+  <abgrenzung typ="mittel" refid="3541">Justizverwaltungsbeamter/-beamtin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

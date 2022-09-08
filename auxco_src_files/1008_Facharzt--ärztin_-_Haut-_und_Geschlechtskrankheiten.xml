@@ -1,0 +1,19 @@
+<kategorie>
+  <id>1008</id>
+  <taetigkeit>Diagnose und Behandlung von Erkrankungen der Haut</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. fachärztliche Leistungen im Gebiet Haut- und Geschlechtskrankheiten erbringen; Entnahme von Hautproben und Schleimhautabstrichen veranlassen und Krankheitsbilder ermitteln; Patienten betreuen und über Therapiemöglichkeiten beraten; Patienten behandeln und Medikamente verschreiben</taetigkeitsbeschreibung>
+  <bezeichnung>Facharzt/-ärztin - Haut- und Geschlechtskrankheiten</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81444">Fachärzte/-ärztinnen in den Bereichen Hautkrankheiten, Sinnes- und Geschlechtsorgane - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2212">Specialist medical practitioners</isco>
+      <dkz codenr="81444-103" refid="8686">Facharzt/-ärztin - Haut- und Geschlechtskrankheiten</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7035">Chefarzt/-ärztin</abgrenzung>
+  <abgrenzung typ="mittel" refid="1007">Facharzt/-ärztin - Gynäkologie oder Urologie</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

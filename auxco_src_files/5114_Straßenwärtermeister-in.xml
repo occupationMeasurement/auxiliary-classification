@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5114</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Überprüfung und Instandhaltung von Straßen, Wegen und Tunneln</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Arbeits- und Unfallstellen durch Warnsignale- und Zeichen absichern; Arbeiten für den Winterdienst leiten und überwachen; Verkehrszeichen und Verkehrseinrichtungen warten, reparieren und montieren; die Aufbringung von Straßenmarkierungen leiten und überwachen; die Reparatur von Fahrbandecken, Gleisabschnitten und Tunneln leiten und überwachen; Betriebskosten errechnen und geplante Maßnahmen kalkulieren; Weiterbildungs- und Schulungsmaßnahmen organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Straßenwärtermeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51293">Aufsicht - Überw.,Wart.Verkehrsinfraktur</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="51293-100" refid="7192">Straßenwärtermeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5301">Vorarbeiter/in- Tiefbau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

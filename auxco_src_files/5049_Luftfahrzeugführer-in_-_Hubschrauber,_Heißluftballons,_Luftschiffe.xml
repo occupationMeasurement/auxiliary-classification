@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5049</id>
+  <taetigkeit>Führen von Luftfahrzeugen wie Hubschraubern oder Heißluftballons</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Hubschrauber, Luftschiffe und Freiluftballons fliegen; Traggasbedarf planen; meteorologische Daten abrufen; Werbeflächen am Luftfahrzeug vermieten; Luftraum beobachten; Maßnahmen im Fall eines Unglücks ergreifen</taetigkeitsbeschreibung>
+  <bezeichnung>Luftfahrzeugführer/in - Hubschrauber, Heißluftballons, Luftschiffe</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52383">Fahrzeugführer Flugverk.(ssT)-Spezialist</kldb>
+      <isco schluessel="3153">Aircraft pilots and related associate professionals</isco>
+      <dkz codenr="52383-103" refid="7338">Berufshubschrauberführer/in (CPL (H))</dkz>
+      <dkz codenr="52383-104" refid="7362">Freiballonführer/in</dkz>
+      <dkz codenr="52383-105" refid="7363">Luftschiffführer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5047">Pilot/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

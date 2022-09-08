@@ -1,0 +1,20 @@
+<kategorie>
+  <id>1208</id>
+  <taetigkeit>Darstellung von Rollen in Theater, Film und Fernsehen oder Synchronisation von Hörspielen oder Filmen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. an Vorsprechen teilnehmen; Rollen im Selbststudium erarbeiten; in Leseproben Interpretationsansätze herausarbeiten; passende Körpersprache und Sprechweise einüben; Texte und Handlung lernen; im Theater vor Publikum auftreten; Rollen bei Film und Fernsehen übernemen; fremdsprachige Produktionen synchronisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Schauspieler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94214">Schauspieler/innen - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2655">Actors</isco>
+      <dkz codenr="94214-100" refid="8411">Schauspieler/in</dkz>
+      <dkz codenr="94214-102" refid="15543">Synchronsprecher/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1213">Kleindarsteller/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1217">Komiker/in / Kabarettist/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

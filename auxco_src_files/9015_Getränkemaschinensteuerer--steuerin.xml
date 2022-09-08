@@ -1,0 +1,22 @@
+<kategorie>
+  <id>9015</id>
+  <taetigkeit>Bedienung von Maschinen zur Herstellung von Getränken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Obst und Gemüse reinigen und entsaften; Maschinen zur Herstellung von Getränken wie z.B. Limonaden und Mineralwässern bedienen; Laboruntersuchungen durchführen; Getränke abfüllen</taetigkeitsbeschreibung>
+  <bezeichnung>Getränkemaschinensteuerer/-steuerin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29102">Berufe in der Getränkeherstellung (o.S.)- fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8160">Food and related products machine operators</isco>
+      <dkz codenr="29102-100" refid="3806">Getränkehersteller/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9006">Fachkraft in der Saftherstellung</abgrenzung>
+  <abgrenzung typ="hoch" refid="9008">Weinküfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9016">Getränketechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9018">Brauereifacharbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9023">Brenner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,21 @@
+<kategorie>
+  <id>3515</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Werbungs- und Marketingbereich eines Unternehmens</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kommunikationsstrategien ausarbeiten; zentrale Botschaften formulieren; Kreativbriefings für die Zusammenarbeit mit Agenturen erstellen und Gestaltungskonzepte beurteilen; Mediaplan erstellen; die gesamte Einkaufsverantwortung übernehmen; Verträge mit Kunden oder Zeitungen, Radio- oder Fernsehsendern und Werbeagenturen aushandeln; Mitarbeiter im Bereich Werbung und Marketing leiten und überwachen; betriebliche und administrative Verfahren festlegen und leiten; Budget festlegen und verwalten</taetigkeitsbeschreibung>
+  <bezeichnung>Werbeleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92194">Führung- Werbung und Marketing</kldb>
+      <isco schluessel="1222">Advertising and public relations managers</isco>
+      <dkz codenr="92194-100" refid="6981">Werbeleiter/in</dkz>
+      <dkz codenr="92194-102" refid="90189">Leiter/in - Marketing</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1837">Produktmanager/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3511">Leiter/in- Presse- und Öffentlichkeitsarbeit</abgrenzung>
+  <abgrenzung typ="mittel" refid="3521">Verleger/in (Medien/Musik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

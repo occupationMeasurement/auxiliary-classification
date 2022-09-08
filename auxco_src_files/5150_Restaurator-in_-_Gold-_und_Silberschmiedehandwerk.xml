@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5150</id>
+  <taetigkeit>Restaurierung von Dekorations- und Gebrauchsgegenständen aus Silber oder Gold</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden beraten; historische Substanzen der Objekte beurteilen, in kunst- und kulturgeschichtliche Epochen einordnen und datieren; Objektdokumentation erstellen; Restaurierungsobjekte denkmalgerecht konservieren oder restaurieren</taetigkeitsbeschreibung>
+  <bezeichnung>Restaurator/in - Gold- und Silberschmiedehandwerk</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93523">Kunsth.SchmuckherEdelsteinbe.-Spezialist</kldb>
+      <isco schluessel="7313">Jewellery and precious metal workers</isco>
+      <dkz codenr="93523-106" refid="59024">Restaurator/in - Gold- und Silberschmiedehandwerk</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1841">Gold- und Silberschmied/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

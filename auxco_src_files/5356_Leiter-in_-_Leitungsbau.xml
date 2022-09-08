@@ -1,0 +1,27 @@
+<kategorie>
+  <id>5356</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Bau von Leitungen für Wasser, Gas, Öl oder Fernwärme</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. den Bau von Anlagen und Systemen leiten und überwachen; den Bau von Druckrohrleitungen, Abwasserkanäle, Kabelleitungen oder Fernwärmeleitungen koordinieren; die Einhaltung von Vorschriften sicherstellen; Mitarbeiter fachlich unterstützen und bei deren Weiterbildung mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - Leitungsbau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34393">Aufsichtskräfte - Ver- und Entsorgung</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="34393-122" refid="50991">Netzmeister/in</dkz>
+      <dkz codenr="34393-107" refid="6282">Industriemeister/in - Rohrnetzbau und Rohrnetzbetrieb</dkz>
+      <dkz codenr="34393-110" refid="14605">Industriemeister/in - Rohrleitungsbau</dkz>
+      <dkz codenr="34393-111" refid="28424">Industriemeister/in - Leitungsbau</dkz>
+      <dkz codenr="34393-121" refid="35022">Meister/in - Rohr-, Kanal- und Industrieservice</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1784">Fernwärmetechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1856">Gasversorgungstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1786">Rohrnetzingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5295">Rohrleitungsbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5355">Leiter/in - Anlagenbau</abgrenzung>
+  <abgrenzung typ="mittel" refid="5357">Leiter/in - Wasserversorgung und -entsorgung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

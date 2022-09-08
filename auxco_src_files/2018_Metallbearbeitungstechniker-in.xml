@@ -1,0 +1,21 @@
+<kategorie>
+  <id>2018</id>
+  <taetigkeit>Planung und Koordination des Betriebs von Anlagen und Maschinen in der Metallbearbeitung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. den Fertigungsablauf optimieren; Funktionsstörungen beheben und analysieren; Fertigungsfolgen durch den Einsatz neuer Verfahren und Werkstoffe prüfen, z.B. durch den Einsatz neuer Materialien Durchlaufzeiten verringern; technische Programme zur Bearbeitung von Metallen ausarbeiten; Maschinen und Anlagen einrichten und programmieren; Qualitäts- und Fertigungskontrollen</taetigkeitsbeschreibung>
+  <bezeichnung>Metallbearbeitungstechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24203">Berufe in der Metallbearbeitung (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="24203-100" refid="90840">Metallbearbeitungstechniker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="2122">Leiter/in - Metallbearbeitung</abgrenzung>
+  <abgrenzung typ="mittel" refid="2050">Feinwerktechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1847">Werkzeugtechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1846">Metallbautechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,23 @@
+<kategorie>
+  <id>7017</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten bei der Patientenbetreuung und Patientenversorgung in Privathaushalten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. beim Waschen sowie bei Toilettengängen helfen; Patienten betten und lagern; bei der Nahrungsaufnahme helfen; Medikamente nach ärztlicher Verordnung verabreichen; hauswirtschaftliche Tätigkeiten übernehmen; bei Pflegedokumentation mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Ambulante/r Pflegediensthelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81301">Berufe in der Gesundheits- und Krankenpflege (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="5322">Home-based personal care workers</isco>
+      <dkz codenr="81301-100" refid="8866">Schwestern-/Pflegediensthelfer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7065">Altenpfleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8006">Heilerziehungspfleger/in in Privathaushalten</abgrenzung>
+  <abgrenzung typ="hoch" refid="8010">Familienpfleger/in für Notsituationen</abgrenzung>
+  <abgrenzung typ="hoch" refid="1834">Sozialassistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7064">Altenpflegehelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7018">Krankenpflegehelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

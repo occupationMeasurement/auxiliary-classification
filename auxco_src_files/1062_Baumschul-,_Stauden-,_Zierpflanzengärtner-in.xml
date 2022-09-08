@@ -1,0 +1,24 @@
+<kategorie>
+  <id>1062</id>
+  <taetigkeit>Anbau, Pflege und Zucht von Bäumen, Sträuchern und Zierpflanzen zum Verkauf</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Neuzüchtung von Pflanzen; Jungpflanzen selektieren, isolieren und pikieren; Pflanzenanbau planen; Produktionsfläche auswählen; Böden bearbeiten und pflegen; Pflanzen ernten, kennzeichnen und lagern; Pflanzen verkaufen, Kundenberatung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Baumschul-, Stauden-, Zierpflanzengärtner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="12122">Berufe in Baumschule, Staudengärtnerei und Zierpflanzenbau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6113">Gardeners, horticultural and nursery growers</isco>
+      <dkz codenr="12122-101" refid="284">Saat- und Pflanzenzüchter/in</dkz>
+      <dkz codenr="12122-102" refid="592">Gärtner/in - Baumschule</dkz>
+      <dkz codenr="12122-104" refid="597">Gärtner/in - Staudengärtnerei</dkz>
+      <dkz codenr="12122-105" refid="598">Gärtner/in - Zierpflanzenbau</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1063">Fachberater/in - Pflanzen und Saatgut</abgrenzung>
+  <abgrenzung typ="hoch" refid="1054">Gärtner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1066">Landschaftsgärtner/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1064">Florist/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

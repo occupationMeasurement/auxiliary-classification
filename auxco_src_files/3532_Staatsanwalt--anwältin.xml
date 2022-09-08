@@ -1,0 +1,19 @@
+<kategorie>
+  <id>3532</id>
+  <taetigkeit>Leitung von Ermittlungsverfahren gegen Straftäter sowie Vertretung der Anklage vor Gericht</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Strafanzeigen und Strafanträge entgegennehmen; Ermittlungsverfahren einleiten und führen; über die Einstellung des Ermittlungsverfahrens oder Anklageerhebung entscheiden; die Anklage in der Hauptverhandlung bei Gericht vertreten; Anordnungen zur Strafvollstreckung treffen</taetigkeitsbeschreibung>
+  <bezeichnung>Staatsanwalt/-anwältin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73144">Staatsanwälte/-anwältinnen - Experte</kldb>
+      <isco schluessel="2611">Lawyers</isco>
+      <dkz codenr="73144-100" refid="14071">Staatsanwalt/-anwältin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3530">Rechtliche/r Berater/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3541">Justizverwaltungsbeamter/-beamtin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

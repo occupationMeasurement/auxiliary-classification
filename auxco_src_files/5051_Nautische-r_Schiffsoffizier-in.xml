@@ -1,0 +1,45 @@
+<kategorie>
+  <id>5051</id>
+  <taetigkeit>Überwachung der täglichen Betriebsabläufe auf Schiffen und Unterstützung des Kapitäns bei der Schiffsführung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. den Seeraum überwachen; Schiffe navigieren und manövrieren; Seefunkverkehr durchführen; die Wartung des Schiffes überwachen; Feuerschutzeinrichtungen kontrollieren; Personaleinsatz auf dem Schiff planen</taetigkeitsbeschreibung>
+  <bezeichnung>Nautische/r Schiffsoffizier/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52413">NautSchiffsoffiziere,Kapitäne-Spezialist</kldb>
+      <isco schluessel="3152">Ships' deck officers and pilots</isco>
+      <dkz codenr="52413-146" refid="58997">Nautischer Wachoffizier (FS)</dkz>
+      <dkz codenr="52413-147" refid="58998">Nautische/r Wachoffizier/in (FH)</dkz>
+      <dkz codenr="52413-148" refid="59000">Nautische/r Schiffsoffizier/in - Große Hochseefischerei</dkz>
+      <dkz codenr="52413-100" refid="7203">Nautischer Schiffsoffizier - Schiffe aller Größen/weltw.</dkz>
+      <dkz codenr="52413-126" refid="29421">Erste/r Nautische/r Schiffsoffizier/in</dkz>
+      <dkz codenr="52413-128" refid="29423">Nautische/r Wachoffizier/in</dkz>
+      <dkz codenr="52413-130" refid="29428">Erste/r Nautische/r Schiffsoffizier/in (FH)</dkz>
+      <dkz codenr="52413-131" refid="29429">Zweite/r Nautische/r Schiffsoffizier/in (FH)</dkz>
+      <dkz codenr="52413-132" refid="29430">Dritte/r Nautische/r Schiffsoffizier/in (FH)</dkz>
+      <dkz codenr="52413-133" refid="29431">Erste/r Nautische/r Schiffsoffizier/in (Fachschule)</dkz>
+      <dkz codenr="52413-134" refid="29432">Zweite/r Nautische/r Schiffsoffizier/in (Fachschule)</dkz>
+      <dkz codenr="52413-135" refid="29433">Dritte/r Nautische/r Schiffsoffizier/in (FS)</dkz>
+      <dkz codenr="52413-107" refid="7220">Kapitän/in/Alleinsteuermann/-frau - Befähigung mit Einschr.</dkz>
+      <dkz codenr="52413-136" refid="29434">Erste/r Naut. Schiffsoff./Alleinsteuermann/frau (m. Einschr.</dkz>
+      <dkz codenr="52413-138" refid="29436">Erste/r  Naut. Schiffsoffizier/in - Große Hochseefischerei</dkz>
+      <dkz codenr="52413-139" refid="29437">Zweite/r Naut. Schiffsoffizier/in - Große Hochseefischerei</dkz>
+      <dkz codenr="52413-140" refid="29438">Dritte/r Nautische/r Schiffsoffizier/in - Gr. Hochseefisch.</dkz>
+      <dkz codenr="52413-112" refid="7229">Kapitän/in - Kleine Hochseefischerei</dkz>
+      <dkz codenr="52413-141" refid="29439">Steuermann/-frau/Naut.Schiffsoffizier - Kl.Hochseefischer.</dkz>
+      <dkz codenr="52413-115" refid="7234">Naut.Schiffsoffizier/Steuermann/-frau - Küstenfischerei</dkz>
+      <dkz codenr="52413-118" refid="7237">Kapitän/in (bis BRZ 500) - nationale Fahrt</dkz>
+      <dkz codenr="52413-103" refid="7209">Steuermann/-frau (See-, Küstenschifffahrt)</dkz>
+      <dkz codenr="52413-122" refid="29414">Alleinsteuermann/-frau</dkz>
+      <dkz codenr="52413-119" refid="9483">Skipper/in</dkz>
+      <dkz codenr="52413-149" refid="59004">Nautische/r Schiffsoffizier/in - Kleine Hochseefischerei</dkz>
+      <dkz codenr="52413-150" refid="59005">Kapitän/in - Küstenfischerei</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5052">Kapitän/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5053">Binnenschiffsführer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5017">Schiffslotse/-lotsin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,19 @@
+<kategorie>
+  <id>6083</id>
+  <taetigkeit>Erbringung kleinerer Dienstleistungen für Gäste eines Hotels gehobener Klasse</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. das Gepäck der Gäste auf die Zimmer bringen; Gäste unter Berücksichtigung der Sicherheitsvorschriften zu gewünschten Etagen befödern; in Lastenaufzügen angelieferte Güter zu den entsprechenden Etagen weiterleiten sowie beim Be- und Entladen der Ware behilflich sein</taetigkeitsbeschreibung>
+  <bezeichnung>Hotelpage</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63221">Hotelservice - Helfer</kldb>
+      <isco schluessel="9621">Messengers, package deliverers and luggage porters</isco>
+      <dkz codenr="63221-104" refid="10175">Helfer/in - Hotel</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6077">Zimmermädchen/ Roomboy</abgrenzung>
+  <abgrenzung typ="mittel" refid="6070">Rezeptionist/in - Hotel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

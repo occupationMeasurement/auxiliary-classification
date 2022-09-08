@@ -1,0 +1,42 @@
+<kategorie>
+  <id>1735</id>
+  <taetigkeit>Planung, Koordination und Optimierung der Produktionsprozesse von Mikrochips, Leiterplatten und anderen mikrosystemtechnischen Produkten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei der Entwicklung von mikrosystemtechnischen Produkten mitwirken; Produktionsprozesse von mikrosystemtechnischen Erzeugnissen wie Mikrochips planen, optimieren und überwachen; Leiterplattendesigns erstellen sowie Layouts mittels CAD-Systemen erzeugen; mikrosystemtechnische Produkte programmieren; Erzeugnisse auf Funktion und Qualität prüfen; Verfahren zur Herstellung von dünnen Schichten im Nanometerbereich entwickeln</taetigkeitsbeschreibung>
+  <bezeichnung>Mikrosystemtechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26323">Berufe in der Mikrosystemtechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3114">Electronics engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="26324">Berufe in der Mikrosystemtechnik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2152">Electronics engineers</isco>
+      <dkz codenr="26324-113" refid="58734">Ingenieur/in - Mikrosystemtechnik</dkz>
+      <dkz codenr="26324-114" refid="59359">Ingenieur/in - Mikroelektronik</dkz>
+      <dkz codenr="26324-115" refid="59391">Ingenieur/in - Nanotechnologie</dkz>
+      <dkz codenr="26324-116" refid="100529">Ingenieur/in - Sensortechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="26323">Berufe in der Mikrosystemtechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3114">Electronics engineering technicians</isco>
+      <dkz codenr="26323-100" refid="27420">Techniker/in - Mikrosystemtechnik</dkz>
+      <dkz codenr="26323-101" refid="59026">Techniker/in - Leiterplattentechnik</dkz>
+      <dkz codenr="26323-102" refid="67110">Prozessmanager/in - Mikrotechnologie</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2131">Mikrotechnologe/-technologin</abgrenzung>
+  <abgrenzung typ="mittel" refid="1734">Techniker/in - Informations- und Kommunikationselektronik</abgrenzung>
+  <abgrenzung typ="mittel" refid="1733">Elektrotechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2139">Optoelektronikingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4019">Physik-Ingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

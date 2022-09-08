@@ -1,0 +1,38 @@
+<kategorie>
+  <id>3219</id>
+  <taetigkeit>Sachbearbeitung und Korrespondenz mit Auslandskontakten in einer Fremdsprache</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. fremdsprachigen Schriftverkehr erledigen und Telefonate führen; fremdsprachige Rechnungen oder Mahnbescheide erstellen; wirtschaftsbezogene Schriftstücke und Protokolle übersetzen; Besprechungen und Konferenzen vorbereiten und organisieren; Import- und Exportaufträge bearbeiten; mit fremden Währungen, Gewichten und Maßen rechnen</taetigkeitsbeschreibung>
+  <bezeichnung>Fremdsprachenassistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71412">Fremdsprachensekretäre/-sekretärinnen und Fremdsprachenkorrespondenten/-korrespondentinnen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="4419">Clerical support workers not elsewhere classified</isco>
+      <dkz codenr="71412-104" refid="7983">Kfm. Ass./Wirtschaftsassistent/in - Fremdsprachen</dkz>
+      <dkz codenr="71412-109" refid="8030">Fremdsprachensekretär/in</dkz>
+      <dkz codenr="71413-103" refid="7976">Fremdsprachenkorrespondent/in</dkz>
+      <dkz codenr="71413-104" refid="7977">Fremdsprachenkaufmann/-frau</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>Welche Aufgaben führen Sie dabei in der Regel aus?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Aufgaben haben Sie dabei in der Regel ausgeführt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>kaufmännische Aufgaben im Rahmen von grenzüberschreitenden Wirtschaftsbeziehungen (z.B. Import- und Exportaufträge bearbeiten, fremdsprachige Rechnungen ausstellen)</text>
+      <kldb schluessel="71413">Fremdsprachensekretäre/-sekretärinnen und Fremdsprachenkorrespondenten/-korrespondentinnen - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="4419">Clerical support workers not elsewhere classified</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Assistenzaufgaben im Büro oder Sekretariat (z.B. Schriftstücke und Protokolle übersetzen, Besprechungen und Konferenzen vorbereiten und organisieren)</text>
+      <kldb schluessel="71412">Fremdsprachensekretäre/-sekretärinnen und Fremdsprachenkorrespondenten/-korrespondentinnen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="4419">Clerical support workers not elsewhere classified</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3222">Sekretär/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3214">Dolmetscher/in und Übersetzer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1749">internationale/r Handelsagent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="6022">Sachbearbeiter/in im Groß- und Außenhandel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,36 @@
+<kategorie>
+  <id>1832</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Augenoptik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. optometrische Dienstleistungen durchführen; Messung der Sehstärke durchführen; Kunden individuell beraten; Sehhilfe anfertigen und anpassen; mit Fachärzten und Krankenkassen zusammenarbeiten; effizienten Ressourceneinsatz planen und sicherstellen; die Einhaltung gesetzlicher Vorschriften überwachen; Marketingkonzepte entwickeln; Betriebsstrategien entwickeln; Schulungsmaßnahmen für Mitarbeiter organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Augenoptikermeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82593">Aufsichtskräfte - Medizin-, Orthopädie- und Rehatechnik</kldb>
+      <isco schluessel="3254">Dispensing opticians</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="82594">Führungskräfte - Medizin-, Orthopädie- und Rehatechnik</kldb>
+      <isco schluessel="1321">Manufacturing managers</isco>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="82593">Aufsichtskräfte - Medizin-, Orthopädie- und Rehatechnik</kldb>
+      <isco schluessel="3254">Dispensing opticians</isco>
+      <dkz codenr="82593-102" refid="2632">Augenoptikermeister/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7097">Augenoptiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1833">Hörgerätemeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1830">Orthopädietechnikermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1831">Zahntechnikermeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7016">Medizinisch-technische/r Laborleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

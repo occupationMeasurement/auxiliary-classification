@@ -1,0 +1,38 @@
+<kategorie>
+  <id>7081</id>
+  <taetigkeit>Durchführung von Tätigkeiten in der Maskenbildnerei</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Make-up im Rahmen des Inszenierungskonzepts rollengerecht gestalten; Perücken, Haarteile, Bärte für die Darsteller anfertigen; Darsteller schminken; Perücken, Haarteile oder Glatzen aufsetzen; Eigenhaar frisieren; plastische Teile wie Nasenhöcker oder Narben ankleben; Make-up während Vorstellungen auffrischen; Darsteller abschminken; beschädigte Ausstattungsteile instand setzen</taetigkeitsbeschreibung>
+  <bezeichnung>Maskenbildner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82342">Berufe in der Maskenbildnerei - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="5142">Beauticians and related workers</isco>
+      <dkz codenr="82342-101" refid="15250">Maskenbildner/in</dkz>
+      <dkz codenr="82343-101" refid="59491">Maskenbildner/in (Hochschule)</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Bachelorstudium im Bereich Maskenbild erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Bachelorstudium im Bereich Maskenbild erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="82342">Berufe in der Maskenbildnerei - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="5142">Beauticians and related workers</isco>
+      <dkz codenr="82342-101" refid="15250">Maskenbildner/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="82343">Berufe in der Maskenbildnerei - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+      <dkz codenr="82343-101" refid="59491">Maskenbildner/in (Hochschule)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7078">Friseur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7087">Chefmaskenbildner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7085">Friseurmeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7086">Kosmetikmeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,21 @@
+<kategorie>
+  <id>7121</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in Apotheken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Arbeit und Leistung von pharmazeutisch-technischen Assistenten, Fachärzte der Pharmakologie und Toxikologie überwachen; einen effizienten Ressourceneinsatz planen und sicherstellen; den Bedarf an zusätzlichem Personal und der Ausrüstung beurteilen; Schulungsmaßnahmen organisieren; Budgetplanung kontrollieren; für die Einhaltung gesetzlicher Vorschriften sorgen; Kontakte zu anderen Anbietern von Gesundheitsdiensten pflegen</taetigkeitsbeschreibung>
+  <bezeichnung>Apothekenleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81894">Führungskräfte - Pharmazie</kldb>
+      <isco schluessel="1342">Health service managers</isco>
+      <dkz codenr="81894-100" refid="90689">Apothekenleiter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7028">Allgemeinarzt /-ärztin</abgrenzung>
+  <abgrenzung typ="mittel" refid="7058">Pharmakologe/Pharmakologin</abgrenzung>
+  <abgrenzung typ="mittel" refid="7059">Arzt/Ärztin - Pharmakologie und Toxikologie</abgrenzung>
+  <abgrenzung typ="hoch" refid="7016">Medizinisch-technische/r Laborleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

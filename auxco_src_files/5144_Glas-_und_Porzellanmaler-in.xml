@@ -1,0 +1,25 @@
+<kategorie>
+  <id>5144</id>
+  <taetigkeit>Verzieren von Glas, Porzellangeschirr und -figuren und Keramikprodukten durch Bemalen, Bedrucken oder plastische Methoden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Vergrößerungen, Pausen und Schablonen anfertigen; für die Gestaltung von Glastüren oder Lampenschirmen, Bilder bzw. Dekors aus farbigen Glasstücken zusammenstellen; Hinterglasmalerei ausführen; Schmelzfarben aufschmelzen und einbrennen; historische Glasmalereien restaurieren; keramische Farben und Edelmetallpräparate mischen; Porzellan oder Keramik mit feinen Pinseln bemalen</taetigkeitsbeschreibung>
+  <bezeichnung>Glas- und Porzellanmaler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93422">KunsthandGlasKeramPorzellanmal-Fachkraft</kldb>
+      <isco schluessel="7316">Sign writers, decorative painters, engravers and etchers</isco>
+      <dkz codenr="93422-101" refid="1017">Keramiker/in - Dekoration</dkz>
+      <dkz codenr="93422-125" refid="34947">Industriekeramiker/in Dekorationstechnik</dkz>
+      <dkz codenr="93422-104" refid="4650">Glas- und Porzellanmaler/in</dkz>
+      <dkz codenr="93422-107" refid="4660">Kerammaler/in</dkz>
+      <dkz codenr="93422-102" refid="4648">Glas- und Kerammaler/in - Kerammalerei</dkz>
+      <dkz codenr="93422-108" refid="4663">Manufakturporzellanmaler/in</dkz>
+      <dkz codenr="93422-103" refid="4649">Glas- und Kerammaler/in - Glasmalerei</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9226">Glasgraveur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5133">Kunstmaler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

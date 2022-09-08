@@ -1,0 +1,19 @@
+<kategorie>
+  <id>8020</id>
+  <taetigkeit>Tätigkeiten als Mitglied religiöser Ordensgemeinschaften</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. beten und meditieren; bei der Vorbereitung und Durchführung von Gottesdiensten unterstützen; den Klostergarten pflegen; Hilfsprogramme für bedürftige organisieren; religiöse Schriften studieren; Verwaltungstätigkeiten ausführen</taetigkeitsbeschreibung>
+  <bezeichnung>Nonne/Mönch</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83332">Angeh.geistl.Orden,Mutterhäus.-Fachkraft</kldb>
+      <isco schluessel="3413">Religious associate professionals</isco>
+      <dkz codenr="83332-101" refid="15803">Angehörige/r geistlicher Orden u. Mutterhäuser</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="8026">Bischof/Bischöfin</abgrenzung>
+  <abgrenzung typ="hoch" refid="8021">Klostervorsteher/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

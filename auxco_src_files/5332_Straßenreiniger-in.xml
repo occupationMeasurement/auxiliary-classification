@@ -1,0 +1,18 @@
+<kategorie>
+  <id>5332</id>
+  <taetigkeit>Durchführung von Kehr- und Reinigungsarbeiten auf Straßen und in Fußgängerbereichen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Straßen mithilfe von Kehrmaschinen, Besen oder Schaufeln reinigen; im Winterdienst Straßen und Fußgängerbereiche von Schnee befreien und auf vereisten Stellen Granulat verstreuen; Abfallbehälter leeren; Müll und Kehrgut fachgerecht entsorgen; Abfälle und wieder verwertbare Materialien sammeln und in Behälter einsortieren</taetigkeitsbeschreibung>
+  <bezeichnung>Straßenreiniger/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34301">Ver- und Entsorgung (o.S.) - Helfer</kldb>
+      <isco schluessel="9613">Sweepers and related labourers</isco>
+      <dkz codenr="34301-101" refid="90131">Helfer/in - Ver- und Entsorgung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5333">Müllmann/Müllfrau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,73 @@
+<kategorie>
+  <id>1749</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Geschäftsaktivitäten im internationalen Groß- und Außenhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. internationale Beschaffungs- und Absatzmärkte für den Großhandel analysieren und Handelsstrategien erarbeiten; Beschaffungsmöglichkeiten und -wege verbessern; Verkaufskonzepte für den Großhandel entwickeln und optimieren; ausländische Großkunden betreuen sowie neue Kunden akquirieren; Einkaufs- und Verkaufsverhandlungen mit internationalen Produzenten und Großabnehmern führen; eingehende Angebote vergleichen und den Zuschlag erteilen; Liefer- und Zahlungsbedingungen festlegen; Warensendung und -lagerung veranlassen</taetigkeitsbeschreibung>
+  <bezeichnung>internationale/r Handelsagent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61213">Kaufleute im Groß- und Außenhandel - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3324">Trade Brokers</isco>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Handelt Ihr Unternehmen mit Waren aus unterschiedlichen Branchen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat Ihr Unternehmen mit Waren aus unterschiedlichen Branchen gehandelt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+    </antwort>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <dkz codenr="61204-102" refid="59195">Betriebswirt/in (Hochschule) - Handel</dkz>
+      <dkz codenr="61284-101" refid="59185">Betriebswirt/in (Hochschule) - Automobilwirtschaft</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau=" ">
+      <text>Nein</text>
+      <dkz codenr="61213-100" refid="6545">Fachwirt/in - Außenhandel</dkz>
+      <dkz codenr="61213-101" refid="6547">Fachkaufmann/-frau - Außenwirtschaft</dkz>
+      <dkz codenr="61213-102" refid="6551">Betriebswirt/in (Fachschule/Ausbildung) - Außenwirtschaft</dkz>
+      <dkz codenr="61204-102" refid="59195">Betriebswirt/in (Hochschule) - Handel</dkz>
+      <dkz codenr="61284-101" refid="59185">Betriebswirt/in (Hochschule) - Automobilwirtschaft</dkz>
+      <dkz codenr="61283-118" refid="51011">Automobil-Fachwirt/in</dkz>
+      <dkz codenr="61283-100" refid="6525">Betriebswirt/in (Fachschule) - Möbelhandel</dkz>
+      <dkz codenr="61283-101" refid="6526">Betriebswirt/in (Fachschule) - Kraftfahrzeuge</dkz>
+      <dkz codenr="61283-104" refid="6530">Betriebswirt/in (Fachschule/Ausbildung) - Textil</dkz>
+      <dkz codenr="61283-119" refid="58789">Fachwirt/in - Bekleidung</dkz>
+      <dkz codenr="61283-107" refid="8005">Technische/r Fachkaufmann/-frau - Werkzeuge/Maschinen</dkz>
+      <dkz codenr="61283-110" refid="14898">Technische/r Fachkaufmann/-frau - Beschlagtechnik</dkz>
+    </antwort>
+    <aggregation>
+      <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="1">
+        <isco schluessel="2433">Technical and medical sales professionals (excluding ICT)</isco>
+        <kldb schluessel="61214">Kaufleute im Groß- und Außenhandel - hoch komplexe Tätigkeiten</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="2">
+        <isco schluessel="3324">Trade Brokers</isco>
+        <kldb schluessel="61213">Kaufleute im Groß- und Außenhandel - komplexe Spezialistentätigkeiten</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="1">
+        <isco schluessel="2433">Technical and medical sales professionals (excluding ICT)</isco>
+        <kldb schluessel="61284">Kaufleute im Handel (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="2">
+        <isco schluessel="3324">Trade Brokers</isco>
+        <kldb schluessel="61283">Kaufleute im Handel (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      </bedingung>
+    </aggregation>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6002">Einkäufer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1747">Vertriebsspezialist/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5025">Kaufmann/-frau für Spedition und Logistikdienstleistungen</abgrenzung>
+  <abgrenzung typ="hoch" refid="6018">Exportleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1748">Handelsagent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

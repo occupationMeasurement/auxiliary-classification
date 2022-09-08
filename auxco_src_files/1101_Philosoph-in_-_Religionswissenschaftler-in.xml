@@ -1,0 +1,21 @@
+<kategorie>
+  <id>1101</id>
+  <taetigkeit>Erforschung religionswissenschaftlicher oder philosophischer Fragestellungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. philosophische Texte studieren; Bezüge zu anderen Texten herstellen; neue Systeme und Theorien entwerfen; in den verschiedenen Bereichen der Philosophie forschen; Betrachtung und Analyse der Religionsgeschichte und Vergleich mit anderen Religionen; Bücher und wissenschaftliche Artikel verfassen; Forschungsprojekte durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Philosoph/in / Religionswissenschaftler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="91214">Berufe in der Philosophie, Religion und Ethik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2633">Philosophers, historians and political scientists</isco>
+      <dkz codenr="91214-106" refid="58767">Philosoph/in</dkz>
+      <dkz codenr="91214-102" refid="14552">Wirtschaftsethiker/in</dkz>
+      <dkz codenr="91214-107" refid="59580">Religionswissenschaftler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8037">Dozent/in / Professor/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8043">Religionslehrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

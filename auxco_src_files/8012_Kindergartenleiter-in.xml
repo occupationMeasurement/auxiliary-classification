@@ -1,0 +1,19 @@
+<kategorie>
+  <id>8012</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Erziehung, Heilerziehungspflege oder der Sozialarbeit</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. verwaltende Aufgaben in Kindergärten wahrnehmen; Programme zur Verbesserung der Entwicklung von Kindern implementieren; Budget festlegen und überwachen; Personalplanung durchführen; Mitarbeiter anleiten und Arbeitsabläufe optimieren; Einrichtungen nach außen repräsentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Kindergartenleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83193">Aufsicht-Erziehung,Sozialarbeit,Heilerz.</kldb>
+      <isco schluessel="1341">Child care service managers</isco>
+      <dkz codenr="83193-102" refid="9166">Kindergartenleiter/in</dkz>
+      <dkz codenr="83193-103" refid="14805">Fachwirt/in - Erziehungswesen</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8061">Leiter/in einer sozialpädagogischen Einrichtung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

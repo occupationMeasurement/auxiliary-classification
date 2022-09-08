@@ -1,0 +1,39 @@
+<kategorie>
+  <id>1826</id>
+  <taetigkeit>Unterstützung von Tierärzten bei der Behandlung sowie Übernahme allgemeiner Verwaltungstätigkeiten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Instrumente und Praxisräume sterilisieren; bei chirurgischen Eingriffen assistieren; Tiere vor, während und nach der Behandlung betreuen; Behandlungsabläufe dokumentieren; künstliche Besamung an Schweinen oder Rindern durchführen; Trächtigkeituntersuchungen durchführen; Sperma entnehmen und konservieren; tierärztliche Apotheke verwalten; einfache Verwaltungsarbeiten übernehmen; Tierhalter bezüglich der artgerechten Haltung beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Tierarzthelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81142">Tiermedizinische Fachangestellte - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3240">Veterinary technicians and assistants</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="81142">Tiermedizinische Fachangestellte - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3240">Veterinary technicians and assistants</isco>
+      <dkz codenr="81142-105" refid="8938">Tierarzthelfer/in</dkz>
+      <dkz codenr="81142-109" refid="33215">Tiermedizinische/r Fachangestellte/r</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="81143">Tiermedizinische Fachangestellte - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3240">Veterinary technicians and assistants</isco>
+      <dkz codenr="81143-101" refid="6333">Fachagrarwirt/in - Besamungswesen</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7001">Arzthelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7015">Veterinärmedizinische/r Laborant/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7037">Tierheilpraktiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4001">Biologisch-Technische/r Assistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1710">Tierwirtschaftsmeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7036">Tierarzt/-ärztin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

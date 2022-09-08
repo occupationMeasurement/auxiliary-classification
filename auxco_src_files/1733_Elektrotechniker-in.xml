@@ -1,0 +1,64 @@
+<kategorie>
+  <id>1733</id>
+  <taetigkeit>Planung, Koordination und Optimierung von elektrotechnischen Produkten und Prozessen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. neue Produkte und Verfahren der Elektrotechnik entwickeln sowie bestehende optimieren; elektrotechnische Projekte anhand von technischen oder wirtschaftlichen Vorgaben planen und überwachen; Inbetriebnahme- und Abnahmetests bei elektronischen Anlagen und Geräten durchführen; Schaltpläne ermitteln sowie Schaltkreise und Verbindungen anhand von Vorgaben anordnen; Schaltpläne in Leiterplattenlayouts umsetzen und Leiterplatten mittels CAD konstruieren; elektronische Schaltungen, Geräte oder Anlagen entwickeln und weiterentwickeln</taetigkeitsbeschreibung>
+  <bezeichnung>Elektrotechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26303">Berufe in der Elektrotechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3113">Electrical engineering technicians</isco>
+      <dkz codenr="26304-127" refid="58716">Ingenieur/in - Elektrotechnik</dkz>
+      <dkz codenr="26303-122" refid="77049">Prozessmanager/in - Elektrotechnik</dkz>
+      <dkz codenr="26303-100" refid="5494">Techniker/in - Elektrotechnik (ohne Schwerpunkt)</dkz>
+      <dkz codenr="26303-102" refid="5542">Projektierungstechniker/in (Elektro)</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>Liegt der Schwerpunkt Ihrer Arbeit im Bereich Elektrotechnik oder im Bereich Elektronik?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Lag der Schwerpunkt Ihrer Arbeit im Bereich Elektrotechnik oder im Bereich Elektronik?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Elektrotechnik</text>
+    </antwort>
+    <antwort position="2">
+      <text>Elektronik</text>
+    </antwort>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+    </antwort>
+    <antwort position="2" anforderungsniveau=" ">
+      <text>Nein</text>
+    </antwort>
+    <aggregation>
+      <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="1">
+        <isco schluessel="2151">Electrical engineers</isco>
+        <kldb schluessel="26304">Berufe in der Elektrotechnik (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="2">
+        <isco schluessel="3113">Electrical engineering technicians</isco>
+        <kldb schluessel="26303">Berufe in der Elektrotechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="1">
+        <isco schluessel="2152">Electronics engineers</isco>
+        <kldb schluessel="26304">Berufe in der Elektrotechnik (ohne Spezialisierung) - hoch komplexe Tätigkeiten</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="2">
+        <isco schluessel="3114">Electronics engineering technicians</isco>
+        <kldb schluessel="26303">Berufe in der Elektrotechnik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      </bedingung>
+    </aggregation>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1707">Mikrotechnologe/-login</abgrenzung>
+  <abgrenzung typ="hoch" refid="2115">Elektromechaniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2094">Mechatroniktechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1730">Elektrotechniker/in - Automatisierungstechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="1734">Techniker/in - Informations- und Kommunikationselektronik</abgrenzung>
+  <abgrenzung typ="hoch" refid="1729">Mechatroniktechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

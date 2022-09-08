@@ -1,0 +1,24 @@
+<kategorie>
+  <id>5278</id>
+  <taetigkeit>Entwässerung und Trockenlegung von Untergründen sowie die Konstruktion und Instandhaltung von Wasserstraßen und Wasserbauwerken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wasserbauarbeiten und Instandhaltungsmaßnahmen an Wasserbauwerken, Wasserstraßen, Küsten und Stauseen durchführen; Planierraupen, Bagger und Schwimmgreife und andere Baumaschinen und Geräte führen und bedienen, um Ausgrabungen durchzuführen; Erdbewegungen veranlassen oder ausführen; Uferbefestigungen, Entwässerungssysteme und andere Kulturbauarbeiten durchführen; Kanäle und andere Wasserbauwerke kontrollieren und Instandsetzungsarbeiten durchführen; Gewässer inspizieren und Gefahren aus Gewässern beseitigen; Bauarbeiten überwachen, auf Mängel prüfen und dokumentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Bodenkulturbauarbeiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32262">Kultur- und Wasserbau - Fachkraft</kldb>
+      <isco schluessel="8342">Earthmoving and related plant operators</isco>
+      <dkz codenr="32262-101" refid="4160">Drainagearbeiter/in</dkz>
+      <dkz codenr="32262-102" refid="4162">Kulturbauarbeiter/in</dkz>
+      <dkz codenr="32262-106" refid="4167">Wasserbauer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1854">Bauhelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1781">Wasserbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9401">Spezialtiefbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5403">Bauplaner/in für wasserwirtschaftliche Anlagen</abgrenzung>
+  <abgrenzung typ="mittel" refid="5055">Baumaschinenführer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

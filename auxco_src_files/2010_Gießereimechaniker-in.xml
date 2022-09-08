@@ -1,0 +1,22 @@
+<kategorie>
+  <id>2010</id>
+  <taetigkeit>Bedienung und Überwachung von Schmelzöfen in industriellen Gießereien</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Öfen einrichten und beschicken; Schmelzvorgang überwachen; heißes Metall in vorgefertigte Gussformen gießen; Reinigungs-, Entgasungs- und Kornverfeinerungsverfahren anwenden; Anlagen und Maschinen warten und instand halten</taetigkeitsbeschreibung>
+  <bezeichnung>Gießereimechaniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24132">Berufe in der industriellen Gießerei - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8121">Metal processing plant operators</isco>
+      <dkz codenr="24132-101" refid="1663">Maschineneinrichter/in (Gießerei)</dkz>
+      <dkz codenr="24132-169" refid="126848">Gießereimechaniker/in</dkz>
+      <dkz codenr="24132-174" refid="126854">Gießereimechaniker/in - Schmelzbetrieb</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1844">Gießereitechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2001">Gießereihelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2014">Gießereiformer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

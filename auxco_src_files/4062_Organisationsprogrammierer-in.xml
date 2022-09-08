@@ -1,0 +1,22 @@
+<kategorie>
+  <id>4062</id>
+  <taetigkeit>Programmierung von Computerprogrammen nach Vorgabe</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. auf Basis detaillierter Vorgaben Computerprogramme erstellen; Programmiersprachen und Entwicklungsumgebungen, wie Code-Generatoren, Dokumentationstools und Editiersysteme, einsetzen; Aspekte der Benutzerfreundlichkeit und Software-Ergonomie berücksichtigen; bereits eingeführte Softwareprodukte optimieren</taetigkeitsbeschreibung>
+  <bezeichnung>Organisationsprogrammierer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43423">Programmierung - Spezialist</kldb>
+      <isco schluessel="2514">Applications programmers</isco>
+      <dkz codenr="43423-100" refid="7736">Organisationsprogrammierer/in</dkz>
+      <dkz codenr="43423-101" refid="7737">Programmierer/in</dkz>
+      <dkz codenr="43423-102" refid="14051">Anwendungsprogrammierer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="4253">Software-Projektleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4038">Informatiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1770">ERP-Anwendungsentwickler</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

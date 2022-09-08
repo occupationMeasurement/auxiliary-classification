@@ -1,0 +1,17 @@
+<kategorie>
+  <id>1219</id>
+  <taetigkeit>Angebot und Durchführung von Wetten und Glücksspielen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wetten und Lotterien anbieten und betreuen; Risiken zur Absicherung oder Ablehnung der Wette ermitteln; im Casino Spielleitung verschiedener Glücksspiele übernehmen; Spielregeln erläutern; Rouletterad drehen oder Karten ausgeben</taetigkeitsbeschreibung>
+  <bezeichnung>Croupier/Croupière / Glücksspielbetreiber/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94342">Berufe im Bereich Glücks- und Wettspiel - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="4212">Bookmakers, croupiers and related gaming workers</isco>
+      <dkz codenr="94342-101" refid="7083">Croupier/CroupiÃ¨re</dkz>
+    </default>
+  </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

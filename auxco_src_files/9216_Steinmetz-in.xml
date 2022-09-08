@@ -1,0 +1,54 @@
+<kategorie>
+  <id>9216</id>
+  <taetigkeit>Verarbeitung von Natur- und Kunststein zu Platten, Treppen, Grabsteinen oder Denkmälern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Entwürfe und Konstruktionen für Steinbauteile, -elemente und -objekte anfertigen; CNC-Programme, z.B. zur Steuerung von Steinfräsen, fertigungsgerecht anpassen; Materialien schneiden, formen und bearbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Steinmetz/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21232">Berufe in der Steinmetztechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7113">Stonemasons, stone cutters, splitters and carvers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Ausbildung war für Ihre Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="1">
+      <text>eine kurze Anlernphase</text>
+      <kldb schluessel="21201">Berufe in der Naturstein- und Mineralaufbereitung und -verarbeitung und Baustoffherstellung (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="21201-101" refid="880">Helfer/in - Naturstein- und Mineralaufber., Baustoffherst.</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="21232">Berufe in der Steinmetztechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7113">Stonemasons, stone cutters, splitters and carvers</isco>
+      <dkz codenr="21232-101" refid="849">Grabsteinmetz/in</dkz>
+      <dkz codenr="21232-102" refid="850">Steinmetz/in und Steinbildhauer/in - Steinmetzarbeiten</dkz>
+      <dkz codenr="21232-103" refid="852">Bausteinmetz/in</dkz>
+      <dkz codenr="21232-105" refid="854">Steinmetz/in (Industrie)</dkz>
+      <dkz codenr="21232-115" refid="15436">Naturwerksteinmechaniker/in - Steinmetztechnik</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="21233">Berufe in der Steinmetztechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="7113">Stonemasons, stone cutters, splitters and carvers</isco>
+      <dkz codenr="21233-100" refid="883">Restaurator/in - Steinmetz- und Steinbildhauerhandwerk</dkz>
+      <dkz codenr="21233-101" refid="5977">Techniker/in - Steintechnik</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="21233">Berufe in der Steinmetztechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="7113">Stonemasons, stone cutters, splitters and carvers</isco>
+      <dkz codenr="21233-100" refid="883">Restaurator/in - Steinmetz- und Steinbildhauerhandwerk</dkz>
+      <dkz codenr="21233-101" refid="5977">Techniker/in - Steintechnik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5129">Bildhauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5132">Skulpturenrestaurator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1839">Produkt- und Industriedesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5263">Restaurator/in - Maurerhandwerk</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

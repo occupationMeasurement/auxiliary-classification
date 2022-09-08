@@ -1,0 +1,21 @@
+<kategorie>
+  <id>5215</id>
+  <taetigkeit>Planung, Koordination, Optimierung und Überwachung der Produktionsabläufe in der Verpackungsmittelherstellung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Arbeits- und Produktionsabläufe planen und optimieren; Maschinen und Anlagen einstellen; technische Abläufe analysieren; Montage und Inbetriebnahme von Verpackungsmaschinen intern und extern planen und durchführen; Qualitätssicherungs-, Reparatur- und Instandhaltungsmaßnahmen veranlassen; Termin- und Materialsteuerung sowie Einhaltung der Vorschriften zu Arbeits- und Umweltschutz sicherstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Lebensmittelverpackungstechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23123">Berufe in der Papierverarbeitung und Verpackungstechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="23123-103" refid="14378">Techniker/in - Lebensmitteltechnik (Lebensmittelverpackung)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5216">Mustermacher/in - Verpackungsmittelherstellung</abgrenzung>
+  <abgrenzung typ="mittel" refid="5214">Packmitteltechnologe/-technologin</abgrenzung>
+  <abgrenzung typ="hoch" refid="5217">Verpackungsingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5218">Industriemeister/in - Papiererzeugung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

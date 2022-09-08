@@ -1,0 +1,37 @@
+<kategorie>
+  <id>3581</id>
+  <taetigkeit>Durchführung von Jahresabschlussprüfungen, Wirtschaftlichkeitsprüfungen und Revisionen in Unternehmen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Prüfberichte über Unternehmen erstellen; die Ordnungsmäßigkeit und Sicherheit des Haushalts-, Kassen- und Rechnungswesens prüfen; die Wirtschaftlichkeit der Betriebsabläufe im Unternehmen überprüfen; aus den Prüfungen Umsatz- und Verbesserungspotenziale ableiten; Sonderprüfungen durchführen; treuhänderische Tätigkeiten ausüben</taetigkeitsbeschreibung>
+  <bezeichnung>Wirtschaftsprüfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="72244">Wirtschaftsprüfung - Experte</kldb>
+      <isco schluessel="2411">Accountants</isco>
+      <dkz codenr="72244-104" refid="7558">Treuhänder/in</dkz>
+      <dkz codenr="72244-105" refid="7562">Wirtschaftsprüfer/in</dkz>
+      <dkz codenr="72244-107" refid="27384">Revisor/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Arbeiten Sie unter Aufsicht einer verantwortlichen Person oder sind Sie selber für die Prüfergebnisse verantwortlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie unter Aufsicht einer verantwortlichen Person gearbeitet oder waren Sie selber für die Prüfergebnisse verantwortlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Arbeit unter Aufsicht einer verantwortlichen Person</text>
+      <kldb schluessel="72243">Wirtschaftsprüfung - Spezialist</kldb>
+      <isco schluessel="2411">Accountants</isco>
+    </antwort>
+    <antwort position="2">
+      <text>selber verantwortlich</text>
+      <kldb schluessel="72244">Wirtschaftsprüfung - Experte</kldb>
+      <isco schluessel="2411">Accountants</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3568">Finanzanalysten/innen</abgrenzung>
+  <abgrenzung typ="mittel" refid="3573">Controller/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1823">Buchführungsfachkraft</abgrenzung>
+  <abgrenzung typ="mittel" refid="3587">Steuerfachmann/-frau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,19 @@
+<kategorie>
+  <id>6094</id>
+  <taetigkeit>Bedienung von Kunden in Eisenbahnbordrestaurants</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gäste begrüßen; Getränke einschenken und Speisen ansprechend anrichten; Abrechnungen erstellen und Zahlungsmittel entgegennehmen; Bonkassen abrechnen und Tagesabrechnungen erstellen; beim Einkauf von Speisen und Getränken mitwirken; Lieferungen kontrollieren und die Warenlagerung kontrollieren; Geschirr und Gläser spülen, reinigen und trocknen; Sauberkeit und Ordnung im Thekenbereich überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Zugsteward/-stewardess</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63382">Gastronomie (s.s.T.) - Fachkraft</kldb>
+      <isco schluessel="5111">Travel attendants and travel stewards</isco>
+      <dkz codenr="63382-103" refid="10052">Zugsteward/-stewardess</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6075">Küchenhelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1822">Kellner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

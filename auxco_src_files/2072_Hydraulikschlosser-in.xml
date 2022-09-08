@@ -1,0 +1,20 @@
+<kategorie>
+  <id>2072</id>
+  <taetigkeit>Bedienung und Instandhaltung von Motoren, Pumpen und Turbinen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. spezifische Bauteile, Pumpen oder Getriebe in speziellen Anlagen und Maschinen wie in Kraftwerken oder Bewässerungsanlagen ausbauen und reinigen; Teile ersetzten oder selbst anfertigen; Aufzüge in Gebäude einbauen; verschlissene Schaufeln an einer Turbine auswechseln; Bauteile mit speziellen Methoden manuell oder maschinell bearbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Hydraulikschlosser/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25182">Berufe in der Maschinenbau- und Betriebstechnik (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7233">Agricultural and industrial machinery mechanics and repairers (für die Berufe: Motorenmechaniker/in, Turbinenmechaniker/in)</isco>
+      <dkz codenr="25182-100" refid="2321">Motorenmechaniker/in</dkz>
+      <dkz codenr="25182-102" refid="2325">Turbinenmechaniker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1724">Hydraulik-Fachkraft</abgrenzung>
+  <abgrenzung typ="hoch" refid="2059">Maschinenschlosser/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,20 @@
+<kategorie>
+  <id>1061</id>
+  <taetigkeit>Anleitung von Fachkräften und Planung der Arbeitsabläufe im Bereich des Anbaus, der Pflege, der Ernte und des Vertriebs von Gemüse oder Obst</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Saatgut auswählen und Anbau koordinieren; Pflege wie bspw. Schneiden von Bäumen veranlassen; Ernte und Lagerung steuern; Bedarf für Züchtungen untersuchen; Züchtungen entwickeln; Vermarktungsstrategien erarbeiten; Kosten und Termine kontrollieren und kalkulieren; Kontakte zu Kunden pflegen</taetigkeitsbeschreibung>
+  <bezeichnung>Fachberater/in - Obst- und Gemüseanbau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="12113">Berufe im Obst- und Gemüsebau - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3142">Agricultural technicians</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1059">Gärtner/in - Gemüsebau</abgrenzung>
+  <abgrenzung typ="hoch" refid="1060">Gärtner/in - Obstbau</abgrenzung>
+  <abgrenzung typ="mittel" refid="1055">Gartenbautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1056">Gartenbauingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,19 @@
+<kategorie>
+  <id>2032</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten der der Metalloberflächenbehandlung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Metall- oder Kunststoffteile vor der Behandlung trocknen und entfetten; Spezialmaschinen und Fertigungsanlagen wie beispielsweise galvanische, vakuumtechnische oder Feuerverzinkungsanlagen be- und entladen; Maschinen und Werkzeuge ordnen und reinigen; Werkstücke lagern und verpacken</taetigkeitsbeschreibung>
+  <bezeichnung>Metalloberflächenbearbeitungshelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24301">Berufe in der Metalloberflächenbehandlung (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="24301-106" refid="2027">Helfer/in - Metalloberflächenbearbeitung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2029">Oberflächenbeschichter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2093">Metallbearbeitungshelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,19 @@
+<kategorie>
+  <id>7025</id>
+  <taetigkeit>Betreuung und Versorgung von Stomapatienten nach ärztlicher Anweisung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Stomapatienten vor und nach einer Operation betreuen und versorgen; über den Umgang und Pflege von Stomata beraten; Wunden versorgen; Patienten darüber informieren wie Irrigationen durchgeführt und Fisteln versorgt werden; Ratschläge zur Hautpflege und Diät geben</taetigkeitsbeschreibung>
+  <bezeichnung>Stomatherapeut/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81383">Berufe in der Gesundheits- und Krankenpflege (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3221">Nursing associate professionals</isco>
+      <dkz codenr="81383-100" refid="8861">Stomatherapeut/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7104">Krankenschwester/-pfleger</abgrenzung>
+  <abgrenzung typ="hoch" refid="7047">Ergotherapeut/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,20 @@
+<kategorie>
+  <id>5192</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten bei der Bearbeitung und Verarbeitung von Holz und Holzprodukten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. beim Einstellen, Abmessen und Aussägen von Holzteilen mitarbeiten; beim Bereitstellen von Materialien und Betriebsstoffen mitwirken; Werkstücke in den Lagerraum oder zur Weiterverarbeitung transportieren; fertige Erzeugnisse auf Fehler kontrollieren und verpacken; nach Anweisung einfache Flechtarbeiten ausführen</taetigkeitsbeschreibung>
+  <bezeichnung>Helfer/in - Holz und Flechtwaren</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22301">Holzbe-, -verarbeitung (o.S.) - Helfer</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="22301-112" refid="14923">Helfer/in - Holz, Flechtwaren</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5193">Holzbearbeitungsmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5316">Trockenbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5298">Bodenleger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

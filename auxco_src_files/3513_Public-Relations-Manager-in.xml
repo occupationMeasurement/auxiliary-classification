@@ -1,0 +1,27 @@
+<kategorie>
+  <id>3513</id>
+  <taetigkeit>Planung und Koordination von medialen Image- und Kommunikationsstrategien bei politischen Kampagnen oder zur positiven Darstellung des Auftraggebers</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. geeignete Kommunikationsstrategien und Konzepte entwickeln und ausarbeiten; Veranstaltungen, Aktionen und Kampagnen zur Förderung von Firmenwert und positiver Öffentlichkeitswirkung entwickeln und durchführen; Fundraising für eine Non-Profit-Organisation betreiben; Pressemitteilungen verfassen; die organisationsinterne Kommunikation steuern; an der Gestaltung der Firmenzeitung und des Intranets mitarbeiten; die Financial Community über Entwicklungen und Ergebnisse des Unternehmens informieren; Kontakte zu wichtigen Entscheidungsträgern aufbauen und pflegen; einschlägige Situations- und Meinungsanalysen sowie Stärken- und Schwächen-Profile des Unternehmens erstellen oder beauftragen</taetigkeitsbeschreibung>
+  <bezeichnung>Public-Relations-Manager/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92203">Öffentlichkeitsarbeit- Spezialist</kldb>
+      <isco schluessel="2432">Public relations professionals</isco>
+      <dkz codenr="92203-100" refid="6783">Investor-Relations-Manager/in</dkz>
+      <dkz codenr="92203-104" refid="14549">Fundraiser/in</dkz>
+      <dkz codenr="92203-101" refid="7005">PR-Fachkraft</dkz>
+      <dkz codenr="92203-108" refid="15590">Public-Relations-Manager/in</dkz>
+      <dkz codenr="92203-107" refid="15461">Corporate Profiler/in</dkz>
+      <dkz codenr="92203-105" refid="14963">Politische/r Berater/in</dkz>
+      <dkz codenr="92203-106" refid="14964">Campaigner/in</dkz>
+      <dkz codenr="92203-110" refid="27458">Assistent/in - Pressestelle</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3510">Pressesprecher/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3511">Leiter/in- Presse- und Öffentlichkeitsarbeit</abgrenzung>
+  <abgrenzung typ="hoch" refid="1837">Produktmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>
