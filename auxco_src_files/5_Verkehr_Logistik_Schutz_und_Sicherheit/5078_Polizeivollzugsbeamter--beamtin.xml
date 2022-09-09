@@ -36,7 +36,7 @@
       <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
       <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
     </fragetext>
-    <antwort position="1">
+    <antwort position="1" aufsicht="Führungskraft">
       <text>ja</text>
       <kldb schluessel="53214">Polizeivollzugsdienst - Experte</kldb>
       <isco schluessel="1349">Professional Services Managers Not Elsewhere Classified</isco>
