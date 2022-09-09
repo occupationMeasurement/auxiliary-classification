@@ -41,6 +41,8 @@ for (doc in files) {
     kat <- read_xml(paste0(doc))
     xml_add_child(src, kat)
 }
+# update in github file
+write_xml(hilfsklassifikation, file = paste0("./auxco_src_files/00_hilfsklassifikation_all_categories_combined.xml"))
 
 # remove all answer options that ask for an open-ended answer
 # Not yet implemented, but it may be worth to look at this again.
