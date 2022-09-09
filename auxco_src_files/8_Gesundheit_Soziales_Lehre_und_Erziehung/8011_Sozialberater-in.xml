@@ -31,7 +31,7 @@
       <dkz codenr="83154-106" refid="9059">Fachberater/in - Altenhilfe</dkz>
       <dkz codenr="83154-109" refid="27820">Sozialtherapeut/in</dkz>
     </antwort>
-    <antwort position="2" anforderungsniveau="4">
+    <antwort position="2" anforderungsniveau="3">
       <text>Nein</text>
       <kldb schluessel="83154">Sozial-,Erziehungs-, Suchtberat.-Experte</kldb>
       <isco schluessel="3412">Welfare support worker</isco>

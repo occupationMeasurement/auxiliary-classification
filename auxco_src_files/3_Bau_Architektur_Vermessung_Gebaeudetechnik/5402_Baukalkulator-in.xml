@@ -12,7 +12,7 @@
       <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
       <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
     </fragetext>
-    <antwort position="1" anforderungsniveau="3">
+    <antwort position="1" anforderungsniveau="2">
       <text>eine abgeschlossene Berufsausbildung</text>
       <kldb schluessel="31173">Berufe in der Bauabrechnung und -kalkulation - komplexe Spezialistentätigkeiten</kldb>
       <isco schluessel="3112">Civil engineering technicians</isco>
