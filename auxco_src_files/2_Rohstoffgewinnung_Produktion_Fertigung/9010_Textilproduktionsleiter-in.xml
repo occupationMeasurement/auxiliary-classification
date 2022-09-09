@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9010</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Produktion von Fäden, Garnen, Stoffen und Strickwaren</taetigkeit>
@@ -35,4 +36,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="1739">Textiltechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9046">Leiter/in - Textilverarbeitung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

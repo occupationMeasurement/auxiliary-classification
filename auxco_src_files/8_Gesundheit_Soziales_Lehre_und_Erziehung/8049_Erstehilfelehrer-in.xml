@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8049</id>
   <taetigkeit>Vermittlung von Erste-Hilfe-Kenntnissen</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="7053">Diabetesassistent/in </abgrenzung>
   <abgrenzung typ="mittel" refid="8034">Berufsschullehrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

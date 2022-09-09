@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1739</id>
   <taetigkeit>Planung, Koordination und Optimierung von Prozessen zur Produktion von Fäden, Garnen, Stoffen und Strickwaren</taetigkeit>
@@ -69,4 +70,8 @@
   <abgrenzung typ="mittel" refid="9035">Seiler/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9046">Leiter/in - Textilverarbeitung</abgrenzung>
   <abgrenzung typ="hoch" refid="1741">Bekleidungstechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

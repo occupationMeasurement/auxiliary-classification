@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1709</id>
   <taetigkeit>Durchführung von Verwaltungstätigkeiten in der Bundeswehrverwaltung</taetigkeit>
@@ -39,4 +40,8 @@
   <abgrenzung typ="hoch" refid="3550">Verwaltungsangestellte/r im öffentlichen Dienst</abgrenzung>
   <abgrenzung typ="hoch" refid="2143">Wehrtechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1702">Büchsenmachermeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

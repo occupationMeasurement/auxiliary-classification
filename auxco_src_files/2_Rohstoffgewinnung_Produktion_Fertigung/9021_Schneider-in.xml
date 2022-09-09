@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9021</id>
   <taetigkeit>Fertigung und Reparatur von textilen Kleidungsstücken in der Einzel- und Maßfertigung</taetigkeit>
@@ -26,4 +27,8 @@
   <abgrenzung typ="mittel" refid="1741">Bekleidungstechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9051">Hut- und Mützenmacher/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9506">Kürschner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

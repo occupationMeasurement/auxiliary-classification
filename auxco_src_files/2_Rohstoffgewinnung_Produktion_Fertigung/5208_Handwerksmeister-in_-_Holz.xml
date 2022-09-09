@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5208</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der handwerklichen Holzverarbeitung</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="hoch" refid="5194">Holztechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5293">Bautischler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5292">Zimmerer/Zimmerin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

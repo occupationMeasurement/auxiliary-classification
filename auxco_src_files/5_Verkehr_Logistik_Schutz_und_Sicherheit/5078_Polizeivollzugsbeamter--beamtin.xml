@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5078</id>
   <taetigkeit>Aufrechterhaltung der öffentlichen Sicherheit im Polizeivollzugsdienst</taetigkeit>
@@ -50,4 +51,8 @@
   <abgrenzung typ="mittel" refid="3534">Verfassungsschutzbeamt(er/in)</abgrenzung>
   <abgrenzung typ="hoch" refid="3552">Zolldienstbeamt(er/in)</abgrenzung>
   <abgrenzung typ="mittel" refid="5073">Diensthundführer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8039</id>
   <taetigkeit>Vermittlung allgemeiner berufsbezogener Kompetenzen an Erwachsene in außerschulischen Bildungseinrichtungen</taetigkeit>
@@ -21,4 +22,8 @@
   <abgrenzung typ="mittel" refid="8046">IT- Trainer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="8047">Fremdsprachlehrer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="8051">Leiter/in - außerschulische Bildungseinrichtungen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

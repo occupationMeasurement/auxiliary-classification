@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3205</id>
   <taetigkeit>Kaufmännische Koordination von betrieblichen Produktionsabläufen</taetigkeit>
@@ -64,4 +65,8 @@
   <abgrenzung typ="mittel" refid="3211">Kaufmännische/r Betriebsleiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1824">Kalkulator/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3573">Controller/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6006</id>
   <taetigkeit>Inbetriebnahme, Befüllung und Instandhaltung von Verkaufsautomaten</taetigkeit>
@@ -15,4 +16,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="1723">Wartungs- und Servicetechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1760</id>
   <taetigkeit>Durchführung der Formalitäten beim Ein- und Auslaufen von Seeschiffen sowie die Koordination von Lieferungen und  Lade- oder Löscharbeiten</taetigkeit>
@@ -11,4 +12,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="5035">Schifffahrtskaufmann/-frau</abgrenzung>
   <abgrenzung typ="hoch" refid="5036">Schiffsmakler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

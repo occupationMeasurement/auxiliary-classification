@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1505</id>
   <taetigkeit>Erforschung von Formen der Nutztierproduktion sowie die strategische und wirtschaftliche Beratung von Zuchtbetrieben</taetigkeit>
@@ -9,4 +10,8 @@
       <isco schluessel="2132">Farming, forestry and fishery advisers</isco>
     </default>
   </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9215</id>
   <taetigkeit>Technische Prüfung und Optimierung von Baustoffen zur Verwendung durch die Bauwirtschaft</taetigkeit>
@@ -14,4 +15,8 @@
   <abgrenzung typ="hoch" refid="1794">Werkstoffprüfer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9217">Leiter/in - Baustoffherstellung</abgrenzung>
   <abgrenzung typ="mittel" refid="9214">Arbeiter/in bei Herstellung von Baustoffen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

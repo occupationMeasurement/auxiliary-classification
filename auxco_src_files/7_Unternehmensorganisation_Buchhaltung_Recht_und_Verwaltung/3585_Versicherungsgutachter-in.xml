@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3585</id>
   <taetigkeit>Beurteilung von versicherten Schäden und Ermittlung des Wertverlusts für Versicherungen</taetigkeit>
@@ -43,4 +44,8 @@
   <abgrenzung typ="hoch" refid="3586">Versicherungsberater/in</abgrenzung>
   <abgrenzung typ="hoch" refid="3584">Versicherungsagent/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3578">Versicherungssachbearbeiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

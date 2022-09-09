@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9048</id>
   <taetigkeit>Ausführung von Hilfsarbeiten bei der Herstellung und Verarbeitung von Leder</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="hoch" refid="9110">Gerber/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9053">Pelzveredler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9506">Kürschner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

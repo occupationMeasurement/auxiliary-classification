@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1820</id>
   <taetigkeit>Zusammenstellung und Verkauf von touristischen Dienstleistungen sowie die Beratung von Kunden</taetigkeit>
@@ -36,4 +37,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="6050">Reiseleiter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="6047">Touristikmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

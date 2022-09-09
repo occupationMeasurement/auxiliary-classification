@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6009</id>
   <taetigkeit>Durchführung von Versteigerungen in einem Auktionshaus</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="6010">Handelsmakler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6043">Kunst-und Antiquitätenhändler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

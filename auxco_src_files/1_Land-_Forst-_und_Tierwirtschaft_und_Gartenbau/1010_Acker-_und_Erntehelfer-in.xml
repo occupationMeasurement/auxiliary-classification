@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1010</id>
   <taetigkeit>Ausführung von Hilfsarbeiten in der Ernte und im Ackerbau</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="1011">Helfer/in - Tierwirtschaft und im Ackerbau</abgrenzung>
   <abgrenzung typ="mittel" refid="1012">Landwirt/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1013">Ackerwirt/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7035</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der ärztlichen Leitung von Abteilungen in Krankenhäusern und anderen medizinischen Einrichtungen</taetigkeit>
@@ -11,4 +12,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="mittel" refid="7028">Allgemeinarzt /-ärztin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

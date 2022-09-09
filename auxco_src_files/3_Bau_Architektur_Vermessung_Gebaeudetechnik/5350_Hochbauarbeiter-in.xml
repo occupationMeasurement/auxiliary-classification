@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5350</id>
   <taetigkeit>Durchführung allgemeiner Arbeiten bei der Errichtung von Gebäuden und die Bedienung von Baugeräten und Baumaschinen</taetigkeit>
@@ -34,4 +35,8 @@
   <abgrenzung typ="mittel" refid="5265">Fassadenmonteur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5316">Trockenbauer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1756">Helfer/in - Gebäudeausbau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

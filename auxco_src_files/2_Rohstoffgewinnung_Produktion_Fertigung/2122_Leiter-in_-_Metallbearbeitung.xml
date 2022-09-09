@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2122</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der allgemeinen Metallbearbeitung</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="mittel" refid="1846">Metallbautechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2047">Metallbaumeister/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2058">Feinwerkmechanikermeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

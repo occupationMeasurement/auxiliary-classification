@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9228</id>
   <taetigkeit>Bearbeitung von einzelnen Glaselementen nach Kundenwunsch durch Schmelzen, Schleifen, Beschichten und Ätzen</taetigkeit>
@@ -12,4 +13,8 @@
   <abgrenzung typ="hoch" refid="9227">Flachglasmacher/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9221">Glasmaschinenführer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9229">Feinoptiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2123</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Metalloberflächenbehandlung</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="1845">Galvanotechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2122">Leiter/in - Metallbearbeitung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

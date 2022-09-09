@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1210</id>
   <taetigkeit>Präsentation von Mode auf Laufstegen und bei Fotoshootings</taetigkeit>
@@ -11,4 +12,8 @@
       <dkz codenr="94232-101" refid="14965">Mannequin/Dressman</dkz>
     </default>
   </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

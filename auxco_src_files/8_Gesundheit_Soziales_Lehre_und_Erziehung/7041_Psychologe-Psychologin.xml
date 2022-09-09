@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7041</id>
   <taetigkeit>Erforschung von spezifischen Teilbereichen der Psychologie</taetigkeit>
@@ -42,4 +43,8 @@
   <abgrenzung typ="hoch" refid="7033">Neurologe/ Neurologin</abgrenzung>
   <abgrenzung typ="hoch" refid="7042">Psychotherapeut/in</abgrenzung>
   <abgrenzung typ="hoch" refid="8011">Sozialberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

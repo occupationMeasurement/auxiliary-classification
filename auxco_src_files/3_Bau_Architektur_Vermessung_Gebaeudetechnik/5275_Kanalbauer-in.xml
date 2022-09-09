@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5275</id>
   <taetigkeit>Bau, Erweiterung und Sanierung von Abwasserleitungen und Abwassersystemen</taetigkeit>
@@ -18,4 +19,8 @@
   <abgrenzung typ="mittel" refid="9401">Spezialtiefbauer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5295">Rohrleitungsbauer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5278">Bodenkulturbauarbeiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

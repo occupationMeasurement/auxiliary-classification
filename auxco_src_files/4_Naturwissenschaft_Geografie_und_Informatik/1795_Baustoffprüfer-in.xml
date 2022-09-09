@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1795</id>
   <taetigkeit>Prüfung von Böden und Baustoffen auf der Baustelle und im Labor</taetigkeit>
@@ -35,4 +36,8 @@
   <abgrenzung typ="hoch" refid="4025">Baustoffingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1793">Physiker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1775">Bautechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6037</id>
   <taetigkeit>Verkauf von Drogerieartikeln und freiverkäuflichen Apothekenwaren im Einzelhandel</taetigkeit>
@@ -16,4 +17,8 @@
     <abgrenzung typ="hoch" refid="6036">Apothekenhelfer/in</abgrenzung>
     <abgrenzung typ="mittel" refid="7079">Friseur-Kosmetiker/in</abgrenzung>
   </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

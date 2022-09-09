@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5081</id>
   <taetigkeit>Durchsetzung von Urteilen und Beschlüssen von Gerichten sowie Durchführung von Zwangsvollstreckungsmaßnahmen</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="5080">Vollziehungsbeamter/-beamtin</abgrenzung>
   <abgrenzung typ="mittel" refid="3541">Justizverwaltungsbeamter/-beamtin</abgrenzung>
   <abgrenzung typ="mittel" refid="8083">Justizvollzugsfachwirt/in (gehobener Justizvollzugsdienst)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

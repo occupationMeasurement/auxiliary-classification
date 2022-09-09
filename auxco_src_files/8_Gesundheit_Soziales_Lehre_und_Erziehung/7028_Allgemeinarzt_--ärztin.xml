@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7028</id>
   <taetigkeit>Untersuchung von Patienten und Diagnose von Krankheiten sowie Festlegung geeigneter Therapiemaßnahmen oder Überweisung zu Fachärzten</taetigkeit>
@@ -53,4 +54,8 @@
   <abgrenzung typ="mittel" refid="7050">Heilpraktiker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7029">Facharzt/-ärztin – Kinder- und Jugendmedizin</abgrenzung>
   <abgrenzung typ="mittel" refid="7058">Pharmakologe/Pharmakologin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

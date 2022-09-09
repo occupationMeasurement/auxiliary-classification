@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3530</id>
   <taetigkeit>Beratung, Unterstützung und Vertretung von Auftraggebern in rechtlichen Fragen</taetigkeit>
@@ -68,4 +69,8 @@
   <abgrenzung typ="hoch" refid="3537">Rechtsabteilungsleiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3529">Rechtsanwalts- und Notarfachangestellte/r</abgrenzung>
   <abgrenzung typ="mittel" refid="3587">Steuerfachmann/-frau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

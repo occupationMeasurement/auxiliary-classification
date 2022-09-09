@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1601</id>
   <taetigkeit>Wahrsagung auf Basis übersinnlicher Methoden</taetigkeit>
@@ -11,4 +12,8 @@
       <dkz codenr="94383-105" refid="8636">Wahrsager/in</dkz>
     </default>
   </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

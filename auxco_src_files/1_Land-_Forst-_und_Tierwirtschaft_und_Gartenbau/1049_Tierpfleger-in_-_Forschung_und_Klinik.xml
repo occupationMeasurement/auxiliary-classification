@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1049</id>
   <taetigkeit>Versorgung und Aufzucht von Versuchstieren sowie Mitwirkung bei Versuchen</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="1047">Tierpfleger/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1826">Tierarzthelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

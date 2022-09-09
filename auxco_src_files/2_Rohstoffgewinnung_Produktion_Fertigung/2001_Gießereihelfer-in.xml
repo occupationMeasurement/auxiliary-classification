@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2001</id>
   <taetigkeit>Ausführung von Hilfsarbeiten bei der Herstellung von Metall</taetigkeit>
@@ -11,4 +12,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="mittel" refid="2093">Metallbearbeitungshelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

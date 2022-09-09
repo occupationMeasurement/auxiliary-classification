@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1066</id>
   <taetigkeit>Gestaltung und Pflege von Grün- und Außenanlagen wie Golfplätzen</taetigkeit>
@@ -39,4 +40,8 @@
   <abgrenzung typ="hoch" refid="1062">Baumschul-, Stauden-, Zierpflanzengärtner/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1063">Fachberater/in - Pflanzen und Saatgu</abgrenzung>
   <abgrenzung typ="mittel" refid="1055">Gartenbautechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

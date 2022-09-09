@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9004</id>
   <taetigkeit>Planung, Koordination und Optimierung der Produktion von Säften</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="9016">Getränketechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9005">Getränkeproduktionsleiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9008">Weinküfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

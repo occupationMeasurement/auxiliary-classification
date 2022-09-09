@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8012</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Erziehung, Heilerziehungspflege oder der Sozialarbeit</taetigkeit>
@@ -12,4 +13,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="8061">Leiter/in einer sozialpädagogischen Einrichtung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

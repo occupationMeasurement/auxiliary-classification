@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4037</id>
   <taetigkeit>Entwicklung von Computersystemen für industriell-technische Anforderungen und Programmierung systemnaher Software</taetigkeit>
@@ -79,4 +80,8 @@
   <abgrenzung typ="mittel" refid="2118">Informations- und Kommunikationselektroniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1772">IT-Netzwerktechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1734">Techniker/in - Informations- und Kommunikationselektronik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

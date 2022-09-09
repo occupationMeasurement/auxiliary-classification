@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2134</id>
   <taetigkeit>Installation und Instandhaltung von elektronischen Systemen in Fahrzeugen, Flugzeugen und Schiffen</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="mittel" refid="2083">Fluggerätemechaniker/in - Fertigungstechnik</abgrenzung>
   <abgrenzung typ="mittel" refid="2094">Mechatroniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2076">Kraftfahrzeugmechatroniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

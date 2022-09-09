@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2002</id>
   <taetigkeit>Bedienung von Hoch- oder Schmelzöfen zur Gewinnung von Metall oder Stahl</taetigkeit>
@@ -18,4 +19,8 @@
   <abgrenzung typ="mittel" refid="2006">Walzer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2010">Gießereimechaniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1794">Werkstoffprüfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

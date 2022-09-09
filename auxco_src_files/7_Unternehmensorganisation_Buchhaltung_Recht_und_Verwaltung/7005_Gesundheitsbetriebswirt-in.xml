@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7005</id>
   <taetigkeit>Planung, Koordination und Überwachung der betrieblichen Prozesse in einer medizinischen Einrichtung</taetigkeit>
@@ -43,4 +44,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="3542">Sozialversicherungsbeamter/-beamtin (höh. Dienst)</abgrenzung>
   <abgrenzung typ="mittel" refid="7076">Qualitätsmanagementbeauftragte/r im Gesundheits-/Sozialwesen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

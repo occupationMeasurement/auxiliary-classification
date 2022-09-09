@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5074</id>
   <taetigkeit>Installation und Instandhaltung von Alarmanlagen und Sicherungssystemen sowie Beratung von Kunden</taetigkeit>
@@ -12,4 +13,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="5075">Sicherheitsmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1792</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in einem chemischen Labor</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="hoch" refid="1789">Biologisch-Technische/r Laborleiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1790">Chemiker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4012">Ingenieur/in - Chemietechnik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1013</id>
   <taetigkeit>Anbau, Pflege und Ernte von Ackerpflanzen sowie deren einfache Verarbeitung und Vertrieb</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="1010">Acker- und Erntearbeiter</abgrenzung>
   <abgrenzung typ="mittel" refid="1011">Helfer/in in der Tierwirtschaft und im Ackerbau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

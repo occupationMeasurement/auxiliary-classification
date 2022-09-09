@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1773</id>
   <taetigkeit>Überwachung und Entwicklung von innerbetrieblichen Konzepten zum Strahlenschutz</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="mittel" refid="4248">Dekontaminateur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1774">Gewässer-, Abfall- und Immissionsschutzbeauftragte/r</abgrenzung>
   <abgrenzung typ="mittel" refid="4246">Störfallbeauftragte/r</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

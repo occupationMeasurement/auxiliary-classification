@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7042</id>
   <taetigkeit>Behandlung von Patienten mit psychotherapeutischen Methoden gemäß diagnostizierten Krankheitsbildern</taetigkeit>
@@ -19,4 +20,8 @@
   <abgrenzung typ="hoch" refid="7033">Neurologe/ Neurologin</abgrenzung>
   <abgrenzung typ="hoch" refid="8011">Sozialberater/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7041">Psychologe/Psychologin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

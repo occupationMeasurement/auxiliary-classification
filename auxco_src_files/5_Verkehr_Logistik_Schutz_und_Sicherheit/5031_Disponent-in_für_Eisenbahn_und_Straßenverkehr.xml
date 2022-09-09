@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5031</id>
   <taetigkeit>Durchführung kaufmännischer und organisatorischer Tätigkeiten im Straßen- und Schienenverkehr</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="mittel" refid="5115">Kaufmann/-frau - Verkehrsservice</abgrenzung>
   <abgrenzung typ="hoch" refid="5010">Fahrbetriebsregler/in (Straßenverkehr)</abgrenzung>
   <abgrenzung typ="hoch" refid="5025">Kaufmann/-frau für Spedition und Logistikdienstleistungen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

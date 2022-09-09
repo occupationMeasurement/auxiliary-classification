@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4254</id>
   <taetigkeit>Beratung von Privathaushalten und Betrieben zu Energiefragen</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="mittel" refid="4240">Betriebsassistent/in - Umweltschutz</abgrenzung>
   <abgrenzung typ="mittel" refid="4242">Umweltschutzbeauftragte/r</abgrenzung>
   <abgrenzung typ="mittel" refid="4249">Leiter/in – Sachverständigenbüro für Umweltfragen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

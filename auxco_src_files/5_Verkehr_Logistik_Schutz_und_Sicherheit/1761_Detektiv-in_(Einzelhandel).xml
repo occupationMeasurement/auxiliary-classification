@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1761</id>
   <taetigkeit>Überwachung von Verkaufsräumen zum Schutz vor Diebstählen</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="5061">Sicherheitsdienstmitarbeiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5076">Aufsichtsleiter/in – Sicherheitswesen</abgrenzung>
   <abgrenzung typ="mittel" refid="5079">Kriminalbeamter/-beamtin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

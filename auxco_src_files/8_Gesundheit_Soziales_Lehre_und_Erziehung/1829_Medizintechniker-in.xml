@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1829</id>
   <taetigkeit>Planung, Koordination und Optimierung der Entwicklung und Produktion medizintechnischer Systeme, Anlagen und Geräte</taetigkeit>
@@ -31,4 +32,8 @@
   <abgrenzung typ="hoch" refid="7096">Ingenieur/in - Orthopädie- und Rehatechnik</abgrenzung>
   <abgrenzung typ="hoch" refid="7098">Ingenieur/in - Augenoptik</abgrenzung>
   <abgrenzung typ="mittel" refid="7109">Ingenieur/in - Hörtechnik und Audiologie</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

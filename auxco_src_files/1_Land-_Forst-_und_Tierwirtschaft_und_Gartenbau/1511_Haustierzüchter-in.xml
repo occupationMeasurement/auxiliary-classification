@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1511</id>
   <taetigkeit>Haltung und Zucht von Haustieren zum Verkauf oder zur Präsentation auf Leistungsschauen</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="1852">Zuchtbuchführer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1512">Pelztierzüchter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

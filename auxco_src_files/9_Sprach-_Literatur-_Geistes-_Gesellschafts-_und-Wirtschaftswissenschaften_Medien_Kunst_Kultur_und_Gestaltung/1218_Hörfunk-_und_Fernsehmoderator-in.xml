@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1218</id>
   <taetigkeit>Leitung und Moderation von Sendungen im Radio oder im Fernsehen</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="1838">Redakteur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1220">Entertainer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

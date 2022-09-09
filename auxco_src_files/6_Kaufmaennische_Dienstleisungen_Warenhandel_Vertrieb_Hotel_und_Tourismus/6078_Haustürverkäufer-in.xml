@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6078</id>
   <taetigkeit>Präsentation und Verkauf von Waren und Dienstleistungen durch Haustürbesuche</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
   <abgrenzung typ="hoch" refid="6061">Promoter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

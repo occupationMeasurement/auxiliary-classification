@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7010</id>
   <taetigkeit>Beratung und Unterstützung von Ärzten durch mikrobiologische und molekulargenetische Untersuchungen</taetigkeit>
@@ -22,4 +23,8 @@
   <abgrenzung typ="hoch" refid="7009">Medizinisch-technische Laboratoriumsassistent/in (MTLA)</abgrenzung>
   <abgrenzung typ="hoch" refid="7028">Allgemeinarzt /-ärztin</abgrenzung>
   <abgrenzung typ="hoch" refid="4210">Molekularbiologe/-biologin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

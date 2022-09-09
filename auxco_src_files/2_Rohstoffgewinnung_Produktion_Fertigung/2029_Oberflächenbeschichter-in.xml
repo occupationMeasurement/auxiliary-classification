@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2029</id>
   <taetigkeit>Behandlung der Oberflächen von Metall und Kunststoff mittels elektrochemischer, elektrischer oder physikalischer Verfahren</taetigkeit>
@@ -21,4 +22,8 @@
   <abgrenzung typ="hoch" refid="1845">Galvanotechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5186">Lackierer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2022">Metallschleifer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

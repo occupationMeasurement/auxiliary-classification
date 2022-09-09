@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5155</id>
   <taetigkeit>Restaurierung und Pflege von alten Musikinstrumenten oder die Neuanfertigung nach Originalvorlagen</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="hoch" refid="5162">Restaurator/in- Metallblasinstrumente</abgrenzung>
   <abgrenzung typ="hoch" refid="5164">Restaurator/in - Klavier- und Cembalo</abgrenzung>
   <abgrenzung typ="hoch" refid="5166">Restaurator/in – Orgel- und Harmonium</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

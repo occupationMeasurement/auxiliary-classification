@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6079</id>
   <taetigkeit>Betreuung und Beratung von Kunden und Annahme von Reparatur- und Kundendienstaufträgen</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="3518">Account-Manager/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1747">Vertriebsspezialist/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

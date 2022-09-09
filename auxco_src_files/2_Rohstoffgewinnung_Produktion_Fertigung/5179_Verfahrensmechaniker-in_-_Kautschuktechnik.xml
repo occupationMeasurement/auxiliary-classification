@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5179</id>
   <taetigkeit>Bedienung von Maschinen und Bearbeitung von Kautschukerzeugnissen in der industriellen Fertigung</taetigkeit>
@@ -21,4 +22,8 @@
   <abgrenzung typ="mittel" refid="1716">Techniker/in - Kunststoff- und Kautschuktechnik</abgrenzung>
   <abgrenzung typ="mittel" refid="5183">Mechaniker/in - Reifen und Vulkanisation</abgrenzung>
   <abgrenzung typ="hoch" refid="5178">Verfahrensmechaniker/in - Kunststofftechnik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

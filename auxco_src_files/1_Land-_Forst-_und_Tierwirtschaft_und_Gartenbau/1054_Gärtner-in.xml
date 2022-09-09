@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1054</id>
   <taetigkeit>Anbau, Pflege und Zucht von Pflanzen sowie das Anlegen von Grünflächen und Beratung von Kunden</taetigkeit>
@@ -40,4 +41,8 @@
   <abgrenzung typ="hoch" refid="1055">Gartenbautechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9200">Winzer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1064">Florist/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

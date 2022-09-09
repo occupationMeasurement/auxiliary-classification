@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3216</id>
   <taetigkeit>Überprüfung und Korrektur von Texten vor deren Publikation</taetigkeit>
@@ -27,4 +28,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="3215">Steno- und Phonotypist/in</abgrenzung>
   <abgrenzung typ="hoch" refid="3520">Verlagslektor/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

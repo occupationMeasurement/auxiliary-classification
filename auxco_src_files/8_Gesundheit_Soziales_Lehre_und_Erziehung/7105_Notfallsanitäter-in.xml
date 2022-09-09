@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7105</id>
   <taetigkeit>Erstversorgung von Notfallpatienten bis zum Eintreffen des Notarztes und Betreuung des Patienten während des Transports</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="hoch" refid="7106">Disponent/in in einer Rettungsleitstelle</abgrenzung>
   <abgrenzung typ="hoch" refid="1807">Leiter/in - Rettungsdienst</abgrenzung>
   <abgrenzung typ="mittel" refid="7104">Krankenschwester/-pfleger</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

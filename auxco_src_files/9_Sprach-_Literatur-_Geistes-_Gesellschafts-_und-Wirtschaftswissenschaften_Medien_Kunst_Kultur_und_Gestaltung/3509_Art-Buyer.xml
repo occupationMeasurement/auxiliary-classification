@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3509</id>
   <taetigkeit>Organisation und Koordination von Werbeproduktionen sowie Vermittlung von Kontakten zwischen Werbeagenturen und künstlerischen Auftragsnehmern</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="3508">Assistent/in - Filmgeschäftsführung</abgrenzung>
   <abgrenzung typ="mittel" refid="3505">Literaturagent/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3520">Medienmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9088</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in einer Hotel-, Restaurant- oder Großküche</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="hoch" refid="9079">Koch/Köchin</abgrenzung>
   <abgrenzung typ="hoch" refid="6073">Restaurantmeister/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9076">Leiter/in - Lebensmittelindustrie</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

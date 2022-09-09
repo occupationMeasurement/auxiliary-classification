@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1008</id>
   <taetigkeit>Diagnose und Behandlung von Erkrankungen der Haut</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="7035">Chefarzt/-ärztin</abgrenzung>
   <abgrenzung typ="mittel" refid="1007">Facharzt/-ärztin - Gynäkologie oder Urologie</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

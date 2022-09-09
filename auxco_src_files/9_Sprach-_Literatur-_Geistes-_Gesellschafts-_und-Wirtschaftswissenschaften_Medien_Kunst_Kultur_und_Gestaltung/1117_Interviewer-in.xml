@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1117</id>
   <taetigkeit>Führen von Interviews zu Markt- und Meinungsforschungszwecken</taetigkeit>
@@ -11,4 +12,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="1836">Fachangestellte/r - Markt- und Sozialforschung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

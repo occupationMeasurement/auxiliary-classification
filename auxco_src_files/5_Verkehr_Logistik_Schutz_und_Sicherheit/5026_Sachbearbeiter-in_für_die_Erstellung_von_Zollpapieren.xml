@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5026</id>
   <taetigkeit>Erstellung von Fracht- und Zollpapieren für den internationalen Warenverkehr</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="5025">Kaufmann/-frau für Spedition und Logistikdienstleistungen</abgrenzung>
   <abgrenzung typ="hoch" refid="5039">Logistikleiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5022">Verkehrsbetriebswirt/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

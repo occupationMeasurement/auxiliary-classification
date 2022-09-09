@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2109</id>
   <taetigkeit>Montage, Überwachung und Optimierung der elektrischen Systeme sowie der elektrischen Schalt- und Steueranlagen in Industriebetrieben</taetigkeit>
@@ -36,4 +37,8 @@
   <abgrenzung typ="mittel" refid="2094">Mechatroniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1729">Mechatroniktechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2104">Kraftwerker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

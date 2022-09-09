@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3503</id>
   <taetigkeit>Unterstützung von akademischen Fachkräften bei der Vorbereitung und Durchführung von Marketingveranstaltungen und Werbekampagnen</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="hoch" refid="1837">Produktmanager/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1002">Callcenteragent/in (Inbound)</abgrenzung>
   <abgrenzung typ="hoch" refid="3519">Medienkaufmann/-frau - Digital und Print</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

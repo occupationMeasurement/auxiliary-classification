@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9505</id>
   <taetigkeit>Einstellung und Bedienung von Maschinen zur Fertigung von Schuhen</taetigkeit>
@@ -19,4 +20,8 @@
   <abgrenzung typ="hoch" refid="9504">Bediener/in von Lederzurichtungsmaschinen</abgrenzung>
   <abgrenzung typ="mittel" refid="9048">Lederverarbeitungshelfer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9039">Lederwarenhersteller/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

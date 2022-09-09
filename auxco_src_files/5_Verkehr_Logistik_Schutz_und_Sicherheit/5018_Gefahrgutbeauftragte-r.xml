@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5018</id>
   <taetigkeit>Sicherstellung der Einhaltung von gesetzlichen Bestimmungen beim Transport gefährlicher Güter</taetigkeit>
@@ -29,4 +30,8 @@
       <isco schluessel="1324">Supply, distribution and related managers</isco>
     </antwort>
   </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

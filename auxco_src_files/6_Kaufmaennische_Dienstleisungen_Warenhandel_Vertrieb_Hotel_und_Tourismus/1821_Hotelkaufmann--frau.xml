@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1821</id>
   <taetigkeit>Koordination und Organisation von verschiedenen Abteilungen im allgemeinen Hotelbetrieb</taetigkeit>
@@ -29,4 +30,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="6070">Rezeptionist/in - Hotel</abgrenzung>
   <abgrenzung typ="mittel" refid="6021">Empfangschef/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

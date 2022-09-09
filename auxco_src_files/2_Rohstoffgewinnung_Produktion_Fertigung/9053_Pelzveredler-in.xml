@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9053</id>
   <taetigkeit>Herstellung von verarbeitungsbereiten Pelzen aus rohen Fellen</taetigkeit>
@@ -30,4 +31,8 @@
   <abgrenzung typ="hoch" refid="9110">Gerber/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9054">Pelztechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9505">Bediener/in von Maschinen zur Schuhfertigung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

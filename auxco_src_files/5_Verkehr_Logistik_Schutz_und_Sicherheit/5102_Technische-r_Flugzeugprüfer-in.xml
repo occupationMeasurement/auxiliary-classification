@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5102</id>
   <taetigkeit>Überwachung der Luft- und Verkehrssicherheit von Flugzeugen und deren Betriebsausrüstung und Notausrüstung</taetigkeit>
@@ -25,4 +26,8 @@
     </antwort>
   </untergliederung>
   <abgrenzung typ="hoch" refid="1726">Luftfahrttechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

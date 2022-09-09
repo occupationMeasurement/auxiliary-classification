@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5017</id>
   <taetigkeit>Sicherstellung des ordnungsgemäßen und sicheren Schiffsverkehrs auf Seewegen und in Häfen durch Beratung von Kapitänen</taetigkeit>
@@ -33,4 +34,8 @@
   <abgrenzung typ="mittel" refid="1745">Wasserstraßenverkehrswart/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5051">Nautische/r Schiffsoffizier/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5053">Binnenschiffsführer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

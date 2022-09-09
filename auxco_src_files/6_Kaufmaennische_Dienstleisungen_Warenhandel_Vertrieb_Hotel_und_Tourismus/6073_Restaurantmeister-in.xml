@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6073</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Gastronomie oder Systemgastronomie</taetigkeit>
@@ -51,4 +52,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="9088">Küchenchef/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6071">Betriebswirt/in - Systemgastronomie</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

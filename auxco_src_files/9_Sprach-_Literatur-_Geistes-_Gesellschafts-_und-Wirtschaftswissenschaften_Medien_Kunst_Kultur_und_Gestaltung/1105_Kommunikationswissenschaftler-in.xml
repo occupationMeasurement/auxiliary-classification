@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1105</id>
   <taetigkeit>Erforschung menschlicher Kommunikationsprozesse für Rückschlüsse auf die soziale Welt</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="8037">Dozent/in / Professor/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1110">Soziologe/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

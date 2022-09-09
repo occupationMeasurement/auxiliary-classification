@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1061</id>
   <taetigkeit>Anleitung von Fachkräften und Planung der Arbeitsabläufe im Bereich des Anbaus, der Pflege, der Ernte und des Vertriebs von Gemüse oder Obst</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="1060">Gärtner/in - Obstbau</abgrenzung>
   <abgrenzung typ="mittel" refid="1055">Gartenbautechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1056">Gartenbauingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

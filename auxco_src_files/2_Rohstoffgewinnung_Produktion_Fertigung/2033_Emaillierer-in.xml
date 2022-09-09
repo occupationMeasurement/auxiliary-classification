@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2033</id>
   <taetigkeit>Behandlung von Metalloberflächen durch Verfahren wie Emaillieren oder Patinieren</taetigkeit>
@@ -12,4 +13,8 @@
   <abgrenzung typ="hoch" refid="2029">Oberflächenbeschichter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1845">Galvanotechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2033">Emaillierer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

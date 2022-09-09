@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5030</id>
   <taetigkeit>Planung und Optimierung der Bereitstellung von Trassen und Zügen im Eisenbahnverkehr</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="5031">Disponent/in für Eisenbahn und Straßenverkehr</abgrenzung>
   <abgrenzung typ="hoch" refid="5022">Verkehrsbetriebswirt/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5023">Fachwirt/in - Personen- und Reiseverkehr</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1798</id>
   <taetigkeit>Sammlung und Auswertung meteorologischer Daten</taetigkeit>
@@ -39,4 +40,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="4029">Geologe/Geologin</abgrenzung>
   <abgrenzung typ="mittel" refid="1797">Geologielaborant/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

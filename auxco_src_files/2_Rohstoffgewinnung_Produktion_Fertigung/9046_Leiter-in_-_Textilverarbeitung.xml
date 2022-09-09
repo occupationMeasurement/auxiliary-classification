@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9046</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Fertigung von Bekleidung, technischer Konfektionsware oder Polstern</taetigkeit>
@@ -43,4 +44,8 @@
   <abgrenzung typ="mittel" refid="9026">Segelmacher/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9045">Polsterer/Polsterin</abgrenzung>
   <abgrenzung typ="mittel" refid="9089">Fahrzeuginnenausstatter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

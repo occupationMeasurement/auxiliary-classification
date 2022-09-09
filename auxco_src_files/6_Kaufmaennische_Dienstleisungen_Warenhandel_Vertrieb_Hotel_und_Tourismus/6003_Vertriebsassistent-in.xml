@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6003</id>
   <taetigkeit>Durchführung von Bürotätigkeiten beim Vertrieb von Waren und Dienstleistungen</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="hoch" refid="1747">Vertriebsspezialist/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1002">Callcenteragent/in (Inbound)</abgrenzung>
   <abgrenzung typ="mittel" refid="1748">Handelsagent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

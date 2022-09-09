@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2146</id>
   <taetigkeit>Erstellung von Bauplänen, Karten oder anderen technischen Zeichnungen</taetigkeit>
@@ -28,4 +29,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="2154">Leiter/in - Technische Zeichnung, Konstruktion und Modellbau</abgrenzung>
   <abgrenzung typ="hoch" refid="1737">Konstruktionstechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

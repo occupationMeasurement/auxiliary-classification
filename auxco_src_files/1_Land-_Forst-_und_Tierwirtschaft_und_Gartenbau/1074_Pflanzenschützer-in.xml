@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1074</id>
   <taetigkeit>Unterstützung von landwirtschaftlichen Betrieben beim Pflanzenschutz und bei der Schädlingsbekämpfung</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="1054">Gärtner/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1014">Landwirtschaftsberater/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1076">Pflanzenarzt/-ärztin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

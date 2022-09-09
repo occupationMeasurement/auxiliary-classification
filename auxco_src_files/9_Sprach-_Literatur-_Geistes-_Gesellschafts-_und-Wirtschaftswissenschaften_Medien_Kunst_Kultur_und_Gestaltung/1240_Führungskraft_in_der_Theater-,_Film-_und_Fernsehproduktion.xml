@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1240</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Theater-, Film- und Fernsehproduktion</taetigkeit>
@@ -46,4 +47,8 @@
   <abgrenzung typ="mittel" refid="1241">Dramaturg/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1248">Meister/in – Veranstaltungstechnik</abgrenzung>
   <abgrenzung typ="mittel" refid="1310">Ausstattungsleiter/in - Bühne/Film/Fernsehen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

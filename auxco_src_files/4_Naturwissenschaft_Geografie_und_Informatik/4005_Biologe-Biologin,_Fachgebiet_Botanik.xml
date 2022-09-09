@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4005</id>
   <taetigkeit>Erforschung von Struktur, Zellen und Stoffwechselprozessen von Pflanzen</taetigkeit>
@@ -12,4 +13,8 @@
   <abgrenzung typ="hoch" refid="1789">Biologisch-Technische/r Laborleiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9204">Natur- und Landschaftspfleger/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1056">Gartenbauingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

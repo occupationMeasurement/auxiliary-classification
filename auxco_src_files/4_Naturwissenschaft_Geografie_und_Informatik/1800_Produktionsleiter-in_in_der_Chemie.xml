@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1800</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in einem chemischen Produktionsbetrieb</taetigkeit>
@@ -32,4 +33,8 @@
   <abgrenzung typ="mittel" refid="1790">Chemiker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="4012">Ingenieur/in - Chemietechnik</abgrenzung>
   <abgrenzung typ="hoch" refid="4015">Steuer(er/in) - chemische Verfahrensanlagen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1108</id>
   <taetigkeit>Erforschung anthropologischer oder ethnologischer Fragestellungen</taetigkeit>
@@ -19,4 +20,8 @@
   <abgrenzung typ="hoch" refid="1835">Techniker/in - Grabungstechnik</abgrenzung>
   <abgrenzung typ="hoch" refid="1110">Soziologe/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1123">Experte/in für spezielle Gesellschafts- und Kulturwissenschaften</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

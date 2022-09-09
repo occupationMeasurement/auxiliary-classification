@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9208</id>
   <taetigkeit>Gewinnung von Rohstoffen, wie Kohle, Salz oder Erz im Berg- und Tagebau</taetigkeit>
@@ -54,4 +55,8 @@
   <abgrenzung typ="hoch" refid="9211">Leiter/in - Berg- und Tagebau</abgrenzung>
   <abgrenzung typ="mittel" refid="9209">Tiefbohrfacharbeiter/in (Erdöl-, Erdgasgewinnung)</abgrenzung>
   <abgrenzung typ="mittel" refid="1754">Tunnelbautechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5287</id>
   <taetigkeit>Verlegen von Fliesen, Platten und Mosaiken zur Verkleidung von Wänden, Böden und Fassaden</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="hoch" refid="5298">Bodenleger/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5288">Estrich- und Terrazzoleger/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5285">Pflasterer/ Pflasterin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

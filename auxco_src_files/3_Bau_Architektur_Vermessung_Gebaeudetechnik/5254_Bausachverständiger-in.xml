@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5254</id>
   <taetigkeit>Beurteilung des Zustandes von Bauwerken als Beratungsleistung sowie zur Erstellung von Gutachten</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="5281">Baukontrolleur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5255">Baubiologe/ -biologin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

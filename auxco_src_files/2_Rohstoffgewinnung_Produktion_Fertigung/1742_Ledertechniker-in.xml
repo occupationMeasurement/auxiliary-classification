@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1742</id>
   <taetigkeit>Planung, Koordination und Überwachung von Fertigungsprozessen in der Lederproduktion</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="mittel" refid="9048">Lederverarbeitungshelfer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9504">Bediener/in von Lederzurichtungsmaschinen</abgrenzung>
   <abgrenzung typ="hoch" refid="9055">Leiter/in Leder- und Pelzbearbeitung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

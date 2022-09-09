@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5295</id>
   <taetigkeit>Fertigung und Montage von versorgungstechnischen Rohrleitungssystemen zum Transport von Wasser, Gas, Öl oder Fernwärme</taetigkeit>
@@ -21,4 +22,8 @@
   <abgrenzung typ="mittel" refid="1856">Gasversorgungstechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5275">Kanalbauer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5337">Ver- und Entsorger/in - Wasserversorgung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

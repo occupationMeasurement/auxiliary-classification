@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5022</id>
   <taetigkeit>Akquise von Aufträgen und Verkauf von Transport- und Beförderungsleistungen</taetigkeit>
@@ -35,4 +36,8 @@
   <abgrenzung typ="mittel" refid="5025">Kaufmann/-frau für Spedition und Logistikdienstleistungen</abgrenzung>
   <abgrenzung typ="hoch" refid="5030">Bahnbetriebskoordinator/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1820">Tourismuskaufmann/ -frau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

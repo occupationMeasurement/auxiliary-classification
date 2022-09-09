@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9227</id>
   <taetigkeit>Industrielle Verarbeitung von Flachglas zu Flachglasprodukten, wie Fenstern und Spiegeln</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="mittel" refid="3017">Glaser/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9221">Glasmaschinenführer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9229">Feinoptiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

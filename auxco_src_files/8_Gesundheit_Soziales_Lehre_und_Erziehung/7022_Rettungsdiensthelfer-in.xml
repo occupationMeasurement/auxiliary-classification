@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7022</id>
   <taetigkeit>Durchführung von Krankentransporten und Unterstützung von Notfallsanitätern</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="mittel" refid="7104">Krankenschwester/-pfleger</abgrenzung>
   <abgrenzung typ="hoch" refid="7105">Notfallsanitäter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7106">Disponent/in in einer Rettungsleitstelle</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

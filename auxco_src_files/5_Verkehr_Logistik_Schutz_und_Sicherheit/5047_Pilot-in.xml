@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5047</id>
   <taetigkeit>Steuerung von Flugzeugen zum Transport von Personen oder Fracht</taetigkeit>
@@ -30,4 +31,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="5049">Luftfahrzeugführer/in - Hubschrauber, Heißluftballons, Luftschiffe</abgrenzung>
   <abgrenzung typ="hoch" refid="5050">Checkkapitän/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

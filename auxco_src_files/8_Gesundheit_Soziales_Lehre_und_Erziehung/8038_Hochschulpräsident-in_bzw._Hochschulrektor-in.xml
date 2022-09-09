@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8038</id>
   <taetigkeit>Leitung und Steuerung der strategischen Ausrichtung einer Hochschule oder Universität</taetigkeit>
@@ -12,4 +13,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="8037">Dozent/in / Professor/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7050</id>
   <taetigkeit>Diagnose und Behandlung von Patienten mit naturheilkundlichen und alternativmedizinischen Methoden</taetigkeit>
@@ -28,4 +29,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="7028">Allgemeinarzt /-ärztin</abgrenzung>
   <abgrenzung typ="hoch" refid="7037">Tierheilpraktiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

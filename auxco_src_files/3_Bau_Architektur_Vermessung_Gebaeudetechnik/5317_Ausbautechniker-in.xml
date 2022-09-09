@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5317</id>
   <taetigkeit>Planung, Koordination und Optimierung von Baumaßnahmen im Innenausbau oder Trockenbau</taetigkeit>
@@ -30,4 +31,8 @@
   <abgrenzung typ="mittel" refid="5305">Restaurator/in - Stuckateurhandwerk</abgrenzung>
   <abgrenzung typ="mittel" refid="5313">Holz- und Bautenschutztechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5257">Leiter/in - Bauplanung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

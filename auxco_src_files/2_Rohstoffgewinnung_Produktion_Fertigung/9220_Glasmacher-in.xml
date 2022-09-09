@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9220</id>
   <taetigkeit>Handwerkliche Herstellung von Glas durch Mundblasen</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="mittel" refid="9223">Glasapparatebauer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9222">Glashüttentechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3017">Glaser/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

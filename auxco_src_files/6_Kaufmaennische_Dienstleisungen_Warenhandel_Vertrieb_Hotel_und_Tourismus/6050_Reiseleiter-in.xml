@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6050</id>
   <taetigkeit>Organisation von Ausflügen für Hotelgäste und Betreuung der Urlauber</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="6049">Freizeit-und Reisebetreuer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1820">Tourismuskaufmann/ -frau</abgrenzung>
   <abgrenzung typ="hoch" refid="6051">Fremdenführer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

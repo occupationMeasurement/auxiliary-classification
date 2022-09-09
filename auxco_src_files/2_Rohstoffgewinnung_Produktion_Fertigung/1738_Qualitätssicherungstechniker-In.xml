@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1738</id>
   <taetigkeit>Planung, Koordination und Optimierung von Qualitätsmanagementsystemen und Qualitätskontrollen</taetigkeit>
@@ -30,4 +31,8 @@
   <abgrenzung typ="mittel" refid="2158">Fertigungstechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2155">Leiter/in - Technische Produktionssteuerung und Qualitätssicherung</abgrenzung>
   <abgrenzung typ="hoch" refid="2159">Produktionsingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

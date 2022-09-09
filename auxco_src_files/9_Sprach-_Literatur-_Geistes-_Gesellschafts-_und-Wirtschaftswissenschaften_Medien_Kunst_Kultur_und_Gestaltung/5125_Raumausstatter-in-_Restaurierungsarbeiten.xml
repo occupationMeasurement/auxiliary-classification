@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5125</id>
   <taetigkeit>Restaurierung und Rekonstruierung antiker Polstermöbel, Wandbekleidungen, Vorhänge und Bodenbeläge</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="hoch" refid="5170">Raumausstatter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5124">Ausstellungsgestalter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5126">Raumausstattermeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

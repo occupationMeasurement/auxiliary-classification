@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2118</id>
   <taetigkeit>Installation und Reparatur von Telekommunikationsanlagen, Datenübertragungsanlagen, Kabeln, Antennen und anderer kommunikationstechnischer Systeme</taetigkeit>
@@ -39,4 +40,8 @@
   <abgrenzung typ="hoch" refid="1772">IT-Netzwerktechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4035">Betriebsinformatiker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2115">Elektromechaniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

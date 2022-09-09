@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3582</id>
   <taetigkeit>Bearbeitung von Kreditanträgen und Betreuung von Kreditgeschäften</taetigkeit>
@@ -19,4 +20,8 @@
   <abgrenzung typ="hoch" refid="3567">Bankkundenberater/in</abgrenzung>
   <abgrenzung typ="hoch" refid="3591">Leasing-Berater/in</abgrenzung>
   <abgrenzung typ="hoch" refid="3577">Geldanlageberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

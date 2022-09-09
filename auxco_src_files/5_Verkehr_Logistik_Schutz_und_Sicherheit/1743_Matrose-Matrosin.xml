@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1743</id>
   <taetigkeit>Bedienung und Instandhaltung von technischen Anlagen an Bord von Schiffen</taetigkeit>
@@ -79,4 +80,8 @@
   <abgrenzung typ="hoch" refid="1743">Matrose/Matrosin</abgrenzung>
   <abgrenzung typ="hoch" refid="5053">Binnenschiffsführer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1727">Schiffbautechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5147</id>
   <taetigkeit>Anfertigung von Kunst- und Gebrauchsgegenständen aus Metall in Handarbeit</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="mittel" refid="2014">Gießereiformer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1841">Gold- und Silberschmied/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5161">Metallblasinstrumentenmacher/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

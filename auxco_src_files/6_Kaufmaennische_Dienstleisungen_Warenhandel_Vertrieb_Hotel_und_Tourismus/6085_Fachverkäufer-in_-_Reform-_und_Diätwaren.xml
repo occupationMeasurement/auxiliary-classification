@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6085</id>
   <taetigkeit>Verkauf von Produkten aus dem Diät- und Reformwarenbereich im Einzelhandel</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="6052">Lebensmittelfachverkäufer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6037">Drogeriefachverkäufer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

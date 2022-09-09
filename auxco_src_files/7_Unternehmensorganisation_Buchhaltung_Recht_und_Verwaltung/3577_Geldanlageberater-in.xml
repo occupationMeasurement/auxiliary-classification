@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3577</id>
   <taetigkeit>Handel mit Wertpapieren und Unterstützung des Auftraggebers bei Kapitalanlagen und Investments</taetigkeit>
@@ -54,4 +55,8 @@
   <abgrenzung typ="hoch" refid="3568">Finanzanalysten/innen</abgrenzung>
   <abgrenzung typ="hoch" refid="3581">Wirtschaftsprüfer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3591">Leasing-Berater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7013</id>
   <taetigkeit>Durchführung radiologischer Untersuchungen auf ärztliche Anweisung</taetigkeit>
@@ -38,4 +39,8 @@
   <abgrenzung typ="hoch" refid="7014">Radiologe/Radiologin</abgrenzung>
   <abgrenzung typ="hoch" refid="7011">Medizinisch-technische/r Assistent/in (MTA)</abgrenzung>
   <abgrenzung typ="mittel" refid="7001">Arzthelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

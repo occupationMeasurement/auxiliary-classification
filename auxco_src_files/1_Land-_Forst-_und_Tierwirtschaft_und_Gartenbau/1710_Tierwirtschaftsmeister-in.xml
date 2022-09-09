@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1710</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Tierwirtschaft oder Tierzucht</taetigkeit>
@@ -63,4 +64,8 @@
   <abgrenzung typ="hoch" refid="1710">Tierwirtschaftsmeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1712">Tierpflegemeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1504">Fachagrarwirt/in - Zucht- und Fleischleistungsprüfung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

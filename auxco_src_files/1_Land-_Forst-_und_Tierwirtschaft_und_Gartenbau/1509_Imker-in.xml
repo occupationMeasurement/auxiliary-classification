@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1509</id>
   <taetigkeit>Haltung und Zucht von Bienen sowie die Erzeugung und Vermarktung von Imkereiprodukten</taetigkeit>
@@ -12,4 +13,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="mittel" refid="1510">Bienenzuchtberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

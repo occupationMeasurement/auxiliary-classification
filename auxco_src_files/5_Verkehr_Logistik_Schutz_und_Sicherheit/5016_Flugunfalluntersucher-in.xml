@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5016</id>
   <taetigkeit>Analyse der Ursachen und des Verlaufs von Unfällen und Störungen im Flugbetrieb</taetigkeit>
@@ -25,4 +26,8 @@
     </antwort>
   </untergliederung>
   <abgrenzung typ="mittel" refid="1726">Luftfahrttechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

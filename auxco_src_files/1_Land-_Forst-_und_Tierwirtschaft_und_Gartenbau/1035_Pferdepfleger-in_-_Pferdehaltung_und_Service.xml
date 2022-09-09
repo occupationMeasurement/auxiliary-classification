@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1035</id>
   <taetigkeit>Haltung von Pferden mit Fokus auf die Beratung und Unterstützung von Kunden</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="1036">Pferdewirtschaftsfacharbeiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1711">Pferdewirtschaftsmeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1047">Tierpfleger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

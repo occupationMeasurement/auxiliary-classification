@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8083</id>
   <taetigkeit>Planung und Koordination des Dienstbetriebs in Justizvollzugsanstalten</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="5082">Justizwachtmeister/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5084">Gefängnisdirektor/in (höherer Dienst)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

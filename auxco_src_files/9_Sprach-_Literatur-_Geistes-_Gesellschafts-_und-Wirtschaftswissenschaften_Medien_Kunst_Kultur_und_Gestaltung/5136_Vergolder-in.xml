@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5136</id>
   <taetigkeit>Behandlung und Vergoldung der Oberflächen von Möbeln oder von sakralen Objekten</taetigkeit>
@@ -14,4 +15,8 @@
   <abgrenzung typ="hoch" refid="5137">Restaurator/in - Vergolderhandwerk</abgrenzung>
   <abgrenzung typ="mittel" refid="2029">Oberflächenbeschichter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1841">Gold- und Silberschmied/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

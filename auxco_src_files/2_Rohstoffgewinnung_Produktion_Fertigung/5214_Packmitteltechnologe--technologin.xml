@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5214</id>
   <taetigkeit>Herstellung von Verpackungsmitteln aus Papier</taetigkeit>
@@ -18,4 +19,8 @@
   <abgrenzung typ="hoch" refid="5216">Mustermacher/in - Verpackungsmittelherstellung</abgrenzung>
   <abgrenzung typ="mittel" refid="5211">Papiertechnologe/-technologin</abgrenzung>
   <abgrenzung typ="mittel" refid="5237">Buchbinder/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9051</id>
   <taetigkeit>Entwurf und Fertigung von Hüten, Mützen und Kappen</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="mittel" refid="9020">Textilverarbeitungshelfer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1741">Bekleidungstechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9054">Pelztechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

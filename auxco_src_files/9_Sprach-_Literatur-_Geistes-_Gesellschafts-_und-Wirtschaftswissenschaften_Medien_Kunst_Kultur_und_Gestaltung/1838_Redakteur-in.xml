@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1838</id>
   <taetigkeit>Produktion von Beiträgen für Printmedien, Radio, TV oder digitale Medien</taetigkeit>
@@ -36,4 +37,8 @@
   <abgrenzung typ="mittel" refid="3527">Community-Manager/in</abgrenzung>
   <abgrenzung typ="hoch" refid="3512">Chefredakteur/in</abgrenzung>
   <abgrenzung typ="hoch" refid="3521">Verleger/in (Medien/Musik)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

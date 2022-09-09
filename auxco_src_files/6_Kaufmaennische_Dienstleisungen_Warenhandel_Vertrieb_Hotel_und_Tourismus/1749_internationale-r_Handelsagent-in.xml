@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1749</id>
   <taetigkeit>Planung, Koordination und Optimierung von Geschäftsaktivitäten im internationalen Groß- und Außenhandel</taetigkeit>
@@ -66,4 +67,8 @@
   <abgrenzung typ="mittel" refid="5025">Kaufmann/-frau für Spedition und Logistikdienstleistungen</abgrenzung>
   <abgrenzung typ="hoch" refid="6018">Exportleiter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1748">Handelsagent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

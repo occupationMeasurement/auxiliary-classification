@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4043</id>
   <taetigkeit>Planung und Realisation von Multimedia-Anwendungen in den Bereichen Text-, Grafik-, Audio-, Video-, Animations- und Virtual-Reality-Technologie</taetigkeit>
@@ -72,4 +73,8 @@
   <abgrenzung typ="mittel" refid="5220">Video- und Game-Designer/in/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5219">Grafikdesigner/in/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5240">Medien- und Kommunikationsdesigner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

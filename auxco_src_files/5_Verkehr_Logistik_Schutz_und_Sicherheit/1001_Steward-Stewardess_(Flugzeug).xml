@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1001</id>
   <taetigkeit>Betreuung von Passagieren während des Fluges</taetigkeit>
@@ -12,4 +13,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="mittel" refid="1000">Schalterangestellte/r - Flughafen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

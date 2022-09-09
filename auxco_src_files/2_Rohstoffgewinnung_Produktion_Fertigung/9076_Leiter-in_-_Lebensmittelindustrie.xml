@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9076</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung  bei der Lebensmittelherstellung</taetigkeit>
@@ -43,4 +44,8 @@
   <abgrenzung typ="hoch" refid="9077">Leiter/in - Tabakwarenindustrie</abgrenzung>
   <abgrenzung typ="mittel" refid="9068">Molkereitechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9005">Getränkeproduktionsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

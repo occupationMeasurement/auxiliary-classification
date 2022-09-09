@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1600</id>
   <taetigkeit>Unterhaltung von Publikum, beispielsweise als DJ, Puppenspieler oder Bauchredner</taetigkeit>
@@ -18,4 +19,8 @@
   <abgrenzung typ="hoch" refid="1220">Entertainer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1217">Komiker/in / Kabarettist/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1216">Illusionskünstler/in / Zauberer/ Zauberin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

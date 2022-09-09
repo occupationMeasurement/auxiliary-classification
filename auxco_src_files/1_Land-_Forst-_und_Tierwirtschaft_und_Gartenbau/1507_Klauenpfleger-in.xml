@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1507</id>
   <taetigkeit>Pflege der Klauen von Nutztieren</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="1503">Tierwirt/in - Nutztierhaltung</abgrenzung>
   <abgrenzung typ="hoch" refid="1039">Hufschmied/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

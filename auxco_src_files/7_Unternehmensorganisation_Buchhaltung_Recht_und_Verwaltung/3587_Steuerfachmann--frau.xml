@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3587</id>
   <taetigkeit>Tätigkeiten in der Steuerberatung</taetigkeit>
@@ -45,4 +46,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="1823">Buchführungsfachkraft</abgrenzung>
   <abgrenzung typ="mittel" refid="3551">Steuerverwaltungsbeamter/-beamtin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

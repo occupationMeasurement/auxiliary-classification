@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5166</id>
   <taetigkeit>Restaurierung und Pflege von alten Orgeln und Harmonien sowie deren Neuanfertigung nach Originalvorlage</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="5165">Orgel- und Harmoniumbauer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5155">Musikinstrumentenrestaurator/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5164">Restaurator/in - Klavier- und Cembalo</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

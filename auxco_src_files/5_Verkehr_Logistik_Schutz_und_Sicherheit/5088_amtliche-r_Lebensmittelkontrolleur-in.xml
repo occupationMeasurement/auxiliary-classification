@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5088</id>
   <taetigkeit>Überwachung der Einhaltung von gesetzlichen Hygiene- und Gesundheitsbestimmungen in Lebensmittel- und Kosmetikbetrieben</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="hoch" refid="5086">Gesundheitsaufseher/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9007">Nahrungsmittelverkoster/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5090">Abteilungsleiter/in - Gewerbeaufsicht</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

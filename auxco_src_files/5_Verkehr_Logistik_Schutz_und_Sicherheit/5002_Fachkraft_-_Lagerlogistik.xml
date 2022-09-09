@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5002</id>
   <taetigkeit>Umschlag und Lagerung von Gütern sowie Mitwirkung bei logistischen Organisationsprozessen</taetigkeit>
@@ -21,4 +22,8 @@
   <abgrenzung typ="mittel" refid="5012">Hafenarbeiter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5005">Fachkraft - Hafenlogistik</abgrenzung>
   <abgrenzung typ="hoch" refid="5028">Kommissionierer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

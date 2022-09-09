@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9214</id>
   <taetigkeit>Herstellung und Verarbeitung von Beton, Ziegeln oder ähnlichen Baustoffen</taetigkeit>
@@ -40,4 +41,8 @@
   <abgrenzung typ="hoch" refid="9213">Aufbereitungsmechaniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9215">Baustofftechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1753">Helfer/in - Baustoffherstellung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6022</id>
   <taetigkeit>Tätigkeiten in der Verwaltung im Groß- und Außenhandel</taetigkeit>
@@ -30,4 +31,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="1749">internationale/r Handelsagent/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1748">Handelsagent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

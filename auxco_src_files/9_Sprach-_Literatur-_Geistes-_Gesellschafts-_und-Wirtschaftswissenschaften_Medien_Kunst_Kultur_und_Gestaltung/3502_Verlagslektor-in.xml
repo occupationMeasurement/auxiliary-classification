@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3502</id>
   <taetigkeit>Betreuung von Autoren und Prüfung ihrer Manuskripte sowie das Führen von Honorarverhandlungen</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="3521">Verleger/in (Medien/Musik)</abgrenzung>
   <abgrenzung typ="hoch" refid="3512">Chefredakteur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5403</id>
   <taetigkeit>Planung, Koordination und Optimierung von Bau- und Instandhaltungsprozessen bei wasserwirtschaftlichen Anlagen</taetigkeit>
@@ -42,4 +43,8 @@
   <abgrenzung typ="mittel" refid="1775">Bautechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5257">Leiter/in - Bauplanung</abgrenzung>
   <abgrenzung typ="mittel" refid="5402">Baukalkulator/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

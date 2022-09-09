@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5144</id>
   <taetigkeit>Verzieren von Glas, Porzellangeschirr und -figuren und Keramikprodukten durch Bemalen, Bedrucken oder plastische Methoden</taetigkeit>
@@ -18,4 +19,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="9226">Glasgraveur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5133">Kunstmaler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

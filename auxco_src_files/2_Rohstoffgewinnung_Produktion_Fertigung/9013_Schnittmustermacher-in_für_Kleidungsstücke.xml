@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9013</id>
   <taetigkeit>Anfertigung von Präzisionsschnittmustern für die Herstellung von Kleidungsstücken</taetigkeit>
@@ -53,4 +54,8 @@
   <abgrenzung typ="hoch" refid="9021">Schneider/in</abgrenzung>
   <abgrenzung typ="mittel" refid="8999">Maschinenführer/in zur Fertigung von Kleidungsstücken</abgrenzung>
   <abgrenzung typ="mittel" refid="1739">Textiltechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

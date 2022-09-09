@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3212</id>
   <taetigkeit>Wirtschaftsförderung und Standortmarketing für eine Stadt oder eine Region</taetigkeit>
@@ -14,4 +15,8 @@
   <abgrenzung typ="hoch" refid="3211">Kaufmännische/r Betriebsleiter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="3513">Public-Relations-Manager/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3206">Betriebswirtschaftliche/r Assistent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

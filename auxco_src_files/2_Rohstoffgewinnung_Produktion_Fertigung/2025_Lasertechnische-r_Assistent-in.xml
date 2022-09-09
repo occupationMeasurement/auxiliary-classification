@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2025</id>
   <taetigkeit>Einrichtung, Steuerung und Wartung von Laseranlagen in der Metallbearbeitung</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="2028">Ingenieur/in - Lasertechnik</abgrenzung>
   <abgrenzung typ="mittel" refid="2018">Metallbearbeitungstechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

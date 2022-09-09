@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2082</id>
   <taetigkeit>Montage und Instandhaltung von Flugzeugtriebwerken</taetigkeit>
@@ -18,4 +19,8 @@
   <abgrenzung typ="mittel" refid="2134">Bordelektroniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2083">Fluggerätemechaniker/in - Fertigungstechnik</abgrenzung>
   <abgrenzung typ="mittel" refid="2034">Metallbauer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

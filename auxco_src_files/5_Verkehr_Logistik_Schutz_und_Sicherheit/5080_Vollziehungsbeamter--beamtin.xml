@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5080</id>
   <taetigkeit>Vollzug von finanziellen Forderungen im Auftrag der Justiz, des Zolls, der Finanzverwaltung oder einer Gemeinde</taetigkeit>
@@ -26,4 +27,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="5071">Inkassobeauftragte/r</abgrenzung>
   <abgrenzung typ="mittel" refid="3540">Sachbearbeiter/in in der öffentlichen Justizverwaltung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

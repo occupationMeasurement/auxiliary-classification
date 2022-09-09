@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2045</id>
   <taetigkeit>Durchführung von Bau-, Schweiß- und Instandhaltungsarbeiten unter Wasser</taetigkeit>
@@ -11,4 +12,8 @@
       <dkz codenr="24432-101" refid="8205">Taucher/in</dkz>
     </default>
   </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

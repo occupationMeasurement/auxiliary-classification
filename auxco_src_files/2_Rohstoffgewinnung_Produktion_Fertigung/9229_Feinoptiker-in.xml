@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9229</id>
   <taetigkeit>Herstellung von Linsen, Prismen, Brillengläsern und ähnlichen Bauteilen zur Verwendung in optischen Geräten</taetigkeit>
@@ -28,4 +29,8 @@
   <abgrenzung typ="hoch" refid="7097">Augenoptiker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9227">Flachglasmechaniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9230">Leiter/in - Glasherstellung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

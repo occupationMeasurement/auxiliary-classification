@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7025</id>
   <taetigkeit>Betreuung und Versorgung von Stomapatienten nach ärztlicher Anweisung</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="7104">Krankenschwester/-pfleger</abgrenzung>
   <abgrenzung typ="hoch" refid="7047">Ergotherapeut/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

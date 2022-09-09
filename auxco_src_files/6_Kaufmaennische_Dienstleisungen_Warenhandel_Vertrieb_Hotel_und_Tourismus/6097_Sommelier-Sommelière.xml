@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6097</id>
   <taetigkeit>Beratung von Restaurantgästen zur Weinauswahl sowie Erstellung der Weinkarte</taetigkeit>
@@ -10,4 +11,8 @@
       <dkz codenr="63383-100" refid="10048">Sommelier/Sommelière</dkz>
     </default>
   </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

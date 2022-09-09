@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5143</id>
   <taetigkeit>Entwurf von Prototypen für die industrielle Serienfertigung von Keramik oder Steingut</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="5142">Keramiker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9231">Industriekeramiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

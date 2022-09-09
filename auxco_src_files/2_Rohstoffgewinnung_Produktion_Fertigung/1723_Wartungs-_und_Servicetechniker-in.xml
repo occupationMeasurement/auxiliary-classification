@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1723</id>
   <taetigkeit>Durchführung von Wartungs- und Reparaturarbeiten an Maschinen und Anlagensystemen</taetigkeit>
@@ -45,4 +46,8 @@
   <abgrenzung typ="mittel" refid="2068">Zählerableser/in</abgrenzung>
   <abgrenzung typ="hoch" refid="6006">Automatenfachmann/ -frau</abgrenzung>
   <abgrenzung typ="hoch" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

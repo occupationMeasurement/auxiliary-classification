@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2149</id>
   <taetigkeit>Herstellung von Modellen zu Anschauungszwecken oder für die Einzel- und Serienfertigung etwa von Karosserien, Gehäusen oder Rädern</taetigkeit>
@@ -39,4 +40,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="2146">Technische/r Zeichner/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2154">Leiter/in - Technische Zeichnung, Konstruktion und Modellbau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3539</id>
   <taetigkeit>Sicherstellung der ordnungsgemäßen Handhabung und des Schutzes personenbezogener Daten</taetigkeit>
@@ -11,4 +12,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="mittel" refid="3530">Rechtliche/r Berater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2079</id>
   <taetigkeit>Herstellung, Inbetriebnahme und Reparatur von Nutz- und Sonderfahrzeugen für die Bau-, Land- oder Forstwirtschaft</taetigkeit>
@@ -18,4 +19,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="1725">Land- und Baumaschinentechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2076">Kraftfahrzeugmechatroniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

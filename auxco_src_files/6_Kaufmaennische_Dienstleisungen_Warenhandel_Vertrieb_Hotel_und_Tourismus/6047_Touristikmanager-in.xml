@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6047</id>
   <taetigkeit>Organisation und Kontrolle der Betriebsabläufe in Tourismusunternehmen sowie Durchführung von Marketingmaßnahmen</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="1820">Tourismuskaufmann/ -frau</abgrenzung>
   <abgrenzung typ="hoch" refid="6054">Betriebsleiter/in - Tourismus</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

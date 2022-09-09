@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7015</id>
   <taetigkeit>Durchführung von Laboruntersuchungen in der Tiermedizin und Analyse von tierischen Lebensmitteln</taetigkeit>
@@ -25,4 +26,8 @@
     </antwort>
   </untergliederung>
   <abgrenzung typ="hoch" refid="7009">Medizinisch-technische Laboratoriumsassistent/in (MTLA)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7008</id>
   <taetigkeit>Durchführung von künstlichen Besamungen bei landwirtschaftlichen Nutztieren sowie Beratung der Tierhalter bei der Zucht</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="mittel" refid="7015">Veterinärmedizinische/r Laborant/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1710">Tierwirtschaftsmeister/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7036">Tierarzt/-ärztin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

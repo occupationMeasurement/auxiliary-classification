@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5158</id>
   <taetigkeit>Restaurierung und Pflege von alten Streich- und Zupfinstrumenten sowie deren Neuanfertigung nach Originalvorlage</taetigkeit>
@@ -11,4 +12,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="5157">Streich- und Zupfinstrumentenmacher/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5155">Musikinstrumentenrestaurator/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

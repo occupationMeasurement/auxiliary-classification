@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8047</id>
   <taetigkeit>Erteilung von Fremdsprachenunterricht an außerschulischen Bildungseinrichtungen</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="mittel" refid="8051">Leiter/in - außerschulische Bildungseinrichtungen</abgrenzung>
   <abgrenzung typ="mittel" refid="8028">Lehrer/in Sekundarstufe</abgrenzung>
   <abgrenzung typ="mittel" refid="8034">Berufsschullehrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

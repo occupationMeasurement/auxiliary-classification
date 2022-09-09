@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2143</id>
   <taetigkeit>Forschung und Entwicklung zu militärischen Geräten und Anlagen sowie Ausstattung der Bundeswehr mit entsprechendem Gerät</taetigkeit>
@@ -40,4 +41,8 @@
   <abgrenzung typ="hoch" refid="9999">Soldat/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1702">Büchsenmachermeister/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1709">Wehrverwaltungsbeamter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

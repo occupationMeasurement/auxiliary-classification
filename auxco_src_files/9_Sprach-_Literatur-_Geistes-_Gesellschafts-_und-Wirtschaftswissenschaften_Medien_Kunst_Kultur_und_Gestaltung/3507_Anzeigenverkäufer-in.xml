@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3507</id>
   <taetigkeit>Betreuung von Anzeigenkunden sowie Verkauf von Anzeigeflächen</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="3506">Medienfachwirt/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3519">Medienkaufmann/-frau - Digital und Print</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

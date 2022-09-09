@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5316</id>
   <taetigkeit>Montage von Trockenbauelementen, Verkleidung von Wänden und Decken und Einbau von Dämmstoffen</taetigkeit>
@@ -54,4 +55,8 @@
   <abgrenzung typ="mittel" refid="5292">Zimmerer/Zimmerin</abgrenzung>
   <abgrenzung typ="mittel" refid="5293">Bautischler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3013">Isolierfacharbeiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

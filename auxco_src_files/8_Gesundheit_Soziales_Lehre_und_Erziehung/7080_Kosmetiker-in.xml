@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7080</id>
   <taetigkeit>Ausführung kosmetischer Behandlungen sowie Kundenberatung</taetigkeit>
@@ -19,4 +20,8 @@
   <abgrenzung typ="hoch" refid="7081">Maskenbildner/in</abgrenzung>
   <abgrenzung typ="mittel" refid="7085">Aufsichtskräfte - Körperpflege</abgrenzung>
   <abgrenzung typ="mittel" refid="7072">Fachkraft - Beauty und Wellness</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

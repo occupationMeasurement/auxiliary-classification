@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6072</id>
   <taetigkeit>Zubereitung und Servieren von alkoholischen und nicht alkoholischen Getränken an Theken</taetigkeit>
@@ -13,4 +14,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="mittel" refid="6074">Fast-Food- und Imbisskoch/-köchin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

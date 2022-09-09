@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2006</id>
   <taetigkeit>Bedienung von Maschinen zur Umformung von Metall mittels Walzen, Pressen, Ziehen oder Schmieden</taetigkeit>
@@ -18,4 +19,8 @@
   <abgrenzung typ="mittel" refid="2010">Gießereimechaniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1853">Maschineneinrichter/in (spanlose Metallbearbeitung)</abgrenzung>
   <abgrenzung typ="mittel" refid="2023">Zerspanungsmechaniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

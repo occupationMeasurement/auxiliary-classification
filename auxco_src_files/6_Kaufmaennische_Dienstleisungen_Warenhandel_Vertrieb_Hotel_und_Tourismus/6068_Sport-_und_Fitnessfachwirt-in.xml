@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6068</id>
   <taetigkeit>Organisation und Koordination von Angeboten und Dienstleistungen im Sport- und Fitnessbereich nach kaufmännischen Gesichtspunkten</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="6053">Sport- und Fitnesskaufmann/-frau</abgrenzung>
   <abgrenzung typ="mittel" refid="6048">Fitnesstrainer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6102">Konferenz- und Veranstaltungsplaner</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

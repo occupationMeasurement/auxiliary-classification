@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1831</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Zahntechnik</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="mittel" refid="1833">Hörgerätemeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1830">Orthopädietechnikermeister/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7016">Medizinisch-technische/r Laborleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

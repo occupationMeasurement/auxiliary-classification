@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1015</id>
   <taetigkeit>Entwicklung neuer landwirtschaftlicher Verfahren sowie Beratung von landwirtschaftlichen Betrieben oder der Politik</taetigkeit>
@@ -30,4 +31,8 @@
   <abgrenzung typ="mittel" refid="1014">Anbauberater/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1018">Landwirtschaftliche/r Gutachter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1017">Agraringenieur/in - Mechanisierung der Landwirtschaft</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

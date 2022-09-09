@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3546</id>
   <taetigkeit>Analyse und Optimierung von Verwaltungsprozessen und Richtlinien in öffentlichen Behörden sowie Leitung von Beamten des gehobenen Dienstes</taetigkeit>
@@ -19,4 +20,8 @@
   <abgrenzung typ="hoch" refid="3542">Sozialversicherungsbeamter/-beamtin (höh. Dienst)</abgrenzung>
   <abgrenzung typ="mittel" refid="3550">Verwaltungsangestellte/r im öffentlichen Dienst</abgrenzung>
   <abgrenzung typ="mittel" refid="1709">Wehrverwaltungsbeamter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

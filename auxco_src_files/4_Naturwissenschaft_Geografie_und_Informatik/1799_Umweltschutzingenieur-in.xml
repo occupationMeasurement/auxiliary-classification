@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1799</id>
   <taetigkeit>Erforschung und Entwicklung von Verfahren, Maßnahmen und Anlagen für einen wirksamen Umweltschutz</taetigkeit>
@@ -36,4 +37,8 @@
   <abgrenzung typ="hoch" refid="4243">Beamt(er/in) - Umweltverwaltung (höh. techn. Dienst)</abgrenzung>
   <abgrenzung typ="hoch" refid="4700">Klimaschutzmanager/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1787">Organsiator/in - Abfallwirtschaft</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

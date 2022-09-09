@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5137</id>
   <taetigkeit>Konservierung und Restaurierung von Objekten durch Vergoldung oder Metallauflagen</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="5128">bildende/r Künstler/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5136">Vergolder/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

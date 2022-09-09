@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1794</id>
   <taetigkeit>Prüfung von Werkstoffen mit physikalischen und chemischen Verfahren</taetigkeit>
@@ -39,4 +40,8 @@
   <abgrenzung typ="hoch" refid="2160">Qualitätskontrolleur/in</abgrenzung>
   <abgrenzung typ="hoch" refid="4022">Werkstofftechnik-Ingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4018">Physik-Techniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

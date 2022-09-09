@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1300</id>
   <taetigkeit>Sammlung, Beurteilung und Verwaltung von künstlerischen oder historischen Objekten sowie Konzeption von Ausstellungen in Museen</taetigkeit>
@@ -18,4 +19,8 @@
   <abgrenzung typ="hoch" refid="1305">Kunstsachverständige/r</abgrenzung>
   <abgrenzung typ="mittel" refid="1303">Konservator/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3553">Archivdienstbeamt(er/in)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

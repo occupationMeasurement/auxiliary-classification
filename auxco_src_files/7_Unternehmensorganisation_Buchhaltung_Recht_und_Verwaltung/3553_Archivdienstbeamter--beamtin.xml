@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3553</id>
   <taetigkeit>Tätigkeiten im Archivdienst</taetigkeit>
@@ -39,4 +40,8 @@
   <abgrenzung typ="mittel" refid="1825">Bibliotheksangestellte/r</abgrenzung>
   <abgrenzung typ="mittel" refid="3555">Rechercheur/in oder Dokumentar/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3556">Medizinische/r Dokumentar/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1123</id>
   <taetigkeit>Erforschung gerontologischer Fragestellungen</taetigkeit>
@@ -18,4 +19,8 @@
   <abgrenzung typ="hoch" refid="1108">Anthropologe/in / Ethnologe/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1110">Soziologe/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1112">Wirtschaftswissenschaftler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4052</id>
   <taetigkeit>Koordination von Tests in IT-Projekten zur Sicherstellung der Qualität</taetigkeit>
@@ -16,4 +17,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="4252">IT-Projektleiter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1771">IT-Sicherheitstechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

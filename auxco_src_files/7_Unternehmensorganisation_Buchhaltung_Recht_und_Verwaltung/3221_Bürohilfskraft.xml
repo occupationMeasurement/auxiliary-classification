@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3221</id>
   <taetigkeit>Ausführung von Hilfsarbeiten in der Büroarbeit ohne Kundenkontakt</taetigkeit>
@@ -43,4 +44,8 @@
   <abgrenzung typ="hoch" refid="1004">Postzusteller/in</abgrenzung>
   <abgrenzung typ="hoch" refid="3545">Verwaltungshelfer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="3222">Sekretär/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1780</id>
   <taetigkeit>Planung, Koordination und Optimierung von Bau- und Instandhaltungsmaßnahmen im Straßenbau</taetigkeit>
@@ -28,4 +29,8 @@
   <abgrenzung typ="hoch" refid="1779">Tiefbauingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5268">Straßenbauer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1776">Verkehrswegeplaner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

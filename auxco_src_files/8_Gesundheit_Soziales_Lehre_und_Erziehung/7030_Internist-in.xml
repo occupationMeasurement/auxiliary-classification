@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7030</id>
   <taetigkeit>Diagnose und Behandlung von Erkrankungen der inneren Organe</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="7028">Allgemeinarzt /-ärztin</abgrenzung>
   <abgrenzung typ="hoch" refid="7031">Chirurg/in</abgrenzung>
   <abgrenzung typ="mittel" refid="7035">Chefarzt/-ärztin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

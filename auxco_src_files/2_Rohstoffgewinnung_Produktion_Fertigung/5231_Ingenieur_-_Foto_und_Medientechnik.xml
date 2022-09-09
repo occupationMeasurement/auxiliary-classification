@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5231</id>
   <taetigkeit>Entwicklung, Analyse und Optimierung von Prozessen in der Foto- oder Medientechnik</taetigkeit>
@@ -11,4 +12,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="5230">Foto- und Medientechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5232">Fotografenmeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

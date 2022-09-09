@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9045</id>
   <taetigkeit>Fertigung von Polstermöbeln, Matratzen, Kissen und Decken</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="mittel" refid="9046">Leiter/in - Textilverarbeitung</abgrenzung>
   <abgrenzung typ="mittel" refid="9094">Technische/r Konfektionär/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9020">Textilverarbeitungshelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

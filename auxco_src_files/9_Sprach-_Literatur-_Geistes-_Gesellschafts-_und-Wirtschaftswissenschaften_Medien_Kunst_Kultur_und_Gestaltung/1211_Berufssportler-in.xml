@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1211</id>
   <taetigkeit>Professionelle Ausübung eines Sports</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="8057">Trainer/in- Ballsport</abgrenzung>
   <abgrenzung typ="mittel" refid="1209">Tänzer/in / Choreograf/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

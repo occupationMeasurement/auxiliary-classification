@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8050</id>
   <taetigkeit>Konzeption und Durchführung von museumspädagogischen Maßnahmen</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="8039">Dozent/in - Erwachsenenbildung</abgrenzung>
   <abgrenzung typ="hoch" refid="8045">Kunstpädagoge/-pädagogin bzw. Theaterpädagoge/-pädagogin</abgrenzung>
   <abgrenzung typ="hoch" refid="1300">Kurator/in / Museologe/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

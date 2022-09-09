@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9999</id>
   <taetigkeit>Angehörige der regulären Streitkräfte</taetigkeit>
@@ -54,4 +55,8 @@
       <isco schluessel="0110">Commissioned armed forces officers</isco>
     </antwort>
   </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

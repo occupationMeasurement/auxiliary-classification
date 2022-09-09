@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1751</id>
   <taetigkeit>Ausführung von Hilfsarbeiten bei der Aufbereitung von Natursteinen und Mineralien</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="mittel" refid="9217">Leiter/in - Baustoffherstellung</abgrenzung>
   <abgrenzung typ="mittel" refid="9218">Steinmetzmeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9219">Leiter/in - Gestein- und Mineralienaufbereitung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

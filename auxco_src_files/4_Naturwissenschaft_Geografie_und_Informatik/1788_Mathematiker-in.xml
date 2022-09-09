@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1788</id>
   <taetigkeit>Entwicklung von mathematischen Formeln, Theorien und Methoden in Wissenschaft und Forschung</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="mittel" refid="4203">Biomathematiker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4204">Computer-/ Technomathematiker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4205">Wirtschaftsmathematiker/in / Aktuar/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

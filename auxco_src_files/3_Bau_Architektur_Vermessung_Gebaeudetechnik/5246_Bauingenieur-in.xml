@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5246</id>
   <taetigkeit>Planung und Überwachung des Baus von Gebäuden und Bauwerken aus ingenieurtechnischer Perspektive</taetigkeit>
@@ -78,4 +79,8 @@
   <abgrenzung typ="mittel" refid="5351">Statiker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5257">Leiter/in - Bauplanung</abgrenzung>
   <abgrenzung typ="mittel" refid="5254">Bausachverständiger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5054</id>
   <taetigkeit>Bedienung von land- und forstwirtschaftlichen Maschinen</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="1012">Landwirt/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9203">Forstwirt/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

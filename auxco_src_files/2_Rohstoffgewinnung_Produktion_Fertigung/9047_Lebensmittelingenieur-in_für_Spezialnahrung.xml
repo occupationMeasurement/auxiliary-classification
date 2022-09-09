@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9047</id>
   <taetigkeit>Planung, Koordination und Optimierung der Herstellungsprozesse von Astronautennahrung, Sportlernahrung, und ähnlicher Spezialnahrung</taetigkeit>
@@ -10,4 +11,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="9049">Lebensmitteltechniker/in - Feinkost, Fertiggerichte, Obstverwertung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

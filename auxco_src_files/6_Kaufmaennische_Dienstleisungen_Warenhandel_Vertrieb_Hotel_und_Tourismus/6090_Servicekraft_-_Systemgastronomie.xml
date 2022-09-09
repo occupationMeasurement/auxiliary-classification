@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6090</id>
   <taetigkeit>Zubereitung einfacher Speisen sowie Bedienen von Gästen in Schnellrestaurants</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="6074">Fast-Food- und Imbisskoch/-köchin</abgrenzung>
   <abgrenzung typ="hoch" refid="6075">Küchenhelfer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1822">Kellner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

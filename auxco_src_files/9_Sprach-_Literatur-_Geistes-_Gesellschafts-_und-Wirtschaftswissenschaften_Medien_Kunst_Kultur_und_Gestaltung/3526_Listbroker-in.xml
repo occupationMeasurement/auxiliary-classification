@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3526</id>
   <taetigkeit>Recherche nach Privat- und Firmenadressen für den Verkauf oder die Vermietung an Unternehmen</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="3509">Art-Buyer</abgrenzung>
   <abgrenzung typ="mittel" refid="3505">Literaturagent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

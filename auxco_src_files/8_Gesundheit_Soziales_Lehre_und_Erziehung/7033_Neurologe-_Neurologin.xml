@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7033</id>
   <taetigkeit>Diagnose und Behandlung von psychischen oder neurologischen Erkrankungen</taetigkeit>
@@ -14,4 +15,8 @@
   <abgrenzung typ="hoch" refid="7042">Psychotherapeut/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7041">Psychologe/Psychologin</abgrenzung>
   <abgrenzung typ="mittel" refid="7028">Allgemeinarzt /-ärztin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

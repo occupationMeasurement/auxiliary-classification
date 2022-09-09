@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6039</id>
   <taetigkeit>Verkauf von Produkten aus dem Sanitäts- und Medizinbedarf im Einzelhandel</taetigkeit>
@@ -14,4 +15,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="mittel" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

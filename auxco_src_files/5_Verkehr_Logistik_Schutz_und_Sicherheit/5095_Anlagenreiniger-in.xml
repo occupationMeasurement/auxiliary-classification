@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5095</id>
   <taetigkeit>Säuberung von Maschinen, Anlagen, Geräten sowie Behältern</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="5297">Gas- und Wasserinstallateur/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5226">Gebäudeinnenreiniger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

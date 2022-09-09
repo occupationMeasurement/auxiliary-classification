@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9065</id>
   <taetigkeit>Sortierung, Reinigung und Ausnehmen frischer Fische und deren Weiterverarbeitung</taetigkeit>
@@ -31,4 +32,8 @@
   <abgrenzung typ="mittel" refid="9066">Lebensmitteltechniker/in - Fischerzeugnisse</abgrenzung>
   <abgrenzung typ="mittel" refid="9079">Koch/Köchin</abgrenzung>
   <abgrenzung typ="mittel" refid="1518">Fischer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

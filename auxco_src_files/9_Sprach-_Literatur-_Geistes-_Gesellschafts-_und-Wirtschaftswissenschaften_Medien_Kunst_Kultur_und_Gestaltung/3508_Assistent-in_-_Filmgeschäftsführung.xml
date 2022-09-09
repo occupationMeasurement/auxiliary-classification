@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3508</id>
   <taetigkeit>Durchführung von Verwaltungs- und Organisationstätigkeiten bei Film- und Fernsehproduktionen</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="3509">Art-Buyer</abgrenzung>
   <abgrenzung typ="mittel" refid="3519">Medienkaufmann/-frau - Digital und Print</abgrenzung>
   <abgrenzung typ="mittel" refid="3506">Medienfachwirt/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2047</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Metallbau- oder Schweißtechnik</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="1846">Metallbautechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2122">Leiter/in - Metallbearbeitung</abgrenzung>
   <abgrenzung typ="mittel" refid="1720">Schweißtechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

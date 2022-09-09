@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7096</id>
   <taetigkeit>Planung, Koordination und Optimierung der Entwicklung und Produktion othopädietechnischer oder rehabilitationstechnischer Geräte</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="7094">Orthopädietechnik-Mechaniker/In</abgrenzung>
   <abgrenzung typ="hoch" refid="1830">Orthopädietechnikermeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1829">Medizintechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

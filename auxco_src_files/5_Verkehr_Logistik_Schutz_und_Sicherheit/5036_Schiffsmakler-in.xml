@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5036</id>
   <taetigkeit>Vermittlung von Schiffsraum, Ladung und Liegeplätzen sowie der Handel mit Schiffen</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="5035">Schifffahrtskaufmann/-frau</abgrenzung>
   <abgrenzung typ="hoch" refid="5022">Verkehrsbetriebswirt/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5023">Fachwirt/in - Personen- und Reiseverkehr</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5118</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Betreuung von Fahrgästen und Passagieren</taetigkeit>
@@ -13,4 +14,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="mittel" refid="9900">Luftverkehrskaufmann/-frau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

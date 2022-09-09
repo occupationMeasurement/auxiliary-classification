@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5331</id>
   <taetigkeit>Montage und Instandhaltung von Warmluftzentralheizungen, Elektrospeicherheizungen, Kachelöfen und anderen Luftheizanlagen</taetigkeit>
@@ -36,4 +37,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="5264">Feuerungs- und Schornsteinbauer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5297">Gas- und Wasserinstallateur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

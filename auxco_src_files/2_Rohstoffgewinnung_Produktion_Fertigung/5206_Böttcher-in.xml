@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5206</id>
   <taetigkeit>Herstellung von Fässern oder Gefäßen aus Holz</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="5205">Wagner/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5193">Holzbearbeitungsmechaniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

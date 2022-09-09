@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5187</id>
   <taetigkeit>Entwicklung, Herstellung und Anwendung von Farb- und Lackbeschichtungen</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="mittel" refid="5186">Lackierer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5188">Farb- und Lackingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5303">Restaurator/in - Maler- und Lackiererhandwerk</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

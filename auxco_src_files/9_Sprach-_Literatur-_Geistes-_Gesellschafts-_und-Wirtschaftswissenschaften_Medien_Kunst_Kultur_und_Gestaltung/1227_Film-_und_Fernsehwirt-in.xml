@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1227</id>
   <taetigkeit>Koordination künstlerischer, wirtschaftlicher und technischer Aspekte in Film- und Fernsehproduktionen</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="hoch" refid="1228">Inspizient/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1230">Regisseur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1240">Führungskraft in der Theater-, Film- und Fernsehproduktion</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

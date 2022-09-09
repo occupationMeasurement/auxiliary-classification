@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1836</id>
   <taetigkeit>Durchführung und Organisation von Forschungsprojekten in der Markt- und Meinungsforschung</taetigkeit>
@@ -62,4 +63,8 @@
   <abgrenzung typ="hoch" refid="4202">Statistiker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1112">Wirtschaftswissenschaftler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1837">Produktmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

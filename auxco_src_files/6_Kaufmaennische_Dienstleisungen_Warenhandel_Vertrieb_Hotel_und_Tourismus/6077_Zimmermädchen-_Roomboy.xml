@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6077</id>
   <taetigkeit>Herrichtung, Reinigung und Dekoration von Hotelzimmern</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="6083">Hotelpage</abgrenzung>
   <abgrenzung typ="mittel" refid="6070">Rezeptionist/in - Hotel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

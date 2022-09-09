@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7048</id>
   <taetigkeit>Behandlung von Patienten mit Sprach-, Sprech-, Stimm- oder Schluckstörungen</taetigkeit>
@@ -36,4 +37,8 @@
     </antwort>
   </untergliederung>
   <abgrenzung typ="mittel" refid="7056">therapeutische/r Einrichtungsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

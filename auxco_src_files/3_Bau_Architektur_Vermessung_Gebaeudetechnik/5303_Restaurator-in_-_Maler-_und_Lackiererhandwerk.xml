@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5303</id>
   <taetigkeit>Konservierung, Restaurierung und Rekonstruktion von Wand- und Deckenbemalungen</taetigkeit>
@@ -14,4 +15,8 @@
   <abgrenzung typ="hoch" refid="3023">Maler/in und Lackierer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5314">Handwerksmeister/in - Maler-, Lackier- und Stuckateurarbeiten</abgrenzung>
   <abgrenzung typ="mittel" refid="5187">Farb- und Lacktechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

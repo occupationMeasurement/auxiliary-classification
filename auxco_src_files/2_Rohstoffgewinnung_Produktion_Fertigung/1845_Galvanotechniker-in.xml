@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1845</id>
   <taetigkeit>Planung, Koordination und Überwachung von Oberflächenbehandlungsverfahren und Korrosionsschutzmaßnahmen in der Metalltechnik</taetigkeit>
@@ -28,4 +29,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="2029">Oberflächenbeschichter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2123">Galvaniseurmeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

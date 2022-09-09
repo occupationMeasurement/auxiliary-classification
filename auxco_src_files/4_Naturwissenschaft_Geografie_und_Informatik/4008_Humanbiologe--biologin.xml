@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4008</id>
   <taetigkeit>Erforschung von Strukturen, Funktionen, Krankheiten und Prozessen  des menschlichen Organismus</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="mittel" refid="4212">Genetiker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="7028">Allgemeinarzt /-ärztin</abgrenzung>
   <abgrenzung typ="mittel" refid="1789">Biologisch-Technische/r Laborleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

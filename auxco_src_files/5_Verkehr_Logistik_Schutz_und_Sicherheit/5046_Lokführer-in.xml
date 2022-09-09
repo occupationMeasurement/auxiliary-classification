@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5046</id>
   <taetigkeit>Führen von Loks und Triebfahrzeugen im Transport von Gütern oder Personen</taetigkeit>
@@ -14,4 +15,8 @@
   <abgrenzung typ="hoch" refid="5044">Bus - bzw. Straßenbahnfahrer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5042">Kraftfahrer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5118">Leitender Fahrgastbetreuer im Reiseverkehr</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

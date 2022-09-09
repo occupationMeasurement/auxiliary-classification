@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2010</id>
   <taetigkeit>Bedienung und Überwachung von Schmelzöfen in industriellen Gießereien</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="1844">Gießereitechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2001">Gießereihelfer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2014">Gießereiformer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

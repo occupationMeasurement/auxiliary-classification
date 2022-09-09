@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2115</id>
   <taetigkeit>Bau, Installation und Wartung von elektrotechnischen und elektronischen Erzeugnissen</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="hoch" refid="2114">Elektrohelfer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2118">Informations- und Kommunikationselektroniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2094">Mechatroniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

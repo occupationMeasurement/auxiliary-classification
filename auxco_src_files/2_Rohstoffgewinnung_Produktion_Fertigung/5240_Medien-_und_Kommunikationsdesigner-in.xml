@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5240</id>
   <taetigkeit>Konzeption und Realisierung visueller Informationskampagnen, 3D-Grafiken und Spielen</taetigkeit>
@@ -21,4 +22,8 @@
   <abgrenzung typ="hoch" refid="5220">Video- und Game-Designer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5221">Informationsarchitekt/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5224">Art-Direktor/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

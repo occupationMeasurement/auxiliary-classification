@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1716</id>
   <taetigkeit>Entwicklung, Herstellung und Optimierung der Produktion von Kunststoffen und Kunststoffteilen</taetigkeit>
@@ -31,4 +32,8 @@
   <abgrenzung typ="hoch" refid="1722">Maschinenbauingenieur/in</abgrenzung>
   <abgrenzung typ="hoch" refid="4022">Werkstofftechnik-Ingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5184">Industriemeister/in - Kunststoff und Kautschuk</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9110</id>
   <taetigkeit>Verarbeitung von Rohhäuten zu Leder mit handwerklichen Verfahren</taetigkeit>
@@ -38,4 +39,8 @@
   <abgrenzung typ="hoch" refid="9048">Lederverarbeitungshelfer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9504">Bediener/in von Lederzurichtungsmaschinen</abgrenzung>
   <abgrenzung typ="hoch" refid="1742">Ledertechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

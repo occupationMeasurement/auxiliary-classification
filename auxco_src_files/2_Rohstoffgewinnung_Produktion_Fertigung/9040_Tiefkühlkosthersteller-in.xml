@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9040</id>
   <taetigkeit>Herstellung von Tiefkühlkost</taetigkeit>
@@ -14,4 +15,8 @@
   <abgrenzung typ="mittel" refid="9041">Helfer/in - Lebensmitteltechnik</abgrenzung>
   <abgrenzung typ="mittel" refid="9049">Lebensmitteltechniker/in - Feinkost, Fertiggerichte, Obstverwertung</abgrenzung>
   <abgrenzung typ="mittel" refid="9113">Speisefetthersteller/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

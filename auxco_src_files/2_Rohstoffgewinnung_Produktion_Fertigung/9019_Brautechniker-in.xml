@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9019</id>
   <taetigkeit>Planung, Koordination und Optimierung der Produktion von Bier und Biermischgetränken</taetigkeit>
@@ -28,4 +29,8 @@
   <abgrenzung typ="hoch" refid="9005">Getränkeproduktionsleiter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9018">Brauereifacharbeiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9024">Brennereitechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

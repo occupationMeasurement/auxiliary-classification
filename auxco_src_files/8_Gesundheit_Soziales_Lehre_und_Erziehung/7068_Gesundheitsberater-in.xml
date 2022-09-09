@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7068</id>
   <taetigkeit>Beratung von Privatpersonen zu einer gesunden Lebensweise, gesundheitlichen Gefährdungen und Krankheiten</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="7067">Gesundheitstrainer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7070">Gesundheitsförderer/-förderin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

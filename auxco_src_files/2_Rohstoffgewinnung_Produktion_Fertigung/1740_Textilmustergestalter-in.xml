@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1740</id>
   <taetigkeit>Entwurf und Design von Stoffen, Fäden, Garnen und Strickwaren</taetigkeit>
@@ -59,4 +60,8 @@
   <abgrenzung typ="hoch" refid="9014">Modedesigner/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9013">Schnittmustermacher/in für Kleidungsstücke</abgrenzung>
   <abgrenzung typ="mittel" refid="9010">Textilproduktionsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

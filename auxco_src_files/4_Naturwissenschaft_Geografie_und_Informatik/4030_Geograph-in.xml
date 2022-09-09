@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4030</id>
   <taetigkeit>Erforschung von Fragestellungen der Geographie und ihrer Teilgebiete</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="5279">Ingenieur/in - Stadt- und Regionalplanung</abgrenzung>
   <abgrenzung typ="mittel" refid="4028">Geotechnikingenieur/in - Bau</abgrenzung>
   <abgrenzung typ="mittel" refid="4042">Geoinformatiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

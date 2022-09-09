@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3599</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung im Personalbereich eines Unternehmens oder einer Organisation</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="3596">Personalentwickler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3204">gewählte/r Arbeitnehmervertreter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

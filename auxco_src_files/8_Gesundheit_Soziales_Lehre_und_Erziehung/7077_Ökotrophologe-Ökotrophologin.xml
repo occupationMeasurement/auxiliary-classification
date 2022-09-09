@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7077</id>
   <taetigkeit>Erforschung ernährungswissenschaftlicher Fragestellungen sowie Beratung zu Nahrungsmitteln</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="7070">Gesundheitsförderer/-förderin</abgrenzung>
   <abgrenzung typ="hoch" refid="1828">Ernährungstrainer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

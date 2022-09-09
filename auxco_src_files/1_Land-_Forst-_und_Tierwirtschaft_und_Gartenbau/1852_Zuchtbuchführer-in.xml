@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1852</id>
   <taetigkeit>Planung und Dokumentation der Züchtung von Rassetieren sowie Beratung von Züchtern</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="1512">Pelztierzüchter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1504">Fachagrarwirt/in - Zucht- und Fleischleistungsprüfung</abgrenzung>
   <abgrenzung typ="hoch" refid="7008">Tierarztfachhelfer/in - Besamungswesen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

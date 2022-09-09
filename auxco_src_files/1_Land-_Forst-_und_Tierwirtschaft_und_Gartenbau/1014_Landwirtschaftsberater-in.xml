@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1014</id>
   <taetigkeit>Beratung von landwirtschaftlichen Betrieben in betriebswirtschaftlichen und produktionstechnischen Angelegenheiten</taetigkeit>
@@ -30,4 +31,8 @@
   <abgrenzung typ="mittel" refid="1019">Beamter/ Beamtin - Agrarverwaltung</abgrenzung>
   <abgrenzung typ="hoch" refid="1018">Landwirtschaftlicher Gutachter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1851">Landwirtschaftliche/r Betriebsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

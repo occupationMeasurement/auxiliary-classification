@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4205</id>
   <taetigkeit>Erstellung mathematischer Modelle für ökonomische Fragestellungen in Wissenschaft und Industrie</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="4204">Computer-/ Technomathematiker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1788">Mathematiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

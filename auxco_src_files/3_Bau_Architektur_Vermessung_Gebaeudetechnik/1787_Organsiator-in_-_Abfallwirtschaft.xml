@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1787</id>
   <taetigkeit>Planung, Koordination und Überwachung von Prozessen der Abfallbehandlung, der Abfallentsorgung und des Abfallrecyclings</taetigkeit>
@@ -49,4 +50,8 @@
   <abgrenzung typ="mittel" refid="1774">Gewässer-, Abfall- und Immissionsschutzbeauftragte/r</abgrenzung>
   <abgrenzung typ="mittel" refid="5358">Leiter/in - Abfallentsorgung und Städtereinigung</abgrenzung>
   <abgrenzung typ="mittel" refid="1799">Umweltschutzingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

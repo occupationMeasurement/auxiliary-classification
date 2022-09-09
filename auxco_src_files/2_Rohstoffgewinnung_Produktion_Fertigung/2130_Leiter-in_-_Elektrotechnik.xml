@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2130</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Elektronik, Elektrotechnik oder Telekommunikationstechnik</taetigkeit>
@@ -19,4 +20,8 @@
   <abgrenzung typ="mittel" refid="1733">Elektrotechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2129">Leiter/in - Energietechnik</abgrenzung>
   <abgrenzung typ="mittel" refid="1734">Techniker/in - Informations- und Kommunikationselektronik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

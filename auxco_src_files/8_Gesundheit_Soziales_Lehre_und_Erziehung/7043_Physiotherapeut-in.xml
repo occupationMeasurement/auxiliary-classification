@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7043</id>
   <taetigkeit>Behandlung von Patienten mit physiotherapeutischen Methoden</taetigkeit>
@@ -42,4 +43,8 @@
   <abgrenzung typ="hoch" refid="7050">Heilpraktiker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="7104">Krankenschwester/-pfleger</abgrenzung>
   <abgrenzung typ="mittel" refid="7047">Ergotherapeut/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

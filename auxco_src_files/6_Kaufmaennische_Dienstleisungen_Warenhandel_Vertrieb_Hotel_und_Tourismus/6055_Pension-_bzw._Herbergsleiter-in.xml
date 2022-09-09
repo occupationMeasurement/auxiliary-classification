@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6055</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Koordination von Betriebsabläufen in einer Pension oder Herberge</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="mittel" refid="6056">Hausdame/Housekeeper</abgrenzung>
   <abgrenzung typ="hoch" refid="6057">Hoteldirektor/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1821">Hotelkaufmann/-frau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

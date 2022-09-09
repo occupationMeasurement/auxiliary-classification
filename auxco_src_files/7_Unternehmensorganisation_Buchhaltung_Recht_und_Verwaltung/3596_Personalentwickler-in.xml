@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3596</id>
   <taetigkeit>Planung, Koordination und Optimierung der Personalentwicklung</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="mittel" refid="3598">Berufsberater/in</abgrenzung>
   <abgrenzung typ="mittel" refid="8035">Lehrlingsausbilder/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3599">Personalleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

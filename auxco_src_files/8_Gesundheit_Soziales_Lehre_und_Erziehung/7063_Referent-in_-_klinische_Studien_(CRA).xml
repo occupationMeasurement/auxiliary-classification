@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7063</id>
   <taetigkeit>Überwachung klinischer Studien hinsichtlich gesetzlicher Vorschriften sowie die Koordination von Arzneimittelzulassungen</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="mittel" refid="4012">Ingenieur/in - Chemietechnik</abgrenzung>
   <abgrenzung typ="hoch" refid="7059">Arzt/Ärztin - Pharmakologie und Toxikologie</abgrenzung>
   <abgrenzung typ="hoch" refid="7058">Pharmakologe/Pharmakologin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

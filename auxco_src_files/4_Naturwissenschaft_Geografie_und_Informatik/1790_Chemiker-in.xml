@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1790</id>
   <taetigkeit>Entwicklung neuer chemischer Analysemethoden und -technologien sowie Erforschung von Ausgangsstoffen, chemischen Erzeugnissen und Herstellungsverfahren</taetigkeit>
@@ -31,4 +32,8 @@
   <abgrenzung typ="mittel" refid="1792">Laborleiter/in in der Chemie</abgrenzung>
   <abgrenzung typ="hoch" refid="4012">Ingenieur/in - Chemietechnik</abgrenzung>
   <abgrenzung typ="mittel" refid="1800">Produktionsleiter/in in der Chemie</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

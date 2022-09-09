@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3203</id>
   <taetigkeit>Leitung einer Interessenorganisation wie z.B. einer Partei, Gewerkschaft, eines Arbeitgeberverbands, Fach- oder Branchenverbands oder einer karitativen Organisation</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="3513">Public-Relations-Manager/in</abgrenzung>
   <abgrenzung typ="hoch" refid="3202">Politiker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3201">Top-Manager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

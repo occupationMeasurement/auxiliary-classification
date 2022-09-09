@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5173</id>
   <taetigkeit>Sicherstellung der Ordnung auf Parkplätzen und in Parkhäusern</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="5060">Geldzähler/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5061">Sicherheitsdienstmitarbeiter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5059">Spielhallenaufsicht</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

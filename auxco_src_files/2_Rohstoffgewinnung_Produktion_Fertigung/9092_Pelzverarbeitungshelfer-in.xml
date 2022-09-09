@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9092</id>
   <taetigkeit>Ausführung von Hilfsarbeiten bei der Verarbeitung von Pelzen</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="mittel" refid="9110">Gerber/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9504">Bediener/in von Lederzurichtungsmaschinen</abgrenzung>
   <abgrenzung typ="mittel" refid="9039">Lederwarenhersteller/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

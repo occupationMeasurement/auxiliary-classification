@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1747</id>
   <taetigkeit>Planung und Koordination des Vertriebs von Waren und Dienstleistungen</taetigkeit>
@@ -39,4 +40,8 @@
   <abgrenzung typ="mittel" refid="3518">Account-Manager/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6011">Einkaufsleiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6079">Kundendienstberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

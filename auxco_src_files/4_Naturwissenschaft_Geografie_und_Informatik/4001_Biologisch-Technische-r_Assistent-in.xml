@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4001</id>
   <taetigkeit>Durchführung von biologischen Laborversuchen zu Forschungszwecken oder in Produktionsbetrieben</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="1789">Biologisch-Technische/r Laborleiter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="4002">Biotechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1024">Landwirtschaftlicher Labortechniker/-assistent</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5292</id>
   <taetigkeit>Bau von Fachwerkhäusern, Dachstühlen, Veranden und anderen Holzbauwerken</taetigkeit>
@@ -42,4 +43,8 @@
   <abgrenzung typ="hoch" refid="5198">Holzmechaniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5200">Tischler/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5293">Bautischler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

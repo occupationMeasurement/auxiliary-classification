@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4054</id>
   <taetigkeit>Konfiguration und Wartung von vernetzten IT- Systemen sowie Betrieb von Hardware und Software</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="hoch" refid="1772">IT-Netzwerktechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4252">IT-Projektleiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4055">Datenbankentwickler/in /administrator/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

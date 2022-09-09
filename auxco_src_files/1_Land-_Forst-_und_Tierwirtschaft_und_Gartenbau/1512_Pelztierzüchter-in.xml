@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1512</id>
   <taetigkeit>Haltung und Zucht von Pelztieren sowie deren Schlachtung</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="1511">Haustierzüchter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1503">Tierwirt/in - Nutztierhaltung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

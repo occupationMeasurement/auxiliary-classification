@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7070</id>
   <taetigkeit>Beratung in der betrieblichen Gesundheitsförderung oder im öffentlichen Gesundheitswesen</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="hoch" refid="7068">Gesundheitsberater/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1828">Ernährungstrainer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="7077">Ökotrophologe/Ökotrophologin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

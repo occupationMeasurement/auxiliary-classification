@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1305</id>
   <taetigkeit>Ermittlung des Wertes von Kunstwerken</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="1300">Kurator/in / Museologe/in</abgrenzung>
   <abgrenzung typ="hoch" refid="6043">Kunst- und Antiquitätenhändler/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1306">Gemmologe/Gemmologin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8011</id>
   <taetigkeit>Unterstützung von Personen in Beratungsstellen hinsichtlich von Problemen wie Suchtkrankheiten, ungewollten Schwangerschaften oder Erziehungsproblemen</taetigkeit>
@@ -40,4 +41,8 @@
   <abgrenzung typ="hoch" refid="7041">Psychologe/Psychologin</abgrenzung>
   <abgrenzung typ="hoch" refid="7042">Psychotherapeut/in</abgrenzung>
   <abgrenzung typ="hoch" refid="8004">Sozialpädagoge/-pädagogin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

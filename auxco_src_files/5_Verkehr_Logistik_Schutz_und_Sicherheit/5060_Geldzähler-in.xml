@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5060</id>
   <taetigkeit>Bedienung von Zählmaschinen und Geldbearbeitungsautomaten sowie die Überprüfung der Echtheit von Bargeld</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="5059">Spielhallenaufsicht</abgrenzung>
   <abgrenzung typ="hoch" refid="5061">Sicherheitsdienstmitarbeiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5173">Parkplatz- und Parkhausaufsicht</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

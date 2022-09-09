@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7011</id>
   <taetigkeit>Messen von Körperfunktionen der Patienten mithilfe medizinischer Geräte nach ärztlicher Anweisung</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="hoch" refid="1829">Medizintechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="8001">Augenarztgehilfe/-gehilfin (Orthoptist/in)</abgrenzung>
   <abgrenzung typ="hoch" refid="7101">Fachassistent/in - Herz-Kreislauf-Funktionsdiagnostik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

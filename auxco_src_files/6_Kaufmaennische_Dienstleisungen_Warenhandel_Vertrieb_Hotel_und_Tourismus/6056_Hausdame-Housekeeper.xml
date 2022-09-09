@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6056</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Organisation von Aufräum- und Reinigungsarbeiten in Hotels, Herbergen oder Pensionen</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="6021">Empfangschef/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6055">Pension- bzw. Herbergsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

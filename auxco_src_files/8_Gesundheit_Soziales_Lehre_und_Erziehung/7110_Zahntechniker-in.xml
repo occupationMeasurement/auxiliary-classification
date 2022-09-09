@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7110</id>
   <taetigkeit>Fertigung, Anpassung und Reparatur von Zahnersatz sowie zahn- und kieferregulierenden Geräten</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="7002">Zahnarzthelfer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1831">Zahntechnikermeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

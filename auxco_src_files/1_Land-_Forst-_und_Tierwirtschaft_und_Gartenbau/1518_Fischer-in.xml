@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1518</id>
   <taetigkeit>Fang, Verarbeitung und Verkauf von Fischen und Schalentieren aus natürlichen Gewässern</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="hoch" refid="1519">Fischwirt/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1517">Fischereihelfer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1715">Fischwirtschaftsmeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

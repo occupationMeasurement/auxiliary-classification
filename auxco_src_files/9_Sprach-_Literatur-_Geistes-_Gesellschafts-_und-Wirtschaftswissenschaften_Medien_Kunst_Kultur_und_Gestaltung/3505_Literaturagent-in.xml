@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3505</id>
   <taetigkeit>Aushandeln von Projekten und Verträgen in der Verlags- oder Medienwirtschaft sowie die Betreuung von Autoren</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="3526">Listbroker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3509">Art-Buyer</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

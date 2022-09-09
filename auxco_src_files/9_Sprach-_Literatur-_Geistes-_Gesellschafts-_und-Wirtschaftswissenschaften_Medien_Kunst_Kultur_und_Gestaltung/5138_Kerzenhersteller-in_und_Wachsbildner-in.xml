@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5138</id>
   <taetigkeit>Herstellung von Gebrauchs- und Schmuckgegenständen wie Kerzen oder anderen Wachsprodukten</taetigkeit>
@@ -15,4 +16,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="5127">Kunsthandwerker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

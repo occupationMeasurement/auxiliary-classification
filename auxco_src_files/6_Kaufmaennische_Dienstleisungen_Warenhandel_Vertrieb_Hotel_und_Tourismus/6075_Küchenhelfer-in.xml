@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6075</id>
   <taetigkeit>Ausführung von Hilfsarbeiten zur Unterstützung der Servicekräfte in der Gastronomie</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="9078">Küchenhilfe</abgrenzung>
   <abgrenzung typ="hoch" refid="6074">Fast-Food- und Imbisskoch/-köchin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

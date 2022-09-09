@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4009</id>
   <taetigkeit>Ausführung von Hilfsarbeiten in der chemischen Forschung oder chemischen Produktion</taetigkeit>
@@ -11,4 +12,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="1791">Chemikant/in / Pharmakant/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

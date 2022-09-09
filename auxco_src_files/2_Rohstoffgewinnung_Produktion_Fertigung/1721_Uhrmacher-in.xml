@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1721</id>
   <taetigkeit>Herstellung, Instandhaltung und Reparatur von Uhren</taetigkeit>
@@ -31,4 +32,8 @@
   <abgrenzung typ="hoch" refid="1704">Uhrmachermeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1841">Gold- und Silberschmied/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2050">Feinwerktechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

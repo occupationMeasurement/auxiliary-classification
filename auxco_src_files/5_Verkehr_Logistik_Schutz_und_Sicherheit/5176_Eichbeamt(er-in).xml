@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5176</id>
   <taetigkeit>Überprüfung und Eichung von Messgeräten, die der Eichpflicht unterliegen</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="5086">Gesundheitsaufseher/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5088">amtliche/r Lebensmittelkontrolleur/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5085">Beamt(er/in) - Gewerbeaufsicht</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

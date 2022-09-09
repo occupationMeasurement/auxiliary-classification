@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7057</id>
   <taetigkeit>Prüfung, Herstellung und Ausgabe von Arzneimitteln in einer Apotheke</taetigkeit>
@@ -39,4 +40,8 @@
   <abgrenzung typ="mittel" refid="7061">Pharmareferent/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1791">Chemikant/in / Pharmakant/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7121">Apothekenleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

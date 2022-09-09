@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1225</id>
   <taetigkeit>Mitwirkung bei der organisatorischen und verwaltungstechnischen Abwicklung von Film- und Fernsehproduktionen</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="1225">Produktionsassistent/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1227">Film- und Fernsehwirt/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1231">Bühnenarbeiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1519</id>
   <taetigkeit>Haltung und Zucht von Fischen in künstlichen Anlagen sowie deren Abfang, Verarbeitung und Verkauf</taetigkeit>
@@ -33,4 +34,8 @@
   <abgrenzung typ="hoch" refid="1518">Fischer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1517">Fischereihelfer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1715">Fischwirtschaftsmeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1714</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Floristik</taetigkeit>
@@ -28,4 +29,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="1064">Florist/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1851">Landwirtschaftliche/r Betriebsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

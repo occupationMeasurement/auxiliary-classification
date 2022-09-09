@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3555</id>
   <taetigkeit>Recherche, Strukturierung und Bereitstellung von Informationen für Kunden</taetigkeit>
@@ -44,4 +45,8 @@
   <abgrenzung typ="mittel" refid="1825">Bibliotheksangestellte/r</abgrenzung>
   <abgrenzung typ="hoch" refid="3553">Archivdienstbeamter/-beamtin</abgrenzung>
   <abgrenzung typ="hoch" refid="3555">Rechercheur/in oder Dokumentar/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

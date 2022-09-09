@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5183</id>
   <taetigkeit>Herstellung, Prüfung und Reparatur von Reifen und anderen Gegenständen aus Gummi</taetigkeit>
@@ -15,4 +16,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="5179">Verfahrensmechaniker/in - Kautschuktechnik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

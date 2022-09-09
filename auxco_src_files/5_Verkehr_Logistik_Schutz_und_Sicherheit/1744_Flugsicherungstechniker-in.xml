@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1744</id>
   <taetigkeit>Planung, Instandhaltung und Optimierung von Radaranlagen, Flugzeug-Navigationssystemen und ähnlichen flugsicherungstechnischen Einrichtungen</taetigkeit>
@@ -30,4 +31,8 @@
   <abgrenzung typ="hoch" refid="1726">Luftfahrttechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5102">Technische/r Flugzeugprüfer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5016">Flugunfalluntersucher/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

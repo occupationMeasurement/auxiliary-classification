@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8018</id>
   <taetigkeit>Vermittlung religiöser Glaubensinhalte an eine Glaubensgemeinde sowie die Übernahme seelsorgerischer Aufgaben</taetigkeit>
@@ -24,4 +25,8 @@
   <abgrenzung typ="hoch" refid="8026">Bischof/Bischöfin</abgrenzung>
   <abgrenzung typ="hoch" refid="8044">Gemeindepädagoge/-pädagogin</abgrenzung>
   <abgrenzung typ="mittel" refid="1101">Philosoph/in / Religionswissenschaftler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

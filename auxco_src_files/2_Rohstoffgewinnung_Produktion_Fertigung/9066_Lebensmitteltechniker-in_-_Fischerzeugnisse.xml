@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9066</id>
   <taetigkeit>Planung, Koordination und Optimierung der industriellen Herstellung von Fischerzeugnissen</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="9065">Fischverarbeiter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9076">Leiter/in - Lebensmittelindustrie</abgrenzung>
   <abgrenzung typ="mittel" refid="1520">Fischereitechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

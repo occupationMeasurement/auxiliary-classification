@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6042</id>
   <taetigkeit>Entwicklung von Werbe- und Marketingkonzepten im Buchhandel</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="6086">Vertriebsagent/in - Buchhandel</abgrenzung>
   <abgrenzung typ="mittel" refid="3520">Medienmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4999</id>
   <taetigkeit>Präparierung von pflanzlichem oder tierischem Gewebe sowie von Fossilien für Museumsausstellungen</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="1301">Fachkraft - Präparator/in in Museen</abgrenzung>
   <abgrenzung typ="hoch" refid="7009">Medizinisch-technische/r Laboratoriumsassistent/in (MTLA)</abgrenzung>
   <abgrenzung typ="hoch" refid="4003">Fachkraft für medizinisch-biologische Präparation</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

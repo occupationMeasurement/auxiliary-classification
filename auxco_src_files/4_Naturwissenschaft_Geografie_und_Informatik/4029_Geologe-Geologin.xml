@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4029</id>
   <taetigkeit>Erforschung des Aufbaus, der Entstehung und der Entwicklung der Erde sowie ihrer Teilsysteme</taetigkeit>
@@ -21,4 +22,8 @@
   <abgrenzung typ="hoch" refid="4100">Geotechnikingenieur/in - Erkundungs- und Rohstoffgeologie</abgrenzung>
   <abgrenzung typ="hoch" refid="4030">Geograph/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1793">Physiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

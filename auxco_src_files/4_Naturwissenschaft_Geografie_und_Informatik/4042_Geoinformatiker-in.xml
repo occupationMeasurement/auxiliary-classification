@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4042</id>
   <taetigkeit>Analyse und Modellierung geowissenschaftlicher Daten mithilfe von Informationstechnologien</taetigkeit>
@@ -39,4 +40,8 @@
   <abgrenzung typ="mittel" refid="4028">Geotechnikingenieur/in - Bau</abgrenzung>
   <abgrenzung typ="mittel" refid="4100">Geotechnikingenieur/in - Erkundungs- und Rohstoffgeologie</abgrenzung>
   <abgrenzung typ="mittel" refid="4029">Geologe/Geologin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

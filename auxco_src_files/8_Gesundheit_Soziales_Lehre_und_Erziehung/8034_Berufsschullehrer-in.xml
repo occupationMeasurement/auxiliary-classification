@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8034</id>
   <taetigkeit>Erteilung von berufstheoretischem und berufspraktischem Unterricht an Berufsschulen</taetigkeit>
@@ -45,4 +46,8 @@
   <abgrenzung typ="hoch" refid="8028">Lehrer/in Sekundarstufe</abgrenzung>
   <abgrenzung typ="mittel" refid="8039">Dozent/in - Erwachsenenbildung</abgrenzung>
   <abgrenzung typ="mittel" refid="8035">Lehrlingsausbilder/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

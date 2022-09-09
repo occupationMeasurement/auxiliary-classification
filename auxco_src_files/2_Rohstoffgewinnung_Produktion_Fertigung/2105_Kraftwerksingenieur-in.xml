@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2105</id>
   <taetigkeit>Planung, Koordination und Optimierung von Anlagen zur Energiegewinnung aus fossilen Brennstoffen oder mittels Kernspaltung</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="2104">Kraftwerker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1733">Elektrotechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1731">Solar- und Windenergietechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

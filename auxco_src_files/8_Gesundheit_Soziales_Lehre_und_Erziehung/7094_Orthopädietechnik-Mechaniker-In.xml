@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7094</id>
   <taetigkeit>Fertigung, Anpassung und Reparatur orthopädietechnischer Hilfsmittel</taetigkeit>
@@ -33,4 +34,8 @@
   <abgrenzung typ="mittel" refid="7096">Ingenieur/in - Orthopädie- und Rehatechnik</abgrenzung>
   <abgrenzung typ="hoch" refid="1830">Orthopädietechnikermeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6039">Fachverkäufer/in - Sanitäts- und Medizinbedarf</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

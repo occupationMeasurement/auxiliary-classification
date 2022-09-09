@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8004</id>
   <taetigkeit>Sozialpädagogische Beratung und Betreuung von Personen, die sich in sozialen Problemsituationen befinden</taetigkeit>
@@ -35,4 +36,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="8061">Leiter/in einer sozialpädagogischen Einrichtung</abgrenzung>
   <abgrenzung typ="hoch" refid="8011">Sozialberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

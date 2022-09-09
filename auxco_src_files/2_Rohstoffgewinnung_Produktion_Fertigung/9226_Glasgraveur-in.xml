@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9226</id>
   <taetigkeit>Gravur von Buchstaben, Figuren und anderen Zeichnungen auf Glas</taetigkeit>
@@ -18,4 +19,8 @@
   <abgrenzung typ="hoch" refid="5144">Glas- und Porzellanmaler/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5145">Glasbläser/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9227">Flachglasmechaniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

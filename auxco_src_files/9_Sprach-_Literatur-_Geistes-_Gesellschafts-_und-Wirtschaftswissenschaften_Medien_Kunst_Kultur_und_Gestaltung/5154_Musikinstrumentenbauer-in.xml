@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5154</id>
   <taetigkeit>Herstellung und Reparatur von verschiedenen Musikinstrumenten sowie Überprüfung der Klangqualität</taetigkeit>
@@ -19,4 +20,8 @@
   <abgrenzung typ="hoch" refid="5165">Orgel- und Harmoniumbauer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5167">Handzuginstrumentenmacher/in, Harmonikamacher/in oder Schlagzeugbauer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6044">Musikfachhändler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

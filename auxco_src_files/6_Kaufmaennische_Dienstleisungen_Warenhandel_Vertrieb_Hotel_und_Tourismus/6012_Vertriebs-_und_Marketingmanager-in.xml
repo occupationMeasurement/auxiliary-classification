@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6012</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung im Vertriebsmanagement</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="mittel" refid="1747">Vertriebsspezialist/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1748">Handelsagent/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1750">Verkaufs- und Kassenaufsicht</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

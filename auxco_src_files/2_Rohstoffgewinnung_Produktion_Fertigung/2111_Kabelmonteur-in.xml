@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2111</id>
   <taetigkeit>Installation und Reparatur von elektrischen Übertragungs- und Zufuhrkabeln</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="2118">Informations- und Kommunikationselektroniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1732">Kabeltechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

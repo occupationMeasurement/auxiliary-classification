@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6054</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Leitung von Reisebüros, Reiseunternehmen oder von Fremdenverkehrsämtern</taetigkeit>
@@ -14,4 +15,8 @@
   <abgrenzung typ="hoch" refid="6047">Touristikmanager/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6020">Betriebsleiter/in – Fitness und Freizeit</abgrenzung>
   <abgrenzung typ="mittel" refid="6057">Hoteldirektor/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

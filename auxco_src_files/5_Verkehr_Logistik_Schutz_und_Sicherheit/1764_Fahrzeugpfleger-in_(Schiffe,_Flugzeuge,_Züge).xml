@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1764</id>
   <taetigkeit>Reinigung der Innen- oder Außenräume von Schienenfahrzeugen, Flugzeugen oder Schiffen</taetigkeit>
@@ -28,4 +29,8 @@
     </antwort>
   </untergliederung>
   <abgrenzung typ="hoch" refid="5096">Fahrzeugpfleger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

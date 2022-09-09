@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9204</id>
   <taetigkeit>Pflege und Erhaltung von Naturschutzgebieten, Kulturlandschaften oder Erholungsgebieten</taetigkeit>
@@ -48,4 +49,8 @@
   <abgrenzung typ="mittel" refid="9207">Forstverwalter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1054">Gärtner/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1056">Gartenbauingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

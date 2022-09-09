@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3597</id>
   <taetigkeit>Rekrutierung und Vorauswahl von neuen Mitarbeitern im Auftrag von Unternehmen</taetigkeit>
@@ -38,4 +39,8 @@
   <abgrenzung typ="mittel" refid="3594">Personalsachbearbeiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3595">Personalfachkaufmann/-frau</abgrenzung>
   <abgrenzung typ="hoch" refid="3598">Berufsberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

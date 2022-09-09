@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1854</id>
   <taetigkeit>Ausführung von Hilfsarbeiten im Hochbau oder im Tiefbau</taetigkeit>
@@ -40,4 +41,8 @@
   <abgrenzung typ="mittel" refid="5316">Trockenbauer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1755">Helfer/in - Bodenverlegung</abgrenzung>
   <abgrenzung typ="mittel" refid="1756">Helfer/in - Gebäudeausbau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3512</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung im Journalismus</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="3511">Leiter/in- Presse- und Öffentlichkeitsarbeit</abgrenzung>
   <abgrenzung typ="hoch" refid="3521">Verleger/in (Medien/Musik)</abgrenzung>
   <abgrenzung typ="mittel" refid="1838">Redakteur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

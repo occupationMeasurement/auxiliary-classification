@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6083</id>
   <taetigkeit>Erbringung kleinerer Dienstleistungen für Gäste eines Hotels gehobener Klasse</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="6077">Zimmermädchen/ Roomboy</abgrenzung>
   <abgrenzung typ="mittel" refid="6070">Rezeptionist/in - Hotel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

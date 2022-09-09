@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2158</id>
   <taetigkeit>Optimierung und Effizienzsteigerung von industriellen Fertigungs- und Arbeitsprozessen</taetigkeit>
@@ -22,4 +23,8 @@
   <abgrenzung typ="hoch" refid="1738">Qualitätssicherungstechniker/In</abgrenzung>
   <abgrenzung typ="mittel" refid="2159">Berufe in der technischen Produktionsplanung und -steuerung - hoch komplexe Tätigkeiten</abgrenzung>
   <abgrenzung typ="mittel" refid="3205">Technisch-kaufmännische/r Betriebassistent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

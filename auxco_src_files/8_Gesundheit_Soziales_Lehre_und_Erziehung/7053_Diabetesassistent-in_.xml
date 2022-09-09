@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7053</id>
   <taetigkeit>Beratung und Betreuung von Patienten mit Diabetes sowie die Durchführung von Diabetikerschulungen</taetigkeit>
@@ -37,4 +38,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="7051">Diätassistent/in</abgrenzung>
   <abgrenzung typ="mittel" refid="7056">therapeutische/r Einrichtungsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

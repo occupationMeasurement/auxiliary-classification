@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1213</id>
   <taetigkeit>Auftritt im Fernsehen oder im Theater in Nebenrollen</taetigkeit>
@@ -15,4 +16,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="1214">Artist/in / Akrobat/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1208">Schauspieler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

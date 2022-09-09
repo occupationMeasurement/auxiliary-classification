@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1038</id>
   <taetigkeit>Ausbildung von Pferden sowie die Teilnahme an Reit-Wettkämpfen</taetigkeit>
@@ -44,4 +45,8 @@
     <isco schluessel="3423"> Fitness and Recreation Instructors and Programme Leaders</isco>
   </untergliederung>
   <abgrenzung typ="hoch" refid="1035">Pferdepfleger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

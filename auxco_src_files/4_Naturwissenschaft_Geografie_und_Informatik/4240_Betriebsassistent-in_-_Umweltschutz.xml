@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4240</id>
   <taetigkeit>Ausführung von Büro- und Verwaltungsaufgaben im Bereich Umweltschutz</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="4254">Energieberater/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4255">Abfall- und Umweltberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

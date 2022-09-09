@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5132</id>
   <taetigkeit>Konservierung und Restaurierung von plastischen Kunstobjekten</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="mittel" refid="5130">Holzbildhauer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5131">Steinbildhauer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5137">Restaurator/in - Vergolderhandwerk</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

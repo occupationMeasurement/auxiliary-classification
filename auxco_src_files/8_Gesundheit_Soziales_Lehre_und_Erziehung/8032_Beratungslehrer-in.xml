@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8032</id>
   <taetigkeit>Beratung von Schülern und Eltern sowie Übernahme fachbereichsbezogener Verwaltungs- und Koordinationsaufgaben</taetigkeit>
@@ -12,4 +13,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="mittel" refid="8033">Schulleiter/in - allgemeinbildende Schulen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5124</id>
   <taetigkeit>Entwicklung von verkaufsfördernden Gestaltungskonzepten für Schaufenster, Verkaufsräume und Ausstellungsräume</taetigkeit>
@@ -32,4 +33,8 @@
   <abgrenzung typ="hoch" refid="1840">Innenarchitekt/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5170">Raumausstatter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1837">Produktmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1016</id>
   <taetigkeit>Planung und Koordination des Einsatzes von landwirtschaftlichen Maschinen</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="1017">Agraringenieur/in - Mechanisierung der Landwirtschaft</abgrenzung>
   <abgrenzung typ="mittel" refid="1725">Land- und Baumaschinentechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

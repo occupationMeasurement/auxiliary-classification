@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7086</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung im kosmetischen Bereich</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="7080">Kosmetiker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7085">Friseurmeister/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7087">Chefmaskenbildner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

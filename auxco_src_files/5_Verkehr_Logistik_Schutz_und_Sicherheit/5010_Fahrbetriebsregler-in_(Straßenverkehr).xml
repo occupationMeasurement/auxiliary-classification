@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5010</id>
   <taetigkeit>Planung und Koordination der Fahrtrouten von Bussen und LKWs in Absprache mit den Fahrern</taetigkeit>
@@ -36,4 +37,8 @@
   <abgrenzung typ="hoch" refid="1746">Betriebs- und Verkehrstechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5031">Disponent/in für Eisenbahn und Straßenverkehr</abgrenzung>
   <abgrenzung typ="hoch" refid="5025">Kaufmann/-frau für Spedition und Logistikdienstleistungen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

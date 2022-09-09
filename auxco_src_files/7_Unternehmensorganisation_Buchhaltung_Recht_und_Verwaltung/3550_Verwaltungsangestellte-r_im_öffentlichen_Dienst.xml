@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3550</id>
   <taetigkeit>Erarbeitung von Verwaltungsentscheidungen auf der Basis von Bundes-, Landes- und kommunalem Recht</taetigkeit>
@@ -50,4 +51,8 @@
   <abgrenzung typ="mittel" refid="3546">Verwaltungswissenschaftler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3544">Sozialversicherungsangestellte/r</abgrenzung>
   <abgrenzung typ="mittel" refid="3541">Justizverwaltungsbeamter/-beamtin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3206</id>
   <taetigkeit>Unterstützung von Führungskräften bei der Verwaltung, Koordination und Organisation des Unternehmens ohne weitere Spezialisierung</taetigkeit>
@@ -72,4 +73,8 @@
   <abgrenzung typ="hoch" refid="3503">Marketingassistent/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1837">Produktmanager/in</abgrenzung>
   <abgrenzung typ="hoch" refid="3518">Account-Manager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

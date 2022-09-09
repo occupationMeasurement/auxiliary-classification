@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1786</id>
   <taetigkeit>Planung, Koordination und Optimierung des Baus von Rohrleitungssystemen zum Transport von Wasser, Gas, Öl oder Fernwärme</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="hoch" refid="5297">Gas- und Wasserinstallateur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5357">Leiter/in - Wasserversorgung und -entsorgung</abgrenzung>
   <abgrenzung typ="hoch" refid="1754">Tunnelbautechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

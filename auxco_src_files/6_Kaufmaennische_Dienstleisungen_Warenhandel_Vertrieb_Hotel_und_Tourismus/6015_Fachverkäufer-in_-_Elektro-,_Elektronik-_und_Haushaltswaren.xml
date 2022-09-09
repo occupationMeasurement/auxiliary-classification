@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6015</id>
   <taetigkeit>Verkauf von Elektrowaren, Elektronikwaren oder Haushaltswaren im Einzelhandel</taetigkeit>
@@ -21,4 +22,8 @@
   <abgrenzung typ="hoch" refid="6013">Einrichtungsfachverkäufer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6065">Fachverkäufer/in - Garten- und Heimwerkerbedarf</abgrenzung>
   <abgrenzung typ="mittel" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5087</id>
   <taetigkeit>Sicherstellung der Einhaltung hygienischer Standards in Krankenhäusern und medizinischen Einrichtungen</taetigkeit>
@@ -18,4 +19,8 @@
   <abgrenzung typ="hoch" refid="7024">Sterilisationsassistent/in</abgrenzung>
   <abgrenzung typ="mittel" refid="7018">Krankenpflegehelfer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="7020">Fachkinderkrankenschwester/-pfleger</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

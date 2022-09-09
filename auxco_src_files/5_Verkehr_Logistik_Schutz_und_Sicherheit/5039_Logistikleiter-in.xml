@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5039</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung im kaufmännischen Bereich von Verkehrsunternehmen und Logistikunternehmen</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="mittel" refid="5022">Verkehrsbetriebswirt/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5024">Betriebswirt/in im Verkehrsmanagement</abgrenzung>
   <abgrenzung typ="mittel" refid="5029">Logistikmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

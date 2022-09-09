@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3219</id>
   <taetigkeit>Sachbearbeitung und Korrespondenz mit Auslandskontakten in einer Fremdsprache</taetigkeit>
@@ -31,4 +32,8 @@
   <abgrenzung typ="mittel" refid="3214">Dolmetscher/in und Übersetzer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1749">internationale/r Handelsagent/in</abgrenzung>
   <abgrenzung typ="hoch" refid="6022">Sachbearbeiter/in im Groß- und Außenhandel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

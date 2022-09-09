@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5045</id>
   <taetigkeit>Auslieferung von Waren an Kunden mit PKWs, Kleinbussen oder Transportern</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="mittel" refid="5042">Kraftfahrer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5171">Fahrradkurier/in bzw. Handwagenkurier/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5172">Kraftradkurier/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

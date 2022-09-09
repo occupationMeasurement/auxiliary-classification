@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1824</id>
   <taetigkeit>Planung und Organisation der internen Kostenrechnung zur Ermittlung der betrieblichen Produktionskosten</taetigkeit>
@@ -31,4 +32,8 @@
   <abgrenzung typ="mittel" refid="5402">Baukalkulator/in</abgrenzung>
   <abgrenzung typ="hoch" refid="3581">Wirtschaftsprüfer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="3573">Controller/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

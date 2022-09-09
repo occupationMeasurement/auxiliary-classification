@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2053</id>
   <taetigkeit>Herstellung und Reparatur maßgeschneiderter Spezialwerkzeuge zur Unterstützung der Serienfertigung</taetigkeit>
@@ -26,4 +27,8 @@
   <abgrenzung typ="mittel" refid="2023">Zerspanungsmechaniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2059">Maschinenschlosser/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2062">Büchsenmacher/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

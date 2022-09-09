@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3578</id>
   <taetigkeit>Durchführung unterstützender Bürotätigkeiten bei einer Versicherung</taetigkeit>
@@ -19,4 +20,8 @@
   <abgrenzung typ="hoch" refid="3584">Versicherungsagent/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3577">Geldanlageberater/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3544">Sozialversicherungsangestellte/r</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

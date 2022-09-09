@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2034</id>
   <taetigkeit>Montage und Aufbereitung von Metallteilen und Metallkonstruktionen</taetigkeit>
@@ -19,4 +20,8 @@
   <abgrenzung typ="hoch" refid="1846">Metallbautechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2040">Metallbauhelfer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2042">Schweißer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

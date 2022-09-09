@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5128</id>
   <taetigkeit>Pflege und Restaurierung von Kunstwerken</taetigkeit>
@@ -31,4 +32,8 @@
   <abgrenzung typ="mittel" refid="5137">Restaurator/in - Vergolderhandwerk</abgrenzung>
   <abgrenzung typ="mittel" refid="5150">Restaurator/in - Gold- und Silberschmiedehandwerk</abgrenzung>
   <abgrenzung typ="mittel" refid="1300">Kurator/in / Museologe/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

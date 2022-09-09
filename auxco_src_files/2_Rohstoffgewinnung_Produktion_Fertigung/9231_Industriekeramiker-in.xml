@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9231</id>
   <taetigkeit>Industrielle Fertigung von Porzellan, Waschbecken, Fliesen oder anderen Produkten aus Keramik</taetigkeit>
@@ -44,4 +45,8 @@
   <abgrenzung typ="hoch" refid="5142">Keramiker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5144">Glas- und Porzellanmaler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9233">Leiter/in - Keramikfabrik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

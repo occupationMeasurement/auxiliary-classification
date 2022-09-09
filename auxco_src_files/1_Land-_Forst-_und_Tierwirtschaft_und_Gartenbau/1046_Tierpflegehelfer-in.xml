@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1046</id>
   <taetigkeit>Ausführung von Hilfsarbeiten in der Tierpflege in Tierheimen, Zoos, Forschungseinrichtungen oder Zuchtbetrieben</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="1047">Tierpfleger/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1502">Nutztierhaltung - Helfer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1011">Helfer/in in der Tierwirtschaft und im Ackerbau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4234</id>
   <taetigkeit>Entnahme von Proben und Überprüfung auf Schadstoffbelastungen im Labor im Bereich Umweltschutz</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="4013">Chemisch-Technische/r Assistent/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4017">Physikalisch-Technische/r Assistent/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4240">Betriebsassistent/in - Umweltschutz</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8035</id>
   <taetigkeit>Planung, Organisation und Durchführung der betrieblichen Ausbildung</taetigkeit>
@@ -44,4 +45,8 @@
   <abgrenzung typ="hoch" refid="8036">Schulleiter/in – berufliche Schulen</abgrenzung>
   <abgrenzung typ="hoch" refid="8034">Berufsschullehrer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="8039">Dozent/in - Erwachsenenbildung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

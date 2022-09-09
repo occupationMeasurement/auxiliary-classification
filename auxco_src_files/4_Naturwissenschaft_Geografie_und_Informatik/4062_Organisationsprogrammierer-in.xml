@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4062</id>
   <taetigkeit>Programmierung von Computerprogrammen nach Vorgabe</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="mittel" refid="4253">Software-Projektleiter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="4038">Informatiker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1770">ERP-Anwendungsentwickler</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1508</id>
   <taetigkeit>Prüfung der Qualität von Geflügelprodukten sowie Beratung von Geflügelzuchtbetrieben</taetigkeit>
@@ -10,4 +11,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="1506">Tierwirt/in - Geflügelhaltung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7101</id>
   <taetigkeit>Bedienung und Überwachung medizinischer Geräte bei herzchirurgischen Eingriffen</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="7011">Medizinisch-technische/r Assistent/in (MTA)</abgrenzung>
   <abgrenzung typ="hoch" refid="7012">Ingenieur/in - Kardiotechnik</abgrenzung>
   <abgrenzung typ="mittel" refid="1829">Medizintechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

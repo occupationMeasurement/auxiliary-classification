@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1203</id>
   <taetigkeit>Leitung und Koordination von Musikensembles sowie Gestaltung der Darbietung von Werken</taetigkeit>
@@ -29,4 +30,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="1206">Korrepetior/in - Gesang/Instrumentalisten/</abgrenzung>
   <abgrenzung typ="mittel" refid="1200">Musiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

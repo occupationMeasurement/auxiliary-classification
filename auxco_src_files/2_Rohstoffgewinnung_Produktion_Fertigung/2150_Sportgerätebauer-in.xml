@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2150</id>
   <taetigkeit>Konstruktion und Fertigung von Sportausrüstung</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="2151">Normentechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2152">Sportingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2146">Technische/r Zeichner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1779</id>
   <taetigkeit>Planung, Koordination und Optimierung von Bauarbeiten im Tiefbau</taetigkeit>
@@ -27,4 +28,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="5301">Vorarbeiter/in- Tiefbau</abgrenzung>
   <abgrenzung typ="hoch" refid="1754">Tunnelbautechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

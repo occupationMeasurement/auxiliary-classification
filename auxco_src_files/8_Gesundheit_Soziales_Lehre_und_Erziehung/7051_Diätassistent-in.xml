@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7051</id>
   <taetigkeit>Erarbeitung von Ernährungsplänen zur Verbesserung des Gesundheitszustandes</taetigkeit>
@@ -28,4 +29,8 @@
   <abgrenzung typ="hoch" refid="1828">Ernährungstrainer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7067">Gesundheitstrainer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7052">Verpflegungsmanager/in (Diätküchenleiter/in)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

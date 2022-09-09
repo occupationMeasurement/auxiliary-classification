@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5141</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung im Kunsthandwerk oder der bildenden Kunst</taetigkeit>
@@ -39,4 +40,8 @@
   <abgrenzung typ="hoch" refid="2121">Metall- und Glockengießermeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2047">Metallbaumeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5148">Metalldesigner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

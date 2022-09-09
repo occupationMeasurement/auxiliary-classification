@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4700</id>
   <taetigkeit>Organisation und Umsetzung von Klimaschutzprojekten in Zusammenarbeit mit Industriebetrieben, Energieversorgern oder kommunalen Einrichtungen</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="mittel" refid="1799">Umweltschutzingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4242">Umweltschutzbeauftragte/r</abgrenzung>
   <abgrenzung typ="hoch" refid="4243">Beamter/in - Umweltverwaltung (höh. techn. Dienst)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

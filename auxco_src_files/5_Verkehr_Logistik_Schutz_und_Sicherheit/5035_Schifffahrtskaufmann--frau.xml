@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5035</id>
   <taetigkeit>Durchführung kaufmännischer und organisatorischer Tätigkeiten im Seeverkehr</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="1760">Klarierungsagent/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5036">Schiffsmakler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5005">Fachkraft - Hafenlogistik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

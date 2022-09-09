@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1827</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Gesundheits- und Krankenpflege oder in der Geburtshilfe</taetigkeit>
@@ -30,4 +31,8 @@
   <abgrenzung typ="hoch" refid="7104">Krankenschwester/-pfleger</abgrenzung>
   <abgrenzung typ="mittel" refid="1807">Leiter/in - Rettungsdienst</abgrenzung>
   <abgrenzung typ="hoch" refid="7122">Leiter/in - Altenpflegeeinrichtung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

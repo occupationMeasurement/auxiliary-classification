@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5160</id>
   <taetigkeit>Restaurierung und Pflege von alten Holzblasinstrumenten sowie deren Neuanfertigung nach Originalvorlage</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="5159">Holzblasinstrumentenmacher/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5155">Musikinstrumentenrestaurator/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

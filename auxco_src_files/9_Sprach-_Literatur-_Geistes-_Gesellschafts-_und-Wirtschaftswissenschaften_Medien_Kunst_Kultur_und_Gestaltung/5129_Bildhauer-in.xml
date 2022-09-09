@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5129</id>
   <taetigkeit>Herstellung von Figuren, Büsten, Reliefs oder Ornamente aus Holz, Stein oder ähnlichen Werkstoffen nach eigenen künstlerischen Ideen</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="hoch" refid="5147">Metallbildner/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5130">Holzbildhauer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5131">Steinbildhauer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

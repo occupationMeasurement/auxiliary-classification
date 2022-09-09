@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1220</id>
   <taetigkeit>Moderation und Entertainment bei Veranstaltungen im Unterhaltungsgewerbe</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="hoch" refid="1600">Diskjockey / Bauchredner/in / Travestiekünstler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1216">Illusionskünstler/in / Zauberer/ Zauberin</abgrenzung>
   <abgrenzung typ="hoch" refid="1218">Hörfunk- und Fernsehmoderator/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

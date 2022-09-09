@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7065</id>
   <taetigkeit>Betreuung, Pflege und Unterstützung älterer Menschen</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="mittel" refid="1834">Sozialassistent/in</abgrenzung>
   <abgrenzung typ="mittel" refid="8010">Familienpfleger/in für Notsituationen</abgrenzung>
   <abgrenzung typ="mittel" refid="7122">Leiter/in - Altenpflegeeinrichtung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

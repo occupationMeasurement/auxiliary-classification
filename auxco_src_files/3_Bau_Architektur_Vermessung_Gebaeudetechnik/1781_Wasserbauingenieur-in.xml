@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1781</id>
   <taetigkeit>Planung, Koordination und Optimierung des Baus und der Instandhaltung von Wasserstraßen, Küsten und Stauseen und dazugehörigen technischen Anlagen</taetigkeit>
@@ -28,4 +29,8 @@
   <abgrenzung typ="hoch" refid="1779">Tiefbauingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5278">Bodenkulturbauarbeiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1745">Wasserstraßenverkehrswart/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

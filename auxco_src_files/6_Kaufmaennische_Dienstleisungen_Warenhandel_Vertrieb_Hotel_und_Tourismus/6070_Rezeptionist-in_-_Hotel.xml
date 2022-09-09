@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6070</id>
   <taetigkeit>Erteilung von Auskünften an Hotelrezeptionen sowie die Durchführung von Servicedienstleistungen</taetigkeit>
@@ -18,4 +19,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="6083">Hotelpage</abgrenzung>
   <abgrenzung typ="mittel" refid="6077">Zimmermädchen/ Roomboy</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

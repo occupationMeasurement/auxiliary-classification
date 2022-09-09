@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1777</id>
   <taetigkeit>Planung und Koordination der Erhaltung und Instandsetzung von denkmalgeschützten Bauwerken</taetigkeit>
@@ -31,4 +32,8 @@
   <abgrenzung typ="mittel" refid="5317">Ausbautechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5257">Leiter/in - Bauplanung</abgrenzung>
   <abgrenzung typ="mittel" refid="5246">Bauingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8028</id>
   <taetigkeit>Erteilung von allgemeinbildendem Unterricht in der Sekundarstufe I und II</taetigkeit>
@@ -18,4 +19,8 @@
   <abgrenzung typ="hoch" refid="8029">Sonderschullehrer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="8032">Beratungslehrer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="8034">Berufsschullehrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

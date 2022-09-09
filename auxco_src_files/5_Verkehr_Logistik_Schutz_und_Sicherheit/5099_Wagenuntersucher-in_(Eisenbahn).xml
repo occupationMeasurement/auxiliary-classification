@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5099</id>
   <taetigkeit>Sicherstellung der Betriebssicherheit und Verkehrstauglichkeit von Eisenbahnzügen vor der Abfahrt</taetigkeit>
@@ -28,4 +29,8 @@
   <abgrenzung typ="hoch" refid="5100">Eisenbahn-Wagenmeister/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5107">Streckenwärter/in (Bahn)</abgrenzung>
   <abgrenzung typ="mittel" refid="5011">Eisenbahnbetriebsregler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5038</id>
   <taetigkeit>Planung und Koordination der Arbeitsabläufe in Poststellen</taetigkeit>
@@ -10,4 +11,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="5037">Kaufmann/-frau - Kurier-, Express- u. Postdienstleistungen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

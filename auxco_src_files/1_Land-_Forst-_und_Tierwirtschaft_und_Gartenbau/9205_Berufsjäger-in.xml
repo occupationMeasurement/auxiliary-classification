@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9205</id>
   <taetigkeit>Pflege und Erhaltung des Tierbestandes in einem Jagdrevier sowie die Regulierung des Wildbestandes durch Jagd</taetigkeit>
@@ -29,4 +30,8 @@
     </antwort>
   </untergliederung>
   <abgrenzung typ="mittel" refid="1047">Tierpfleger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

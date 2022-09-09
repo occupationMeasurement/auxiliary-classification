@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6061</id>
   <taetigkeit>Präsentation und Verkauf von Waren und Dienstleistungen in Handelseinrichtungen, auf Messen und in privaten Haushalten</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
   <abgrenzung typ="hoch" refid="6078">Haustürverkäufer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

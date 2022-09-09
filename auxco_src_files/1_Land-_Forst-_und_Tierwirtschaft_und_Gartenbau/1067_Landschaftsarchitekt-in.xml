@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1067</id>
   <taetigkeit>Entwicklung von Konzepten in der Raum- und Stadtplanung mit Fokus auf Landschaftsschutz und Umwelt</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="hoch" refid="9204">Natur- und Landschaftspfleger/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5279">Ingenieur/in - Stadt- und Regionalplanung</abgrenzung>
   <abgrenzung typ="mittel" refid="1056">Gartenbauingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

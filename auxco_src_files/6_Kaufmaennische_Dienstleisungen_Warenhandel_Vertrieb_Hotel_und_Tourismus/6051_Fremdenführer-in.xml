@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6051</id>
   <taetigkeit>Führen von Reisegruppen sowie Vermittlung von Informationen über Zielorte und Sehenswürdigkeiten</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="6049">Freizeit- und Reisebetreuer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="6050">Reiseleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

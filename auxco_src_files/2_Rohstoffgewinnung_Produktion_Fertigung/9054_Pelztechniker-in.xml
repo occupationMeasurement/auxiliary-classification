@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9054</id>
   <taetigkeit>Planung, Koordination und Überwachung von Fertigungsprozessen bei der Produktion von Pelzprodukten</taetigkeit>
@@ -14,4 +15,8 @@
   <abgrenzung typ="mittel" refid="9053">Pelzveredler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9506">Kürschner/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9055">Leiter/in Leder- und Pelzbearbeitung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

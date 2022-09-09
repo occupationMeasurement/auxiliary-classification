@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3504</id>
   <taetigkeit>Beaufsichtigung und Koordination der Bürokräfte im Dialogmarketing sowie Übernahme organisatorischer Aufgaben in Callcentern</taetigkeit>
@@ -15,4 +16,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="3515">Werbeleiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1002">Callcenteragent/in (Inbound)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

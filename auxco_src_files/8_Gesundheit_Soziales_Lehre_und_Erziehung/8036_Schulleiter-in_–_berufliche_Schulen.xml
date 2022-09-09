@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8036</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in Berufsschulen</taetigkeit>
@@ -16,4 +17,8 @@
   <abgrenzung typ="hoch" refid="8034">Berufsschullehrer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="8035">Lehrlingsausbilder/in</abgrenzung>
   <abgrenzung typ="hoch" refid="8038">Hochschulpräsident/in bzw. Hochschulrektor/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

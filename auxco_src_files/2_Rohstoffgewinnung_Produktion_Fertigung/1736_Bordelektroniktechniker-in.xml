@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1736</id>
   <taetigkeit>Erforschung und Entwicklung von elektronischen Systemen und Geräten für Fahrzeuge, Flugzeuge oder Schiffe</taetigkeit>
@@ -31,4 +32,8 @@
   <abgrenzung typ="mittel" refid="2077">Kraftfahrzeugtechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1729">Mechatroniktechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2078">Kraftfahrzeugingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

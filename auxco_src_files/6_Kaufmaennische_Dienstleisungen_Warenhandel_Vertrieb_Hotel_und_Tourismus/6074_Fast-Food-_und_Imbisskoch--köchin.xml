@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6074</id>
   <taetigkeit>Zubereitung von einfachen Speisen in Schnellrestaurants</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="1822">Kellner/in</abgrenzung>
   <abgrenzung typ="hoch" refid="6075">Küchenhelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

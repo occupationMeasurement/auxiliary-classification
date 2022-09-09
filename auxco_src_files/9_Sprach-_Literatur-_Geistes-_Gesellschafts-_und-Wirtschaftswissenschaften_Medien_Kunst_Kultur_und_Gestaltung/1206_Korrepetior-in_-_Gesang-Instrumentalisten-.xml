@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1206</id>
   <taetigkeit>Begleitung von Sängern und Instrumentalisten am Klavier</taetigkeit>
@@ -36,4 +37,8 @@
   <abgrenzung typ="hoch" refid="1205">Musik- und Sounddesigner/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1200">Musiker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="8041">Musiklehrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1727</id>
   <taetigkeit>Planung, Koordination und Optimierung der Produktionsprozesse von Schiffen, Wasserfahrzeugen oder ortsfesten maritimen Konstruktionen</taetigkeit>
@@ -28,4 +29,8 @@
   <abgrenzung typ="hoch" refid="2086">Schiffbauer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1722">Maschinenbauingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2126">Leiter/in Fahrzeugtechnik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

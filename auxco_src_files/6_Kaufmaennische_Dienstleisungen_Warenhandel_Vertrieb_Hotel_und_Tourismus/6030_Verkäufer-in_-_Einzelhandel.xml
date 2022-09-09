@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6030</id>
   <taetigkeit>Verkauf von Waren und Dienstleistungen sowie Unterstützung der Lagerverwaltung im Einzelhandel</taetigkeit>
@@ -15,4 +16,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="6060">Kassierer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="6033">Aushilfskraft - Einzelhandel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

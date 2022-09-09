@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3598</id>
   <taetigkeit>Beratung bei der Berufswahl und bei der Suche nach einem Arbeitsplatz</taetigkeit>
@@ -20,4 +21,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="3597">Personalvermittler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3596">Personalentwickler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

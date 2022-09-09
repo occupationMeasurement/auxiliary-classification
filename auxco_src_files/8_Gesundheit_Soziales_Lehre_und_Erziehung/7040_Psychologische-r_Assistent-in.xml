@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7040</id>
   <taetigkeit>Unterstützung von Psychotherapeuten oder Psychiatern bei der Behandlung</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="7041">Psychologe/Psychologin</abgrenzung>
   <abgrenzung typ="hoch" refid="7104">Krankenschwester/-pfleger</abgrenzung>
   <abgrenzung typ="mittel" refid="7020">Fachkinderkrankenschwester/ -pfleger</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1701</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung im Druckwesen</taetigkeit>
@@ -14,4 +15,8 @@
   <abgrenzung typ="hoch" refid="1718">Techniker/in - Druck- und Medientechnik</abgrenzung>
   <abgrenzung typ="mittel" refid="5238">Buchrestaurator/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1700">Buchbindermeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

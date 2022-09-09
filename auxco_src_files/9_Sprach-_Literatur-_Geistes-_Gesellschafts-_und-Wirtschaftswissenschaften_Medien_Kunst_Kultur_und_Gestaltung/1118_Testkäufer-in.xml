@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1118</id>
   <taetigkeit>Durchführung von Testkäufen zur Qualitätsbewertung</taetigkeit>
@@ -11,4 +12,8 @@
       <dkz codenr="91341-104" refid="28874">Tester/in, Testperson</dkz>
     </default>
   </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8023</id>
   <taetigkeit>Gestaltung von nichtreligiösen Trauerfeiern für Verstorbene</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="8022">Küster/in</abgrenzung>
   <abgrenzung typ="hoch" refid="8024">Christliche/r Jugendbetreuer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="8019">Gemeindereferent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

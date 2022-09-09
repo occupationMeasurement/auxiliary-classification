@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1019</id>
   <taetigkeit>Tätigkeiten im gehobenen technischen Dienst bei einer Landwirtschaftsbehörde</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="1014">Anbauberater/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1018">Landwirtschaftlicher Gutachter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

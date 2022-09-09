@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1728</id>
   <taetigkeit>Planung, Koordination und Optimierung der Produktionsprozesse und der Instandhaltung von Zweirädern und Zweiradkomponenten</taetigkeit>
@@ -28,4 +29,8 @@
     </antwort>
   </untergliederung>
   <abgrenzung typ="hoch" refid="2090">Fahrradmechaniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

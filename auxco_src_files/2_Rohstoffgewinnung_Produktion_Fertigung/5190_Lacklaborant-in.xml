@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5190</id>
   <taetigkeit>Entwicklung, Herstellung und Prüfung von Beschichtungsstoffen wie Lacken und Farben</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="5187">Farb- und Lacktechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5188">Farb- und Lackingenieur/in</abgrenzung>
   <abgrenzung typ="hoch" refid="4013">Chemisch-Technische/r Assistent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

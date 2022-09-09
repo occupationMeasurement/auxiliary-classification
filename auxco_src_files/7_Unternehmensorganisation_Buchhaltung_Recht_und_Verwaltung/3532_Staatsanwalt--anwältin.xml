@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3532</id>
   <taetigkeit>Leitung von Ermittlungsverfahren gegen Straftäter sowie Vertretung der Anklage vor Gericht</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="3530">Rechtliche/r Berater/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3541">Justizverwaltungsbeamter/-beamtin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1200</id>
   <taetigkeit>Einstudieren und Aufführen von Instrumentalmusik</taetigkeit>
@@ -25,4 +26,8 @@
   <abgrenzung typ="hoch" refid="1202">Sänger/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1205">Musik- und Sounddesigner/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1204">Komponist/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

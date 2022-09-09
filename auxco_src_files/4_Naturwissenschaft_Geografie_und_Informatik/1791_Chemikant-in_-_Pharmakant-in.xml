@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1791</id>
   <taetigkeit>Steuerung und Überwachung von Prozessen in der chemischen oder pharmazeutischen Produktion</taetigkeit>
@@ -38,4 +39,8 @@
   <abgrenzung typ="hoch" refid="4015">Steuer(er/in) - chemische Verfahrensanlagen</abgrenzung>
   <abgrenzung typ="hoch" refid="4016">Steuer(er/in) - Erdöl- und Erdgasraffinationsanlagen</abgrenzung>
   <abgrenzung typ="mittel" refid="4012">Ingenieur/in - Chemietechnik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

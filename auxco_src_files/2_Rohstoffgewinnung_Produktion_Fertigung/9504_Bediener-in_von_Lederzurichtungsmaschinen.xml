@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9504</id>
   <taetigkeit>Einstellung und Bedienung von Maschinen zur Herstellung von Leder aus Rohhäuten</taetigkeit>
@@ -34,4 +35,8 @@
   <abgrenzung typ="hoch" refid="9039">Lederwarenhersteller/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9053">Pelzveredler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9506">Kürschner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

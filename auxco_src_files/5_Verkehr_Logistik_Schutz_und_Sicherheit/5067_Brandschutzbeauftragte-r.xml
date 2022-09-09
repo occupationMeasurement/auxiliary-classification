@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5067</id>
   <taetigkeit>Kontrolle der Funktion feuerwehrtechnischer Geräte sowie Ausführung von Aufgaben im betrieblichen Brandschutz</taetigkeit>
@@ -14,4 +15,8 @@
   <abgrenzung typ="hoch" refid="5065">Feuerwehrmann/-frau</abgrenzung>
   <abgrenzung typ="hoch" refid="5068">Brandschutzingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5077">Leiter/in - Rettungsstelle</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

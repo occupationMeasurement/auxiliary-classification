@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7056</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in einem nichtärztlichen Therapiezentrum</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="mittel" refid="7048">Logopäde/Logopädin</abgrenzung>
   <abgrenzung typ="mittel" refid="7049">Musik- oder Kunsttherapeut/in</abgrenzung>
   <abgrenzung typ="mittel" refid="7052">Verpflegungsmanager/in (Diätküchenleiter/in)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

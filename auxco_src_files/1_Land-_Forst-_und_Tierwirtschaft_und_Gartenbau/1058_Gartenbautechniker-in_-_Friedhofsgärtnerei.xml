@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1058</id>
   <taetigkeit>Planung, Koordination und Optimierung der Gestaltung und Pflege von Grabstätten und Friedhofsanlagen</taetigkeit>
@@ -12,4 +13,8 @@
   <abgrenzung typ="hoch" refid="1057">Friedhofsgärtner/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1054">Gärtner/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1055">Gartenbautechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

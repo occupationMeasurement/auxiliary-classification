@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5079</id>
   <taetigkeit>Durchführung von Ermittlungsarbeiten zur Aufklärung von Verbrechen sowie Prävention von Verbrechen</taetigkeit>
@@ -38,4 +39,8 @@
   <abgrenzung typ="mittel" refid="3552">Zolldienstbeamt(er/in)</abgrenzung>
   <abgrenzung typ="mittel" refid="1123">Experte/in für spezielle Gesellschafts- und Kulturwissenschaften</abgrenzung>
   <abgrenzung typ="hoch" refid="5174">Leiter/in - Kriminalpolizeidienststellen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

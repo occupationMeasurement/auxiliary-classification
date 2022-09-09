@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3023</id>
   <taetigkeit>Bemalung, Lackierung und Beschichtung von Decken, Böden oder Fassaden</taetigkeit>
@@ -20,4 +21,8 @@
   <abgrenzung typ="mittel" refid="5303">Restaurator/in - Maler- und Lackiererhandwerk</abgrenzung>
   <abgrenzung typ="hoch" refid="5186">Lackierer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5189">Fahrzeuglackierer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

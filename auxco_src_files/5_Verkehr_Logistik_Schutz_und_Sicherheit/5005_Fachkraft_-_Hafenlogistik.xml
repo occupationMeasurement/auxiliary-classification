@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5005</id>
   <taetigkeit>Ausführung von Tätigkeiten beim Umschlag und bei der Kontrolle von Waren an Häfen</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="5035">Schifffahrtskaufmann/-frau</abgrenzung>
   <abgrenzung typ="mittel" refid="5025">Kaufmann/-frau für Spedition und Logistikdienstleistungen</abgrenzung>
   <abgrenzung typ="mittel" refid="1746">Betriebs- und Verkehrstechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

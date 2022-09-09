@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1711</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Pferdewirtschaft oder Pferdezucht</taetigkeit>
@@ -69,4 +70,8 @@
   <abgrenzung typ="mittel" refid="1710">Tierwirtschaftsmeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1712">Tierpflegemeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1038">Pferdewirt - Pferdereiten</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

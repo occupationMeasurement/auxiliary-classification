@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2121</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Herstellung von Metall</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="2122">Leiter/in - Metallbearbeitung</abgrenzung>
   <abgrenzung typ="mittel" refid="1844">Gießereitechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1719">Steuerer von Verfahren in der Metallerzeugung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1759</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Umweltschutztechnik</taetigkeit>
@@ -11,4 +12,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="1799">Umweltschutzingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5358">Leiter/in - Abfallentsorgung und Städtereinigung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

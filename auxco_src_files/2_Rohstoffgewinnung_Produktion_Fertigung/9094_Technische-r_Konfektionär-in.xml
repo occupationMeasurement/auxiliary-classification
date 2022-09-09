@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9094</id>
   <taetigkeit>Fertigung technischer Konfektionsware, wie  Schutz- und Wetterkleidung, Zelt- und Lkw-Planen, Marktschirmen oder anderer technische Konfektionsware</taetigkeit>
@@ -20,4 +21,8 @@
   <abgrenzung typ="mittel" refid="9046">Leiter/in - Textilverarbeitung</abgrenzung>
   <abgrenzung typ="hoch" refid="3010">Rollladen- und Sonnenschutzmechatroniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9020">Textilverarbeitungshelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

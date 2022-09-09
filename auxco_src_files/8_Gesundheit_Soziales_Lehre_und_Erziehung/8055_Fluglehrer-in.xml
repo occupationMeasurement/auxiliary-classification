@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8055</id>
   <taetigkeit>Erteilung von praktischem und theoretischem Unterricht im Führen von Flugzeugen oder Hubschraubern</taetigkeit>
@@ -11,4 +12,8 @@
       <dkz codenr="84523-101" refid="9571">Fluglehrer/in</dkz>
     </default>
   </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

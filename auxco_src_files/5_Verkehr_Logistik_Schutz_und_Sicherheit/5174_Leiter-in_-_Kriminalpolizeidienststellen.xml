@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5174</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Kriminalpolizei</taetigkeit>
@@ -14,4 +15,8 @@
   <abgrenzung typ="mittel" refid="5070">Detektiv/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5079">Kriminalbeamter/-beamtin</abgrenzung>
   <abgrenzung typ="mittel" refid="1123">Experte/in für spezielle Gesellschafts- und Kulturwissenschaften</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

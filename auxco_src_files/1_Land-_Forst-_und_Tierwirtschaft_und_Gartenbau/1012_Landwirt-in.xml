@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1012</id>
   <taetigkeit>Erzeugung von land- und tierwirtschaftlichen Produkten</taetigkeit>
@@ -31,4 +32,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="1011">Helfer/in in der Tierwirtschaft und im Ackerbau</abgrenzung>
   <abgrenzung typ="mittel" refid="1851">Landwirtschaftliche/r Betriebsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

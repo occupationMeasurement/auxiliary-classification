@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9200</id>
   <taetigkeit>Anbau, Pflege und Ernte von Trauben sowie deren Verarbeitung und Vertrieb</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="hoch" refid="1012">Landwirt/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9008">Weinküfer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9201">Weinbauberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

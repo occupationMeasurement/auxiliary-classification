@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6035</id>
   <taetigkeit>Verkauf von Back- und Konditoreiwaren im Einzelhandel</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="mittel" refid="6034">Kiosk-/Imbissverkäufer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6052">Lebensmittelfachverkäufer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="9086">Feinbäcker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

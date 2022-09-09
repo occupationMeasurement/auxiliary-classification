@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2024</id>
   <taetigkeit>Programmierung von komplexen Maschinen und Anlagen für die automatisierte spanende Fertigung</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="2018">Metallbearbeitungstechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2023">Zerspanungsmechaniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2050">Feinwerktechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

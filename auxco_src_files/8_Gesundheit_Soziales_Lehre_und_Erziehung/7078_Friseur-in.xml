@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7078</id>
   <taetigkeit>Färben, Schneiden und Frisieren von Haaren</taetigkeit>
@@ -30,4 +31,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="7086">Kosmetikmeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="7081">Maskenbildner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

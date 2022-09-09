@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1746</id>
   <taetigkeit>Entwicklung von Plänen und Richtlinien zur Verbesserung von Verkehrssystemen</taetigkeit>
@@ -49,4 +50,8 @@
   <abgrenzung typ="hoch" refid="1776">Verkehrswegeplaner/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5011">Eisenbahnbetriebsregler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5108">Bahnbeamter/-beamtin (gehobener technischer Dienst)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

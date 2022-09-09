@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3013</id>
   <taetigkeit>Fertigung und Montage von Isoliermaterialien für den Wärme-, Kälte- oder Schallschutz</taetigkeit>
@@ -41,4 +42,8 @@
   <abgrenzung typ="mittel" refid="5283">Dachdecker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5327">Klempner/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3024">Bauwerksabdichter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1734</id>
   <taetigkeit>Planung, Koordination und Optimierung von informationstechnischen Systemen zur Telekommunikation und Datenübertragung</taetigkeit>
@@ -48,4 +49,8 @@
   <abgrenzung typ="mittel" refid="4054">System-/ Netzwerkadministrator/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1772">IT-Netzwerktechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1733">Elektrotechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4246</id>
   <taetigkeit>Beratung von Anlagenbetreibern und Werkleitern zur Vermeidung  umweltrelevanter Störfälle</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="1774">Gewässer-, Abfall- und Immissionsschutzbeauftragte/r</abgrenzung>
   <abgrenzung typ="mittel" refid="4243">Beamt(er/in) - Umweltverwaltung (höh. techn. Dienst)</abgrenzung>
   <abgrenzung typ="hoch" refid="5064">Arbeitsschutzingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

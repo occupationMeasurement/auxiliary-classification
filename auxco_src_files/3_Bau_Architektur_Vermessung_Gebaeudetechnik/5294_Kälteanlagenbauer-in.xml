@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5294</id>
   <taetigkeit>Montage und Instandhaltung von Kühlräumen, Klimaanlagen und anderen kältetechnischen Systemen</taetigkeit>
@@ -34,4 +35,8 @@
   <abgrenzung typ="hoch" refid="1783">Kälte-Klimatechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5297">Gas- und Wasserinstallateur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3013">Isolierfacharbeiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

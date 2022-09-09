@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5325</id>
   <taetigkeit>Durchführung von technischen Assistenztätigkeiten an Schulen sowie Vorbereitung von Schulveranstaltungen</taetigkeit>
@@ -10,4 +11,8 @@
       <dkz codenr="34112-103" refid="9342">Schulassistent/in (nicht Verwaltung)</dkz>
     </default>
   </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

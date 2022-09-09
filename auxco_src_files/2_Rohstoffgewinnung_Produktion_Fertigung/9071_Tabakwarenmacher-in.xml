@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9071</id>
   <taetigkeit>Verarbeitung von Tabakblättern zu Tabakerzeugnissen</taetigkeit>
@@ -26,4 +27,8 @@
   </untergliederung>
   <abgrenzung typ="mittel" refid="9041">Helfer/in - Lebensmitteltechnik</abgrenzung>
   <abgrenzung typ="mittel" refid="9072">Tabakwarentechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

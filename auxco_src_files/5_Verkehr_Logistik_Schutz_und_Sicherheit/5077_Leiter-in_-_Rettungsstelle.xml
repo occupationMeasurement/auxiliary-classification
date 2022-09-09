@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5077</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung im Brandschutz oder im Rettungsdienst</taetigkeit>
@@ -18,4 +19,8 @@
   <abgrenzung typ="hoch" refid="5076">Aufsichtsleiter/in – Sicherheitswesen</abgrenzung>
   <abgrenzung typ="mittel" refid="5075">Sicherheitsmanager/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5065">Feuerwehrmann/-frau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

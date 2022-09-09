@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>8059</id>
   <taetigkeit>Vermittlung sportlicher Fertigkeiten in verschiedenen Sportarten, außer in den Bereichen Tanz, Ballsport, Fitness und Gymnastik</taetigkeit>
@@ -29,4 +30,8 @@
   <abgrenzung typ="hoch" refid="8056">Tanzlehrer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="8057">Trainer/in - Ballsport</abgrenzung>
   <abgrenzung typ="hoch" refid="8058">Fitnesstrainer/in  bzw. Gymnastiklehrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

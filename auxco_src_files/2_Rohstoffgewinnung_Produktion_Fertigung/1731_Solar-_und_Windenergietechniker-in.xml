@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1731</id>
   <taetigkeit>Planung, Koordination und Optimierung von betrieblichen Prozessen zur regenerativen Energiegewinnung</taetigkeit>
@@ -32,4 +33,8 @@
   <abgrenzung typ="mittel" refid="2104">Kraftwerker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2129">Leiter/in - Energietechnik</abgrenzung>
   <abgrenzung typ="mittel" refid="2105">Kraftwerksingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

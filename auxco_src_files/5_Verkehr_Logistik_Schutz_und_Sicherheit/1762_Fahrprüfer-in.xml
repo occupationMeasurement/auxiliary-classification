@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1762</id>
   <taetigkeit>Abnahme von Führerscheinprüfungen und Erteilung von Fahrerlaubnissen für Kraftfahrzeuge</taetigkeit>
@@ -10,4 +11,8 @@
     </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="8054">Fahrlehrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

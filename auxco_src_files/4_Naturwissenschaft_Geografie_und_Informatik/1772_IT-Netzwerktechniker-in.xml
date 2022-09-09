@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1772</id>
   <taetigkeit>Betrieb, Instandhaltung und Entwicklung von IT-Netzwerken und Netzwerkkomponenten</taetigkeit>
@@ -31,4 +32,8 @@
   <abgrenzung typ="mittel" refid="4252">IT-Projektleiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4046">IT-Systemanalytiker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1734">Techniker/in - Informations- und Kommunikationselektronik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

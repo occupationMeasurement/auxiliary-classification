@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9064</id>
   <taetigkeit>Planung, Koordination und Optimierung der industriellen Herstellung von Fleischerzeugnissen</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="9063">Fleischer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9076">Leiter/in - Lebensmittelindustrie</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

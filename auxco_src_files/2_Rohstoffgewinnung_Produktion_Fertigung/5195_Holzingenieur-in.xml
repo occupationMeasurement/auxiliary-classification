@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5195</id>
   <taetigkeit>Entwicklung technischer Verfahren zur Herstellung von Holzprodukten sowie Koordination der Herstellungsprozesse</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="5194">Holztechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1717">Industriemeister/in - Holz- und Sägeindustrie</abgrenzung>
   <abgrenzung typ="mittel" refid="5208">Handwerksmeister/in - Holz</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

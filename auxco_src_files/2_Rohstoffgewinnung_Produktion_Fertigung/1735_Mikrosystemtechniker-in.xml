@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1735</id>
   <taetigkeit>Planung, Koordination und Optimierung der Produktionsprozesse von Mikrochips, Leiterplatten und anderen mikrosystemtechnischen Produkten</taetigkeit>
@@ -35,4 +36,8 @@
   <abgrenzung typ="mittel" refid="1733">Elektrotechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2139">Optoelektronikingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4019">Physik-Ingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

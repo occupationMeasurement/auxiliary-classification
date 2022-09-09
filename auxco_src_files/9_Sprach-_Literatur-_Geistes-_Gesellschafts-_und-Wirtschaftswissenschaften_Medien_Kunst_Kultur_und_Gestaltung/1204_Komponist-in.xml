@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1204</id>
   <taetigkeit>Komposition von Musikstücken</taetigkeit>
@@ -13,4 +14,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="1205">Musik- und Sounddesigner/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1203">Dirigent/in / Chorleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

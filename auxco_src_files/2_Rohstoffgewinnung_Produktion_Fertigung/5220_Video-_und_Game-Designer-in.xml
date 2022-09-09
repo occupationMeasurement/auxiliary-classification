@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5220</id>
   <taetigkeit>Design von Bewegtbildern und Computerspielen unter Verwendung von Spezialeffekten und Animationen</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="5220">Video- und Game-Designer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5240">Medien- und Kommunikationsdesigner/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5221">Informationsarchitekt/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

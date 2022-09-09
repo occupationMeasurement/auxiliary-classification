@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>4056</id>
   <taetigkeit>Wartung und Überwachung der optimalen Funktion von Webservern und Websites im Internet und Intranet</taetigkeit>
@@ -12,4 +13,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="4054">System-/ Netzwerkadministrator/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5221">Informationsarchitekt/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

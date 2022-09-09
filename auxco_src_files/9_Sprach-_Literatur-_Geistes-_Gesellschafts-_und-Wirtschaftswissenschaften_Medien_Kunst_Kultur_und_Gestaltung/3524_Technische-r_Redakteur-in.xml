@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3524</id>
   <taetigkeit>Konzeption und Erstellung technischer Dokumentationen</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="hoch" refid="1838">Redakteur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3501">Redaktionsassistent/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3555">Rechercheur/in oder Dokumentar/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

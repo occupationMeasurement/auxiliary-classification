@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6019</id>
   <taetigkeit>Verbesserung und Instandhaltung der technischen Infrastruktur und Ausstattung von Gebäuden um deren optimale Bewirtschaftung zu gewährleisten</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="hoch" refid="1850">Hausverwalter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1782">Gebäudetechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5326">Industriemeister/in - Gebäudetechnik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

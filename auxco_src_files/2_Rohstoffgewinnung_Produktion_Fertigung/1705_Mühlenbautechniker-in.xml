@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1705</id>
   <taetigkeit>Entwicklung und Instandhaltung von mühlentechnischen Anlagen</taetigkeit>
@@ -27,4 +28,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="1722">Maschinenbauingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2124">Instandhaltungsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

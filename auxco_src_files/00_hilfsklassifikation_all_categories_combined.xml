@@ -11556,7 +11556,7 @@
         <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
         <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
       </fragetext>
-      <antwort position="1" anforderungsniveau="3">
+      <antwort position="1" anforderungsniveau="2">
         <text>eine abgeschlossene Berufsausbildung</text>
         <kldb schluessel="31173">Berufe in der Bauabrechnung und -kalkulation - komplexe Spezialistentätigkeiten</kldb>
         <isco schluessel="3112">Civil engineering technicians</isco>
@@ -18171,7 +18171,7 @@
         <dkz codenr="62272-104" refid="29386">Fachverkäufer/in - Zweiradhandel</dkz>
         <dkz codenr="62272-105" refid="35325">Automobil-Serviceberater/in</dkz>
       </antwort>
-      <antwort position="2" anforderungsniveau="2">
+      <antwort position="2" anforderungsniveau="3">
         <text>Ja</text>
         <kldb schluessel="62272">Verkauf (KFZ, Zweirad,Zubehör)-Fachkraft</kldb>
         <isco schluessel="5223">Verkäufer und Verkaufshilfskräfte in Handelsgeschäften</isco>
@@ -23555,7 +23555,7 @@
         <dkz codenr="83154-106" refid="9059">Fachberater/in - Altenhilfe</dkz>
         <dkz codenr="83154-109" refid="27820">Sozialtherapeut/in</dkz>
       </antwort>
-      <antwort position="2" anforderungsniveau="4">
+      <antwort position="2" anforderungsniveau="3">
         <text>Nein</text>
         <kldb schluessel="83154">Sozial-,Erziehungs-, Suchtberat.-Experte</kldb>
         <isco schluessel="3412">Welfare support worker</isco>
@@ -24533,16 +24533,16 @@
         <isco schluessel="5151">Cleaning and housekeeping supervisors in offices, hotels and other establishments</isco>
         <dkz codenr="83212-111" refid="14604">Hauswirtschafter/in</dkz>
       </default>
-      <fragetext typ="sonstige">
+      <fragetext typ="anforderungsniveau">
         <folgefrageAktuellerBeruf>Wird für die Ausübung Ihrer Tätigkeit eine abgeschlossene Weiterbildung im Bereich der Hauswirtschaft vorausgesetzt?</folgefrageAktuellerBeruf>
         <folgefrageVergangenerBeruf>War für die Ausübung Ihrer Tätigkeit eine abgeschlossene Weiterbildung im Bereich der Hauswirtschaft vorausgesetzt?</folgefrageVergangenerBeruf>
       </fragetext>
-      <antwort position="1">
+      <antwort position="1" anforderungsniveau="3">
         <text>Ja</text>
         <kldb schluessel="83213">Hauswirtschaft - Spezialist</kldb>
         <isco schluessel="5152">Domestic housekeepers</isco>
       </antwort>
-      <antwort position="2">
+      <antwort position="2" anforderungsniveau="2">
         <text>Nein</text>
         <kldb schluessel="83212">Hauswirtschaft - Fachkraft</kldb>
         <isco schluessel="5151">Cleaning and housekeeping supervisors in offices, hotels and other establishments</isco>

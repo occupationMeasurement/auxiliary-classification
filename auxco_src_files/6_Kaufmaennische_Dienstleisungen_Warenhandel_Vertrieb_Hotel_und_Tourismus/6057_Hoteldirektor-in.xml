@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6057</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Koordination von Betriebsabläufen in einem Hotel oder Motel</taetigkeit>
@@ -17,4 +18,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="6055">Pension- bzw. Herbergsleiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6073">Restaurantmeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

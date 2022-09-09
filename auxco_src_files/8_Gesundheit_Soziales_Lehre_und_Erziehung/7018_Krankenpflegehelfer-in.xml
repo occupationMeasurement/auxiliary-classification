@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7018</id>
   <taetigkeit>Ausführung von Hilfsarbeiten bei der Patientenbetreuung und Patientenversorgung in Krankenhäusern oder Pflegeheimen</taetigkeit>
@@ -19,4 +20,8 @@
   <abgrenzung typ="hoch" refid="7065">Altenpfleger/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7104">Krankenschwester/-pfleger</abgrenzung>
   <abgrenzung typ="hoch" refid="7017">Ambulante/r Pflegediensthelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

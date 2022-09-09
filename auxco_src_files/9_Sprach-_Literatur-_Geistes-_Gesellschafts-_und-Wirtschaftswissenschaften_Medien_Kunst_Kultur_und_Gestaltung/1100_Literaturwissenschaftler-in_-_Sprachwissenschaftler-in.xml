@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1100</id>
   <taetigkeit>Erforschung sprach- oder literaturwissenschaftlicher Fragestellungen</taetigkeit>
@@ -109,4 +110,8 @@
   <abgrenzung typ="mittel" refid="8039">Dozent/in- Erwachsenenbildung</abgrenzung>
   <abgrenzung typ="mittel" refid="1107">Regionalwissenschaftler/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3214">Dolmetscher/in und Übersetzer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

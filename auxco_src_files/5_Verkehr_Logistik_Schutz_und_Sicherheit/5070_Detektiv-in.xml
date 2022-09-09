@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5070</id>
   <taetigkeit>Beschaffung von Informationen geschäftlicher oder privater Art für Auftraggeber sowie Durchführung von Observationen und Befragungen</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="hoch" refid="5061">Sicherheitsdienstmitarbeiter/in</abgrenzung>
   <abgrenzung typ="mittel" refid="5078">Polizeivollzugsbeamter/-beamtin</abgrenzung>
   <abgrenzung typ="hoch" refid="5079">Kriminalbeamter/-beamtin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

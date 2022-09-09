@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9078</id>
   <taetigkeit>Ausführung von Hilfsarbeiten in einer Hotel-, Restaurant- oder Großküche</taetigkeit>
@@ -14,4 +15,8 @@
   <abgrenzung typ="hoch" refid="6074">Fast-Food- und Imbisskoch/-köchin</abgrenzung>
   <abgrenzung typ="hoch" refid="6090">Servicekraft - Systemgastronomie</abgrenzung>
   <abgrenzung typ="hoch" refid="9079">Koch/Köchin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

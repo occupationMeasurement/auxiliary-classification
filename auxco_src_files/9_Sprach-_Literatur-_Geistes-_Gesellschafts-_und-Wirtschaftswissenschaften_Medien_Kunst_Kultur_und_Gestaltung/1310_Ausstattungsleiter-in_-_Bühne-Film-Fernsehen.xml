@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1310</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Bühnenbildnerei und Kostümbildnerei oder Requisite</taetigkeit>
@@ -15,4 +16,8 @@
   <abgrenzung typ="mittel" refid="1249">Bühnen- und Kostümbildner/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1309">Requisiteur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1248">Meister/in – Veranstaltungstechnik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

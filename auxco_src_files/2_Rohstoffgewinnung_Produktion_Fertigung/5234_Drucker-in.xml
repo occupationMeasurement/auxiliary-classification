@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5234</id>
   <taetigkeit>Herstellung von Druckerzeugnissen</taetigkeit>
@@ -44,4 +45,8 @@
     </antwort>
   </untergliederung>
   <abgrenzung typ="mittel" refid="1718">Techniker/in - Druck- und Medientechnik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

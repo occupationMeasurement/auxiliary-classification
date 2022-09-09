@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7009</id>
   <taetigkeit>Untersuchung von Körperflüssigkeiten und Körpergewebe im medizinisch-technischen Laboratorium</taetigkeit>
@@ -49,4 +50,8 @@
   <abgrenzung typ="mittel" refid="7001">Arzthelfer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4001">Biologisch-Technische/r Assistent/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7010">Facharzt/-ärztin für Mikrobiologie</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

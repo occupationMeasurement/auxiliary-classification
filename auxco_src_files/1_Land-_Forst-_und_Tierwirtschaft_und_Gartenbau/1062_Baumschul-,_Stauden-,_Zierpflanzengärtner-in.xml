@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1062</id>
   <taetigkeit>Anbau, Pflege und Zucht von Bäumen, Sträuchern und Zierpflanzen zum Verkauf</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="hoch" refid="1054">Gärtner/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1066">Landschaftsgärtner/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1064">Florist/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

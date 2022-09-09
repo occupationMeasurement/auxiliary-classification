@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1737</id>
   <taetigkeit>Zeichnung und Design von Produkten mithilfe von CAD-Systemen</taetigkeit>
@@ -45,4 +46,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="2146">Technische/r Zeichner/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2154">Leiter/in - Technische Zeichnung, Konstruktion und Modellbau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

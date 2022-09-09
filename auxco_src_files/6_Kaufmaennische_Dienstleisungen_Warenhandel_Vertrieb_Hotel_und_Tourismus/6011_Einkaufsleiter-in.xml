@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>6011</id>
   <taetigkeit>Führungsaufgaben mit Personalverantwortung im Einkaufs- oder Supply-Chain-Management</taetigkeit>
@@ -12,4 +13,8 @@
     <abgrenzung typ="hoch" refid="6002">Einkäufer/in</abgrenzung>
     <abgrenzung typ="mittel" refid="6032">Filialleiter/in - Groß- und Einzelhandel</abgrenzung>
   </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

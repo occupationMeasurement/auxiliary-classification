@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>7082</id>
   <taetigkeit>Organisation und Durchführung von Bestattungen und Mitwirkung bei Trauerfeiern</taetigkeit>
@@ -29,4 +30,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="7088">Bestattermeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1057">Friedhofsgärtner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

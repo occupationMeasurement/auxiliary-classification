@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5025</id>
   <taetigkeit>Durchführung kaufmännischer und organisatorischer Tätigkeiten im Bereich Spedition und Logistik</taetigkeit>
@@ -51,4 +52,8 @@
   <abgrenzung typ="mittel" refid="5035">Schifffahrtskaufmann/-frau</abgrenzung>
   <abgrenzung typ="mittel" refid="5002">Fachkraft - Lagerlogistik</abgrenzung>
   <abgrenzung typ="hoch" refid="6001">Beschaffungsassistent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

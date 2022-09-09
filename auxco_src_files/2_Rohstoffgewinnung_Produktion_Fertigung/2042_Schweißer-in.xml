@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2042</id>
   <taetigkeit>Verbindung von Werkstücken und Bauteilen durch Schweißarbeiten</taetigkeit>
@@ -27,4 +28,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="1720">Schweißtechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2034">Metallbauer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

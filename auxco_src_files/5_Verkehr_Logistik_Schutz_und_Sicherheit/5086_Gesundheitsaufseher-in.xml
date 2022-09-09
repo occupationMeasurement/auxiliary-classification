@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5086</id>
   <taetigkeit>Durchführung von Hygienekontrollen sowie Beratungstätigkeiten im Gesundheitswesen</taetigkeit>
@@ -17,4 +18,8 @@
   <abgrenzung typ="mittel" refid="5085">Beamt(er/in) - Gewerbeaufsicht</abgrenzung>
   <abgrenzung typ="hoch" refid="5088">amtliche/r Lebensmittelkontrolleur/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5089">Schädlingsbekämpfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

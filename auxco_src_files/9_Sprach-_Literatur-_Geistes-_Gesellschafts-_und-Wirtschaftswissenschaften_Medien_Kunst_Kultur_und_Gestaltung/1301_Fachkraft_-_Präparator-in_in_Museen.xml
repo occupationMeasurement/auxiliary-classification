@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1301</id>
   <taetigkeit>Vorbereitung von Kunstwerken, Präparaten und Artefakten für Ausstellungen sowie Einrichtung von Schauvitrinen</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="1302">Museums- / Ausstellungstechniker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="4999">Fachkraft für Präparation in naturkundlichen Museen</abgrenzung>
   <abgrenzung typ="mittel" refid="1303">Konservator/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

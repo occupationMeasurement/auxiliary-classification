@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5052</id>
   <taetigkeit>Führen von Schiffen auf See</taetigkeit>
@@ -18,4 +19,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="5051">Nautische/r Schiffsoffizier/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5017">Schiffslotse/-lotsin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

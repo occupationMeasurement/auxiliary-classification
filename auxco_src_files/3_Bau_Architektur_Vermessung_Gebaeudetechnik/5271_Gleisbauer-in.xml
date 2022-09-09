@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>5271</id>
   <taetigkeit>Bau und Instandhaltung von Eisenbahngleisen</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="mittel" refid="1854">Bauhelfer/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5272">Gleisbautechniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9401">Spezialtiefbauer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

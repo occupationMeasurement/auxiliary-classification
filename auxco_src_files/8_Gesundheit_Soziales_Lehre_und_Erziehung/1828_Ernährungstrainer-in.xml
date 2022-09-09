@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1828</id>
   <taetigkeit>Durchführung von Ernährungsberatungen sowie die  Erstellung von Ernährungs- und Diätplänen</taetigkeit>
@@ -30,4 +31,8 @@
   <abgrenzung typ="hoch" refid="7051">Diätassistent/in</abgrenzung>
   <abgrenzung typ="hoch" refid="7067">Gesundheitstrainer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="6048">Fitnesstrainer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>3581</id>
   <taetigkeit>Durchführung von Jahresabschlussprüfungen, Wirtschaftlichkeitsprüfungen und Revisionen in Unternehmen</taetigkeit>
@@ -30,4 +31,8 @@
   <abgrenzung typ="mittel" refid="3573">Controller/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1823">Buchführungsfachkraft</abgrenzung>
   <abgrenzung typ="mittel" refid="3587">Steuerfachmann/-frau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

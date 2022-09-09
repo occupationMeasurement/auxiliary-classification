@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1055</id>
   <taetigkeit>Planung, Koordination und Optimierung bei Pflanzarbeiten und Einsatz technischer Maschinen im Gartenbau</taetigkeit>
@@ -13,4 +14,8 @@
   <abgrenzung typ="hoch" refid="1054">Gärtner/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1056">Gartenbauingenieur/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1713">Gärtnermeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>

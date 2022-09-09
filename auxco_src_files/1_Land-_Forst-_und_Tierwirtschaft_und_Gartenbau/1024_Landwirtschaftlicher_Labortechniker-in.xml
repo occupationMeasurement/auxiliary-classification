@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1024</id>
   <taetigkeit>Analyse, Dokumentation und Interpretation von landwirtschaftlichen Messwerten</taetigkeit>
@@ -35,4 +36,8 @@
   </untergliederung>
   <abgrenzung typ="hoch" refid="4001">Biologisch-technische/r Assistent/in</abgrenzung>
   <abgrenzung typ="mittel" refid="4013">Chemisch-Technische/r Assistent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
 </kategorie>
