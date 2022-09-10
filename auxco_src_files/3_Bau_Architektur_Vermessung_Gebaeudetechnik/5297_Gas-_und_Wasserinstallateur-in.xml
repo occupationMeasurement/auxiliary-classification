@@ -34,7 +34,7 @@
       <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
       <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
     </fragetext>
-    <antwort position="1">
+    <antwort position="1" anforderungsniveau="1">
       <text>eine kurze Anlernphase</text>
       <kldb schluessel="34201">Klempnerei (o.S.) - Helfer</kldb>
       <isco schluessel="9313">Building construction labourers</isco>

@@ -31,7 +31,7 @@
       <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
       <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
     </fragetext>
-    <antwort position="1">
+    <antwort position="1" anforderungsniveau="4">
       <text>Ja</text>
       <kldb schluessel="34234">Kältetechnik - Experte</kldb>
       <isco schluessel="2144">Mechanical Engineers</isco>

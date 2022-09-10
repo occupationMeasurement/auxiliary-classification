@@ -72,10 +72,9 @@ for (cat_num in seq_along(ids)) {
   }
 
 # # Handle anforderungsniveau questions
-# anf_ind <- which(auxco_followup_questions$entry_type == "answer" &
-#         auxco_followup_questions$question_type == "anforderungsniveau")
+# anf_ind <- which(auxco_followup_questions[entry_type == "answer", question_type] == "anforderungsniveau")
 
-#   for (num in (anf_ind - 1)) {
+#   for (num in anf_ind) {
 #     anforderungsniveau_answer <- xml_find_all(category_node,
 #         xpath = paste0("./untergliederung/antwort[position()=", num, "]")
 #         )
@@ -87,10 +86,9 @@ for (cat_num in seq_along(ids)) {
 #   }
 
 # # Handle aufsicht questions
-# aufsicht_ind <- which(auxco_followup_questions$entry_type == "answer" &
-#         auxco_followup_questions$question_type == "aufsicht")
+# aufsicht_ind <- which(auxco_followup_questions[entry_type == "answer", question_type] == "aufsicht")
 
-#   for (num in (aufsicht_ind - 1)) {
+#   for (num in aufsicht_ind) {
 #     aufsicht_answer <- xml_find_all(category_node,
 #         xpath = paste0("./untergliederung/antwort[position()=", num, "]")
 #         )

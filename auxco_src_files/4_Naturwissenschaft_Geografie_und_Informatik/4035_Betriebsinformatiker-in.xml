@@ -65,7 +65,7 @@
       <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
       <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
     </fragetext>
-    <antwort position="1">
+    <antwort position="1" anforderungsniveau="2">
       <text>eine abgeschlossene Berufsausbildung</text>
       <kldb schluessel="43112">Berufe in der Wirtschaftsinformatik - fachlich ausgerichtete Tätigkeiten</kldb>
     </antwort>

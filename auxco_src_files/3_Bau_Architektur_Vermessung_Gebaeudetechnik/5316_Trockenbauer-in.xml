@@ -35,7 +35,7 @@
       <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine abgeschlossene Berufsausbildung im Bereich Trockenbau erforderlich?</folgefrageAktuellerBeruf>
       <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine abgeschlossene Berufsausbildung im Bereich Trockenbau erforderlich?</folgefrageVergangenerBeruf>
     </fragetext>
-    <antwort position="1">
+    <antwort position="1" anforderungsniveau="2">
       <text>Ja</text>
       <kldb schluessel="33302">Aus- und Trockenbau (o.S.) - Fachkraft</kldb>
       <isco schluessel="7123">Plasterers</isco>

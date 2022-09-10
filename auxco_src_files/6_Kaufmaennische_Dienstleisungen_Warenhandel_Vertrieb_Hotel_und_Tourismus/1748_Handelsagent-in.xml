@@ -23,12 +23,12 @@
       <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
       <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
     </fragetext>
-    <antwort position="1">
+    <antwort position="1" anforderungsniveau="4">
       <text>Ja</text>
       <dkz codenr="61204-102" refid="59195">Betriebswirt/in (Hochschule) - Handel</dkz>
       <dkz codenr="61284-101" refid="59185">Betriebswirt/in (Hochschule) - Automobilwirtschaft</dkz>
     </antwort>
-    <antwort position="2" anforderungsniveau=" ">
+    <antwort position="2" anforderungsniveau="3">
       <text>Nein</text>
       <dkz codenr="61203-101" refid="6529">Fachwirt/in - Handel</dkz>
       <dkz codenr="61203-103" refid="13948">Betriebswirt/in (Fachschule) - Handel</dkz>
