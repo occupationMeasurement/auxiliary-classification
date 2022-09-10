@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1519</id>
+  <taetigkeit>Haltung und Zucht von Fischen in künstlichen Anlagen sowie deren Abfang, Verarbeitung und Verkauf</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fische züchten und vermehren; die Fischbrut pflegen; Jungfische in künstliche oder natürliche Teiche einsetzen; Teiche pflegen; Teichanlagen abfischen; Wasserqualität überwachen und ggf. Wasser physikalisch, chemisch oder biologisch aufbereiten bzw. dabei mithelfen</taetigkeitsbeschreibung>
+  <bezeichnung>Fischwirt/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11412">Berufe in der Fischzucht - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6221">Aquaculture workers</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Ist ein wesentlicher Bestandteil ihrer Arbeit, andere Arbeitnehmer zu beaufsichtigen oder als Führungskraft strategische Entscheidungen für das Unternehmen zu treffen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War ein wesentlicher Bestandteil ihrer Arbeit, andere Arbeitnehmer zu beaufsichtigen oder als Führungskraft strategische Entscheidungen für das Unternehmen zu treffen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="keine Führungsverantwortung">
+      <text>weder Führungs- noch Ausichtstätigkeit</text>
+      <kldb schluessel="11412">Berufe in der Fischzucht - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6221">Aquaculture workers</isco>
+      <dkz codenr="11412-102" refid="345">Fischwirt/in - Fischhaltung und Fischzucht</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Aufsichtstätigkeit mit Verantwortung für untergeordnetes Personal</text>
+      <kldb schluessel="11493">Aufsichtskräfte - Fischwirtschaft</kldb>
+      <isco schluessel="6221">Aquaculture workers</isco>
+      <dkz codenr="11493-100" refid="350">Fischwirtschaftsmeister/in - Fischhaltung und Fischzucht</dkz>
+    </antwort>
+    <antwort position="3" aufsicht="Führungskraft">
+      <text>Führungstätigkeit mit strategischer Entscheidungsbefugnis (z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen, oder zur Einstellung und Entlassung von Personal)</text>
+      <kldb schluessel="11494">Führungskräfte - Fischwirtschaft</kldb>
+      <isco schluessel="1312">Aquaculture and fisheries production managers</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1518">Fischer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1517">Fischereihelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1715">Fischwirtschaftsmeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

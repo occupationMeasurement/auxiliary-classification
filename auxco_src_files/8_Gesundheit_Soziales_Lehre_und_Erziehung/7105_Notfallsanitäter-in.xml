@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7105</id>
+  <taetigkeit>Erstversorgung von Notfallpatienten bis zum Eintreffen des Notarztes und Betreuung des Patienten während des Transports</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Notärzten assistieren; Patienten und Angehörige psychisch betreuen; erforderliche Maßnahmen zur Herstellung der Transportfähigkeit von Patienten nach Anweisung vornehmen; während des Transports Vitalfunktionen überwachen; Unterlagen an das Krankenhauspersonal übergeben sowie Transportnachweise und Notfallprotokolle erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Notfallsanitäter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81342">Berufe im Rettungsdienst - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3258">Ambulance workers</isco>
+      <dkz codenr="81342-103" refid="8882">Rettungsassistent/in</dkz>
+      <dkz codenr="81342-105" refid="15709">Betriebssanitäter/in</dkz>
+      <dkz codenr="81343-102" refid="122461">Notfallsanitäter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7022">Rettungsdiensthelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7106">Disponent/in in einer Rettungsleitstelle</abgrenzung>
+  <abgrenzung typ="hoch" refid="1807">Leiter/in - Rettungsdienst</abgrenzung>
+  <abgrenzung typ="mittel" refid="7104">Krankenschwester/-pfleger</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

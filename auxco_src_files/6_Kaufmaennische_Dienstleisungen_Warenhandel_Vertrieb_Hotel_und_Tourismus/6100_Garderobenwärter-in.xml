@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6100</id>
+  <taetigkeit>Aufbewahrung und Ausgabe der Garderobe von Gästen während Veranstaltungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Garderobe betreuuen, bewachen und Garderobenmarken ausgeben; Kleidungsstücke mit einer Marke zur Identifikation versehen und sorgfältig verwahren</taetigkeitsbeschreibung>
+  <bezeichnung>Garderobenwärter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63401">Veranstaltungsservice,-manag. - Helfer</kldb>
+      <isco schluessel="9629">Elementary workers not elsewhere classified</isco>
+      <dkz codenr="63401-103" refid="8133">Saaldiener/in</dkz>
+      <dkz codenr="63401-106" refid="90138">Helfer/in - Veranstaltungsservice</dkz>
+      <dkz codenr="63401-101" refid="6969">Hostess/Host</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6099">Hilfskraft - Veranstaltungsservice</abgrenzung>
+  <abgrenzung typ="hoch" refid="6098">Eintrittskartenkontrolleur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

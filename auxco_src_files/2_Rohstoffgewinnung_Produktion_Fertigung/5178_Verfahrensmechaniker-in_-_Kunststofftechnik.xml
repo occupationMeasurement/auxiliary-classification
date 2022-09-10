@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5178</id>
+  <taetigkeit>Bedienung von Maschinen und Bearbeitung von Kunststofferzeugnissen in der industriellen Fertigung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Behälter, Rohre, Bauteile und Isolationszubehör herstellen; Halbzeuge zuschneiden und in entsprechende Werkzeuge und Maschinen legen; Kunststoffteile mit verschiedenen Herstellungsverfahren wie Kalandrieren, Beschichten, Extrudieren, Pressen und Spritzgießen, fertigen; Qualitätskontrollen durchführen und Endprodukte prüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Verfahrensmechaniker/in - Kunststofftechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22102">Berufe in der Kunststoff- und Kautschukherstellung (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8142">Plastic products machine operators</isco>
+      <dkz codenr="22102-107" refid="1204">Verfahrensmech.-Kunststoff-/Kautschukt.-Formteile</dkz>
+      <dkz codenr="22102-108" refid="1205">Verfahrensmech.-Kunststoff-/Kautschukt.-Halbzeuge</dkz>
+      <dkz codenr="22102-109" refid="1206">Verfahrensmech.-Kunststoff-/Kautschukt.-Mehrschichtkautsch.</dkz>
+      <dkz codenr="22102-110" refid="1207">Verfahrensmech.-Kunststoff-/Kautschukt.-Bauteile</dkz>
+      <dkz codenr="22102-122" refid="13840">Verfahrensmech.-Kunststoff-/Kautschuktechnik (m. Schwerp.)</dkz>
+      <dkz codenr="22102-142" refid="35071">Kunststoff-Formgeber/in</dkz>
+      <dkz codenr="22102-143" refid="50946">Verfahrensmech.-Kunststoff-/Kautschukt.-Kunststofffenster</dkz>
+      <dkz codenr="22102-144" refid="50948">Verfahrensmech.-Kunststoff-/Kautschukt.-Faserverbundtechn.</dkz>
+      <dkz codenr="22102-111" refid="1213">Kunststoffpresser/in</dkz>
+      <dkz codenr="22102-112" refid="1215">Kunststoffspritzer/in</dkz>
+      <dkz codenr="22102-114" refid="1219">Kunststofftiefzieher/in</dkz>
+      <dkz codenr="22102-115" refid="1221">Kunststoffschweißer/in</dkz>
+      <dkz codenr="22102-116" refid="1223">Laminierer/in (Kunststoffverarbeitung)</dkz>
+      <dkz codenr="22102-120" refid="1232">Extruderführer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5177">Produktionshelfer/in – Kunststoff und Kautschuk</abgrenzung>
+  <abgrenzung typ="mittel" refid="1716">Techniker/in - Kunststoff- und Kautschuktechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="5179">Gummiverarbeiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

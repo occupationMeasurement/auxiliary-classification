@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1213</id>
+  <taetigkeit>Auftritt im Fernsehen oder im Theater in Nebenrollen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. als Stuntman Film- und Fernsehdarsteller bei gefährlichen Szenen vertreten; als Komparse oder Statist in kurzen Szenen gelegentlich zusammen mit den Hauptdarstellern auftreten; bei Massenszenen im Hintergrund auftreten</taetigkeitsbeschreibung>
+  <bezeichnung>Kleindarsteller/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94283">Berufe in Schauspiel, Tanz und Bewegungskunst (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3435">Artistic and cultural associate professionals not elsewhere classified</isco>
+      <dkz codenr="94283-104" refid="14486">Komparse/Komparsin</dkz>
+      <dkz codenr="94283-103" refid="8606">Stuntman/-woman</dkz>
+      <dkz codenr="94283-107" refid="77807">Statist/in</dkz>
+      <dkz codenr="94283-109" refid="78458">Kleindarsteller/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1214">Artist/in / Akrobat/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1208">Schauspieler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4004</id>
+  <taetigkeit>Erforschung von Wechselbeziehungen zwischen biologischen Systemen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wechselwirkungen zwischen Menschen, Tieren, Pflanzen und Mikroorganismen erforschen und beschreiben; Lebensräume kartieren; Methoden zur Untersuchung der biologischen Vielfalt entwickeln; ökologische Gutachten erstellen; Experimente durchführen und auswerten; Fachtexte publizieren</taetigkeitsbeschreibung>
+  <bezeichnung>Biologe/Biologin, Fachgebiet Ökologie</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41234">Biologie (Ökologie) - Experte</kldb>
+      <isco schluessel="2131">Biologen, Botaniker, Zoologen und verwandte Berufe</isco>
+      <dkz codenr="41234-107" refid="59233">Agrarbiologe/-biologin</dkz>
+      <dkz codenr="41234-108" refid="100543">Meeresbiologe/-biologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1789">Biologisch-Technische/r Laborleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9204">Natur- und Landschaftspfleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4242">Umweltschutzbeauftragte/r</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

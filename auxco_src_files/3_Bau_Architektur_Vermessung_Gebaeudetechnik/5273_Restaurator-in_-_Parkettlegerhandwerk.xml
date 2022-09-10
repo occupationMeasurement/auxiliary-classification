@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5273</id>
+  <taetigkeit>Konservierung, Restaurierung und Rekonstruktion von Parkettböden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. historische Substanz der zu restaurierenden Parkette untersuchen; geometrische Formen vermessen; Ist-Zustand dokumentieren; Werkstattzeichnungen erstellen; historische und handwerkliche Techniken sowie zu verwendendes Material bestimmen; Arbeitsschritte planen und festlegen; Tragelemente oder Dämmstoffe einbauen oder erneuern; Parketthölzer und -tafeln in verschiedenen Verlegearten verbinden; Zustand nach der Restaurierung dokumentieren; Mengen- und Kostenschätzung für Materialien und Arbeitskräfte erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Restaurator/in - Parkettlegerhandwerk</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33133">Parkettverlegung - Spezialist</kldb>
+      <isco schluessel="7122">Floor layers and tile setters</isco>
+      <dkz codenr="33133-100" refid="4414">Restaurator/in - Parkettlegerhandwerk</dkz>
+      <dkz codenr="33133-101" refid="14289">Parkettleger/in - Restaurierungsarbeiten</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5298">Bodenleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5289">Parkettleger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

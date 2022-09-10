@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5054</id>
+  <taetigkeit>Bedienung von land- und forstwirtschaftlichen Maschinen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Traktorfahren; Bäume fällen, entasten und abtransportieren; Bodenbearbeitung und Aussaat durchführen; Kraft- und Schmierstoffe nachfüllen</taetigkeitsbeschreibung>
+  <bezeichnung>Land- und forstwirtschaftliche/r Maschinenführer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52512">Führer land-,forstw. Maschinen-Fachkraft</kldb>
+      <isco schluessel="8341">Mobile farm and forestry plant operators</isco>
+      <dkz codenr="52512-103" refid="498">Landmaschinenführer/in</dkz>
+      <dkz codenr="52512-104" refid="722">Forstmaschinenführer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1012">Landwirt/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9203">Forstwirt/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5288</id>
+  <taetigkeit>Verlegen von Estrich- und Terrazzoböden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Unterboden vor der Herstellung von Nassestrich und Fließestrich vorbereiten; Dämmstoffe anbringen; Estrichmörtel aufbringen und verteilen; Oberfläche glätten; Estrichfläche durch Beschichten, Imprägnieren und Versiegeln nachbehandeln; Fertigteil-Estrichplatten verlegen und verkleben; Winkelschienen als Abschluss einbauen; fugenlose Terrazzoböden herstellen; Estriche und andere Bodenbeläge sanieren; Risse im Estrich schließen</taetigkeitsbeschreibung>
+  <bezeichnung>Estrich- und Terrazzoleger/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33122">Berufe in der Estrich- und Terrazzoverlegung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7114">Concrete placers, concrete finishers and related workers</isco>
+      <dkz codenr="33122-102" refid="4386">Ausbaufacharbeiter/in (Estricharbeiten)</dkz>
+      <dkz codenr="33122-103" refid="4387">Estrichleger/in</dkz>
+      <dkz codenr="33122-104" refid="4393">Terrazzoleger/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1755">Helfer/in - Bodenverlegung</abgrenzung>
+  <abgrenzung typ="hoch" refid="5298">Bodenleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5287">Fliesen-, Platten- und Mosaikleger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

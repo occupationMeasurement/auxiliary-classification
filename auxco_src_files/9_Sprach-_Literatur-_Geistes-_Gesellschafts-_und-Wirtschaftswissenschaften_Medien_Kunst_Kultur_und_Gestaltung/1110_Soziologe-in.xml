@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1110</id>
+  <taetigkeit>Erforschung soziologischer Fragestellungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Strukturen der menschlichen Gesellschaft und soziale Phänomene erforschen; soziale Gebilde und Institutionen analysieren; empirische Methoden anwenden; Beratungen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Soziologe/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="91324">Berufe in der Soziologie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2632">Sociologists, anthropologists and related professionals</isco>
+      <dkz codenr="91324-114" refid="58776">Sozialwissenschaftler/in</dkz>
+      <dkz codenr="91324-103" refid="29397">Genderwissenschaftler/in</dkz>
+      <dkz codenr="91324-115" refid="100532">Soziologe/Soziologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8037">Dozent/in / Professor/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1112">Wirtschaftswissenschaftler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

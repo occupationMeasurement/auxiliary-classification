@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5055</id>
+  <taetigkeit>Bedienung und Instandhaltung von Baggern, Radladern, Planierraupen, Rammmaschinen und ähnlichen Fahrzeugen zur Erdbewegung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Planier- und Laderaupen, Bagger, Rammmaschinen sowie andere fahrbare Baumaschinen bedienen, fahren und warten; Maschinen entsprechend der Bodenbeschaffenheit ein- bzw. umrüsten; Maschinen zum Einsatzort befördern und diese nach Anleitung aufstellen bzw. einrichten; Baggern, Graben, Schaufeln, Bohren und Aushub verladen; Maschinen reinigen, warten und pflegen und ggf. Reparaturarbeiten durchführen; Sicherheits-, Unfallverhütungs- und Umweltschutzvorschriften beachten</taetigkeitsbeschreibung>
+  <bezeichnung>Baumaschinenführer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52522">Erdbeweg,verw.Maschinen-Fachkraft</kldb>
+      <isco schluessel="8342">Earthmoving and related plant operators</isco>
+      <dkz codenr="52522-100" refid="4807">Erdbewegungsmaschinenführer/in</dkz>
+      <dkz codenr="52522-101" refid="4808">Planierraupenführer/in</dkz>
+      <dkz codenr="52522-104" refid="4812">Baggerführer/in</dkz>
+      <dkz codenr="52522-105" refid="4817">Baumaschinenführer/in</dkz>
+      <dkz codenr="52522-108" refid="4820">Baugeräteführer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5057">Kranfahrer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5042">Kraftfahrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

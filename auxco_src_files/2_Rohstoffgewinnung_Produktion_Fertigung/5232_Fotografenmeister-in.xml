@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5232</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Fototechnik oder Fotografie</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Materialien, Hilfsmittel und Geräte auswählen und einkaufen; die Betriebsbereitschaft und den rationellen Einsatz der Betriebsmittel und Geräte, wie Kameras, Leuchtschirme oder Entwicklungsmaschinen, sicherstellen; besonders anspruchsvolle Arbeiten ausführen; Auftragsangebote kalkulieren; Kunden beraten; Mit Kunden und Lieferanten verhandeln sowie Aufträge einholen; Schulungen, Weiterbildungen und den betrieblichen Teil der Ausbildung planen und durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Fotografenmeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23393">Aufsicht - Fototechnik und Fotografie</kldb>
+      <isco schluessel="3431">Photographers</isco>
+      <dkz codenr="23393-101" refid="8573">Fotografenmeister/in</dkz>
+    </default>
+  </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

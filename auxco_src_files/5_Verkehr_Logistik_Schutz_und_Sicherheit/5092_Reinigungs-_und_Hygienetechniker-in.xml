@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5092</id>
+  <taetigkeit>Mitwirkung bei der Entwicklung und Implementierung neuer Verfahren und Produkte für die Reinigung von Gebäuden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei der Herstellung neuer Reinigungs- und Hygieneprodukte, -maschinen, und -geräte mitwirken; Aufgaben im Qualitätsmanagement übernehmen sowie neue Reinigungsmittel, -geräte, und -maschinen überprüfen; Kunden über den Einsatz neuer Reinigungsverfahren beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Reinigungs- und Hygienetechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="54113">Gebäudereinigung - Spezialist</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="54113-100" refid="6030">Techniker/in - Reinigungs- und Hygienetechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5098">Objektleiter/in - Gebäudereinigung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

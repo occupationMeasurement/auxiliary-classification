@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5043</id>
+  <taetigkeit>Führen von U-Bahnen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. vor Fahrtantritt Sicherheitseinrichtungen prüfen; Türen öffnen und schließen; Funkkontakt zur Leitstelle halten; Fahrpläne einhalten; verkehrsrechtliche Vorschriften beachten</taetigkeitsbeschreibung>
+  <bezeichnung>U-Bahnfahrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52132">Bus-, Straßenbahnfahrer/innen-Fachkraft</kldb>
+      <isco schluessel="8311">Locomotive engine drivers</isco>
+      <dkz codenr="52132-100" refid="7106">Schienenfahrzeugführer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5046">Lokführer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5044">Bus - bzw. Straßenbahnfahrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>8046</id>
+  <taetigkeit>Entwicklung und Durchführung von Ausbildungsprogrammen für IT-Anwender in Unternehmen oder an außerschulischen Bildungseinrichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Lehrmaterial und Lehrhilfen wie Handbücher entwickeln; Schulungs- und Entwicklungsprogramme planen und durchführen; Konferenzen moderieren; Effektivität der Schulungen überwachen und ggf. verbessern; allgemeine Trends der Informationstechnologie beobachten und Wissen aneignen</taetigkeitsbeschreibung>
+  <bezeichnung>IT- Trainer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84444">IT-Anwendungstraining - Experte</kldb>
+      <isco schluessel="2356">Information technology trainers</isco>
+      <dkz codenr="84444-108" refid="15296">IT-Trainer/in</dkz>
+      <dkz codenr="84444-107" refid="15086">Fachlehrer/in - Informationsverarb./Textverarb./Bürotechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8039">Dozent/in - Erwachsenenbildung</abgrenzung>
+  <abgrenzung typ="mittel" refid="8051">Leiter/in - außerschulische Bildungseinrichtungen</abgrenzung>
+  <abgrenzung typ="hoch" refid="4048">IT-Berater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

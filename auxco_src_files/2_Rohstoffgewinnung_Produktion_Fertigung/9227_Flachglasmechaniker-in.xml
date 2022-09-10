@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9227</id>
+  <taetigkeit>Industrielle Verarbeitung von Flachglas zu Flachglasprodukten, wie Fenstern und Spiegeln</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fensterscheiben, Spiegel, Solaranlagen, Schutzverglasungen und andere Flachglasprodukte herstellen; Flachglas durch Schleifen, Gravieren, Sandstrahlen und Ätzen bearbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Flachglasmechaniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21342">Berufe in der Glasveredelung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8181">Glass and ceramics plant operators</isco>
+      <dkz codenr="21342-103" refid="1100">Flachglasmechaniker/in</dkz>
+      <dkz codenr="21342-107" refid="1110">Glasveredler/in - Flächenveredlung</dkz>
+      <dkz codenr="21342-118" refid="28999">Glasveredler/in - Kanten- und Flächenveredlung</dkz>
+      <dkz codenr="21342-121" refid="35083">Flachglasveredler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9228">Glasverdler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3017">Glaser/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9221">Glasmaschinenführer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9229">Feinoptiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6067</id>
+  <taetigkeit>Verwaltung von Sportanlagen und Sporteinrichtungen sowie die Planung und Organisation von Sportevents</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. das Angebot an Sport- und Fitnessprogrammen auswählen und planen; Sportanlagen, Spiel- und Sportstätten verwalten sowie einen guten, sauberen Zustand sicherstellen; Kontakte zu Kunden und Geschäftspartnern aufbauen und pflegen; Sponsorships oder Werbeverträge verhandeln und Kontakt zwischen Sportlern und Sponsoren herstellen; Trends analysieren und bewerten und ggf. Empfehlungen zur Umsetzung erarbeiten; Budged verwalten, Ausgaben kontrollieren und einen effizienten Ressourceneinsatz sicherstellen; Personalplanungs, -entwicklungs, und führungstätigkeiten wahrnehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Sport- und Fitnessökonom/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63124">Sport-,Fitnesskaufl.Sportmanag-Experte</kldb>
+      <isco schluessel="1431">Sports, recreation and cultural centre managers</isco>
+      <dkz codenr="63124-101" refid="15648">Sportmanager/in, -ökonom/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6068">Sport- und Fitnessfachwirt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6102">Konferenz- und Veranstaltungsplaner</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

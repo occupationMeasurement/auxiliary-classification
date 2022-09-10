@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>8019</id>
+  <taetigkeit>Unterstützung von Pastoren und Pfarrern bei organisatorischen, religiösen und seelsorgerischen Aufgaben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gespräche über Glaubens- und Lebensfragen führen; religiöse Arbeitskreise leiten; Gruppentreffen organisieren; bei der Organisation und Durchführung religiöser Feste / Gemeindeaktionen mitarbeiten; Wortgottesdienste halten; ehrenamtliche Mitarbeit in der Gemeinde fördern; Sterbende und ihre Angehörigen begleiten</taetigkeitsbeschreibung>
+  <bezeichnung>Gemeindereferent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83322">Gemeindearbeit - Fachkraft</kldb>
+      <isco schluessel="3413">Religious associate professionals</isco>
+      <dkz codenr="83322-100" refid="9893">Gemeindehelfer/in/Gemeindediakon/in</dkz>
+      <dkz codenr="83323-100" refid="9083">Diakonisse (Sozialarbeit)</dkz>
+      <dkz codenr="83323-101" refid="9084">Diakon/in (Sozialarbeit)</dkz>
+      <dkz codenr="83323-102" refid="9890">Gemeindereferent/in - katholisch</dkz>
+      <dkz codenr="83323-103" refid="9891">Diakon/in (evangelisch)</dkz>
+      <dkz codenr="83323-104" refid="9892">Diakon (katholisch)</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren Tätigkeiten, Aufgaben in der Sozial- und Bildungsarbeit wahrzunehmen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Gehörte es zu Ihren Tätigkeiten, Aufgaben in der Sozial- und Bildungsarbeit wahrzunehmen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="83323">Gemeindearbeit - Spezialist</kldb>
+      <isco schluessel="3413">Religious associate professionals</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="83322">Gemeindearbeit - Fachkraft</kldb>
+      <isco schluessel="3413">Religious associate professionals</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8026">Bischof/Bischöfin</abgrenzung>
+  <abgrenzung typ="mittel" refid="8004">Sozialpädagoge/- pädagogin</abgrenzung>
+  <abgrenzung typ="hoch" refid="8021">Klostervorsteher/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

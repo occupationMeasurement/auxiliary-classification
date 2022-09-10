@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6029</id>
+  <taetigkeit>Verkauf von Waren an Verkaufsständen und auf Märkten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Genehmigungen für den Aufbau von Ständen einholen; Produktsortiment, Lagerbestände und Verkaufspreise festlegen; Waren präsentieren; Lagerbestände überprüfen; Zahlungsmittel entgegennehmen; Stände aufbauen und abbauen; Waren transportiern</taetigkeitsbeschreibung>
+  <bezeichnung>Marktverkäufer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62122">Verkaufsstand-,Marktverkäufer -Fachkraft</kldb>
+      <isco schluessel="5211">Stall and market salespersons</isco>
+      <dkz codenr="62122-100" refid="6641">Verkaufsfahrer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6034">Kiosk-/Imbissverkäufer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

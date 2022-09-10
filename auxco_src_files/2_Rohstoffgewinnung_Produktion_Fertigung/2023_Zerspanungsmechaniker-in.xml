@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2023</id>
+  <taetigkeit>Einrichtung und Bedienung von Maschinen zur spanenden Metallbearbeitung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Dreh-, Fräs- und Schleifmaschinen einrichten und bedienen; Werkstücke manuell oder maschinell bearbeiten u.A. durch Drehen, Fräsen, Bohren oder Erodieren; Arbeitsschritte der Metallbearbeitung anhand von technischen Zeichnungen und Unterlagen planen; Qualitätskontrollen mittels Messschieber, Messschrauben und Oberflächenmessgeräten durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Zerspanungsmechaniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24232">Berufe in der spanenden Metallbearbeitung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7223">Metal working machine tool setters and operators</isco>
+      <dkz codenr="24232-100" refid="1795">CNC-Dreher/in</dkz>
+      <dkz codenr="24232-102" refid="1797">Dreher/in</dkz>
+      <dkz codenr="24232-103" refid="1798">Maschineneinrichter/in (Zerspanungstechnik)</dkz>
+      <dkz codenr="24232-105" refid="1809">Zerspanungsmechaniker/in - Drehtechnik</dkz>
+      <dkz codenr="24232-161" refid="29054">Zerspanungsmechaniker/in</dkz>
+      <dkz codenr="24232-107" refid="1813">Zerspanungsmechaniker/in - Automaten-Drehtechnik</dkz>
+      <dkz codenr="24232-109" refid="1815">Revolverdreher/in</dkz>
+      <dkz codenr="24232-113" refid="1823">Spitzendreher/in</dkz>
+      <dkz codenr="24232-115" refid="1826">Karusselldreher/in</dkz>
+      <dkz codenr="24232-116" refid="1832">CNC-Fräser/in</dkz>
+      <dkz codenr="24232-117" refid="1833">Fräser/in</dkz>
+      <dkz codenr="24232-121" refid="1845">Zerspanungsmechaniker/in - Frästechnik</dkz>
+      <dkz codenr="24232-126" refid="1858">Hobler/in</dkz>
+      <dkz codenr="24232-164" refid="35114">Universalhobler/in</dkz>
+      <dkz codenr="24232-131" refid="1871">Bohrer/in</dkz>
+      <dkz codenr="24232-132" refid="1872">CNC-Bohrer/in</dkz>
+      <dkz codenr="24232-142" refid="1925">Metallsäger/in</dkz>
+      <dkz codenr="24232-143" refid="1931">Erodierer/in</dkz>
+      <dkz codenr="24232-165" refid="90448">Feinwerkmechaniker/in - Zerspanungstechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2024">CNC-Techniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2053">Werkzeugmechaniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2022">Metallschleifer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2018">Metallbearbeitungstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2029">Oberflächenbeschichter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2048">Feinmechaniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

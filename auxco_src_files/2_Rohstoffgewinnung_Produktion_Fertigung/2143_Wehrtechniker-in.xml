@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2143</id>
+  <taetigkeit>Forschung und Entwicklung zu militärischen Geräten und Anlagen sowie Ausstattung der Bundeswehr mit entsprechendem Gerät</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Ausstattung der Bundeswehr mit technischen Geräten sicherstellen; technische Anforderungen für spezielle wehrtechnische Geräte ermitteln bezüglich u.a. Transportgeschwindigkeit oder Reichweite; Realisierbarkeit der Anforderungen prüfen und Konzepte erstellen; Leistungsdaten der speziellen Geräte ermitteln und auswerten; Serienlieferung von Produkten organisieren und überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Wehrtechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="27183">Berufe in der technischen Forschung und Entwicklung (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Ausbildung ist für diese Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="27182">Berufe in der technischen Forschung und Entwicklung (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="27182-101" refid="8152">Beamt(er/in) - Wehrverwaltung (mittl. techn. Dienst)</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="27183">Berufe in der technischen Forschung und Entwicklung (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="27183-100" refid="5220">Beamt(er/in) - Wehrverwaltung (geh. techn. Dienst)</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="27183">Berufe in der technischen Forschung und Entwicklung (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="27183-100" refid="5220">Beamt(er/in) - Wehrverwaltung (geh. techn. Dienst)</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="27184">Berufe in der technischen Forschung und Entwicklung (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="27184-100" refid="5221">Beamt(erin) - Wehrverwaltung (höh. techn. Dienst)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9999">Soldat/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1702">Büchsenmachermeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1709">Wehrverwaltungsbeamter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

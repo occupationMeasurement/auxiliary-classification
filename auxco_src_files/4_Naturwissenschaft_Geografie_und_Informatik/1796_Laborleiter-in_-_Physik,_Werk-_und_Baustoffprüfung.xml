@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1796</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in einem physikalischen Labor oder in der Werkstoff- und Baustoffprüftechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Betriebsmittel- und Personaleinsatz bei physikalischen Forschungsprojekten und -einrichtungen planen; Versuchsdurchführung und -auswertung überwachen; Einhaltung der Sicherheits- und Umweltschutzvorschriften überwachen; Schulung und Weiterbildung für Mitarbeiter organisieren; Budget verwalten; die Zusammenarbeit mit anderen Forschungseinrichtungen, Zulieferern und Anwendern koordinieren; Mitarbeiter führen und anleiten</taetigkeitsbeschreibung>
+  <bezeichnung>Laborleiter/in - Physik, Werk- und Baustoffprüfung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41493">Aufsicht - Physik</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="41494">Führung - Physik</kldb>
+      <isco schluessel="1349">Professional services managers not elsewhere classified</isco>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="41493">Aufsicht - Physik</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="4018">Physik-Techniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1794">Werkstoffprüfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1795">Baustoffprüfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1793">Physiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4022">Werkstofftechnik-Ingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4025">Baustoffingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

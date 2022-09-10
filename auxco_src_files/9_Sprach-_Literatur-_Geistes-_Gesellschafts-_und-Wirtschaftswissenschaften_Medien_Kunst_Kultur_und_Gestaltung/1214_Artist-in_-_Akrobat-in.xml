@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1214</id>
+  <taetigkeit>Unterhaltung von Publikum mit akrobatischen oder artistischen Darbietungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fertigkeiten in artistischen Disziplinen wie Luftakrobatik oder Jonglage trainieren, vorführen und weiterentwickeln; artistische Programme vor Publikum vorführen; Dressurnummern zusammenstellen, einüben und aufführen</taetigkeitsbeschreibung>
+  <bezeichnung>Artist/in / Akrobat/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94283">Berufe in Schauspiel, Tanz und Bewegungskunst (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2659">Creative and performing artists not elsewhere classified</isco>
+      <dkz codenr="94283-105" refid="15365">Dompteur/Dompteuse</dkz>
+      <dkz codenr="94283-101" refid="8603">Artist/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1217">Komiker/in / Kabarettist/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1213">Kleindarsteller/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1209">Tänzer/in / Choreograf/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6009</id>
+  <taetigkeit>Durchführung von Versteigerungen in einem Auktionshaus</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Auktionen öffentlich anzeigen und durchführen; Versteigerungsobjekte prüfen; Kunden und über gesetzliche Vorschriften informieren; Informationen über zu versteigernde Gegenstände und potenzielle Käufer beschaffen; Kaufrecht an den Versteigeungsobjekte an Höchstbietenden erteilen; ordnungsgemäße Aufzeichnungen über die Versteigerung führen</taetigkeitsbeschreibung>
+  <bezeichnung>Auktionator/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61132">Handelsmakler,Auktionatoren - Fachkraft</kldb>
+      <isco schluessel="3339">Fachkräfte für unternehmensbezogene Dienstleistungen, anderweitig nicht genannt</isco>
+      <dkz codenr="61132-100" refid="7085">Auktionator/in, Versteiger(er/in)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6010">Handelsmakler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6043">Kunst-und Antiquitätenhändler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

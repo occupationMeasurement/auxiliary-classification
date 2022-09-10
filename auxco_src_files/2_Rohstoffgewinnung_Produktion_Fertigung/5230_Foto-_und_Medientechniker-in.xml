@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5230</id>
+  <taetigkeit>Produktion und Instandhaltung von fototechnischen Geräten sowie Entwicklung neuer Methoden im Fotolabor</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden bezüglich technischen Funktionen und Anwendungsmöglichkeiten von Kameras oder Programmen zur digitalen Bildbearbeitung beraten; Entwicklungsmaschinen und deren Bestandteile entwerfen, konstruieren und warten; fachlich anspruchsvolle Entwicklungsarbeiten durchführen; detaillierte Mengen- und Kostenschätzungen von Chemikalien, Fotopapier und Bildbearbeitung kalkulieren; neue Herstellungs- und Bearbeitungsformen in der digitalen Foto- und Medientechnik entwickeln und bestehende Verfahren optimieren; Filmrestaurierungen durchführen und durchgeführte Maßnahmen dokumentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Foto- und Medientechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23313">Fototechnik - Spezialist</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="23313-102" refid="6454">Filmrestaurator/in (Archiv)</dkz>
+      <dkz codenr="23313-103" refid="6456">Techniker/in - Foto- und Medientechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5229">Fotolaborant/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

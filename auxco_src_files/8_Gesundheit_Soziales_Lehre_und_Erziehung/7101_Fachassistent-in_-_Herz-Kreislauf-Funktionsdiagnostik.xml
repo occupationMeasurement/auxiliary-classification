@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7101</id>
+  <taetigkeit>Bedienung und Überwachung medizinischer Geräte bei herzchirurgischen Eingriffen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. technische Aufgaben bei der Durchführung von Operationen im Herz-Lungen-Bereich durchführen; bei der kardiologischen und kinderkardiologischen Diagnostik mitwirken; Funktionskontrollen von medizinisch-technischen Geräten durchführen und den Patienten an die Herz-Lungen-Maschine anschließen; den Zustand der Patienten während der Operation überwachen; Patientendaten protokollieren und auswerten</taetigkeitsbeschreibung>
+  <bezeichnung>Fachassistent/in - Herz-Kreislauf-Funktionsdiagnostik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81223">Med-tech.Berufe Funktionsdiag-Spezialist</kldb>
+      <isco schluessel="3256">Medical assistants</isco>
+      <dkz codenr="81223-100" refid="6031">Techniker/in - Kardiotechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7011">Medizinisch-technische/r Assistent/in (MTA)</abgrenzung>
+  <abgrenzung typ="hoch" refid="7012">Ingenieur/in - Kardiotechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="1829">Medizintechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

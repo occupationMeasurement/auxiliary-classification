@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1001</id>
+  <taetigkeit>Betreuung von Passagieren während des Fluges</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fluggäste an Bord begrüßen; Verhalten in Notfällen erklären; Mahlzeiten und Getränke während des Fluges servieren</taetigkeitsbeschreibung>
+  <bezeichnung>Steward/Stewardess (Flugzeug)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51422">Servicefachkräfte im Luftverkehr - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="5111">Travel attendants and travel stewards</isco>
+      <dkz codenr="51422-102" refid="10056">Purser/Purserette (Luftfahrt)</dkz>
+      <dkz codenr="51422-103" refid="10057">Flugbegleiter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1000">Schalterangestellte/r - Flughafen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

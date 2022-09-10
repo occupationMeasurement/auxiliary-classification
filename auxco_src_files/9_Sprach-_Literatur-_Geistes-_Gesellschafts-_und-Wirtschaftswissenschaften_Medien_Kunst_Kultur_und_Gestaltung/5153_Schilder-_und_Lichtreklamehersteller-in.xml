@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5153</id>
+  <taetigkeit>Entwurf, Gestaltung und Herstellung von Lichtreklameanlagen und Schildern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden über die gestalterische Umsetzung von Werbebotschaften beraten; Hinweis- und Werbeschilder, Straßen und Verkehrsschilder, Leuchtreklameanlagen und Beschriftungen mit der Hand und am Computer entwerfen und gestalten; Metallflächen mit Emailpulver oder flüssigem Email überziehen, trocknen lassen, brennen; Schablonen anfertigen; Farben bzw. Lacke auswählen; Aufschrift bzw. Motiv mit Pinseln oder mit Spritzpistolen auftragen; Leuchtröhren in die jeweilige Form bringen; beleuchtete Tafeln aus Plexiglas gestalten</taetigkeitsbeschreibung>
+  <bezeichnung>Schilder- und Lichtreklamehersteller/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93542">Schilder-,Lichtreklameherst. - Fachkraft</kldb>
+      <isco schluessel="7316">Sign writers, decorative painters, engravers and etchers</isco>
+      <dkz codenr="93542-100" refid="2024">Emailschriftenmaler/in</dkz>
+      <dkz codenr="93542-101" refid="4604">Maler/in - Beschriftungen/Schilder/Werbeobjekte</dkz>
+      <dkz codenr="93542-102" refid="8488">Schilder- und Lichtreklamehersteller/in</dkz>
+      <dkz codenr="93542-118" refid="119549">Schilder- und Lichtreklamehersteller/in-Grafik,Druck,Applik.</dkz>
+      <dkz codenr="93542-117" refid="119552">Schilder- und Lichtreklamehersteller/in-Tech.,Mont.,Werbeel.</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5147">Metallbildner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

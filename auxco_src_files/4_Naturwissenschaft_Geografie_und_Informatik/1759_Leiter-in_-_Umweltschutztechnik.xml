@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1759</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Umweltschutztechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Entwicklung von technischen Maßnahmen und Einrichtungen zum Umweltschutz überwachen; bei der Erstellung von Emissionskatastern (Verzeichnissen) mitwirken; Schulungen und Weiterbildungen für Mitarbeiter organisieren; den betrieblichen Teil der Ausbildung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - Umweltschutztechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42293">Aufsichtskräfte - Umweltschutztechnik</kldb>
+      <isco schluessel="2143">Environmental engineers</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1799">Umweltschutzingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5358">Leiter/in - Abfallentsorgung und Städtereinigung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

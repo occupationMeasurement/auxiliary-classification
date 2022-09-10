@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1235</id>
+  <taetigkeit>Planung der Veranstaltungs- und Bühnentechnik und Kontrolle von Licht- und Beschallungsanlagen bei Veranstaltungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. veranstaltungstechnische Anlagen installieren und in Betrieb nehmen; Manuskripte und Regievorgaben zur technischen und gestalterischen Umsetzung auswerten; Lichtverhältnisse und Zustand von Beleuchtungsanlagen kontrollieren; Richtlinien bezüglich Standards und Sicherheit von Lichtanlagen beachten</taetigkeitsbeschreibung>
+  <bezeichnung>Ingenieur/in – Veranstaltungstechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94513">Berufe in der Veranstaltungs- und Bühnentechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="94514">Berufe in der Veranstaltungs- und Bühnentechnik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="94514-100" refid="8515">Dipl.-Ing. (FH) - Theater- u. Veranstaltungstechnik</dkz>
+      <dkz codenr="94514-102" refid="59423">Ingenieur/in - Veranstaltungstechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="94513">Berufe in der Veranstaltungs- und Bühnentechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="94513-103" refid="90068">Lichtplaner/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1234">Beleuchter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1231">Bühnenarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1842">Tontechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6102">Konferenz- und Veranstaltungsplaner</abgrenzung>
+  <abgrenzung typ="hoch" refid="1248">Meister/in – Veranstaltungstechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="1302">Museums- / Ausstellungstechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9218</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in einem Steinmetzbetrieb</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Personal einteilen; Fachkräfte bei der Werkstoffbearbeitung anleiten; Be- und Verarbeitungstechniken für die Erzeugnisse auswählen; Einhaltung der Arbeits-, Brand- und Umweltschutzbestimmungen innerhalb des Verantwortungsbereichs sicherstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Steinmetzmeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21293">Aufsichtskräfte - Naturstein- und Mineralaufbereitung und -verarbeitung und Baustoffherstellung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="21293-100" refid="858">Steinmetz- und Steinbildhauermeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9216">Steinmetz/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5141">Kunsthandwerksmeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

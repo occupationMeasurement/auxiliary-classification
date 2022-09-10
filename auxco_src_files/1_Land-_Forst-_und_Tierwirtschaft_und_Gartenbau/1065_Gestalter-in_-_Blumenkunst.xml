@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1065</id>
+  <taetigkeit>Planung, Koordination und Optimierung der Gestaltung und des Verkaufs von Blumen und Pflanzenschmuck</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden beraten, Skizzen zur Gestaltung von Blumenschmuck erstellen; anspruchsvolle floristische Arrangements entwerfen und anfertigen; Schaufenster dekorieren; Verkaufs- und Marketingkonzepte entwickeln; Waren unter Berücksichtigung des Marktes einkaufen</taetigkeitsbeschreibung>
+  <bezeichnung>Gestalter/in - Blumenkunst</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="12203">Berufe in der Floristik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="7549">Craft and related workers not elsewhere classified</isco>
+      <dkz codenr="12203-100" refid="13939">Gestalter/in - Blumenkunst</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1064">Florist/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1714">Floristikmeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

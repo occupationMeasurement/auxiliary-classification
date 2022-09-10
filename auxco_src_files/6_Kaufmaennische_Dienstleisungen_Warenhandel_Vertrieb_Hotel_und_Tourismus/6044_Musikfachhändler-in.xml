@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6044</id>
+  <taetigkeit>Verkauf von Musikinstrumenten, Noten, musikpädagogischer Literatur und Tonträgern im Einzelhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden bezüglich der angebotenen Ware beraten; Musikinstrumente, Notenbücher, CDs, Schallplatten, Musikanlagen, DVDs, MP3s und Musikfachzeitschriften verkaufen; Instrumente und Musikalien erlären und ggf. vorführen; Zahlungsmittel entgegennehmen; Reklamationen entgegennehmen; Warenbestände kontrollieren; Bestellungen veranlassen; Lieferungen entgegehnnehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Musikfachhändler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62532">Musikfachhandel - Fachkraft</kldb>
+      <isco schluessel="5223">Shop sales assistants</isco>
+      <dkz codenr="62532-101" refid="73828">Musikfachhändler/in</dkz>
+      <dkz codenr="62532-100" refid="6702">Musikalienhändler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5154">Musikinstrumentenbauer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

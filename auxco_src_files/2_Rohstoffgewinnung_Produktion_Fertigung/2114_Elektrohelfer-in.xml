@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2114</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten in der Elektrotechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. am Fließband in der Leiterplattenproduktion oder der Montage von Elektrogeräten arbeiten; bei der Herstellung von Wicklungen für Transformatoren oder Elektromotoren unterstützen; bei der Installation von Datendosen oder beim Kabelziehen mithelfen; Fachkräfte bei der Wartung und Montage von elektrischen Geräten unterstützen</taetigkeitsbeschreibung>
+  <bezeichnung>Elektrohelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26301">Berufe in der Elektrotechnik (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="8212">Electrical and electronic equipment assemblers</isco>
+      <dkz codenr="26301-111" refid="58535">Helfer/in - Elektro</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2115">Elektromechaniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

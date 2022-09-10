@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4012</id>
+  <taetigkeit>Planung, Koordination und Optimierung von chemischen Verfahren in betriebs- oder labortechnischen Anlagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. neue messtechnische oder produktionstechnische Verfahren entwickeln; Maschinen für die Chemie- und Pharmaproduktion konzipieren und weiterentwickeln; Kontrollstandards für Sicherheit und Effizienz von Produktionsabläufen festlegen; Kunden anwendungstechnisch beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Ingenieur/in - Chemietechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41314">Chemie- und Pharmatechnik - Experte</kldb>
+      <isco schluessel="2145">Chemieingenieure</isco>
+      <dkz codenr="41314-118" refid="58737">Ingenieur/in - Pharmatechnik</dkz>
+      <dkz codenr="41314-117" refid="58693">Ingenieur/in - Chemietechnik</dkz>
+      <dkz codenr="41314-119" refid="59418">Ingenieur/in - Technologie der Kosmetika und Waschmittel</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1800">Produktionsleiter/in in der Chemie</abgrenzung>
+  <abgrenzung typ="hoch" refid="1792">Laborleiter/in in der Chemie</abgrenzung>
+  <abgrenzung typ="mittel" refid="1790">Chemiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4014">Chemische/r Laboratorium-Spezialist/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4219">Chemiker/in mit spezifischem Fachgebiet</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

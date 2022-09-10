@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3541</id>
+  <taetigkeit>Rechtspflege und Koordination der Justizverwaltung bei einem Gericht oder einer Staatsanwaltschaft</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Geschäftsleitung des gesamten Dienstbetriebs der jeweiligen Behörde übernehmen; rechtlich schwierige Erklärungen, Anträge, Klageschriften und Revisionsbegründungen in Strafsachen aufnehmen; Sachverhalte aufklären und Tatbestände feststellen; Verhandlungen anberaumen, vorbereiten und führen; Tätigkeiten im Familien- und Betreuungsgericht, Registergericht, Prozessgericht und Strafgericht ausüben</taetigkeitsbeschreibung>
+  <bezeichnung>Justizverwaltungsbeamter/-beamtin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73253">Justizverwaltung - Spezialist</kldb>
+      <isco schluessel="3411">Legal and related associate professionals</isco>
+      <dkz codenr="73252-100" refid="7899">Beamt(er/in) - Justizdienst (mittl. Dienst)</dkz>
+      <dkz codenr="73253-101" refid="14070">Amtsanwalt/Amtsanwältin (FH)</dkz>
+      <dkz codenr="73253-100" refid="8234">Rechtspfleger/in</dkz>
+      <dkz codenr="73254-100" refid="90803">Beamt(er/in) - Justizverwaltung (höh. Dienst)</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Sind Sie Beamte/r im mittleren, gehobenen oder höheren Dienst?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie Beamte/r im mittleren, gehobenen oder höheren Dienst?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>im mittleren Dienst oder vergleichbar</text>
+      <kldb schluessel="73252">Justizverwaltung - Fachkraft</kldb>
+      <isco schluessel="3411">Legal and related associate professionals</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>im gehobenen Dienst oder vergleichbar</text>
+      <kldb schluessel="73253">Justizverwaltung - Spezialist</kldb>
+      <isco schluessel="3411">Legal and related associate professionals</isco>
+    </antwort>
+    <antwort position="3" anforderungsniveau="4">
+      <text>im höheren Dienst oder vergleichbar</text>
+      <kldb schluessel="73254">Justizverwaltung - Experte</kldb>
+      <isco schluessel="2619">Legal professionals not elsewhere classified </isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3529">Rechtsanwalts- und Notarfachangestellte/r</abgrenzung>
+  <abgrenzung typ="mittel" refid="3551">Steuerverwaltungsbeamter/-beamtin</abgrenzung>
+  <abgrenzung typ="mittel" refid="3532">Staatsanwalt/-anwältin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

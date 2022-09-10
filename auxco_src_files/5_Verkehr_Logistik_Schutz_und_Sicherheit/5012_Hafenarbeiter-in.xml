@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5012</id>
+  <taetigkeit>Beladung und Entladung von Schiffen mit Muskelkraft oder Bordkränen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Güter stauen, laden und löschen; Güter zum Lager transportieren; Förderfahrzeuge führen; Lkw- Fahrer einweisen</taetigkeitsbeschreibung>
+  <bezeichnung>Hafenarbeiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51311">Lagerwirtschaft -Helfer</kldb>
+      <isco schluessel="9333">Freight handlers</isco>
+      <dkz codenr="51311-119" refid="7455">Hafenarbeiter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5002">Fachkraft - Lagerlogistik</abgrenzung>
+  <abgrenzung typ="hoch" refid="5056">Staplerfahrer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5001">Lagerarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5005">Fachkraft - Hafenlogistik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

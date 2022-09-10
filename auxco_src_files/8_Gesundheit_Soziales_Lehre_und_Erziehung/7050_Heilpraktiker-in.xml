@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7050</id>
+  <taetigkeit>Diagnose und Behandlung von Patienten mit naturheilkundlichen und alternativmedizinischen Methoden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Anamnese durchführen und Diagnose erstellen; homöopathische Behandlungen, Kinesiologie, Akupunktur, chiropraktische Behandlungen, osteopathische Maßnahmen durchführen; traditionelle, naturheilkundliche Arzneimittel verschreiben und zubereiten; Beratungsgespräche durchführen; Therapiepläne aufstellen; durchgeführte Maßnahmen dokumentieren und Behandlungsfortschritte auswerten</taetigkeitsbeschreibung>
+  <bezeichnung>Heilpraktiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81752">Berufe in der Heilkunde und Homöopathie - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="2230">Traditional and complementary medicine professionals</isco>
+      <dkz codenr="81752-100" refid="8721">Heilpraktiker/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Wenden Sie überwiegend homöopathische Heilverfahren an?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie überwiegend homöopathische Heilverfahren angewendet?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Nein</text>
+      <kldb schluessel="81752">Berufe in der Heilkunde und Homöopathie - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="2230">Traditional and complementary medicine professionals</isco>
+      <dkz codenr="81752-100" refid="8721">Heilpraktiker/in</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Ja</text>
+      <kldb schluessel="81753">Berufe in der Heilkunde und Homöopathie - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2230">Traditional and complementary medicine professionals</isco>
+      <dkz codenr="81753-100" refid="8720">Homöopath/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7028">Allgemeinarzt /-ärztin</abgrenzung>
+  <abgrenzung typ="hoch" refid="7037">Tierheilpraktiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

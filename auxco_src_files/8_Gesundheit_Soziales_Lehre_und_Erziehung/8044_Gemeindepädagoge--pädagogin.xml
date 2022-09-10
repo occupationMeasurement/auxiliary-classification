@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>8044</id>
+  <taetigkeit>Vermittlung von theologischen Perspektiven sowie seelsorgerische Arbeiten in der Gemeindepädagogik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Aufgaben in der Gemeindepädagogik übernehmen; an der Gestaltung von Gottesdiensten bzw. der Liturgie mitwirken; theologische Bildungsprozesse gestalten, organisieren und durchführen; in der Kinder- und Jugendarbeit oder in der Erwachsenenbildung in sozialen Diensten mitarbeiten; Projekte in der Gemeinde begleiten</taetigkeitsbeschreibung>
+  <bezeichnung>Gemeindepädagoge/-pädagogin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84424">Religionspädagogik - Experte</kldb>
+      <isco schluessel="2636">Religious professionals</isco>
+      <dkz codenr="84424-106" refid="58771">Religionspädagoge/-pädagogin - evangelisch</dkz>
+      <dkz codenr="84424-105" refid="51013">Katechet/in (evangelisch)</dkz>
+      <dkz codenr="84424-107" refid="59579">Religionspädagoge/-pädagogin - katholisch</dkz>
+      <dkz codenr="84424-108" refid="100527">Religionspädagoge/-pädagogin - jüdische Gemeinden</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8043">Religionslehrer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8019">Gemeindereferent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1101">Philosoph/in / Religionswissenschaftler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8018">Pfarrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

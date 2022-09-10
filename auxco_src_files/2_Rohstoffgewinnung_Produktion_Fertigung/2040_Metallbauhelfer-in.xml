@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2040</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten bei der Bearbeitung, Montage und Endverarbeitung von Metallkonstruktionen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fachkräfte bei Bohr-, Stanz- und Schneidarbeiten für den Bau von Metallteilen unterstützen; bei der manuellen bzw. maschinellen Bearbeitung und Verformung von Stahl- und Nichteisenblechen zuarbeiten; Verschraubungen und andere Verbindungen auf Montagebaustellen herstellen sowie anfallende Transportarbeiten verrichten; beim Reinigen und Instandhalten von Werkzeugen, Maschinen und Arbeitsgeräten helfen</taetigkeitsbeschreibung>
+  <bezeichnung>Metallbauhelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24411">Berufe im Metallbau - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="24411-110" refid="58544">Helfer/in - Metallbau</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="2034">Metallbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2093">Metallbearbeitungshelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2063">Montagehelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2075">Kraftfahrzeugmechanikerhelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

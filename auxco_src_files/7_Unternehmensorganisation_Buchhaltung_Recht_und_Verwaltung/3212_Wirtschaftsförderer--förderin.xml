@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3212</id>
+  <taetigkeit>Wirtschaftsförderung und Standortmarketing für eine Stadt oder eine Region</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wirtschaftsanalysen und Entwicklungsszenarien erstellen; Konzepte zur Belebung der Region erstellen und an deren politischen Umsetzung mitarbeiten; Kontakte zu Interessensgruppen und potenziellen Investoren aufbauen; Unternehmen bei der Inanspruchnahme von Fördermaßnahmen beraten; die strategische Entwicklung und Vermarktung der Region vorantreiben</taetigkeitsbeschreibung>
+  <bezeichnung>Wirtschaftsförderer/-förderin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71333">Berufe in der Wirtschaftsförderung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2422">Policy administration professionals</isco>
+      <dkz codenr="71333-101" refid="34965">Wirtschaftsförder(er/in)</dkz>
+      <dkz codenr="71333-100" refid="14962">City-/Flächen-Manager/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3211">Kaufmännische/r Betriebsleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3513">Public-Relations-Manager/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3206">Betriebswirtschaftliche/r Assistent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

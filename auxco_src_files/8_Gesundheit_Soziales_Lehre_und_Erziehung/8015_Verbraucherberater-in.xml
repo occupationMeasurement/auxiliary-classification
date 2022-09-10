@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>8015</id>
+  <taetigkeit>Beratung von Konsumenten zu Fragen des Verbraucherschutzes und Verbraucherrechten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden und Verbraucher über Produkte, Dienstleistungen und Rechtsfragen im Bereich Konsum aufklären; Waren, Produkte und Dienstleistungen testen; themenbezogene Seminare durchführen; Verbraucherinteressen in Verhandlungen vertreten; Berichte veröffentlichen</taetigkeitsbeschreibung>
+  <bezeichnung>Verbraucherberater/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83223">Verbraucherberatung - Spezialist</kldb>
+      <isco schluessel="2635">Social work and counselling professionals</isco>
+      <dkz codenr="83223-100" refid="10147">Verbraucherberater/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="8016">Hauswirtschaftsleiter/in für Großbetriebe</abgrenzung>
+  <abgrenzung typ="mittel" refid="8017">Hauswirtschaftsleiter/in für Privathaushalt</abgrenzung>
+  <abgrenzung typ="hoch" refid="4255">Abfall- und Umweltberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

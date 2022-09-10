@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5026</id>
+  <taetigkeit>Erstellung von Fracht- und Zollpapieren für den internationalen Warenverkehr</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Import- und Export-Dokumentation überprüfen; Frachtbriefe ausstellen; Zollangelegenheiten bearbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Sachbearbeiter/in für die Erstellung von Zollpapieren</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51623">Speditions-,Logistikkaufleute-Spezialist</kldb>
+      <isco schluessel="3331">Clearing and forwarding agents</isco>
+      <dkz codenr="51623-104" refid="7542">Sachbearbeiter/in - Logistik</dkz>
+      <dkz codenr="51623-132" refid="122243">Fachwirt/in - Logistiksysteme</dkz>
+      <dkz codenr="51623-133" refid="122244">Fachwirt/in - Güterverkehr und Logistik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5025">Kaufmann/-frau für Spedition und Logistikdienstleistungen</abgrenzung>
+  <abgrenzung typ="hoch" refid="5039">Logistikleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5022">Verkehrsbetriebswirt/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

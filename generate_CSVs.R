@@ -30,9 +30,21 @@ library(stringdist)
 output_dir <- "output"
 dir.create(output_dir, showWarnings = FALSE)
 
+##################################################
 # read auxiliary classification
-src <- read_xml("./hilfsklassifikation.xml")
+## create a single combined file from all the documents.
+src <- xml_new_root("klassifikation")
+files <- list.files("./auxco_src_files", pattern = "xml", full.names = TRUE, recursive = TRUE)
+files <- setdiff(files, "./auxco_src_files/00_hilfsklassifikation_all_categories_combined.xml")
 
+for (doc in files) {
+    kat <- read_xml(paste0(doc))
+    xml_add_child(src, kat)
+}
+# update in github file
+write_xml(src, file = file.path(output_dir, "/00_hilfsklassifikation_all_categories_combined.xml"))
+
+##################################################
 # remove all answer options that ask for an open-ended answer
 # Not yet implemented, but it may be worth to look at this again.
 # What if people do not find an answer option in follow-up questions that is appropriate for them?

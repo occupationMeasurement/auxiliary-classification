@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3525</id>
+  <taetigkeit>Verfassen von Drehbüchern für Film- und Fernsehproduktionen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Drehbücher für Film- und Fernsehproduktionen verfassen; Inhalt, Handlung und Figuren einer Geschichte entwickeln; Dialoge ausarbeiten; Schauplätze beschreiben; detaillierte Angaben über räumliche und zeitliche Abfolgen, Requisiten, Geräusche, Musik, Licht und Stimmungen erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Drehbuchautor/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92434">Autoren, Schriftsteller- Experte</kldb>
+      <isco schluessel="2641">Authors and related writers</isco>
+      <dkz codenr="92434-103" refid="14551">Drehbuchautor/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3514">Schriftsteller/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3512">Chefredakteur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

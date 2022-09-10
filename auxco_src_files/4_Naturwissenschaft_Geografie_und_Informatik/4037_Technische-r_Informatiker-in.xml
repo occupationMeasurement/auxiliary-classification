@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4037</id>
+  <taetigkeit>Entwicklung von Computersystemen für industriell-technische Anforderungen und Programmierung systemnaher Software</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Embedded Systems entwickeln und programmieren; Regel- und Steuerprogramme für elektrotechnische Geräte und Maschinen erstellen; Computerprogramme und -systeme für die Steuerung industrieller Abläufe entwickeln; Hard- und Softwaresysteme der Automatisierungstechnik einsetzen und anpassen; Betriebssysteme und Netzwerke einrichten und warten</taetigkeitsbeschreibung>
+  <bezeichnung>Technische/r Informatiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      <isco schluessel="2511">Systems analysts</isco>
+      <dkz codenr="43122-100" refid="5396">SPS-Fachkraft</dkz>
+      <dkz codenr="43122-101" refid="5567">Assistent/in - Automatisierungs- und Computertechnik</dkz>
+      <dkz codenr="43122-106" refid="15052">CAD-Organisator/in</dkz>
+      <dkz codenr="43122-102" refid="7740">Industrietechnologe/-technologin - Datentechnik</dkz>
+      <dkz codenr="43122-103" refid="7742">Assistent/in - Informatik (technische Informatik)</dkz>
+      <dkz codenr="43122-105" refid="14751">Technische/r Systeminformatiker/in</dkz>
+      <dkz codenr="43123-101" refid="7834">Techniker/in - Informatik (technische Informatik)</dkz>
+      <dkz codenr="43124-107" refid="58712">Ingenieur/in - technische Informatik</dkz>
+      <dkz codenr="43124-108" refid="59313">Ingenieurinformatiker/in</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>In welchem Bereich sind Sie vorwiegend tätig?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>In welchem Bereich waren Sie vorwiegend tätig?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Konzeption von speziellen IT-Systemen für verschiedene Aufgaben und Anwenderbedürfnisse</text>
+      <isco schluessel="2511">Systems analysts</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Entwurf und Entwicklung von Computersoftware</text>
+      <isco schluessel="2512">Software developers</isco>
+    </antwort>
+    <antwort position="3">
+      <text>Entwicklung von Steuerprogrammen für elektrotechnische Geräte und Maschinen</text>
+      <isco schluessel="2152">Electronics engineers</isco>
+    </antwort>
+    <antwort position="4">
+      <text>Entwicklung und Wartung von Code</text>
+      <isco schluessel="2514">Application Programmers</isco>
+    </antwort>
+    <antwort position="5">
+      <text>Verwaltung von Netzwerkdaten und Computernetzwerken</text>
+      <isco schluessel="3513">Computer network and systems technicians</isco>
+    </antwort>
+    <antwort position="6">
+      <text>Überwachung von Hardware, Software und Computerzubehör; um optimale Leistung zu garantieren</text>
+      <isco schluessel="3511">Information and communications technology operations technicians</isco>
+    </antwort>
+    <antwort position="7">
+      <text>Erforschung und Weiterentwicklung von Netzwerkarchitekturen zur Leistungsoptimierung</text>
+      <isco schluessel="2523">Computer Network Professionals</isco>
+    </antwort>
+    <antwort position="8">
+      <text>Oder etwas anderes?</text>
+      <isco schluessel="????">Freitextantwort</isco>
+    </antwort>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="43122">Technische Informatik - Fachkraft</kldb>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine vertiefende berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium in Informatik, Wirtschafsinformatik oder ein vergleichbares Studium</text>
+      <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium in Informatik, Wirtschafsinformatik oder ein vergleichbares Studium</text>
+      <kldb schluessel="43124">Technische Informatik - Experte</kldb>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4038">Informatiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4250">Leiter/in - Informatik und Informationsmanagement</abgrenzung>
+  <abgrenzung typ="mittel" refid="2118">Informations- und Kommunikationselektroniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1772">IT-Netzwerktechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1734">Techniker/in - Informations- und Kommunikationselektronik</abgrenzung>
+  <notes>
+    <note date="2022-09-09">halboffene Folgefrage macht technische Schwierigkeiten und ist nicht umgesetzt</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

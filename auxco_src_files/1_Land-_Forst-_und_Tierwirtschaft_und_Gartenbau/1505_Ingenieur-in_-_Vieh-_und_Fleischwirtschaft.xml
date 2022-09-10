@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1505</id>
+  <taetigkeit>Erforschung von Formen der Nutztierproduktion sowie die strategische und wirtschaftliche Beratung von Zuchtbetrieben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Zusammenleben, Fortpflanzung und Ernährung von Nutztieren untersuchen; Zucht- und Pflegeempfehlungen abgeben; auf Grundlage von Erb- und Zuchtwerten Konzepte zur Steigerung der Produktion optimieren; internationale Entwicklungen beobachten; tier- und milchwirtschaftliche Betriebe strategisch und wirtschaftlich beraten; an der Entwicklung neuer Vermarktungsstrategien mitarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Ingenieur/in - Vieh- und Fleischwirtschaft</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11214">Berufe in der Nutztierhaltung (außer Geflügelhaltung) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2132">Farming, forestry and fishery advisers</isco>
+    </default>
+  </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

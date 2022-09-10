@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5193</id>
+  <taetigkeit>Bedienung von Maschinen zur Verarbeitung von Holz zu Holzbauteilen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rohmaterial auswählen und auf Verwendbarkeit prüfen; Material vermessen, sortieren und lagern; Holzbearbeitungsmaschinen zum Sägen, Hobeln, Bohren, Planieren und Pressen für die Herstellung und Bearbeitung von Holzteilen einrichten und bedienen; Maschinen und Anlagen einrichten und überwachen; manuelle Werkzeuge und Messinstrumente bedienen; voreingestellte Spezialmaschinen zur Herstellung von Holzprodukten wie Kleiderhaken, Wäscheklammern oder Besenstielen bedienen</taetigkeitsbeschreibung>
+  <bezeichnung>Holzbearbeitungsmechaniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22302">Holzbe-,-verarbeitung (o.S.) - Fachkraft</kldb>
+      <isco schluessel="7523">Woodworking machine tool setters and operators</isco>
+      <dkz codenr="22302-107" refid="29058">Holzbearbeitungsmechaniker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5194">Holztechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5198">Holzmechaniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5200">Tischler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5205">Wagner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5206">Böttcher/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5192">Helfer/in - Holz und Flechtwaren</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

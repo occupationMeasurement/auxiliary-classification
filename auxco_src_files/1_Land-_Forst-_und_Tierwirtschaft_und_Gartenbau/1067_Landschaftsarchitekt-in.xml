@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1067</id>
+  <taetigkeit>Entwicklung von Konzepten in der Raum- und Stadtplanung mit Fokus auf Landschaftsschutz und Umwelt</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. raumplanerische Tätigkeiten ausüben; Gärten und Parks sowie Freiflächen entwerfen; landespflegerische Belange vertreten; bei Interessenvertretungen tätig sein; Gutachten und Konzepte erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Landschaftsarchitekt/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="12144">Berufe im Garten-, Landschafts- und Sportplatzbau - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2162">Landscape architects</isco>
+      <dkz codenr="12144-105" refid="58752">Ingenieur/in - Landschaftsarchitektur</dkz>
+      <dkz codenr="12144-106" refid="100513">Landschaftsarchitekt/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1066">Landschaftsgärtner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5260">Vermessungstechniker/in oder -ingeneur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9204">Natur- und Landschaftspfleger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5279">Ingenieur/in - Stadt- und Regionalplanung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1056">Gartenbauingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

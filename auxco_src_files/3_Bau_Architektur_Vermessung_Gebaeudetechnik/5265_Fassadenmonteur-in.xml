@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5265</id>
+  <taetigkeit>Montage von Außenwand- und Fassadenverkleidungen an Gebäuden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fassaden- und Außenwandverkleidungen zum Witterungs- bzw. Brandschutz oder zu dekorativen Zwecken anbringen; Maße von geplanten Fassaden laut den Ausführungs- und Detailplänen auf das Bauwerk übertragen; Einbaubedingungen kontrollieren und Montageuntergründe ausbessern; Unterkonstruktionen für Fassadenelemente montieren; Fassaden aus verschiedenen Materialien anpassen und montieren; Fassaden sanieren und instand setzen; einzelne Fassadenelemente auswechseln; Qualität der Arbeiten überprüfen; Geräte, Maschinen und Anlagen bedienen und reinigen</taetigkeitsbeschreibung>
+  <bezeichnung>Fassadenmonteur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32152">Fassadenbau - Fachkraft</kldb>
+      <isco schluessel="7111">House builders</isco>
+      <dkz codenr="32152-101" refid="3949">Fassadenmonteur/in</dkz>
+      <dkz codenr="32152-102" refid="4056">Fassadendecker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1854">Bauhelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5350">Hochbauarbeiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5262">Maurer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

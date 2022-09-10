@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4035</id>
+  <taetigkeit>Planung und Einführung neuer IT-Lösungen für das eigene Unternehmen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bestehende IT-Infrastruktur bewerten und analysieren; betriebliche IT-Systeme entwerfen und realisieren; Software für bestimmte Unternehmensbereiche gezielt anpassen</taetigkeitsbeschreibung>
+  <bezeichnung>Betriebsinformatiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43113">Berufe in der Wirtschaftsinformatik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2511">Systems analysts</isco>
+      <dkz codenr="43113-131" refid="58969">Betriebswirt/in (Fachschule) - Informationsverarbeitung</dkz>
+      <dkz codenr="43113-128" refid="50983">Betriebswirt/in (Fachschule) - E-Business</dkz>
+      <dkz codenr="43113-101" refid="7729">EDV-Organisator/in</dkz>
+      <dkz codenr="43113-116" refid="27545">ERP-Organisator/in</dkz>
+      <dkz codenr="43113-104" refid="7764">Fachwirt/in - Computer-Management</dkz>
+      <dkz codenr="43113-107" refid="7822">Techniker/in - Informatik (Betriebsinformatik)</dkz>
+      <dkz codenr="43113-112" refid="15033">Betriebsinformatiker/in</dkz>
+      <dkz codenr="43113-122" refid="28612">Wirtschaftsinformatiker/in (Fachschule)</dkz>
+      <dkz codenr="43114-110" refid="58784">Wirtschaftsinformatiker/in (Hochschule)</dkz>
+      <dkz codenr="43114-112" refid="59311">Umweltinformatiker/in</dkz>
+      <dkz codenr="43114-113" refid="59317">Verwaltungsinformatiker/in</dkz>
+      <dkz codenr="43114-114" refid="59320">Informationsmanager/in</dkz>
+      <dkz codenr="43112-105" refid="7767">Informatikkaufmann/-frau</dkz>
+      <dkz codenr="43112-107" refid="7772">Kfm. Ass./Wirtschaftsassistent/in - Informationsverarbeitung</dkz>
+      <dkz codenr="43112-116" refid="7781">Assistent/in - Informatik (Wirtschaftsinformatik)</dkz>
+      <dkz codenr="43112-120" refid="14516">Kfm. Ass./Wirtschaftsassistent/in - Betriebsinformatik</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>In welchem Bereich sind Sie vorwiegend tätig?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>In welchem Bereich waren Sie vorwiegend tätig?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Konzeption von speziellen IT-Systemen für verschiedene Aufgaben und Anwenderbedürfnisse</text>
+      <isco schluessel="2511">Systems analysts</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Entwurf und Entwicklung von Computersoftware</text>
+      <isco schluessel="2512">Software developers</isco>
+    </antwort>
+    <antwort position="3">
+      <text>Entwicklung und Entwurf von Webseiten und Online-shops/ E-Commerce</text>
+      <isco schluessel="2513">Web and Multimedia Developers</isco>
+    </antwort>
+    <antwort position="4">
+      <text>Entwicklung und Wartung von Code</text>
+      <isco schluessel="2514">Application Programmers</isco>
+    </antwort>
+    <antwort position="5">
+      <text>Entwicklung, Kontrolle und Wartung von Datenbanken</text>
+      <isco schluessel="2521">Database Designers and Administrators</isco>
+    </antwort>
+    <antwort position="6">
+      <text>Wartung und Verwaltung von informationstechnischen Systemen</text>
+      <isco schluessel="2522">Systems Administrators</isco>
+    </antwort>
+    <antwort position="7">
+      <text>Erforschung und Weiterentwicklung von Netzwerkarchitekturen zur Leistungsoptimierung</text>
+      <isco schluessel="2523">Computer Network Professionals</isco>
+    </antwort>
+    <antwort position="8">
+      <text>Oder etwas anderes?</text>
+      <isco schluessel="????">Freitextantwort</isco>
+    </antwort>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="43112">Berufe in der Wirtschaftsinformatik - fachlich ausgerichtete Tätigkeiten</kldb>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine vertiefende berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="43113">Berufe in der Wirtschaftsinformatik - komplexe Spezialistentätigkeiten</kldb>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium in Informatik, Wirtschafsinformatik oder ein vergleichbares Studium</text>
+      <kldb schluessel="43113">Berufe in der Wirtschaftsinformatik - komplexe Spezialistentätigkeiten</kldb>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium in Informatik, Wirtschafsinformatik oder ein vergleichbares Studium</text>
+      <kldb schluessel="43114">Berufe in der Wirtschaftsinformatik - hoch komplexe Tätigkeiten</kldb>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="4038">Informatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4037">Technische/r Informatiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4250">Leiter/in - Informatik und Informationsmanagement</abgrenzung>
+  <abgrenzung typ="mittel" refid="4046">IT-Systemanalytiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4047">Techniker/in im IT-Kundensupport</abgrenzung>
+  <abgrenzung typ="mittel" refid="4048">IT-Berater/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1772">IT-Netzwerktechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4052">IT-Qualitätssicherer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4053">EDV Operator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4054">System-/ Netzwerkadministrator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4055">Datenbankentwickler/in /administrator/in</abgrenzung>
+  <notes>
+    <note date="2022-09-09">halboffene Folgefrage macht technische Schwierigkeiten und ist nicht umgesetzt</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

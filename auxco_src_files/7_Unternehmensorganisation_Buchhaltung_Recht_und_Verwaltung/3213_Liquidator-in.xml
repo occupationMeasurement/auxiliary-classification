@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3213</id>
+  <taetigkeit>Liquidation von Unternehmen oder Vereinen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. alle laufenden Geschäfte beenden; Vermögensgegenstände verkaufen und die Gesellschaft abwickeln; Liquidationserlös an die Gesellschafter ausschütten</taetigkeitsbeschreibung>
+  <bezeichnung>Liquidator/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71384">Berufe in der Unternehmensorganisation und -strategie (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2421">Management and organization analysts</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3211">Kaufmännische/r Betriebsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3209">Unternehmensberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

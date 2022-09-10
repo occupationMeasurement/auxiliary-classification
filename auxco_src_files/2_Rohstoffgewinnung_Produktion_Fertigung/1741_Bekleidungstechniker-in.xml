@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1741</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Fertigungsprozessen bei der industriellen Fertigung von Kleidungsstücken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. neue Arbeitsmethoden und Verfahren zur Herstellung und Weiterverarbeitung von Textilien entwickeln; Musterschnitte und Modelle bis zur Produktionsreife entwickeln; bei der Bedarfsanalyse und der Beschaffung von Stoffen, Hilfsmitteln und Arbeitsgeräten mitwirken; einzelne Produktionsschritte etwa mittels Zeitstudien überwachen und optimieren; Qualitätssicherungsmaßnahmen durchführen und überwachen; Qualitätsstandards festlegen; Trend- und Machbarkeitsanalysen durchführen; mit der Marketingabteilung Produkte auf Messen, Trendshows oder in Kundenbetrieben präsentieren; bei der Entwicklung neuer Werkstoffe, Maschinen und Anlagen mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Bekleidungstechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28223">Berufe in der Bekleidungs-, Hut- und Mützenherstellung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and Engineering Science Technicians Not Elsewhere Classified</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="28224">Bekleidungsherstellung - Experte</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="28224-101" refid="58715">Ingenieur/in - Bekleidungstechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="28223">Berufe in der Bekleidungs-, Hut- und Mützenherstellung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and Engineering Science Technicians Not Elsewhere Classified</isco>
+      <dkz codenr="28223-100" refid="5904">Techniker/in - Bekleidungstechnik (Produktmanagement)</dkz>
+      <dkz codenr="28223-102" refid="5912">Techniker/in - Bekleidungstechnik (Bekleidungsfertigung)</dkz>
+      <dkz codenr="28223-103" refid="5920">Techniker/in - Bekleidungstechnik (ohne Schwerpunkt)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9046">Leiter/in - Textilverarbeitung</abgrenzung>
+  <abgrenzung typ="hoch" refid="9014">Modedesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9013">Schnittmustermacher/in für Kleidungsstücke</abgrenzung>
+  <abgrenzung typ="hoch" refid="1739">Textiltechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

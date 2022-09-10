@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2129</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung beim Betrieb von Kraftwerken, Stromleitungen oder elektrotechnischen Anlagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Betrieb und Instandhaltung von Kraftwerken und elektrotechnischen Anlagen organisieren und überwachen; Arbeitsabläufe optimieren und Kapazitätsplanungen erstellen; betriebliche Kosten erfassen und analysieren sowie Budgeteinhaltungen überwachen; Wartungs- und Instandhaltungmaßnahmen an Werkzeugen und Maschinen veranlassen und überwachen; für die Einhaltung von technischen und rechtlichen Vorschriften wie Arbeitsschutzbestimmungen sorgen; Weiterbildungen für Mitarbeiter organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - Energietechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26293">Aufsichtskräfte - Energietechnik</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="26293-103" refid="2840">Elektromaschinenbauermeister/in</dkz>
+      <dkz codenr="26293-106" refid="4729">Kraftwerksmeister/in - Maschinentechnik/Kerntechnik</dkz>
+      <dkz codenr="26293-107" refid="4730">Kraftwerksmeister/in - Produktion</dkz>
+      <dkz codenr="26293-108" refid="4732">Kraftwerksmeister/in - Produktion Elektrotechnik/Leittechnik</dkz>
+      <dkz codenr="26293-118" refid="6193">Industriemeister/in - Elektrotechnik (Energietechnik)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2105">Kraftwerksingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2130">Leiter/in - Elektrotechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="2124">Instandhaltungsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2128">Mechatronikermeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

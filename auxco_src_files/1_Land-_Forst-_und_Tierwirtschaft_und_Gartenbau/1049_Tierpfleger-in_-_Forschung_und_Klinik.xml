@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1049</id>
+  <taetigkeit>Versorgung und Aufzucht von Versuchstieren sowie Mitwirkung bei Versuchen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei Versuchen mitwirken; Tiere für Behandlung vorbereiten; versuchsbedingte Verhaltensänderungen erkennen und melden; Angaben wie Gewicht, Größe und Verhalten dokumentieren; Tiere versorgen</taetigkeitsbeschreibung>
+  <bezeichnung>Tierpfleger/in - Forschung und Klinik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11582">Berufe in der Tierpflege (sonstige spezifische Tätigkeiten) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="5164">Pet groomers and animal care workers</isco>
+      <dkz codenr="11582-100" refid="528">Tierpfleger/in - Forschung und Klinik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1047">Tierpfleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1826">Tierarzthelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

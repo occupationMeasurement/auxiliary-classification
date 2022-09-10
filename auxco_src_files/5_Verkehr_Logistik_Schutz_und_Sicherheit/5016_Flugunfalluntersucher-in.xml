@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5016</id>
+  <taetigkeit>Analyse der Ursachen und des Verlaufs von Unfällen und Störungen im Flugbetrieb</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Handlungen, Unterlassungen und Ereignisse ermitteln, die für Unfälle und Störungen verantwortlich sind; Unfallorte vermessen und fotografieren; Trümmerteile analysieren; Blackbox entnehmen; Cockpit-Stimmenrecorder, Radaraufzeichnungen und meteorologischen Gutachten analysieren; die Unfälle und Störungen dokumentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Flugunfalluntersucher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51534">Überwachung Luftverkehrsbetr. -Experte</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="51594">Führungskräfte - Überwachung und Steuerung des Verkehrsbetriebs</kldb>
+      <isco schluessel="1324">Supply, distribution and related managers</isco>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="51534">Überwachung Luftverkehrsbetr. -Experte</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="51534-100" refid="14353">Flugunfalluntersucher/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1726">Luftfahrttechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5260</id>
+  <taetigkeit>Vermessung von geographischen Gegebenheiten zur Bestimmung der exakten Position von Objekten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Geodaten über landschaftliche und städtische Gebiete sowie Meeresböden oder Rohstofflager erheben; Vermessungsarbeiten für Verkehrswege, Brücken, Talsperren, Kraftwerke und Wohnanlagen vorbereiten und organisieren; Vermessungen zur Neugestaltung von Fluren, Dörfern und städtischen Gebieten durchführen; Vermessungen an Hafenanlagen oder Bergwerksanlagen organisieren; Aufträge entgegennehmen; Vermessungsgeräte auswählen; Vermessungsteam fachlich einweisen; Daten über die Topografie des Geländes oder über Grundstücksteilungen erheben; Veränderungen des Meeresbodens ermitteln; Daten geoninformatisch auswerten und verarbeiten und Liegenschaftskataster aktualisieren; Nivellier- oder Laservermessungsgeräte sowie andere Vermessungsgeräte bedienen und warten; Auskünfte aus amtlichen Nachweisen erheben und Kunden zur Verfügung stellen</taetigkeitsbeschreibung>
+  <bezeichnung>Vermessungstechniker/in oder -ingeneur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="31213">Vermessungstechnik - Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="31213-106" refid="15446">Beamt(er/in) - Vermessungswesen (geh. techn. Dienst)</dkz>
+      <dkz codenr="31213-101" refid="5698">Techniker/in - Vermessungstechnik</dkz>
+      <dkz codenr="31213-104" refid="5712">Katastertechniker/in</dkz>
+      <dkz codenr="31213-105" refid="5715">Techniker/in - Seevermessungstechnik</dkz>
+      <dkz codenr="31214-110" refid="58730">Ingenieur/in - Markscheidewesen</dkz>
+      <dkz codenr="31214-111" refid="58741">Vermessungsingenieur/in</dkz>
+      <dkz codenr="31214-108" refid="15448">Beamt(er/in) - Vermessungswesen (höh. techn. Dienst)</dkz>
+      <dkz codenr="31212-110" refid="77490">Vermessungstechniker/in - Vermessung</dkz>
+      <dkz codenr="31212-111" refid="77491">Vermessungstechniker/in - Bergvermessung</dkz>
+      <dkz codenr="31212-109" refid="35304">Beamt(er/in) - Vermessungswesen (mittl. techn. Dienst)</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="31212">Vermessungstechnik - Fachkraft</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="31212-110" refid="77490">Vermessungstechniker/in - Vermessung</dkz>
+      <dkz codenr="31212-111" refid="77491">Vermessungstechniker/in - Bergvermessung</dkz>
+      <dkz codenr="31212-109" refid="35304">Beamt(er/in) - Vermessungswesen (mittl. techn. Dienst)</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="31213">Vermessungstechnik - Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="31213-106" refid="15446">Beamt(er/in) - Vermessungswesen (geh. techn. Dienst)</dkz>
+      <dkz codenr="31213-101" refid="5698">Techniker/in - Vermessungstechnik</dkz>
+      <dkz codenr="31213-104" refid="5712">Katastertechniker/in</dkz>
+      <dkz codenr="31213-105" refid="5715">Techniker/in - Seevermessungstechnik</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="31213">Vermessungstechnik - Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="31213-106" refid="15446">Beamt(er/in) - Vermessungswesen (geh. techn. Dienst)</dkz>
+      <dkz codenr="31213-101" refid="5698">Techniker/in - Vermessungstechnik</dkz>
+      <dkz codenr="31213-104" refid="5712">Katastertechniker/in</dkz>
+      <dkz codenr="31213-105" refid="5715">Techniker/in - Seevermessungstechnik</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="31214">Vermessungstechnik - Experte</kldb>
+      <isco schluessel="2165">Cartographers and surveyors</isco>
+      <dkz codenr="31214-110" refid="58730">Ingenieur/in - Markscheidewesen</dkz>
+      <dkz codenr="31214-111" refid="58741">Vermessungsingenieur/in</dkz>
+      <dkz codenr="31214-108" refid="15448">Beamt(er/in) - Vermessungswesen (höh. techn. Dienst)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5261">Kartograf/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1776">Verkehrswegeplaner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

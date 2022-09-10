@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6041</id>
+  <taetigkeit>Verkauf von Produkten in den Branchen Bekleidung, Sportartikel, Lederwaren oder Schuhe im Einzelhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden bezüglich der Ware und deren Eigenschaften beraten; die Ware zum Anfassen oder Anprobieren zur Verfügung stellen; Kunden und zum Kauf anregen; Rechnungen erstellen und Zahlungsmittel entgegennehmen; die Ware verpacken; Reklamationen und Reservierungen aufnehmen; bei Produktinventarisierungen und bei der Durchführung von Bestandsaufnahmen mithelfen</taetigkeitsbeschreibung>
+  <bezeichnung>Einzelhandelsverkäufer/in - Sport-, Textil- und Lederwaren</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62212">Verkauf (Bekleid.,Leder,Sport)-Fachkraft</kldb>
+      <isco schluessel="5223">Verkäufer und Verkaufshilfskräfte in Handelsgeschäften</isco>
+      <dkz codenr="62212-100" refid="6560">Kaufmann/-frau - Einzelhandel (Sportartikel)</dkz>
+      <dkz codenr="62212-101" refid="6561">Kaufmann/-frau - Einzelhandel (Textil, Bekleidung)</dkz>
+      <dkz codenr="62212-102" refid="6573">Kaufmann/-frau - Einzelhandel (Lederwaren)</dkz>
+      <dkz codenr="62212-103" refid="6575">Kaufmann/-frau - Einzelhandel (Schuhe)</dkz>
+      <dkz codenr="62212-104" refid="6635">Fachverkäufer/in - Textilien, Bekleidung</dkz>
+      <dkz codenr="62212-105" refid="14325">Fachverkäufer/in - Sportartikel</dkz>
+      <dkz codenr="62212-106" refid="14864">Fachverkäufer/in - Schuhe</dkz>
+      <dkz codenr="62212-107" refid="14865">Fachverkäufer/in - Lederwaren</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

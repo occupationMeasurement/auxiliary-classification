@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5331</id>
+  <taetigkeit>Montage und Instandhaltung von Warmluftzentralheizungen, Elektrospeicherheizungen, Kachelöfen und anderen Luftheizanlagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kachelöfen, Backöfen und Kamine entwerfen und aufbauen; Schalt- und Steuereinrichtungen einbauen und Anschlüsse herstellen; Hilfs- und Werkstoffe, wie Kunststoffe, Metalle, keramische Bauteile, Schamotte und Mauersteine, bearbeiten; Kunden in den Gebrauch der Heinzanlagen einweisen</taetigkeitsbeschreibung>
+  <bezeichnung>Ofen- und Luftheizungsbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34222">Ofen- und Luftheizungsbau - Fachkraft</kldb>
+      <isco schluessel="7112">Bricklayers and related workers</isco>
+      <dkz codenr="34222-100" refid="3953">Backofenbauer/in</dkz>
+      <dkz codenr="34222-104" refid="4340">Kachelofen- und Luftheizungsbauer/in</dkz>
+      <dkz codenr="34222-108" refid="35284">Ofen- und Luftheizungsbauer/in</dkz>
+      <dkz codenr="34222-105" refid="4345">Kachelofenbauer/in</dkz>
+      <dkz codenr="34222-106" refid="4347">Luftheizungsbauer/in</dkz>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Gehört es zu Ihren beruflichen Aufgaben, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat es zu Ihren beruflichen Aufgaben gehört, die Arbeit anderer Arbeitnehmer zu beaufsichtigen oder ihnen zu sagen, was sie tun müssen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Aufsichtskraft">
+      <text>Ja</text>
+      <kldb schluessel="34293">Aufsichtskräfte - Klempnerei, Sanitär-, Heizungs- und Klimatechnik</kldb>
+      <isco schluessel="3123">Construction supervisors</isco>
+      <dkz codenr="34293-112" refid="13878">Ofen- und Luftheizungsbauermeister/in</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="keine Führungsverantwortung">
+      <text>Nein</text>
+      <kldb schluessel="34222">Ofen- und Luftheizungsbau - Fachkraft</kldb>
+      <isco schluessel="7112">Bricklayers and related workers</isco>
+      <dkz codenr="34222-100" refid="3953">Backofenbauer/in</dkz>
+      <dkz codenr="34222-104" refid="4340">Kachelofen- und Luftheizungsbauer/in</dkz>
+      <dkz codenr="34222-108" refid="35284">Ofen- und Luftheizungsbauer/in</dkz>
+      <dkz codenr="34222-105" refid="4345">Kachelofenbauer/in</dkz>
+      <dkz codenr="34222-106" refid="4347">Luftheizungsbauer/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5264">Feuerungs- und Schornsteinbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5297">Gas- und Wasserinstallateur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1234</id>
+  <taetigkeit>Bereitstellung und Betreuung von Lichtanlagen bei Veranstaltungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Beleuchtungs-, Projektions- und Beschallungsanlagen, Mischpulte und Geräte für Spezialeffekte aufbauen, anschließen, prüfen, einrichten und bedienen; Inszenierungen ausleuchten; Lichtstimmungen erzeugen</taetigkeitsbeschreibung>
+  <bezeichnung>Beleuchter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94513">Berufe in der Veranstaltungs- und Bühnentechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3435">Artistic and cultural associate professionals not elsewhere classified</isco>
+      <dkz codenr="94513-102" refid="78072">Oberbeleuchter/in</dkz>
+      <dkz codenr="94513-101" refid="27273">Beleuchter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1235">Ingenieur/in – Veranstaltungstechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="1231">Bühnenarbeiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1243">Kameramann/-frau</abgrenzung>
+  <abgrenzung typ="mittel" refid="1302">Museums- / Ausstellungstechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

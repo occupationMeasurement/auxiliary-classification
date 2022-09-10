@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9046</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Fertigung von Bekleidung, technischer Konfektionsware oder Polstern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Arbeitsabläufe der Textilverarbeitung inhaltlich und terminlich planen, organisieren und steuern; Personaleinsatz planen; Materialverbrauch und Zeitaufwände berechnen; Betriebsbereitschaft von Betriebsmitteln und -anlagen sicherstellen; Wartungs-, Instandhaltungsmaßnahmen veranlassen; Kostenfaktoren analysieren und beeinflussbare Kosten minimieren; Budgets überwachen; schwierige Fachaufgaben übernehmen; Qualitätssicherungsmaßnahmen durchführen und überwachen; Einhaltung von Vorschriften zu Arbeits-, Umwelt- und Gesundheitsschutz sicherstellen; Mitarbeiter anleiten; bei der Weiterbildung der Mitarbeitern mitwirken und den betrieblichen Teil der Ausbildung organisieren und durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - Textilverarbeitung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28293">Aufsicht - Textilverarbeitung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="28293-103" refid="3256">Maßschneidermeister/in</dkz>
+      <dkz codenr="28293-106" refid="3351">Modistenmeister/in</dkz>
+      <dkz codenr="28293-107" refid="3378">Segelmachermeister/in</dkz>
+      <dkz codenr="28293-110" refid="6233">Industriemeister/in - Fahrzeuginnenausstattung</dkz>
+      <dkz codenr="28293-116" refid="6253">Industriemeister/in - Polsterei/Polstermöbel</dkz>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="28294">Führung - Textilverarbeitung</kldb>
+      <isco schluessel="1321">Manufacturing managers</isco>
+      <dkz codenr="28294-101" refid="90683">Zuschnittleiter/in (Schneiderei)</dkz>
+      <dkz codenr="28294-102" refid="90699">Leiter/in - Polsterei und Montage</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="28293">Aufsicht - Textilverarbeitung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="28293-103" refid="3256">Maßschneidermeister/in</dkz>
+      <dkz codenr="28293-106" refid="3351">Modistenmeister/in</dkz>
+      <dkz codenr="28293-107" refid="3378">Segelmachermeister/in</dkz>
+      <dkz codenr="28293-110" refid="6233">Industriemeister/in - Fahrzeuginnenausstattung</dkz>
+      <dkz codenr="28293-116" refid="6253">Industriemeister/in - Polsterei/Polstermöbel</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1741">Bekleidungstechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9010">Textilproduktionsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9014">Modedesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9055">Leiter/in Leder- und Pelzbearbeitung</abgrenzung>
+  <abgrenzung typ="mittel" refid="9094">Technische/r Konfektionär/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9026">Segelmacher/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9045">Polsterer/Polsterin</abgrenzung>
+  <abgrenzung typ="mittel" refid="9089">Fahrzeuginnenausstatter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

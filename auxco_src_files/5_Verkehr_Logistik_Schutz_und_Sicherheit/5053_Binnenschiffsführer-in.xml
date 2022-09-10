@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5053</id>
+  <taetigkeit>Führen von Schiffen auf Binnengewässern und in Häfen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Schiff verholen, festmachen, ankern; Laderäume, Deck, Maschinenanlagen und Nebenaggregate reinigen; Schiffe laden und löschen; Schiff und Wasserstraße bei Havarien sichern; Fahrgäste betreuen; Fährgebühren kassieren; Fahrscheine kontrollieren; Auskünfte erteilen</taetigkeitsbeschreibung>
+  <bezeichnung>Binnenschiffsführer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52422">Schiffsführ.Binnen-,Hafenverk.-Fachkraft</kldb>
+      <isco schluessel="3152">Ships' deck officers and pilots</isco>
+      <dkz codenr="52422-101" refid="7283">Binnenschiffer/in</dkz>
+      <dkz codenr="52422-102" refid="7287">Hafenschiffer/in</dkz>
+      <dkz codenr="52422-103" refid="7291">Ewerführer/in</dkz>
+      <dkz codenr="52422-106" refid="7308">Fährschiffer/in (Binnenschifffahrt)</dkz>
+      <dkz codenr="52423-100" refid="7240">Kanalsteurer/-steurerin</dkz>
+      <dkz codenr="52423-106" refid="7296">Steuermann/-frau (Binnenschifffahrt)</dkz>
+      <dkz codenr="52423-107" refid="7298">Schiffsführer/in (Hafen)</dkz>
+      <dkz codenr="52423-109" refid="7300">Schiffsführer/in (Binnenschifffahrt)</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Sind Sie verantwortlich für die wirtschaftliche Führung von Schiffen sowie die Durchführung von Ausbildungen an Bord?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie verantwortlich für die wirtschaftliche Führung von Schiffen sowie die Durchführung von Ausbildungen an Bord?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="52423">Schiffsführ.Binnen,Hafenverk.-Spezialist</kldb>
+      <isco schluessel="3152">Ships' deck officers and pilots</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="52422">Schiffsführ.Binnen-,Hafenverk.-Fachkraft</kldb>
+      <isco schluessel="3152">Ships' deck officers and pilots</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5051">Nautische/r Schiffsoffizier/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5017">Seelotse/-lotsin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

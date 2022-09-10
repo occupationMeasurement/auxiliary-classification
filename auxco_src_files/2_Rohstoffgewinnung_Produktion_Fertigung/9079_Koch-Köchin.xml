@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9079</id>
+  <taetigkeit>Zubereitung von Speisen in Restaurants, Hotels und sonstigen gastronomischen Einrichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Lebensmittel einkaufen; Lebensmittellieferungen annehmen und prüfen; Waren fachgerecht einlagern und Lagerbestände kontrollieren; Speisekarten und Speisepläne erstellen; Gerichte kreieren; kalte und warme Speisen vorbereiten und zubereiten; Zutaten nach Rezept und persönlichem Urteilsvermögen verwenden; Temperatur von Öfen, Grills, Brätern und anderen Kochgeräten einstellen; Speisen anrichten, optisch ansprechend garnieren und in folgerichtiger Reihenfolge ausgeben; Arbeitsabläufe in der Küche planen; rechtzeitige Zubereitung der Speisen in der richtigen Reihenfolge organisieren; im Veranstaltungsservice Kundenwünsche ermitteln, Speisen zubereiten und an den Veranstaltungsort liefern</taetigkeitsbeschreibung>
+  <bezeichnung>Koch/Köchin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29302">Köche/Köchinnen (o.S.) - Fachkraft</kldb>
+      <isco schluessel="5120">Cooks</isco>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Bereiten Sie nur bestimmte Speisen zu, nämlich ...</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie nur bestimmte Speisen zubereitet, nämlich ...</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>nur einfache Speisen zum Sofortverkauf in Fast-Food-Restaurants</text>
+      <kldb schluessel="63312">Berufe in der Systemgastronomie - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="9411">Fast food preparers</isco>
+    </antwort>
+    <antwort position="2">
+      <text>nur Vorspeisen, kalten Speisen und Süßspeisen</text>
+      <kldb schluessel="29312">Vor-, Kalt-, Süßspeisenköche - Fachkraft</kldb>
+      <isco schluessel="5120">Cooks</isco>
+      <dkz codenr="29312-100" refid="3735">Gardemanger</dkz>
+    </antwort>
+    <antwort position="3">
+      <text>nur Fischgerichte und Seafoodgerichte</text>
+      <kldb schluessel="29322">Grill-, Braten-, Fischköche - Fachkraft</kldb>
+      <isco schluessel="5120">Cooks</isco>
+      <dkz codenr="29322-101" refid="3730">Poissonnier/in</dkz>
+    </antwort>
+    <antwort position="4">
+      <text>nur Fleischgerichte und Grillgerichte sowie gebratene und frittierte Speisen</text>
+      <kldb schluessel="29322">Grill-, Braten-, Fischköche - Fachkraft</kldb>
+      <isco schluessel="5120">Cooks</isco>
+      <dkz codenr="29322-100" refid="3729">Grilleur/in</dkz>
+      <dkz codenr="29322-102" refid="3731">Rotisseur/in</dkz>
+    </antwort>
+    <antwort position="5">
+      <text>nur Fonds, Soßen und Buttermischungen</text>
+      <kldb schluessel="29382">Köche/Köchinnen (s.s.T.) - Fachkraft</kldb>
+      <isco schluessel="5120">Cooks</isco>
+      <dkz codenr="29382-100" refid="3733">Saucier</dkz>
+    </antwort>
+    <antwort position="6">
+      <text>nur warme Beilagen</text>
+      <kldb schluessel="29382">Köche/Köchinnen (s.s.T.) - Fachkraft</kldb>
+      <isco schluessel="5120">Cooks</isco>
+      <dkz codenr="29382-103" refid="74028">Entremetier</dkz>
+    </antwort>
+    <antwort position="7">
+      <text>nur diätische Mahlzeiten</text>
+      <kldb schluessel="29322">Grill-, Braten-, Fischköche - Fachkraft</kldb>
+      <isco schluessel="5120">Cooks</isco>
+      <dkz codenr="29322-100" refid="3729">Grilleur/in</dkz>
+      <dkz codenr="29322-102" refid="3731">Rotisseur/in</dkz>
+    </antwort>
+    <antwort position="8">
+      <text>oder trifft nichts davon auf Sie zu?</text>
+      <kldb schluessel="29302">Köche/Köchinnen (o.S.) - Fachkraft</kldb>
+      <isco schluessel="5120">Cooks</isco>
+      <dkz codenr="29302-100" refid="3722">Koch/Köchin</dkz>
+      <dkz codenr="29302-101" refid="3739">Großküchenkoch/-köchin</dkz>
+      <dkz codenr="29302-109" refid="35288">Beikoch/-köchin</dkz>
+      <dkz codenr="29302-104" refid="3753">Schiffskoch/-köchin</dkz>
+      <dkz codenr="29302-107" refid="14470">Spezialitätenkoch/-köchin</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9078">Küchenhilfe</abgrenzung>
+  <abgrenzung typ="hoch" refid="9088">Küchenchef/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9065">Fischverarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="6074">Fast-Food- und Imbisskoch/-köchin</abgrenzung>
+  <abgrenzung typ="hoch" refid="6075">Küchenhelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="6090">Servicekraft - Systemgastronomie</abgrenzung>
+  <abgrenzung typ="mittel" refid="9061">Bäcker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9086">Feinbäcker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9069">Süßwarenfacharbeiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9008</id>
+  <taetigkeit>Bedienung von Maschinen zur Herstellung von Wein und Sekt</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Qualität von Trauben überprüfen; Maschinen zur Herstellung von Wein bedienen; Trauben in Keltermaschinen pressen; Gärvorgänge überwachen; Laboruntersuchungen durchführen; Maschinen und Anlagen reinigen; Wein lagern und versandfertig machen; Kellerbuch führen</taetigkeitsbeschreibung>
+  <bezeichnung>Weinküfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29122">Weinküfer/innen - Fachkraft</kldb>
+      <isco schluessel="8160">Food and related products machine operators</isco>
+      <dkz codenr="29122-100" refid="3774">Weinküfer/in</dkz>
+      <dkz codenr="29122-102" refid="35140">Weinhandelsküfer/in</dkz>
+      <dkz codenr="29122-115" refid="122361">Weintechnologe/-technologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9006">Fachkraft in der Saftherstellung</abgrenzung>
+  <abgrenzung typ="hoch" refid="9015">Getränkemaschinensteuerer/-steuerin</abgrenzung>
+  <abgrenzung typ="hoch" refid="9200">Winzer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9009">Weinbautechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

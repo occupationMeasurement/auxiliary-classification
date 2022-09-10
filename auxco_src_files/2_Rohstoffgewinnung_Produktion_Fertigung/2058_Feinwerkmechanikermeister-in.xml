@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2058</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Feinwerktechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Produktion von Werkstücken wie Uhren, Schneidwerkzeugen, maßgeschneiderten Spezialwerkzeugen oder feinwerktechnischen Produkten planen und überwachen; benötigte Geräte und Maschinen auswählen; Mitarbeiterschulungen organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Feinwerkmechanikermeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24593">Aufsichtskräfte - Feinwerk- und Werkzeugtechnik</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="24593-100" refid="2131">Schneidwerkzeugmechanikermeister/in</dkz>
+      <dkz codenr="24593-101" refid="2409">Feinwerkmechanikermeister/in</dkz>
+      <dkz codenr="24593-102" refid="2433">Chirurgiemechanikermeister/in</dkz>
+      <dkz codenr="24593-103" refid="2442">Büchsenmachermeister/in</dkz>
+      <dkz codenr="24593-105" refid="2501">Uhrmachermeister/in</dkz>
+      <dkz codenr="24593-109" refid="6149">Industriemeister/in - Metall (Geräte- u. Feinwerktechnik)</dkz>
+      <dkz codenr="24593-111" refid="6155">Industriemeister/in - Metall (Stanz- u. Umformtechnik)</dkz>
+      <dkz codenr="24593-112" refid="6157">Industriemeister/in - Metall (Formentechnik)</dkz>
+      <dkz codenr="24593-119" refid="90151">Leiter/in - Werkzeugbau</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="2124">Instandhaltungsleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2051">Feinwerktechnikingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2122">Leiter/in - Metallbearbeitung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1847">Werkzeugtechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2050">Feinwerktechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1730</id>
+  <taetigkeit>Planung, Einrichtung und Wartung von Anlagen der Automatisierungstechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei der Planung, Entwicklung, Installation, Betrieb und Instandhaltung von automatisierten Systemen mitwirken; Automatisierungssysteme für Produktions- und Fertigungsprozesse, Verfahrens- und Prozesstechnik, Verkehrsleittechnik und Gebäudetechnik aufbauen und in Betrieb nehmen ; Steuerungs- und Regeltechnikprogramme erstellen und überwachen; relevante Fertigungsparameter ermitteln; technische Abläufe strukturieren; Produktions- und Prüfverfahren testen; Sensoren, Leiteinrichtungen, Maschinen- und Prozesssteuerungen, pneumatische, hydraulische, elektrische Antriebe installieren; bei der Erforschung und Entwicklung von automatisierten Geräten mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Elektrotechniker/in - Automatisierungstechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26122">Berufe in der Automatisierungstechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7421">Electronics mechanics and servicers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="26122">Berufe in der Automatisierungstechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7421">Electronics mechanics and servicers</isco>
+      <dkz codenr="26122-110" refid="2753">Industrieelektroniker/in - Produktionstechnik</dkz>
+      <dkz codenr="26122-111" refid="2754">Prozessleitelektroniker/in</dkz>
+      <dkz codenr="26122-117" refid="15631">Elektroniker/in - Automatisierungstechnik (Industrie)</dkz>
+      <dkz codenr="26122-118" refid="15641">Elektroniker/in - Automatisierungstechnik (Handwerk)</dkz>
+      <dkz codenr="26122-114" refid="5500">Industrietechnologe/-technologin - Automatisierungstechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="26123">Berufe in der Automatisierungstechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3113">Electrical engineering technicians</isco>
+      <dkz codenr="26123-109" refid="14009">Fachkraft - Automatisierungstechnik</dkz>
+      <dkz codenr="26123-105" refid="5565">Techniker/in - Elektrotechnik (Automatisierungstechnik)</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium im Bereich Automatisierungstechnik</text>
+      <kldb schluessel="26123">Berufe in der Automatisierungstechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3113">Electrical engineering technicians</isco>
+      <dkz codenr="26123-109" refid="14009">Fachkraft - Automatisierungstechnik</dkz>
+      <dkz codenr="26123-105" refid="5565">Techniker/in - Elektrotechnik (Automatisierungstechnik)</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium im Bereich Automatisierungstechnik</text>
+      <kldb schluessel="26124">Berufe in der Automatisierungstechnik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2152">Electronics engineers</isco>
+      <dkz codenr="26124-111" refid="59351">Ingenieur/in - Automatisierungstechnik</dkz>
+      <dkz codenr="26124-112" refid="90070">Messingenieur/in</dkz>
+      <dkz codenr="26124-113" refid="100733">Ingenieur/in - Robotik, Autonome Systeme</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2109">Betriebselektriker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4035">Betriebsinformatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4037">Technische/r Informatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1737">Konstruktionstechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1729">Mechatroniktechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1733">Elektrotechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

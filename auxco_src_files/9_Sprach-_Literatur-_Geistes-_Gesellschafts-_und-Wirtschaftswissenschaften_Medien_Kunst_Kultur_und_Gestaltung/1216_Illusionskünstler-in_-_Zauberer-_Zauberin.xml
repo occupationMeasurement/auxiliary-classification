@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1216</id>
+  <taetigkeit>Unterhaltung von Publikum mit Zauberkünsten, Hypnose oder mentalen Fähigkeiten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Publikum mit Zaubertricks unterhalten; Illusionen mithilfe technischer Mittel erzeugen; Memotechniken anwenden; Personen hypnotisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Illusionskünstler/in / Zauberer/ Zauberin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94323">Zauberer/Zauberinnen und Illusionisten/Illusionistinnen - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2659">Creative and performing artists not elsewhere classified</isco>
+      <dkz codenr="94323-100" refid="8605">Zauberer/Zauberin</dkz>
+      <dkz codenr="94323-101" refid="8638">Gedächtniskünstler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1220">Entertainer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1600">Diskjockey / Bauchredner/in / Travestiekünstler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

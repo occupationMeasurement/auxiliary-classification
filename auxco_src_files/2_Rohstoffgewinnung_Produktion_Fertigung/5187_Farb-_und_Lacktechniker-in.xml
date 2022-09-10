@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5187</id>
+  <taetigkeit>Entwicklung, Herstellung und Anwendung von Farb- und Lackbeschichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Art und Zustand der zu beschichtenden Oberflächen mithilfe von technischen Analysen prüfen; geeignete Art der Beschichtung festlegen; Applikationsgeräte, wie Spritz- und Gießmaschinen weiterentwickeln; Applikationsverfahren weiterentwickeln; Qualität der Rohstoffe kontrollieren; Beschichtungsstoffe auf verschiedene Eigenschaften testen; Maschineneinsatz planen und überwachen; Anlagen warten</taetigkeitsbeschreibung>
+  <bezeichnung>Farb- und Lacktechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22203">Farb-, Lacktechnik (o.S.) - Spezialist</kldb>
+      <isco schluessel="3116">Chemical engineering technicians </isco>
+      <dkz codenr="22203-108" refid="58500">Techniker/in - Farb- u. Lacktechnik (Betriebswirtschaft)</dkz>
+      <dkz codenr="22203-107" refid="58498">Techniker/in - Farb- u. Lacktechnik (ind. Beschichtungst.)</dkz>
+      <dkz codenr="22203-101" refid="5805">Techniker/in - Farb- u. Lacktechnik (ohne Schwerpunkt)</dkz>
+      <dkz codenr="22203-102" refid="5806">Techniker/in - Farb- u. Lacktechnik (Gestaltung)</dkz>
+      <dkz codenr="22203-103" refid="5807">Techniker/in - Farb- u. Lacktechnik (Anwendungs-/Betriebst.)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5186">Lackierer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5188">Farb- und Lackingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5303">Restaurator/in - Maler- und Lackiererhandwerk</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

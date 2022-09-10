@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>8045</id>
+  <taetigkeit>Durchführung von Kunstworkshops und Theaterworkshops im außerschulischen Bereich</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. kunstpädagogische Konzepte erstellen; Gruppen zum kreativen Spiel anleiten; persönliche Stärken fördern; Material zusammenstellen; Ausstellungen und Aufführungen organisieren; Exkursionen organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Kunstpädagoge/-pädagogin bzw.Theaterpädagoge/-pädagogin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84434">Kunst-, Theaterpädagogik - Experte</kldb>
+      <isco schluessel="2355">Other arts teachers</isco>
+      <dkz codenr="84434-105" refid="27704">Kreativitätspädagoge/-pädagogin</dkz>
+      <dkz codenr="84434-104" refid="13672">Theaterpädagoge/-pädagogin</dkz>
+      <dkz codenr="84434-107" refid="59465">Kunstpädagoge/-pädagogin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="8039">Dozent/in - Erwachsenenbildung</abgrenzung>
+  <abgrenzung typ="hoch" refid="7049">Musik- oder Kunsttherapeut/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8050">Museumspädagoge/- pädagogin</abgrenzung>
+  <abgrenzung typ="mittel" refid="1105">Kommunikationswissenschaftler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

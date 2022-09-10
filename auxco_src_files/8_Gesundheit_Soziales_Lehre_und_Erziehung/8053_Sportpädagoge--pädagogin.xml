@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>8053</id>
+  <taetigkeit>Erteilung von Sportunterricht an außerschulischen Bildungseinrichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Stärken und Schwächen von Sportlern oder Mannschaften identifizieren; Trainings- und Übungseinheiten planen; Menschen zu sportlichen Leistungen motivieren; Techniken und Leistungen von Sportler oder Teams analysieren und Trainingsprogramme dementsprechend anpassen; Regelbewusstsein vermitteln; Sportprüfungen abnehmen; in Wissenschaft und Forschung mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Sportpädagoge/-pädagogin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84504">Sportlehrer/innen (o.S.) - Experte</kldb>
+      <isco schluessel="3422">Sports coaches, instructors and officials</isco>
+      <dkz codenr="84504-105" refid="58777">Sportwissenschaftler/in</dkz>
+      <dkz codenr="84504-106" refid="59684">Sportpädagoge/-pädagogin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8052">Trainer/in - Leistungssport</abgrenzung>
+  <abgrenzung typ="mittel" refid="6067">Sport- und Fitnessökonom/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

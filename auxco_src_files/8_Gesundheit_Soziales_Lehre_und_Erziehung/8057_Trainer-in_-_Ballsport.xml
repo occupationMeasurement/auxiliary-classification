@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>8057</id>
+  <taetigkeit>Trainieren von Einzelsportlern oder Mannschaften in einem Ballsport</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Stärken und Schwächen von Sportlern identifizieren; Trainingseinheiten planen; Sportler und Teams auf Wettkämpfe und Spiele vorbereiten; Spielstrategien formulieren; Sportler bei Spielen anleiten; Leistungen evaluieren</taetigkeitsbeschreibung>
+  <bezeichnung>Trainer/in - Ballsport</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="84543">Trainer - Ballsportarten - Spezialist</kldb>
+      <isco schluessel="3422">Sports coaches, instructors and officials</isco>
+      <dkz codenr="84543-109" refid="14711">Fußballtrainer/in</dkz>
+      <dkz codenr="84543-108" refid="9545">Tennislehrer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8052">Trainer/in - Leistungssport </abgrenzung>
+  <abgrenzung typ="hoch" refid="8053">Sportpädagoge/-pädagogin</abgrenzung>
+  <abgrenzung typ="mittel" refid="6067">Sport- und Fitnessökonom/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6097</id>
+  <taetigkeit>Beratung von Restaurantgästen zur Weinauswahl sowie Erstellung der Weinkarte</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Qualität von Weinen durch Verkostung erkennen, beurteilen und sicherstellen; Weinangebot eines gastronomischen Betriebes auswählen, überwachen und optimieren; Aufbau und Gestaltung der Weinkarte planen und auf Speisen abstimmen; öffnen, dekantieren bzw. karaffieren der Flaschen; Wein mit fachlicher Erläuterung präsentieren und einschenken; eine fachgerechte Lagerung und Kühlung des Weins sicherstellen; Weinverkostungen und Weinseminare durchführen; Kontakte zu Winzern und dem Weinhandel pflegen; Wein ggf. auf Messen und in Onlineshops vertreten</taetigkeitsbeschreibung>
+  <bezeichnung>Sommelier/Sommelière</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63383">Gastronomie (s.s.T.) - Spezialist</kldb>
+      <isco schluessel="5131">Waiters</isco>
+      <dkz codenr="63383-100" refid="10048">Sommelier/Sommelière</dkz>
+    </default>
+  </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

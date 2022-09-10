@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6033</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten im Einzelhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Regale auffüllen; Waren ordentlich platzieren oder stapeln; das Ablaufdatum der Waren überprüfen; Kunden beraten und ggf. Waren aus dem Lager besorgen; die gelieferte Ware auf Schäden überprüfen; Verkaufsräume säubern und dekorieren</taetigkeitsbeschreibung>
+  <bezeichnung>Aushilfskraft - Einzelhandel</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62101">Verkauf (ohne Produktspezialis.)-Helfer</kldb>
+      <isco schluessel="9334">Shelf fillers</isco>
+      <dkz codenr="62101-101" refid="6646">Helfer/in - Verkauf</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

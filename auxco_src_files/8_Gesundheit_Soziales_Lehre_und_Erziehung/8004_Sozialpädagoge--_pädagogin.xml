@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>8004</id>
+  <taetigkeit>Sozialpädagogische Beratung und Betreuung von Personen, die sich in sozialen Problemsituationen befinden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Lebenssituation des Klienten analysieren; Förderpläne und Integrationsstrategien entwickeln; Hilfe bei Arbeits- und Wohnungssuche; Informationsaustausch mit anderen sozialen Behörden</taetigkeitsbeschreibung>
+  <bezeichnung>Sozialpädagoge/- pädagogin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83124">Sozialarbeit, Sozialpädagogik - Experte</kldb>
+      <isco schluessel="2635">social work an counselling professionals</isco>
+      <dkz codenr="83124-123" refid="58775">Sozialarbeiter/in / Sozialpädagoge/-pädagogin</dkz>
+      <dkz codenr="83124-103" refid="9050">Jugendpfleger/in</dkz>
+      <dkz codenr="83124-105" refid="9089">Sozialarbeiter/in - Strafvollzug</dkz>
+      <dkz codenr="83124-106" refid="9090">Streetworker/in</dkz>
+      <dkz codenr="83124-107" refid="9091">Bewährungshelfer/in</dkz>
+      <dkz codenr="83124-124" refid="59085">Rechtliche/r Betreuer/in</dkz>
+      <dkz codenr="83124-125" refid="90288">Gerichtshelfer/in</dkz>
+      <dkz codenr="83124-167" refid="122352">Berufseinstiegsbegleiter/in</dkz>
+      <dkz codenr="83123-107" refid="14881">Sozialsekretär/in</dkz>
+      <dkz codenr="83123-106" refid="13996">Fachkraft - Sozialarbeit</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="83124">Berufe in der Sozialarbeit und Sozialpädagogik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2635">social work an counselling professionals</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="83123">Berufe in der Sozialarbeit und Sozialpädagogik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3412">social work associate professionals</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="8061">Leiter/in einer sozialpädagogischen Einrichtung</abgrenzung>
+  <abgrenzung typ="hoch" refid="8011">Sozialberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4008</id>
+  <taetigkeit>Erforschung von Strukturen, Funktionen, Krankheiten und Prozessen  des menschlichen Organismus</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Stoffwechselprozesse, Zellen, Organe und Gewebe des Menschen im gesunden und kranken Zustand analysieren; Experimente an Versuchstieren durchführen; genetische Diagnostik durchführen; Entwicklung von Medikamenten und Impfstoffen unterstützen</taetigkeitsbeschreibung>
+  <bezeichnung>Humanbiologe/-biologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41274">Biologie (Humanbiologie) - Experte</kldb>
+      <isco schluessel="2131">Biologen, Botaniker, Zoologen und verwandte Berufe</isco>
+      <dkz codenr="41274-100" refid="33357">Fachhumangenetiker/in</dkz>
+      <dkz codenr="41274-101" refid="58690">Humanbiologe/-biologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7010">Facharzt/-ärztin für Mikrobiologie</abgrenzung>
+  <abgrenzung typ="hoch" refid="4210">Molekularbiologe/-biologin</abgrenzung>
+  <abgrenzung typ="mittel" refid="4212">Genetiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7028">Allgemeinarzt /-ärztin</abgrenzung>
+  <abgrenzung typ="mittel" refid="1789">Biologisch-Technische/r Laborleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

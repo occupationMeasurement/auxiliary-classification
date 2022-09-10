@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3545</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten in staatlichen Behörden und Verwaltungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Besucher an der Pforte anmelden, Besucherausweis ausstellen und Auskünfte erteilen; Kunden den Weg zur gesuchten Dienststelle erklären; Botengänge zwischen verschiedenen Abteilungen und Ämtern erledigen; Post entgegennehmen, sortieren und verteilen; ähnliche Routineaufgaben in Behörden des Bundes, der Länder oder Stadt-, Gemeinde- und Bezirksverwaltungen wahrnehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Verwaltungshelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73201">Öffentliche Verwaltung (o.S.) - Helfer</kldb>
+      <isco schluessel="9629">Elementary workers not elsewhere classified</isco>
+      <dkz codenr="73201-100" refid="14893">Beamt(er/in) - Kommunalverwaltung (einfacher Dienst)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3547">Steuerverwaltungsbeamter/-beamtin (einf. Dienst)</abgrenzung>
+  <abgrenzung typ="mittel" refid="5082">Justizwachtmeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3220">Telefonist/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1248</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Veranstaltungs-, Kamera- oder Tontechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die technische Umsetzung von Veranstaltungskonzepten planen und organisieren; Sound- und Beleuchtungsanlagen bereitstellen; Montagearbeiten und Umbaumaßnahmen überwachen; Weiterbildungen für Mitarbeiter organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Meister/in – Veranstaltungstechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94593">Aufsichtskräfte - Veranstaltungs-, Kamera- und Tontechnik</kldb>
+      <isco schluessel="3435">Artistic and cultural associate professionals not elsewhere classified</isco>
+      <dkz codenr="94593-113" refid="77117">Meister/in - Veranstaltungstechnik (ohne Fachrichtung)</dkz>
+      <dkz codenr="94593-116" refid="78432">Technische/r Direktor/in</dkz>
+      <dkz codenr="94593-117" refid="78456">Studiobeleuchtungsmeister/in</dkz>
+      <dkz codenr="94593-118" refid="78468">Leiter/in der Beleuchtung</dkz>
+      <dkz codenr="94593-115" refid="78145">Beleuchtungsinspektor/in</dkz>
+      <dkz codenr="94593-114" refid="77776">Stage Manager/in (Musical)</dkz>
+      <dkz codenr="94593-107" refid="14176">Meister/in - Veranstaltungstechnik (Beleuchtung)</dkz>
+      <dkz codenr="94593-106" refid="14174">Meister/in - Veranstaltungstechnik (Bühne/Studio)</dkz>
+      <dkz codenr="94593-108" refid="14179">Meister/in - Veranstaltungstechnik (Halle)</dkz>
+      <dkz codenr="94593-100" refid="8510">Bühnenmeister/in</dkz>
+      <dkz codenr="94593-102" refid="8512">Technische/r Leiter/in - Bühne/Film/Fernsehen</dkz>
+      <dkz codenr="94593-104" refid="8535">Beleuchtungsmeister/in</dkz>
+      <dkz codenr="94593-133" refid="119590">Meister/in - Medienproduktion Bild und Ton</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1235">Ingenieur/in – Veranstaltungstechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="1842">Tontechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1234">Beleuchter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1243">Kameramann/-frau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

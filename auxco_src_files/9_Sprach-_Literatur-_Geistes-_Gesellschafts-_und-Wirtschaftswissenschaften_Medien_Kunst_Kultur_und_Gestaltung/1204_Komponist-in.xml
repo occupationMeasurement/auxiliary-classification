@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1204</id>
+  <taetigkeit>Komposition von Musikstücken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. musikalische Gedanken zu einem Kunstwerk zusammenstellen; Melodien entwickeln; Tonfolgen festhalten; Instrumente auswählen; Teile von Musikstücken verändern und reharmonisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Komponist/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94144">Komponisten/Komponistinnen - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2652">Musicians, singers and composers</isco>
+      <dkz codenr="94144-102" refid="28504">Arrangeur/in</dkz>
+      <dkz codenr="94144-103" refid="59452">Komponist/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1205">Musik- und Sounddesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1203">Dirigent/in / Chorleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

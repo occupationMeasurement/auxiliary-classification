@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1243</id>
+  <taetigkeit>Durchführung von Kameraaufnahmen in Filmen oder im Fernsehen und Verantwortung für die Kameratechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Vorgespräche mit der Regie oder verantwortlichen Redakteuren führen; Standpunkte, Einstellungen und Bewegungen der Kamera festlegen; Beleuchtungspersonal einweisen; bei Studioaufnahmen sich laufend mit anderen Kameraleuten, Ton und Regie abstimmen; Filmmaterial für die Endfassung auswählen</taetigkeitsbeschreibung>
+  <bezeichnung>Kameramann/-frau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94523">Berufe in der Kameratechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3521">Broadcasting and audio-visual technicians</isco>
+      <dkz codenr="94523-103" refid="78272">Kamera-Operator/in</dkz>
+      <dkz codenr="94523-100" refid="8584">Kameramann/-frau</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1242">Kamera-Assistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1225">Produktionsassistent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

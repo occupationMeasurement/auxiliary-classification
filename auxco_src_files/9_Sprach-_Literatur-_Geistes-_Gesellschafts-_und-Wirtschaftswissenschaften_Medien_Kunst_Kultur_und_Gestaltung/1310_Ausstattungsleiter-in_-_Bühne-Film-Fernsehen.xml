@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1310</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Bühnenbildnerei und Kostümbildnerei oder Requisite</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. unter Berücksichtung künstlerischer, wirtschaftlicher und technischer Aspekte die Ausstattung einer Produktion konzipieren; fach- und termingerechte Beschaffung und Fertigstellung der Ausstattung sicherstellen; Zusammenarbeit aller an der Umsetzung Beteiligten koordineren; Werkstattgespräche führen und Verantwortung für den Bau der Dekorationen und weiterer Ausstattungselemente delegieren</taetigkeitsbeschreibung>
+  <bezeichnung>Ausstattungsleiter/in - Bühne/Film/Fernsehen</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94693">Aufsichtskräfte - Bühnen- und Kostümbildnerei, Requisite</kldb>
+      <isco schluessel="3435">Artistic and cultural associate professionals not elsewhere classified</isco>
+      <dkz codenr="94693-101" refid="77951">Ausstattungsleiter/in - Bühne/Film/Fernsehen</dkz>
+      <dkz codenr="94693-100" refid="27274">Werkstättenvorstand - Bühne/Film/Fernsehen</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1240">Führungskraft in der Theater-, Film- und Fernsehproduktion</abgrenzung>
+  <abgrenzung typ="mittel" refid="1249">Bühnen- und Kostümbildner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1309">Requisiteur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1248">Meister/in – Veranstaltungstechnik</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

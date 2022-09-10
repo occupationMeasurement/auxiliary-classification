@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9089</id>
+  <taetigkeit>Montage und Reparatur von Sitzen, Polstern und Verkleidungen im Innenraum von Fahrzeugen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Materialbedarf ermitteln; Füll-, Werk- und Hilfsstoffe auswählen; Modelle, Schablonen und Formteile herstellen; Formteile zuschneiden; Schablonen feststecken, einzeichnen und Schnittkonturen fixieren; Unterfederung und Federkerne anbringen; Bezugs-, Spannteile und abnehmbare Bezüge nähen; Bauteile zu Fahrzeugsitzen zusammenbauen, dazu z.B. Lehnen, Sitze oder Kopfstützen montieren und Sitze einbauen; Fahrzeughimmel und Innenverkleidung anbringen; Qualitätsvorgaben berücksichtigen und betriebliche Richtlinien des Qualitätsmanagements umsetzen; an Qualitätsverbesserungsprozessen mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Fahrzeuginnenausstatter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28242">Polsterei,Fahrzeuginnenausstat-Fachkraft</kldb>
+      <isco schluessel="7534">Upholsterers and related workers</isco>
+      <dkz codenr="28242-103" refid="4436">Fahrzeugpolsterer/-polsterin</dkz>
+      <dkz codenr="28242-108" refid="15246">Fahrzeuginnenausstatter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="2076">Kraftfahrzeugmechatroniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9046">Leiter/in - Textilverarbeitung</abgrenzung>
+  <abgrenzung typ="mittel" refid="9094">Technische/r Konfektionär/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

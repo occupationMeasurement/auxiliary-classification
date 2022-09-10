@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>8025</id>
+  <taetigkeit>Verbreitung von Glaubenslehren in der Missionsarbeit</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. religiöse Lehren unter Andersgläubigen verbreiten, mit dem Ziel diese Menschen zu einer bestimmten Glaubensrichtung zu bekehren; religiös motivierte soziale Arbeit leisten; Predigten vorbereiten; Gottesdienste durchführen; Hilfeleistungen organisieren und durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Missionar/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83384">Theologie, Gemeindearbeit (ssT)-Experte</kldb>
+      <isco schluessel="2636">Religious professionals</isco>
+      <dkz codenr="83384-100" refid="9880">Missionar/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8024">Christliche/r Jugenbetreuer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8018">Pfarrer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8026">Bischof/Bischöfin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

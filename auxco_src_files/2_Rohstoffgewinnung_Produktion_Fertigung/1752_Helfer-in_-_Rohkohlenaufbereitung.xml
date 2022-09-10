@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1752</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten bei der Aufbereitung von Rohkohle</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rohkohle sortieren, waschen und sieben zur späteren Weiterverarbeitung in Kraftwerken und Kokereien</taetigkeitsbeschreibung>
+  <bezeichnung>Helfer/in - Rohkohlenaufbereitung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21201">Berufe in der Naturstein- und Mineralaufbereitung und -verarbeitung und Baustoffherstellung (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9208">Bergmann/-frau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

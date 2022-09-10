@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5136</id>
+  <taetigkeit>Behandlung und Vergoldung der Oberflächen von Möbeln oder von sakralen Objekten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Skizzen und Zeichnungen nach Vorlagen oder eigenen Entwürfen anfertigen; Untergründe aus Holz, Metall, Kunststoff, Glas, Stuck und Putz bearbeiten und grundieren; Tonerde oder Klebeöl auftragen; Blattgold auflegen und polieren; Verzierungen mit plastischen Ornamenten ausführen; Dekors an Objekten in verschiedenen Maltechniken farbig gestalten</taetigkeitsbeschreibung>
+  <bezeichnung>Vergolder/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93342">Vergolderhandwerk - Fachkraft</kldb>
+      <isco schluessel="7319">Handicraft workers not elsewhere classified</isco>
+      <dkz codenr="93342-100" refid="4637">Vergolder/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5127">Kunsthandwerker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5137">Restaurator/in - Vergolderhandwerk</abgrenzung>
+  <abgrenzung typ="mittel" refid="2029">Oberflächenbeschichter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1841">Gold- und Silberschmied/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

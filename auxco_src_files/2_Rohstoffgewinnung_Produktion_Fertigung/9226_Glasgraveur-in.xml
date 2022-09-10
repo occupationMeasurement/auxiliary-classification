@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9226</id>
+  <taetigkeit>Gravur von Buchstaben, Figuren und anderen Zeichnungen auf Glas</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Entwürfe und Schablonen anfertigen; Ornamente und Dekore sowie Schriften und Monogramme gestalten</taetigkeitsbeschreibung>
+  <bezeichnung>Glasgraveur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21342">Berufe in der Glasveredelung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7316">Sign writers, decorative painters, engravers and etchers</isco>
+      <dkz codenr="21342-108" refid="1112">Glasveredler/in - Gravur</dkz>
+      <dkz codenr="21342-122" refid="35084">Glasgraveur/in</dkz>
+      <dkz codenr="21342-119" refid="29001">Glasveredler/in - Schliff und Gravur</dkz>
+      <dkz codenr="21342-123" refid="35085">Glasschleifer/in - Glasätzer/in</dkz>
+      <dkz codenr="21342-109" refid="1113">Glasveredler/in - Schliff</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3017">Glaser/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5144">Glas- und Porzellanmaler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5145">Glasbläser/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9227">Flachglasmechaniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

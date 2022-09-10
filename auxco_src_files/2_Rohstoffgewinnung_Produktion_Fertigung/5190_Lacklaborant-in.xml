@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5190</id>
+  <taetigkeit>Entwicklung, Herstellung und Prüfung von Beschichtungsstoffen wie Lacken und Farben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. physikalische und chemische Versuche zur Entwicklung neuer Farben und Lacken durchführen und auswerten; Reaktionsgleichungen aufstellen; Mischungen und Zusammensetzungen testen; Farben und Lacke auf ihre Kratzfestigkeit, Beständigkeit und Umweltfreundlichkeit prüfen; Mess- und Untersuchungsergebnisse auswerten; rechtliche Bestimmungen einhalten</taetigkeitsbeschreibung>
+  <bezeichnung>Lacklaborant/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22222">Lacklaboratorium - Fachkraft</kldb>
+      <isco schluessel="3111">Chemical and physical science technicians</isco>
+      <dkz codenr="22222-100" refid="6414">Lacklaborant/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5187">Farb- und Lacktechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5188">Farb- und Lackingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4013">Chemisch-Technische/r Assistent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

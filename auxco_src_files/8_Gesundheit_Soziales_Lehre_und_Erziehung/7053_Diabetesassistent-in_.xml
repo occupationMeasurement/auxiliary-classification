@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7053</id>
+  <taetigkeit>Beratung und Betreuung von Patienten mit Diabetes sowie die Durchführung von Diabetikerschulungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Patienten und Angehörige zum richtigen Umgang mit Diabeteserkrankungen anleiten; diabetesgerechte Ernährungsweisen aufzeigen und individuelle Diätpläne erstellen; therapeutische Maßnahmen überwachen; zum Thema Diabetes mellitus Schulungen, Vorträge oder Kurse organisieren und durchführen; Behandlungsfortschritte an die Ärzte weiterleiten; Stellungnahmen zu diätischen Problemen verfassen</taetigkeitsbeschreibung>
+  <bezeichnung>Diabetesassistent/in </bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81782">Berufe in der nicht ärztlichen Therapie und Heilkunde (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3259">Health associate professionals not elsewhere classified</isco>
+      <dkz codenr="81783-103" refid="8901">Diabetesberater/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="81782">Berufe in der nicht ärztlichen Therapie und Heilkunde (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3259">Health associate professionals not elsewhere classified</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung zum Diabetesberater/in</text>
+      <kldb schluessel="81783">Berufe in der nicht ärztlichen Therapie und Heilkunde (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3259">Health associate professionals not elsewhere classified</isco>
+      <dkz codenr="81783-103" refid="8901">Diabetesberater/in</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="81783">Berufe in der nicht ärztlichen Therapie und Heilkunde (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2269">Health professionals not elsewhere classified</isco>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text> ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="81784"> Berufe in der nicht ärztlichen Therapie und Heilkunde (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2269">Health professionals not elsewhere classified</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7051">Diätassistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7056">therapeutische/r Einrichtungsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5401</id>
+  <taetigkeit>Auf- und Abbau von Gerüsten auf Baustellen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Material und Geräte auswählen und zur Baustelle bringen; lastverteilende Unterlagen auf dem Baugrund einsetzen; Arbeits- und Schutzgerüste auf- und abbauen sowie ordnungsgemäß sichern; Gerüstbauteile überprüfen und warten</taetigkeitsbeschreibung>
+  <bezeichnung>Gerüstbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32162">Berufe im Gerüstbau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7119">Building frame and related trades workers not elsewhere classified</isco>
+      <dkz codenr="32162-100" refid="4062">Gerüstbauer/in</dkz>
+      <dkz codenr="32162-102" refid="4071">Hängegerüstbauer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1854">Bauhelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5350">Hochbauarbeiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

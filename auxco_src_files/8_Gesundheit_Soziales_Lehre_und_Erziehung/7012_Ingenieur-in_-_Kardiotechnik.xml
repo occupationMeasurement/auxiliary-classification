@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7012</id>
+  <taetigkeit>Planung, Koordination und Überwachung der Fertigung von medizinischen Geräten zur Körperfunktionskontrolle</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. medizinische Geräte konstruieren, evaluieren, planen; Einsatz der Geräte überwachen; Funktion der Geräte testen; Ärzte bezüglich medizinischer Geräte beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Ingenieur/in - Kardiotechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81224">Medizinisch-technische Berufe in der Funktionsdiagnostik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="81224-100" refid="90664">Ingenieur/in - Kardiotechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7011">Medizinisch-technische/r Assistent/in (MTA)</abgrenzung>
+  <abgrenzung typ="hoch" refid="1829">Medizintechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

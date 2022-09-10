@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9049</id>
+  <taetigkeit>Planung, Koordination und Optimierung der industriellen Herstellung von Feinkost, Spezialnahrung, Konserven oder Fertiggerichten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rohstoffe für die Herstellung beschaffen; an der Entwicklung von neuen oder der Optimierung bestehender Rezepturen mitwirken; Maschinen und Anlagen warten und instand setzen; Verarbeitungs-, Produktions- und Verpackungsprozesse planen, organisieren und überwachen; für die Umsetzung der Qualitätsnormen sorgen; Qualitätskontrollen durchführen; Untersuchungen im Lebensmittellabor vornehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Lebensmitteltechniker/in - Feinkost, Fertiggerichte, Obstverwertung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29283">Berufe in der Lebensmittelherstellung (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3116">Chemical engineering technicians</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9040">Tiefkühlkosthersteller/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9047">Lebensmittelingenieur/in für Spezialnahrung</abgrenzung>
+  <abgrenzung typ="mittel" refid="9064">Fleischereitechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

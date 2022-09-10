@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1502</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten in der Nutztierhaltung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Nutztiere füttern und tränken; Tierunterkünfte reinigen, desinfizieren und instandhalten; Fachkräfte beim Hüten von Schafen und bei der Aufzucht von Lämmern sowie beim Scheren unterstützen; beim Melken der Tiere mithelfen; Heu, Stroh und anderes Tierfutter laden, stapeln und lagern</taetigkeitsbeschreibung>
+  <bezeichnung>Helfer/in - Nutztierhaltung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11211">Berufe in der Nutztierhaltung (außer Geflügel) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9212">Livestock farm labourers</isco>
+      <dkz codenr="11211-107" refid="58540">Helfer/in - Nutztierhaltung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1503">Tierwirt/in - Nutztierhaltung</abgrenzung>
+  <abgrenzung typ="hoch" refid="1046">Tierpflegehelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

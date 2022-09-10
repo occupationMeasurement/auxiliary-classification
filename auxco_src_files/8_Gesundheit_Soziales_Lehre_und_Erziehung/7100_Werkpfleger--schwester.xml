@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7100</id>
+  <taetigkeit>Unterstützung von Betriebsärzten bei der Notfallversorgung und bei Untersuchungen von Mitarbeitern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei betriebsärztlichen Eignungs- und Tauglichkeitsuntersuchungen assistieren; bei betriebsärztlichen Vorsorgeuntersuchungen mitwirken; leichte Verletzungen oder Erkrankungen versorgen; an der Planung von Erste-Hilfe-Maßnahmen mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Werkpfleger/-schwester</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81182">Medizin. Fachangestellte (ssT)-Fachkraft</kldb>
+      <isco schluessel="3221">Nursing associate professionals</isco>
+      <dkz codenr="81182-100" refid="8844">Werkpfleger/-schwester</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung als Arbeitsmedizinische/r Assistent/in erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung als Arbeitsmedizinische/r Assistent/in erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="81182">Medizinische Fachangestellte (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3256">Medical assistants</isco>
+      <dkz codenr="81182-100" refid="8844">Werkpfleger/-schwester</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="81183">Medizinische Fachangestellte (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3256">Medical assistants</isco>
+      <dkz codenr="81183-101" refid="9000">Arbeitsmedizinische/r Assistent/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7001">Arzthelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7104">Krankenschwester/-pfleger</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

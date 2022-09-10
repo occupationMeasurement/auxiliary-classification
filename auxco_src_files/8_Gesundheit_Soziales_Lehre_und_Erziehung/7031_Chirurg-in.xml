@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7031</id>
+  <taetigkeit>Durchführung von chirurgischen Eingriffen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Labor-, Röntgen-, Ultraschalluntersuchungen veranlassen; Operationen durchführen; unfallchirurgische Eingriffe tätigen; minimalinvasive Eingriffe vornehmen; therapeutische Maßnahmen für Rehabilitanden veranlassen; Arztberichte und Gutachten anfertigen; Befunde dokumentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Chirurg/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81434">Fachärzte/-ärztinnen in der Chirurgie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2212">Specialist medical practitioners</isco>
+      <dkz codenr="81434-100" refid="8654">Facharzt/-ärztin - Allgemeinchirurgie</dkz>
+      <dkz codenr="81434-101" refid="8655">Facharzt/-ärztin - Herzchirurgie</dkz>
+      <dkz codenr="81434-102" refid="8656">Facharzt/-ärztin - Kinderchirurgie</dkz>
+      <dkz codenr="81434-103" refid="8659">Facharzt/-ärztin - Orthopädie und Unfallchirurgie</dkz>
+      <dkz codenr="81434-104" refid="8660">Facharzt/-ärztin - Plastische und Ästhetische Chirurgie</dkz>
+      <dkz codenr="81434-105" refid="27434">Facharzt/-ärztin - Gefäßchirurgie</dkz>
+      <dkz codenr="81434-106" refid="27435">Facharzt/-ärztin - Thoraxchirurgie</dkz>
+      <dkz codenr="81434-107" refid="27436">Facharzt/-ärztin - Viszeralchirurgie</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7028">Allgemeinarzt /-ärztin</abgrenzung>
+  <abgrenzung typ="hoch" refid="7034">Zahnarzt/ -ärztin</abgrenzung>
+  <abgrenzung typ="hoch" refid="7030">Internist/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

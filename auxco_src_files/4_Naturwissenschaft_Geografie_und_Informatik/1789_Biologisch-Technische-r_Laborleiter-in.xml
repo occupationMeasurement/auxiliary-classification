@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1789</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in einem biologischen Labor</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Versuchsplanung, -durchführung und -auswertung leiten; ; kaufmännische Aufgaben wahrnehmen, z.B. Kosten kalkulieren, Budget verantworten; die Einhaltung von Sicherheits- und Hygienevorschriften überwachen; Betriebsmittel- und Personaleinsatz planen; Schulungen und Weiterbildungen für Mitarbeiter organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Biologisch-Technische/r Laborleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41293">Aufsichtskräfte - Biologie</kldb>
+      <isco schluessel="3141">Life science technicians (excluding medical)</isco>
+      <dkz codenr="41294-101" refid="6313">Laborleiter/in</dkz>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="41294">Führung - Biologie</kldb>
+      <isco schluessel="1349">Professional services managers not elsewhere classified</isco>
+      <dkz codenr="41294-101" refid="6313">Laborleiter/in</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="41293">Aufsicht - Biologie</kldb>
+      <isco schluessel="3141">Life science technicians (excluding medical)</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4002">Biotechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1792">Laborleiter/in in der Chemie</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6086</id>
+  <taetigkeit>Vertrieb von Büchern und anderen Medien an den Einzelhandel, an Unternehmen oder an Organisationen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Angebote ausarbeiten; Aufträge von Kunden entgegennehmen; Verkaufsverträge abschließen; Kontakte zu Dienstleistern und Geschäftspartnern aufbauen und pflegen; Marktentwicklungen anhand von Statistiken beobachten und diese in Entscheidungen einbeziehen; über das Sortiment entscheiden; Lagerbestände kontrollieren</taetigkeitsbeschreibung>
+  <bezeichnung>Vertriebsagent/in - Buchhandel</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62513">Buchhandel - Spezialist</kldb>
+      <isco schluessel="3322">Vertriebsagenten</isco>
+      <dkz codenr="62513-100" refid="6692">Fachwirt/in - Buchhandel</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6040">Buchhändler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6042">Buch- und Medienhandelsmanager/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3506">Medienfachwirt/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

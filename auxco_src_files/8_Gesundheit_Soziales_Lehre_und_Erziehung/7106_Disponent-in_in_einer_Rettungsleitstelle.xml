@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7106</id>
+  <taetigkeit>Entgegennahme von Notrufen und Koordination von Rettungsdiensten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Disposition der vor Ort notwendigen Einsatzmittel bis zum Eintreffen der ersten zuständigen Einheiten des Brand- und Hilfeleistungsdienstes, des Rettungsdienstes und der Katastrophenschutzeinheiten; Unterstützung der Einsatzleitung, der Rettungsdienste, der Feuerwehren und der Katastrophenschutzbehörden; einsatzvorbereitende Maßnahmen treffen; Pflege und Wartung aller funktechnischen Anlagen; digitale Alarmierungsnetze betreuen</taetigkeitsbeschreibung>
+  <bezeichnung>Disponent/in in einer Rettungsleitstelle</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81343">Rettungsdienst - Spezialist</kldb>
+      <isco schluessel="3258">Ambulance workers</isco>
+      <dkz codenr="81343-101" refid="90862">Funkstellenleiter/in (Rettungsleitstelle)</dkz>
+      <dkz codenr="81343-100" refid="90791">Notfallmanager/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7022">Rettungsdiensthelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7105">Notfallsanitäter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1807">Leiter/in - Rettungsdienst</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

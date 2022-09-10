@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5057</id>
+  <taetigkeit>Bedienung von Krananlagen zum Transport schwerer Lasten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Einsatz von Kränen planen und mit den anderen Arbeitern abstimmen; schwere Bauteile an die jeweilige Einbaustelle heben; mit Hafenkränen Schiffe be- und entladen; Krananlagen prüfen und warten</taetigkeitsbeschreibung>
+  <bezeichnung>Kranfahrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52532">Kranführ.BedienerHebeeinricht.-Fachkraft</kldb>
+      <isco schluessel="8343">Crane, hoist and related plant operators</isco>
+      <dkz codenr="52532-103" refid="4784">Kranführer/in</dkz>
+      <dkz codenr="52532-107" refid="4790">Brückenkranführer/in</dkz>
+      <dkz codenr="52532-110" refid="4795">Drehkranführer/in</dkz>
+      <dkz codenr="52532-114" refid="4801">Mobil- und Autokranführer/in</dkz>
+      <dkz codenr="52532-116" refid="4803">Hafenkranführer/in</dkz>
+      <dkz codenr="52532-118" refid="4836">Bauaufzugsführer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5058">Bauhofmeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5055">Baumaschinenführer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5056">Staplerfahrer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

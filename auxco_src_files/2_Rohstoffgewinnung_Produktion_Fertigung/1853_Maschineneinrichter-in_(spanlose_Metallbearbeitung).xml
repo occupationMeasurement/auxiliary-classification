@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1853</id>
+  <taetigkeit>Einrichtung und Bedienung von Maschinen zur spanlosen Metallbearbeitung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Maschinen für die spanlose Metallbearbeitung vorbereiten und überwachen; Bleche formen, Metalle stanzen, Drahtgewebe, Metallseile, Federn und Nietverbindungen mithilfe von Maschinen herstellen; Kabel mit Metallgeweben umhüllen und umwickeln; Fertigungsabläufe planen und Produktgüte überprüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Maschineneinrichter/in (spanlose Metallbearbeitung)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24212">Berufe in der spanlosen Metallbearbeitung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7223">Metal working machine tool setters and operators</isco>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Stellen Sie hauptsächlich Drähte, Drahtgewebe oder Federn her?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie hauptsächlich Drähte, Drahtgewebe oder Federn hergestellt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="24212">Berufe in der spanlosen Metallbearbeitung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7221">Blacksmiths, hammer smiths and forging press workers</isco>
+      <dkz codenr="24212-111" refid="1754">Drahtwarenmacher/in</dkz>
+      <dkz codenr="24212-127" refid="2128">Federmacher/in</dkz>
+      <dkz codenr="24212-110" refid="1752">Metallgewebemacher/in</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="24212">Berufe in der spanlosen Metallbearbeitung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7223">Metal working machine tool setters and operators</isco>
+      <dkz codenr="24212-121" refid="1781">Metallschneider/in</dkz>
+      <dkz codenr="24212-124" refid="1789">Maschineneinrichter/in (spanlose Metallbearbeitung)</dkz>
+      <dkz codenr="24212-100" refid="1730">Blechpresser/in</dkz>
+      <dkz codenr="24212-104" refid="1736">Metallstanzer/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2007">Grob-/Hammerschmied/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2006">Walzer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2034">Metallbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2018">Metallbearbeitungstechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

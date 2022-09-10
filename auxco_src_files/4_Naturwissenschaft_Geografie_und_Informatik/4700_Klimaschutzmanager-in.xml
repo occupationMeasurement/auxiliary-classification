@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4700</id>
+  <taetigkeit>Organisation und Umsetzung von Klimaschutzprojekten in Zusammenarbeit mit Industriebetrieben, Energieversorgern oder kommunalen Einrichtungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. den Energieverbrauch von Unternehmen, Kommunen oder Privathaushalten berechnen und analysieren; Konzepte zur effizienten Energienutzung in Unternehmen, Kommunen oder Privathaushalten erstellen; Konzeptumsetzung beauftragen und/oder koordinieren; über Energieeffizienz und Klimaschutz informieren; auf Messen oder Schulungen über den aktuellen Forschungsstand informieren</taetigkeitsbeschreibung>
+  <bezeichnung>Klimaschutzmanager/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42314">Umweltschutzverwaltung,-beratung-Experte</kldb>
+      <isco schluessel="2421">Management and organization analysts</isco>
+      <dkz codenr="42314-115" refid="93268">Klimaschutzmanager/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4249">Leiter/in – Sachverständigenbüro für Umweltfragen</abgrenzung>
+  <abgrenzung typ="hoch" refid="4254">Energieberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4255">Abfall- und Umweltberater/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1799">Umweltschutzingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4242">Umweltschutzbeauftragte/r</abgrenzung>
+  <abgrenzung typ="hoch" refid="4243">Beamter/in - Umweltverwaltung (höh. techn. Dienst)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

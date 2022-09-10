@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2126</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Fahrzeug-, Luftfahrt- oder Schiffbautechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. betriebliche Service- und Wartungspläne erstellen sowie die Materialbeschaffung veranlassen; Arbeitsabläufe in der Fahrzeug-, Luftfahrt- und Schiffbautechnik planen und mit anderen Abteilungen koordinieren; betriebliche Fertigungsverfahren festlegen und die Fertigungsprozesse überwachen; Rohmaterialien und Erzeugnisse hinsichtlich festgelegter Qualitäts- und Sicherheitsnormen prüfen; Schulungen für Mitarbeiter organisieren und den Personaleinsatz planen</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in Fahrzeugtechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25293">Aufsichtskräfte - Fahrzeug-, Luft-, Raumfahrt- und Schiffbautechnik</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="25294">Führungskräfte - Fahrzeug-, Luft-, Raumfahrt- und Schiffbautechnik</kldb>
+      <isco schluessel="1321">Manufacturing managers</isco>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="25293">Aufsichtskräfte - Fahrzeug-, Luft-, Raumfahrt- und Schiffbautechnik</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="25293-100" refid="2178">Karosserie- und Fahrzeugbauermeister/in</dkz>
+      <dkz codenr="25293-101" refid="2366">Kraftfahrzeugtechnikermeister/in</dkz>
+      <dkz codenr="25293-102" refid="2389">Landmaschinenmechanikermeister/in</dkz>
+      <dkz codenr="25293-103" refid="2471">Zweiradmechanikermeister/in</dkz>
+      <dkz codenr="25293-131" refid="58549">Betriebsmanager/in - Kraftfahrzeugtechnik</dkz>
+      <dkz codenr="25293-105" refid="4549">Boots- und Schiffbauermeister/in</dkz>
+      <dkz codenr="25293-108" refid="6143">Industriemeister/in - Flugzeugbau/Luftfahrttechnik</dkz>
+      <dkz codenr="25293-110" refid="6158">Industriemeister/in - Metall (Automobilindustrie)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="2077">Kraftfahrzeugtechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1726">Luftfahrttechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1727">Schiffbautechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2047">Metallbaumeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2124">Instandhaltungsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2155">Leiter/in - Technische Produktionssteuerung und Qualitätssicherung</abgrenzung>
+  <abgrenzung typ="mittel" refid="2159">Produktionsingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

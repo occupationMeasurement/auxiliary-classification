@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4246</id>
+  <taetigkeit>Beratung von Anlagenbetreibern und Werkleitern zur Vermeidung  umweltrelevanter Störfälle</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Anlagensicherheit gewährleisten; Einhaltung von störfallrechtlichen Vorschriften überprüfen; Einhaltung des Bundesimmissionsschutzgesetzes überprüfen; sicherheitsrelevante Störungen und Brandschutzmängel feststellen; Ursachen und Lösungen festgestellter Mängel finden; Betriebsstätten in regelmäßigen Abständen kontrollieren</taetigkeitsbeschreibung>
+  <bezeichnung>Störfallbeauftragte/r</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42324">Gewäs.Immissions,Abfallbeauf.-Experte</kldb>
+      <isco schluessel="2263">Environmental and occupational health and hygiene professionals</isco>
+      <dkz codenr="42324-100" refid="8198">Störfallbeauftragte/r</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1774">Gewässer-, Abfall- und Immissionsschutzbeauftragte/r</abgrenzung>
+  <abgrenzung typ="mittel" refid="4243">Beamt(er/in) - Umweltverwaltung (höh. techn. Dienst)</abgrenzung>
+  <abgrenzung typ="hoch" refid="5064">Arbeitsschutzingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

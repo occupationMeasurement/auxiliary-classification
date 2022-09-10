@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5050</id>
+  <taetigkeit>Durchführung der Ausbildung von Piloten und Besatzungsmitgliedern sowie Leistungsüberprüfung erfahrener Piloten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Übungen am Flugsimulator ausführen; Starts und Landungen üben; Verhalten bei Notsituationen einüben; Leistungsbewertung angehender Piloten durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Checkkapitän/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="52384">Fahrzeugführer Flugverkehr (ssT)-Experte</kldb>
+      <isco schluessel="3153">Aircraft pilots and related associate professionals</isco>
+      <dkz codenr="52384-100" refid="7327">Checkkapitän/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5047">Pilot/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

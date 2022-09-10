@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1118</id>
+  <taetigkeit>Durchführung von Testkäufen zur Qualitätsbewertung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei Testkäufen anhand von vorgefertigten Fragebögen Beratung, Service und Freundlichkeit von Unternehmen bewerten; Bewertungsberichte erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Testkäufer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="91341">Berufe in der Markt- und Meinungsforschung - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="7543">Product graders and testers (except foods and beverages)</isco>
+      <dkz codenr="91341-102" refid="15887">Testkäufer/in</dkz>
+      <dkz codenr="91341-104" refid="28874">Tester/in, Testperson</dkz>
+    </default>
+  </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

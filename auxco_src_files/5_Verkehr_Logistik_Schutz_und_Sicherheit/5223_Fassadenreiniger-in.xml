@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5223</id>
+  <taetigkeit>Reinigung der nicht-gläsernen Außenflächen von Gebäuden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fassaden ud Mauerwerk mittels Hochdruck- und Dampfreinigungsgeräten säubern; Verglasungen reinigen; auf Baustellen die Baugrob- und -feinreinigung im Außenbereich von Gebäuden durchführen; Spezialgeräte bei der Reinigung einsetzen; Bauschluss- bzw. Baufeinreinigung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Fassadenreiniger/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="54112">Gebäudereinigung - Fachkraft</kldb>
+      <isco schluessel="7133">Building structure cleaners</isco>
+      <dkz codenr="54112-101" refid="10233">Gebäudereiniger/in</dkz>
+      <dkz codenr="54112-104" refid="10239">Fassadenreiniger/in (Gebäudereinigung)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="4237">Schornsteinfeger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5093">Glas- und Fensterreiniger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

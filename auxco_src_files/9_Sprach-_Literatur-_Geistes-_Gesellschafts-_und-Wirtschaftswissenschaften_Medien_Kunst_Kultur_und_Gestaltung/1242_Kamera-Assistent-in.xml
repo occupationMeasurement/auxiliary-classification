@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1242</id>
+  <taetigkeit>Unterstützung von Kameraleuten bei der Vorbereitung, Aufnahme und Nachbereitung der Aufnahme</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. benötigte Geräte besorgen und auf Funktionsfähigkeit prüfen; Kameras aufbauen und Zubehör anbringen; Bildschärfe und Blende einstellen und kontrollieren; aufgenommenes Material beschriften und verpacken</taetigkeitsbeschreibung>
+  <bezeichnung>Kamera-Assistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94522">Berufe in der Kameratechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3521">Broadcasting and audio-visual technicians</isco>
+      <dkz codenr="94522-101" refid="8585">Kamera-Assistent/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1243">Kameramann/-frau</abgrenzung>
+  <abgrenzung typ="mittel" refid="1225">Produktionsassistent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

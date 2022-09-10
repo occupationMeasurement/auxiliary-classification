@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4205</id>
+  <taetigkeit>Erstellung mathematischer Modelle für ökonomische Fragestellungen in Wissenschaft und Industrie</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kursschwankungen an der Börse kalkulieren; Modelle zur Entwicklung von Supply Chains erstellen; Chancen und Risiken im Versicherungswesen und in der Finanzplanung abschätzen; finanzielle Unsicherheiten kalkulieren und bewerten</taetigkeitsbeschreibung>
+  <bezeichnung>Wirtschaftsmathematiker/in / Aktuar/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41184">Mathematik (s.s.T.) - Experte</kldb>
+      <isco schluessel="2120">Mathematicians, actuaries and statisticians</isco>
+      <dkz codenr="41184-121" refid="59500">Wirtschaftsmathematiker/in</dkz>
+      <dkz codenr="41184-104" refid="14691">Aktuar/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="4204">Computer-/ Technomathematiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1788">Mathematiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3530</id>
+  <taetigkeit>Beratung, Unterstützung und Vertretung von Auftraggebern in rechtlichen Fragen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. vorliegende Sachverhalte analysieren; Wünsche der Mandanten erheben und die rechtliche Durchsetzbarkeit überprüfen; Verträge, Angebote und rechtliche Texte ausarbeiten; die Interessen der Mandanten vor Gericht vertreten; Akten studieren und Schriftsätze anfertigen; Verhandlungen und Schriftwechsel für Auftraggeber führen; bei Rechtsgeschäften mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Rechtliche/r Berater/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73183">Berufe in Rechtsberatung, -sprechung und -ordnung (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3411">Legal and related associate professionals</isco>
+      <dkz codenr="73134-126" refid="76969">Fachanwalt/-anwältin - Agrarrecht</dkz>
+      <dkz codenr="73134-125" refid="74068">Fachanwalt/-anwältin - Bank- und Kapitalmarktrecht</dkz>
+      <dkz codenr="73134-100" refid="8240">Fachanwalt/-anwältin - Strafrecht</dkz>
+      <dkz codenr="73134-101" refid="8241">Rechtsanwalt/Rechtsanwältin</dkz>
+      <dkz codenr="73134-102" refid="8242">Fachanwalt/-anwältin - Arbeitsrecht</dkz>
+      <dkz codenr="73134-103" refid="8243">Fachanwalt/-anwältin - Sozialrecht</dkz>
+      <dkz codenr="73134-104" refid="8244">Fachanwalt/-anwältin - Steuerrecht</dkz>
+      <dkz codenr="73134-105" refid="8245">Fachanwalt/-anwältin - Verwaltungsrecht</dkz>
+      <dkz codenr="73134-108" refid="14684">Fachanwalt/-anwältin - Insolvenzrecht</dkz>
+      <dkz codenr="73134-110" refid="15696">Fachanwalt/-anwältin - Versicherungsrecht</dkz>
+      <dkz codenr="73134-111" refid="15697">Fachanwalt/-anwältin - Familienrecht</dkz>
+      <dkz codenr="73134-114" refid="50901">Fachanwalt/-anwältin</dkz>
+      <dkz codenr="73134-106" refid="8251">Syndikus-Anwalt/-Anwältin</dkz>
+      <dkz codenr="73134-107" refid="8256">Patentanwalt/-anwältin</dkz>
+      <dkz codenr="73134-122" refid="59096">Fachanwalt/-anwältin - Handels- und Gesellschaftsrecht</dkz>
+      <dkz codenr="73134-123" refid="59097">Fachanwalt/-anwältin - Urheber- und Medienrecht</dkz>
+      <dkz codenr="73134-124" refid="59098">Fachanwalt/-anwältin - Informationstechnologierecht</dkz>
+      <dkz codenr="73134-115" refid="59088">Fachanwalt/-anwältin - Medizinrecht</dkz>
+      <dkz codenr="73134-116" refid="59089">Fachanwalt/-anwältin - Miet-/Wohnungseigentumsrecht</dkz>
+      <dkz codenr="73134-117" refid="59091">Fachanwalt/-anwältin - Verkehrsrecht</dkz>
+      <dkz codenr="73134-118" refid="59092">Fachanwalt/-anwältin - Bau- und Architektenrecht</dkz>
+      <dkz codenr="73134-119" refid="59093">Fachanwalt/-anwältin - Erbrecht</dkz>
+      <dkz codenr="73134-120" refid="59094">Fachanwalt/-anwältin - Transport- und Speditionsrecht</dkz>
+      <dkz codenr="73134-121" refid="59095">Fachanwalt/-anwältin - gewerblicher Rechtsschutz</dkz>
+      <dkz codenr="73134-142" refid="128433">Fachanwalt/-anwältin - Vergaberecht</dkz>
+      <dkz codenr="73134-141" refid="126839">Fachanwalt/-anwältin - internationales Wirtschaftsrecht</dkz>
+      <dkz codenr="73183-100" refid="6885">Rechtsschutzbeauftragte/r</dkz>
+      <dkz codenr="73183-101" refid="8259">Rechtsbeistand</dkz>
+      <dkz codenr="73184-120" refid="58786">Wirtschaftsjurist/in</dkz>
+      <dkz codenr="73184-103" refid="15695">Verwaltungsjurist/in</dkz>
+      <dkz codenr="73184-101" refid="8252">Justiziar/in</dkz>
+      <dkz codenr="73184-106" refid="27352">Vertragsberater/in</dkz>
+      <dkz codenr="73184-121" refid="59437">Jurist/in - Europarecht</dkz>
+      <dkz codenr="73184-122" refid="59439">Jurist/in - Informationsrecht</dkz>
+      <dkz codenr="73184-123" refid="59441">Jurist/in - öffentliches Recht</dkz>
+      <dkz codenr="73184-124" refid="59444">Jurist/in - Sozialrecht</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Welche Prüfung oder Zulassung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Prüfung oder Zulassung war für Ihre Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Zulassung zur Rechtsanwaltschaft erforderlich</text>
+      <kldb schluessel="73134">Rechtsanwälte/-anwältinnen - Experte</kldb>
+      <isco schluessel="2611">Lawyers</isco>
+    </antwort>
+    <antwort position="2">
+      <text>erstes juristisches Staatsexamen erforderlich</text>
+      <kldb schluessel="73184">Berufe in Rechtsberatung, -sprechung und -ordnung (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2619">Legal professionals not elsewhere classified</isco>
+    </antwort>
+    <antwort position="3">
+      <text>erstes juristischen Staatsexamen nicht erforderlich</text>
+      <kldb schluessel="73183">Berufe in Rechtsberatung, -sprechung und -ordnung (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3411">Legal and related associate professionals</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3539">Datenschutzbeauftragte/r</abgrenzung>
+  <abgrenzung typ="hoch" refid="3537">Rechtsabteilungsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3529">Rechtsanwalts- und Notarfachangestellte/r</abgrenzung>
+  <abgrenzung typ="mittel" refid="3587">Steuerfachmann/-frau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

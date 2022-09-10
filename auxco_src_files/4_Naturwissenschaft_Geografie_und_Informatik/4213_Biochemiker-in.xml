@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4213</id>
+  <taetigkeit>Erforschung biochemischer Prozesse</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Lebenserscheinungen von Organismen, wie Stoffwechsel, Vererbung, Zellteilung und Funktionsstörungen, mit chemischen Methoden erforschen; medizinisch verwendbare Stoffe finden und weiterentwickeln um Medikamente zu optimieren; verfahrenstechnische Abläufe in der Azneimittelproduktion und -anwendung verbessern; an Zulassungsverfahren neuer Arzneimittel mitwirken; Ärzte und Forschungseinrichtungen über neue Medikamente informieren und beraten; Lehrveranstaltungen durchführen und Vorträge im Bereich Biochemie halten; Forschungsprojekte entwickeln, planen und ausführen</taetigkeitsbeschreibung>
+  <bezeichnung>Biochemiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41284">Biologie (s.s.T.) - Experte</kldb>
+      <isco schluessel="2113">Chemists</isco>
+      <dkz codenr="41284-118" refid="58688">Biochemiker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4007">Mikrobiologe/-biologin</abgrenzung>
+  <abgrenzung typ="mittel" refid="4008">Humanbiologe/-biologin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

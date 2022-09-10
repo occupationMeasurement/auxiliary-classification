@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5196</id>
+  <taetigkeit>Schutz von Holz vor Beschädigung und Verwitterung sowie die Verarbeitung von Kork</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rohmaterial, wie Kork und Holz, vor dem Trockenen in Form bringen, Schichten und Stapeln; Temperatur, Luftzufuhr und -feuchte beim Trocknen steuern; Kork zu Bodenbelägen und zu Isolier- und Dämmstoffen verarbeiten; Holz und Kork mittels Tränken in speziellen Holzschutz- und Imprägnierlösungen vor Wettereinfluss und Schädlingsbefall schützen; Produktionsmaschinen und Werkzeuge bedienen und warten; Erzeugnisse auf Qualität prüfen, lagern und verpacken</taetigkeitsbeschreibung>
+  <bezeichnung>Holz- und Korktrockner/in und –imprägnierer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22312">Holztrocknung,-konservierung - Fachkraft</kldb>
+      <isco schluessel="7521">Wood treaters</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5193">Holzbearbeitungsmechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5192">Helfer/in - Holz und Flechtwaren</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

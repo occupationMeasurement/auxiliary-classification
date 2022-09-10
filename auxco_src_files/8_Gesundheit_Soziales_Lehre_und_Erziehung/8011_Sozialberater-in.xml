@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>8011</id>
+  <taetigkeit>Unterstützung von Personen in Beratungsstellen hinsichtlich von Problemen wie Suchtkrankheiten, ungewollten Schwangerschaften oder Erziehungsproblemen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Einzel- oder Gruppengespräche mit den Ratsuchenden führen, um ihre Probleme zu beurteilen und festzustellen, welche Art von Diensten sie benötigen; über Dienstleistungs- und Versorgungsangebote beraten; therapeutische Gruppenarbeit durchführen; Lösungsmöglichkeiten aufzeigen; suchtkranke Personen über Behandlungsmöglichkeiten informieren; Kontakt mit Schulen und Anbietern von Gesundheitsdienstleistungen pflegen</taetigkeitsbeschreibung>
+  <bezeichnung>Sozialberater/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83154">Sozial-,Erziehungs-, Suchtberat.-Experte</kldb>
+      <isco schluessel="2635">Social work and counselling professionals</isco>
+      <dkz codenr="83154-100" refid="9036">Schwangerschaftskonfliktberater/in</dkz>
+      <dkz codenr="83154-101" refid="9038">Sucht-, Drogenberater/in</dkz>
+      <dkz codenr="83154-103" refid="9045">Erziehungsberater/in</dkz>
+      <dkz codenr="83154-104" refid="9047">Jugendberater/in</dkz>
+      <dkz codenr="83154-105" refid="9049">Jugendreferent/in</dkz>
+      <dkz codenr="83154-106" refid="9059">Fachberater/in - Altenhilfe</dkz>
+      <dkz codenr="83154-109" refid="27820">Sozialtherapeut/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="83154">Sozial-,Erziehungs-, Suchtberat.-Experte</kldb>
+      <isco schluessel="2635">Social work and counselling professionals</isco>
+      <dkz codenr="83154-100" refid="9036">Schwangerschaftskonfliktberater/in</dkz>
+      <dkz codenr="83154-101" refid="9038">Sucht-, Drogenberater/in</dkz>
+      <dkz codenr="83154-103" refid="9045">Erziehungsberater/in</dkz>
+      <dkz codenr="83154-104" refid="9047">Jugendberater/in</dkz>
+      <dkz codenr="83154-105" refid="9049">Jugendreferent/in</dkz>
+      <dkz codenr="83154-106" refid="9059">Fachberater/in - Altenhilfe</dkz>
+      <dkz codenr="83154-109" refid="27820">Sozialtherapeut/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="83154">Sozial-,Erziehungs-, Suchtberat.-Experte</kldb>
+      <isco schluessel="3412">Welfare support worker</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7041">Psychologe/Psychologin</abgrenzung>
+  <abgrenzung typ="hoch" refid="7042">Psychotherapeut/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8004">Sozialpädagoge/-pädagogin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

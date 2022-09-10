@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5218</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Papier- und Verpackungstechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die Arbeitsabläufe und Zusammenarbeit von verschiedenen Abteilungen bzw. Verantwortungsbereichen koordinieren; Einsatz von Rohstoffen und Farben planen und organisieren; Erzeugnisse auf ihre Übereinstimmung mit den festgelegten Qualitäts- und Sicherheitsnormen prüfen; Wartungs- und Instandhaltungsmaßnahmen von Produktionsmaschinen organisieren; bei der Einführung neuer Maschinen, Fertigungsanlagen, Materialien und Arbeitsverfahren mitwirken; Arbeits-, Brand-, Gesundheits- und Umweltschutzbestimmungen durchsetzen und überwachen; Schulungs- und Weiterbildungsmaßnahmen für Mitarbeiter organisieren; den betrieblichen Teil der Ausbildung übernehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Industriemeister/in - Papiererzeugung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23193">Aufsichtskräfte - Papier- und Verpackungstechnik</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="23193-101" refid="6251">Industriemeister/in - Papiererzeugung</dkz>
+      <dkz codenr="23193-102" refid="6252">Industriemeister/in - Papier- und Kunststoffverarbeitung</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5217">Verpackungsingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1701">Druckermeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5212">Techniker/in - Papiertechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="5213">Papieringenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

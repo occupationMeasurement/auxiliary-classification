@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3209</id>
+  <taetigkeit>Beratung von verschiedenen Unternehmen zur Geschäftsentwicklung sowie zu Möglichkeiten der Betriebs- und Prozessoptimierung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Markt- und Kundenausrichtung von Unternehmen analysieren und beurteilen; Vorschläge zur Geschäftsentwicklung und Marktstrategien entwickeln und den Auftraggebern unterbreiten; Sanierungspläne erstellen und Finanzierungsmöglichkeiten aufzeigen; strategische Unternehmensplanung vorantreiben und Fusionen vorbereiten</taetigkeitsbeschreibung>
+  <bezeichnung>Unternehmensberater/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71324">Berufe in der Unternehmensberatung - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2421">Management and organization analysts</isco>
+      <dkz codenr="71324-100" refid="7505">Unternehmensberater/in</dkz>
+      <dkz codenr="71324-101" refid="14474">Mergers-and-Acquisitions-Specialist</dkz>
+      <dkz codenr="71324-102" refid="15007">Business-Development-Manager/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3208">Betriebsplaner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3581">Wirtschaftsprüfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

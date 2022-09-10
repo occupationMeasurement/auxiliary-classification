@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1723</id>
+  <taetigkeit>Durchführung von Wartungs- und Reparaturarbeiten an Maschinen und Anlagensystemen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Geräte nach technischen Zeichnungen aufstellen, einrichten, in Betrieb nehmen, warten und Störquellen ausmachen; Bediener von Anlagen in die ordnungsgemäße Handhabung einweisen; Funktionssicherkeit und -fähigkeit von Maschinen und Geräten wie Generatoren oder Aufzügen kontrollieren; Störungen in komplexen, automatisierten Anlagen diagnostizieren und beheben; die Hardware und Software von Maschinen und Anlagen kontrollieren und ggf. Testprogramme schreiben; mit der Entwicklungsabteilung zusammenarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Wartungs- und Servicetechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25132">Technische Servicekräfte in Wartung und Instandhaltung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7412">Electrical mechanics and fitters</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="25132">Technische Servicekräfte in Wartung und Instandhaltung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7412">Electrical mechanics and fitters</isco>
+      <dkz codenr="25132-127" refid="14338">Aufzugmonteur/in</dkz>
+      <dkz codenr="25132-104" refid="2317">Wartungs- und Servicetechniker/in - Maschinenbau</dkz>
+      <dkz codenr="25132-106" refid="2481">Automatenmechaniker/in (Spiel- und Verkaufsautomaten)</dkz>
+      <dkz codenr="25132-132" refid="58996">Kundendienstmonteur/in, -techniker/in</dkz>
+      <dkz codenr="25132-178" refid="126836">Automatenfachmann/-frau - Automatenmechatronik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="25133">Technische Servicekräfte in Wartung und Instandhaltung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="25133-101" refid="5399">Instandhaltungstechniker/in</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="25133">Technische Servicekräfte in Wartung und Instandhaltung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="25133-101" refid="5399">Instandhaltungstechniker/in</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="25134">Technische Servicekräfte in Wartung und Instandhaltung - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2144">Mechanical engineers</isco>
+      <dkz codenr="25134-101" refid="5030">Serviceingenieur/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2115">Elektromechaniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2068">Zählerableser/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="6006">Automatenfachmann/ -frau</abgrenzung>
+  <abgrenzung typ="hoch" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

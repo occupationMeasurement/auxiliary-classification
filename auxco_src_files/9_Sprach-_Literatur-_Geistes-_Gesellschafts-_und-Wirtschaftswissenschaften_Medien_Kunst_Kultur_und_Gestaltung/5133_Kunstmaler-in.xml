@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5133</id>
+  <taetigkeit>Anfertigung von Zeichnungen und Gemälden sowie Durchführung von Restaurierungsarbeiten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wirklichkeit, Empfindungen oder Ideen mit verschiedenen malerischen und zeichnerischen Mitteln darstellen; Comics zeichnen; Zeichnungen für Trickfilme bzw. Computeranimationen anfertigen; Buchillustrationen und Buchumschläge nach Vorgabe gestalten; Schäden an Bildern und Gemälden ausbessern; fehlende Teile ggf. rekonstruieren</taetigkeitsbeschreibung>
+  <bezeichnung>Kunstmaler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93323">Kunstmaler, Zeichner - Spezialist</kldb>
+      <isco schluessel="2651">Visual artists</isco>
+      <dkz codenr="93323-104" refid="15931">Schnellzeichner/in / Porträtzeichner/in</dkz>
+      <dkz codenr="93323-100" refid="8430">Kunstmaler/in</dkz>
+      <dkz codenr="93323-102" refid="15127">Comic-Zeichner/in</dkz>
+      <dkz codenr="93323-103" refid="15507">Trickfilmzeichner/in</dkz>
+      <dkz codenr="93323-101" refid="8643">Karikaturist/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5128">bildende/r Künstler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5219">Grafikdesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5144">Glas- und Porzellanmaler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

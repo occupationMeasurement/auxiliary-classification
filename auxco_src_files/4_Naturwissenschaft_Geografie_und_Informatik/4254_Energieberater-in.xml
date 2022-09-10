@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4254</id>
+  <taetigkeit>Beratung von Privathaushalten und Betrieben zu Energiefragen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gebäude energietechnisch beurteilen und Energiebilanzen erstellen; Kunden über sparsamen Energieeinsatz informieren; in Betrieben auf die Beschaffung von Geräten mit geringem Energieverbrauch hinwirken; finanzielle Aspekte von energiesparenden Betriebsabläufen berechnen</taetigkeitsbeschreibung>
+  <bezeichnung>Energieberater/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42313">Umweltschutzverwalt,-beratung-Spezialist</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="42313-112" refid="58476">Techniker/in - Umweltschutzt. (Erneuerb.Energ., Energieber.)</dkz>
+      <dkz codenr="42313-102" refid="10151">Energieberater/in</dkz>
+      <dkz codenr="42313-106" refid="14422">Fachkraft - Umweltschutz</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="4255">Abfall- und Umweltberater/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4240">Betriebsassistent/in - Umweltschutz</abgrenzung>
+  <abgrenzung typ="mittel" refid="4242">Umweltschutzbeauftragte/r</abgrenzung>
+  <abgrenzung typ="mittel" refid="4249">Leiter/in – Sachverständigenbüro für Umweltfragen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

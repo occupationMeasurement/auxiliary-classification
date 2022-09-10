@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5322</id>
+  <taetigkeit>Verwaltung, Instandhaltung und Reinigung von Geräten sowie Sicherstellung der Einsatzbereitschaft</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Maschinen, Werkzeuge und Betriebsmittel reinigen und einsatzbereit halten; defekte Teile ausbauen; Ersatzteile beschaffen und einbauen; Belastungs- und Funktionsprüfungen durchführen; Materiallager in Ordnung halten; Termine für durchzuführende Wiederholungsprüfungen an Feuerlöschern überwachen; Schadensmeldungen entgegennehmen; Reparaturarbeiten selbstständig durchführen oder Aufträge zur Reparatur erteilen; defekte Stecker ersetzen; Glühbirnen und Räder wechseln</taetigkeitsbeschreibung>
+  <bezeichnung>Gerätewart/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34112">Platz-, Gerätewarte/innen - Fachkraft</kldb>
+      <isco schluessel="5153">Building caretakers</isco>
+      <dkz codenr="34112-101" refid="8139">Gerätewart/in</dkz>
+    </default>
+  </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

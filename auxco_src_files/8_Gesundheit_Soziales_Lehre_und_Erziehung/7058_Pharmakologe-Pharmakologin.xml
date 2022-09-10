@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7058</id>
+  <taetigkeit>Erforschung und Entwicklung von Arzneimitteln, Kosmetika und ähnlichen pharmazeutischen Produkten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. klinische Prüfungen von Arzneimitteln an Menschen planen und durchführen; neue Substanzen pharmazeutisch, präklinisch und klinisch entwickeln; Dosis-/Konzentrations-Wirkungsbeziehungen beurteilen; Nutzen und Risiko der Arzneimittel beurteilen; Nebenwirkungen und Intoxikationen durch Medikamente erkennen; Patienten regelmäßig nachuntersuchen und akute Notfälle behandeln; neue Therapieverfahren evaluieren</taetigkeitsbeschreibung>
+  <bezeichnung>Pharmakologe/Pharmakologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81814">Fachärzte/-ärztinnen in der Pharmakologie - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2131">Biologists, botanists, zoologists and related professionals</isco>
+      <dkz codenr="81814-100" refid="8689">Facharzt/-ärztin - Klinische Pharmakologie</dkz>
+      <dkz codenr="81814-101" refid="27438">Facharzt/-ärztin - Pharmakologie und Toxikologie</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7121">Apothekenleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7059">Arzt/Ärztin- Pharmakologie und Toxikologie</abgrenzung>
+  <abgrenzung typ="hoch" refid="7010">Facharzt/-ärztin für Mikrobiologie</abgrenzung>
+  <abgrenzung typ="hoch" refid="7057">Apotheker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

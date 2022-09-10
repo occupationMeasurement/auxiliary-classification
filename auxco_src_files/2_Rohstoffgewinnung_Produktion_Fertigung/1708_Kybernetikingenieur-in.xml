@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1708</id>
+  <taetigkeit>Erforschung und Entwicklung von kybernetischen Geräten und Anwendungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. neue Verfahren zur Automatisierung von Prozessen, Baugruppen, Geräten, Anlagen und Systemen in der technischen Kybernetik entwickeln; Entwurfs- und Simulationswerkzeuge anwenden, fachspezifische Anwendungssoftware entwickeln und anpassen; Steuer- und Regelanlagen verantwortlich überwachen, Betriebsbereitschaft der technischen Einrichtungen sicherstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Kybernetikingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26384">Berufe in der Elektrotechnik (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="26384-108" refid="59361">Ingenieur/in - Optoelektronik</dkz>
+      <dkz codenr="26384-109" refid="59413">Ingenieur/in - Technische Kybernetik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1730">Elektrotechniker/in - Automatisierungstechnik</abgrenzung>
+  <abgrenzung typ="hoch" refid="1729">Mechatroniktechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2051">Feinwerktechnikingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4037">Technische/r Informatiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

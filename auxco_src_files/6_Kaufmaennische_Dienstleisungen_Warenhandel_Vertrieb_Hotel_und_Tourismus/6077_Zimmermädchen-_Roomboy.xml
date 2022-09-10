@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6077</id>
+  <taetigkeit>Herrichtung, Reinigung und Dekoration von Hotelzimmern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Zimmer nach Anweisung reinigen; frische Handtücher und Hygieneartikel besorgen sowie Betten frisch überziehen; Wäsche waschen, bügeln, schrankfertig zusammenlegen und an den Bestimmungsort bringen; Flure, Treppen oder Speisräume sauberhalten; Wagen für den Roomservice bestücken</taetigkeitsbeschreibung>
+  <bezeichnung>Zimmermädchen/ Roomboy</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63221">Hotelservice - Helfer</kldb>
+      <isco schluessel="9112">Cleaners and helpers in offices, hotels and other establishments</isco>
+      <dkz codenr="63221-104" refid="10175">Helfer/in - Hotel</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6083">Hotelpage</abgrenzung>
+  <abgrenzung typ="mittel" refid="6070">Rezeptionist/in - Hotel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

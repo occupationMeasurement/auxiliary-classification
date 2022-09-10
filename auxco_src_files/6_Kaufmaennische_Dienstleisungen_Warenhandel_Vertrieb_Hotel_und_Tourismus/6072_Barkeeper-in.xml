@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6072</id>
+  <taetigkeit>Zubereitung und Servieren von alkoholischen und nicht alkoholischen Getränken an Theken</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. (nicht-)alkoholische Cocktails und andere Getränke nach internationalen fachlichen Richtlinien und Rezepturen zubereiten; eigene Cocktails kreiren; Getränke dekorieren; kleine Speisen und Snacks zubereiten; Kunden beraten, informieren und deren Bestellungen aufnehmen; sich mit den Gästen unterhalten; Rechnungen stellen und abkassieren; Warenbestände prüfen und ggf. Nachbestellungen aufgeben; Hygienevorschriften einhalten und auf Ordnund und Sauberkeit achten; Abrechnungen erstellen und Einnahmen überprüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Barkeeper/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63322">Barkeeper/innen - Fachkraft</kldb>
+      <isco schluessel="5132">Bartenders</isco>
+      <dkz codenr="63322-100" refid="10049">Barkellner/in</dkz>
+      <dkz codenr="63322-102" refid="13990">Barmixer/in, Barkeeper/in</dkz>
+      <dkz codenr="63322-103" refid="90228">Barista</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6074">Fast-Food- und Imbisskoch/-köchin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

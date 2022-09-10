@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5059</id>
+  <taetigkeit>Sicherstellung von Ordnung und Sicherheit in Spielhallen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. in Spielcentern Geld wechseln; für Funktionsfähigkeit der Spielautomaten sowie für Sauberkeit sorgen; Spielautomaten warten oder ggf. Reparaturen beauftragen; Getränke ausschenken und Snacks zubereiten</taetigkeitsbeschreibung>
+  <bezeichnung>Spielhallenaufsicht</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53111">Objekt-, Werte-, Personenschutz - Helfer</kldb>
+      <isco schluessel="9629">Elementary workers not elsewhere classified </isco>
+      <dkz codenr="53111-102" refid="14339">Spielhallenaufsicht</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5060">Geldzähler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5076">Aufsichtsleiter/in – Sicherheitswesen</abgrenzung>
+  <abgrenzung typ="hoch" refid="5061">Sicherheitsdienstmitarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5173">Parkplatz- und Parkhausaufsicht</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

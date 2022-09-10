@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1732</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Stromnetzen und elektrischen Leitungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. die optimale Verteilung von elektrischen Leitungen konzipieren; technische Projekte für Überlandleitungen oder Starkstromanlagen entwickeln und realisieren; Einhaltung der Sicherheitsbestimmungen der elektrischen Installationen prüfen; fehlerhafte Spannungsregulierungen mittels Testinstrumenten prüfen und Lösungen erarbeiten; Forschungsaufträge im Bereich Leitungsinstallation planen und durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Kabeltechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26263">Berufe in der Leitungsinstallation und -wartung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3113">Electrical engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="26264">Berufe in der Leitungsinstallation und -wartung - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2151">Electrical engineers</isco>
+      <dkz codenr="26264-100" refid="90692">Starkstromingenieur/in</dkz>
+      <dkz codenr="26264-101" refid="90799">Schwachstromingenieur/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="26263">Berufe in der Leitungsinstallation und -wartung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3113">Electrical engineering technicians</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1734">Techniker/in - Informations- und Kommunikationselektronik</abgrenzung>
+  <abgrenzung typ="hoch" refid="2111">Kabelmonteur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1737">Konstruktionstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2105">Kraftwerksingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5229</id>
+  <taetigkeit>Entwicklung von analogen Filmen und Papierabzügen sowie Bildbearbeitung von digitalen Aufnahmen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. belichtete Filme für verschiedene Entwicklungsschritte in Dunkelkammern vorbereiten; im analogen Fotolabor chemische Bäder ansetzen und Filme entwickeln; Kopier- und Vergrößerungsgeräte bedienen; Entwicklungsmaschinen und Printer steuern und bedienen; chemische Flüssigkeiten zugeben und wechseln; analoge Trägermedien durch Scannen digitalisieren; einfache Qualitätskontrollen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Fotolaborant/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23312">Fototechnik - Fachkraft</kldb>
+      <isco schluessel="8132">Photographic products machine operators</isco>
+      <dkz codenr="23312-100" refid="6439">Fotomedienlaborant/in</dkz>
+      <dkz codenr="23312-101" refid="6441">Fotolaborant/in</dkz>
+      <dkz codenr="23312-102" refid="6447">Film- und Videolaborant/in</dkz>
+      <dkz codenr="23312-110" refid="35136">Filmkopienfertiger/in</dkz>
+      <dkz codenr="23312-105" refid="6458">Foto- und medientechnische/r Assistent/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5230">Foto- und Medientechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5233">Fotograf/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1003</id>
+  <taetigkeit>Kontaktaufnahme mit Kunden, meist per Telefon, um Waren und Dienstleistungen zu verkaufen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Produkte per Telefon oder E-Mail bewerben; Info-Broschüren und Waren versenden; Termine mit Handelsvertretern vereinbaren; Aktualisierung von Marketing-Datenbanken</taetigkeitsbeschreibung>
+  <bezeichnung>Verkäufer/in - Telemarketing</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92122">Berufe im Dialogmarketing - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="5244">Contact centre salespersons</isco>
+      <dkz codenr="92122-104" refid="35308">Servicefachkraft - Dialogmarketing</dkz>
+      <dkz codenr="92122-101" refid="7001">Callcenteragent/in</dkz>
+      <dkz codenr="92122-102" refid="14107">Fachkaufmann/-frau - Teleservice</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1002">Callcenteragent/in (Inbound)</abgrenzung>
+  <abgrenzung typ="mittel" refid="3504">Teamleiter/in - Callcenter</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

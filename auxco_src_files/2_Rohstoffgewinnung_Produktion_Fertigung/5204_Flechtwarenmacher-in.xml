@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5204</id>
+  <taetigkeit>Gestaltung und Fertigung von Korbwaren, Flechtmöbeln und anderen Flechtobjekten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rohmaterial für die Herstellung auswählen; Rohmaterial reinigen, trocknen und zuschneiden; Beratungen über mögliche Formen und Funktionen von Flechtwaren durchführen; Skizzen und Zeichnungen anfertigen; Flechtarbeit manuell mit verschiedenen Flechttechniken durchführen; Muster und dekorative Strukturen einarbeiten; Oberflächen beizen und färben; fertige Flechtwaren verpacken und lagern</taetigkeitsbeschreibung>
+  <bezeichnung>Flechtwarenmacher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="22352">Flechtwerk,Bürste,Pinselmacher-Fachkraft</kldb>
+      <isco schluessel="7317">Handicraft workers in wood, basketry and related materials </isco>
+      <dkz codenr="22352-104" refid="1576">Korbmacher/in - Korbmöbelbau</dkz>
+      <dkz codenr="22352-106" refid="1578">Korbmacher/in - Korbwarenherstellung</dkz>
+      <dkz codenr="22352-111" refid="50908">Flechtwerkgestalter/in</dkz>
+      <dkz codenr="22352-112" refid="50910">Flechtwerkgestalter/in - Korbwaren</dkz>
+      <dkz codenr="22352-113" refid="50912">Flechtwerkgestalter/in - Flechtmöbel</dkz>
+      <dkz codenr="22352-114" refid="50914">Flechtwerkgestalter/in - Flechtobjekte</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5202">Bürsten- und Pinselmacher/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

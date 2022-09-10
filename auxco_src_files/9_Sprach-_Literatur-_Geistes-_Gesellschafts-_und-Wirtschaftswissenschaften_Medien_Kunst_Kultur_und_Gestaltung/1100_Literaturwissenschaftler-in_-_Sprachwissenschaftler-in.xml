@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1100</id>
+  <taetigkeit>Erforschung sprach- oder literaturwissenschaftlicher Fragestellungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Sprache und Sprachgeschichte mithilfe linguistischer Methoden untersuchen; Kultur untersuchen; literaturtheoretische Methoden entwickeln; Phonologie, Morphologie, Syntax, Bildung von Lautsprache etc. untersuchen; Konzepte für die Sprachvermittlung erstellen; Texte vergleichen; Forschungsprojekte entwickeln; Dokumente sammeln</taetigkeitsbeschreibung>
+  <bezeichnung>Literaturwissenschaftler/in / Sprachwissenschaftler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="91104">Berufe in Sprach- und Literaturwissenschaften (o.S.) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+      <dkz codenr="91104-111" refid="59484">Literaturwissenschaftler/in</dkz>
+      <dkz codenr="91104-112" refid="59622">Sprachwissenschaftler/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Mit welchem Sprachraum beschäftigen Sie sich in Ihrer Arbeit?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Mit welchem Sprachraum haben Sie sich in Ihrer Arbeit beschäftigt?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Germanistik</text>
+      <kldb schluessel="91114">Berufe in der Germanistik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+      <dkz codenr="91114-104" refid="58706">Germanist/in</dkz>
+      <dkz codenr="91114-105" refid="59287">Friesische/r Philologe/Philologin</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Anglistik/Amerikanistik</text>
+      <kldb schluessel="91124">Berufe in der Anglistik und Amerikanistik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+      <dkz codenr="91124-105" refid="58681">Anglist/in / Amerikanist/in</dkz>
+      <dkz codenr="91124-107" refid="59649">Wirtschaftsanglist/in</dkz>
+    </antwort>
+    <antwort position="3">
+      <text>Romanistik</text>
+      <kldb schluessel="91134">Berufe in der Romanistik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+      <dkz codenr="91134-114" refid="73688">Romanist/in - Portugiesisch</dkz>
+      <dkz codenr="91134-109" refid="59588">Romanist/in - Französisch</dkz>
+      <dkz codenr="91134-110" refid="59590">Romanist/in - Italienisch</dkz>
+      <dkz codenr="91134-111" refid="59592">Romanist/in - Rumänisch</dkz>
+      <dkz codenr="91134-112" refid="59594">Romanist/in - Spanisch</dkz>
+      <dkz codenr="91134-113" refid="59655">Wirtschaftsromanist/in</dkz>
+    </antwort>
+    <antwort position="4">
+      <text>Slawistik</text>
+      <kldb schluessel="91144">Berufe in der Slawistik und verwandte Bereiche - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+      <dkz codenr="91144-116" refid="59175">Baltist/in</dkz>
+      <dkz codenr="91144-115" refid="59165">Albanologe/Albanologin</dkz>
+      <dkz codenr="91144-117" refid="59283">Finnougrist/in</dkz>
+      <dkz codenr="91144-119" refid="59602">Slawist/in - Westslawistik</dkz>
+      <dkz codenr="91144-121" refid="59606">Slawist/in - Ostslawistik</dkz>
+      <dkz codenr="91144-122" refid="59608">Slawist/in - Südslawistik</dkz>
+      <dkz codenr="91144-125" refid="59657">Wirtschaftsrussist/in</dkz>
+    </antwort>
+    <antwort position="5">
+      <text>Arabistik und Orientalistik</text>
+      <kldb schluessel="91154">Berufe in der Arabistik und Orientalistik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+      <dkz codenr="91154-111" refid="59171">Arabist/in</dkz>
+      <dkz codenr="91154-110" refid="58746">Judaist/in</dkz>
+      <dkz codenr="91154-113" refid="59527">Orientalist/in</dkz>
+      <dkz codenr="91154-114" refid="59598">Semitist/in</dkz>
+      <dkz codenr="91154-115" refid="59637">Turkologe/Turkologin</dkz>
+      <dkz codenr="91154-116" refid="59651">Wirtschaftsarabist/in</dkz>
+      <dkz codenr="91154-112" refid="59432">Iranist/in</dkz>
+    </antwort>
+    <antwort position="6">
+      <text>Mit dem asiatischen Raum</text>
+      <kldb schluessel="91164">Berufe in der Sprach- und Literaturwissenschaft des asiatischen Raums - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+      <dkz codenr="91164-117" refid="58745">Japanologe/Japanologin</dkz>
+      <dkz codenr="91164-118" refid="58772">Sinologe/Sinologin</dkz>
+      <dkz codenr="91164-121" refid="59453">Koreanist/in</dkz>
+      <dkz codenr="91164-119" refid="59301">Indologe/Indologin</dkz>
+      <dkz codenr="91164-120" refid="59303">Südostasienwissenschaftler/in</dkz>
+      <dkz codenr="91164-122" refid="59635">Tibetologe/Tibetologin</dkz>
+      <dkz codenr="91164-123" refid="59653">Wirtschaftsjapanologe/-japanologin</dkz>
+      <dkz codenr="91164-124" refid="59659">Wirtschaftssinologe/-sinologin</dkz>
+      <dkz codenr="91164-125" refid="100524">Kaukasiologe/Kaukasiologin</dkz>
+    </antwort>
+    <antwort position="7">
+      <text>Altphilologie und/oder Neogriechisch</text>
+      <kldb schluessel="91174">Berufe in der Altphilologie - hoch klomplexe Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+      <dkz codenr="91174-104" refid="59243">Byzantinist/in</dkz>
+      <dkz codenr="91174-106" refid="59468">Latinist/in</dkz>
+      <dkz codenr="91174-107" refid="59521">Neogräzist/in</dkz>
+      <dkz codenr="91174-105" refid="59297">Gräzist/in</dkz>
+    </antwort>
+    <antwort position="8">
+      <text>Es handelt sich um einen anderen spezifischen Sprachraum (z.B. Skandinavistik)</text>
+      <kldb schluessel="91184">Berufe in Sprach- und Literaturwissenschaften (sonstige spazifische Tätigkeitsangaben) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+      <dkz codenr="91184-111" refid="58773">Skandinavist/in</dkz>
+      <dkz codenr="91184-112" refid="59161">Afrikanist/in</dkz>
+      <dkz codenr="91184-110" refid="58695">Computerlinguist/in</dkz>
+      <dkz codenr="91184-113" refid="59523">Niederlandist/in</dkz>
+      <dkz codenr="91184-114" refid="59529">Phonetiker/in</dkz>
+    </antwort>
+    <antwort position="9">
+      <text>Mehr als eine Antwort trifft zu</text>
+      <kldb schluessel="91104">Berufe in Sprach- und Literaturwissenschaften (o.S.) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, interpreters and other linguists</isco>
+      <dkz codenr="91104-111" refid="59484">Literaturwissenschaftler/in</dkz>
+      <dkz codenr="91104-112" refid="59622">Sprachwissenschaftler/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8028">Lehrer/in Sekundarstufe</abgrenzung>
+  <abgrenzung typ="hoch" refid="8037">Dozent/in / Professor/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="8039">Dozent/in- Erwachsenenbildung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1107">Regionalwissenschaftler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3214">Dolmetscher/in und Übersetzer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

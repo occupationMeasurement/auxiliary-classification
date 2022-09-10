@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1747</id>
+  <taetigkeit>Planung und Koordination des Vertriebs von Waren und Dienstleistungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kundenbeziehungen aufbauen, pflegen und strategisch weiterentwickeln; Angebote erstellen und Verkaufsgespräche führen; Verkaufsziele formulieren und der Geschäftsleitung vorlegen; Zahlungsfristen überprüfen; Finanzierungsvorschläge ausarbeiten; die Markt- und Umsatzentwicklung verfolgen; Umsatzpläne erstellen; Vertriebslogistik arrangieren; Produktpräsentationen und Marketingkonzepte entwickeln; Bedarfsanalysen bei Kunden erstellen und ggf. maßgeschneiderte technische Lösungen erarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Vertriebsspezialist/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61123">Vertrieb (außer IKT) - Spezialist</kldb>
+      <isco schluessel="3322">Vertriebsagenten</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Betriebswirtschaftslehre erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Betriebswirtschaftslehre erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="61124">Vertrieb (auser IKT) - Experte</kldb>
+      <isco schluessel="2433">Akademische und vergleichbare Fachkräfte im Bereich Vertrieb (Technik und Medizin, ohne Informations- und Kommunikationstechnologie)</isco>
+      <dkz codenr="61124-102" refid="15907">Vertriebsingenieur/in</dkz>
+      <dkz codenr="61124-101" refid="14991">Application-Engineer/-Manager/in</dkz>
+      <dkz codenr="61124-107" refid="27385">Auftragsleiter/in</dkz>
+      <dkz codenr="61124-100" refid="7509">Vertriebsberater/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="61123">Vertrieb (außer IKT) - Spezialist</kldb>
+      <isco schluessel="3322">Vertriebsagenten</isco>
+      <dkz codenr="61123-101" refid="5545">Vertriebstechniker/in</dkz>
+      <dkz codenr="61123-104" refid="6524">Fachkaufmann/-frau - Vertrieb</dkz>
+      <dkz codenr="61123-106" refid="6725">Handelsvertreter/in</dkz>
+      <dkz codenr="61123-107" refid="6727">Auslandsvertreter/in</dkz>
+      <dkz codenr="61123-108" refid="6728">Außendienstmitarbeiter/in</dkz>
+      <dkz codenr="61123-110" refid="6730">Fachberater/in - Vertrieb</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6003">Vertriebsassistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4049">IT-System-Kaufmann/ -frau</abgrenzung>
+  <abgrenzung typ="hoch" refid="1748">Handelsagent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3518">Account-Manager/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6011">Einkaufsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6079">Kundendienstberater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

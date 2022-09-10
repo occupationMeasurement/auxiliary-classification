@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4227</id>
+  <taetigkeit>Erforschung von astrophysikalischen Fragestellungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Ultraviolett-, Röntgen- oder Teilchenstrahlung messen; in Observatorien und Sternwarten ins All hinausschauen; Himmelskörper erforschen; Modelle über die Entstehung und chemische Zusammensetzung der Himmelskörper entwickeln; bei der Entwicklung von Satelliten und Teleskopen mitarbeiten</taetigkeitsbeschreibung>
+  <bezeichnung>Astrophysiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41484">Physik (s.s.T.) - Experte</kldb>
+      <isco schluessel="2111">Physicists and astronomers</isco>
+      <dkz codenr="41484-115" refid="59535">Astrophysiker/in, Astronom/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1793">Physiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1796">Laborleiter/in - Physik, Werk- und Baustoffprüfung</abgrenzung>
+  <abgrenzung typ="mittel" refid="4019">Physik-Ingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

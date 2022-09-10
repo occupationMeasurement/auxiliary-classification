@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1038</id>
+  <taetigkeit>Ausbildung von Pferden sowie die Teilnahme an Reit-Wettkämpfen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Pferde hinsichtlich ihrer Reiteignung beurteilen und ausbilden; Vorbereitung von Pferden für Wettbewerbe; Teilnahme an Wettbewerben; Training und Versorgung von Pferden</taetigkeitsbeschreibung>
+  <bezeichnung>Pferdewirt/in - Pferdereiten</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11322">Berufe in der Pferdewirtschaft - Reiten - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="5164">Pet groommers and animal care workers</isco>
+      <dkz codenr="11322-105" refid="77688">Pferdewirt/in - Spezialreitweisen</dkz>
+      <dkz codenr="11322-106" refid="77690">Pferdewirt/in - Klassische Reitausbildung</dkz>
+      <dkz codenr="11322-107" refid="77698">Pferdewirt/in - Pferderennen</dkz>
+      <dkz codenr="11322-101" refid="535">Bereiter/in</dkz>
+      <dkz codenr="11322-102" refid="8612">Pferdewirt/in - Reiten</dkz>
+      <dkz codenr="11322-103" refid="8614">Pferdewirt/in - Rennreiten</dkz>
+      <dkz codenr="11322-104" refid="8616">Pferdewirt/in - Trabrennfahren</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Beinhaltet ihre Tätigkeit die Ausbildung von Reitern?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Hat ihre Tätigkeit die Ausbildung von Reitern beinhaltet?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Nein</text>
+      <kldb schluessel="11322">Berufe in der Pferdewirtschaft - Reiten - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="5164">Pet groommers and animal care workers</isco>
+      <dkz codenr="11322-105" refid="77688">Pferdewirt/in - Spezialreitweisen</dkz>
+      <dkz codenr="11322-106" refid="77690">Pferdewirt/in - Klassische Reitausbildung</dkz>
+      <dkz codenr="11322-107" refid="77698">Pferdewirt/in - Pferderennen</dkz>
+      <dkz codenr="11322-101" refid="535">Bereiter/in</dkz>
+      <dkz codenr="11322-102" refid="8612">Pferdewirt/in - Reiten</dkz>
+      <dkz codenr="11322-103" refid="8614">Pferdewirt/in - Rennreiten</dkz>
+      <dkz codenr="11322-104" refid="8616">Pferdewirt/in - Trabrennfahren</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Ja</text>
+      <kldb schluessel="11322">Berufe in der Pferdewirtschaft - Reiten - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3423"> Fitness and Recreation Instructors and Programme Leaders</isco>
+      <dkz codenr="11393-108" refid="34999">Pferdewirtschaftsmeister/in - Pferdezucht und -haltung</dkz>
+      <dkz codenr="11393-101" refid="8609">Pferdewirtschaftsmeister/in - Galopprenntraining</dkz>
+      <dkz codenr="11393-102" refid="8610">Pferdewirtschaftsmeister/in - Trabrenntraining</dkz>
+      <dkz codenr="11393-103" refid="8613">Pferdewirtschaftsmeister/in - Reitausbildung</dkz>
+    </antwort>
+    <kldb schluessel="11393">Aufsichtskräfte - Pferdewirtschaft</kldb>
+    <isco schluessel="3423"> Fitness and Recreation Instructors and Programme Leaders</isco>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1035">Pferdepfleger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

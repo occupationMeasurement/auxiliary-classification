@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1057</id>
+  <taetigkeit>Gestaltung und Pflege von Grabstätten und Friedhofsanlagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Grabstätten gestalten und bepflanzen Grabstätten und Friedhofsanlagen pflegen; Kränze und anderen Grabschmuck herstellen; Pflanzen kultivieren und verkaufen; Kundenberatung durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Friedhofsgärtner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="12132">Berufe in der Friedhofsgärtnerei - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6113">Gardeners, horticultural and nursery growers</isco>
+      <dkz codenr="12132-100" refid="617">Gärtner/in - Friedhofsgärtnerei</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1064">Florist/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1054">Gärtner/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

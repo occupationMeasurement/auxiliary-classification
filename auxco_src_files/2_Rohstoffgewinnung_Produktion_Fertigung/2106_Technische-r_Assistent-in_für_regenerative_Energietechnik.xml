@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2106</id>
+  <taetigkeit>Montage und Wartung von Anlagen im Bereich der regenerativen Energietechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Windkraftanlagen und deren Komponenten montieren, warten, reparieren oder demontieren; Anlagen zur Erzeugung von Energie mittels nachwachsender Rohstoffe wie Biogasanlagen instandhalten; nötige Tests bei der Entwicklung und Optimierung von Anlagen zur Erzeugung regenerativer Energie durchführen; Klima-, Wetter- und Umweltdaten erfassen und für eine nachhaltige Energieerzeugung analysieren</taetigkeitsbeschreibung>
+  <bezeichnung>Technische/r Assistent/in für regenerative Energietechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26242">Berufe in der regenerativen Energietechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7412">Electrical mechanics and fitters</isco>
+      <dkz codenr="26242-102" refid="76529">Techn. Assistent/in - nachwachsende Rohstoffe</dkz>
+      <dkz codenr="26242-100" refid="33198">Techn. Assistent/in - regenerative Energietechnik/Energiem.</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1731">Solar- und Windenergietechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2104">Kraftwerker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2109">Betriebselektriker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

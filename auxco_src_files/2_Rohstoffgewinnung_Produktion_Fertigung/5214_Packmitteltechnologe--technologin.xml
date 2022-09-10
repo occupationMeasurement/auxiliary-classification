@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5214</id>
+  <taetigkeit>Herstellung von Verpackungsmitteln aus Papier</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Verpackungsmittel wie Well- und Vollpappekartonagen, Faltschachteln, Hülsen oder Briefumschläge und Versandtaschen herstellen; Papiererzeugnisse kleben, falzen, heften, kuvertieren, verpacken und palettieren, beschichten, binden, prägen und perforieren; nach Kundenwunsch Verpackungsmuster anfertigen; automatische Maschinen und Anlagen einrichten und bedienen; den Herstellungsprozess überwachen; Pressmaschinen zur Formung der Papiererzeugnisse bedienen; Verpackungsmaschinen warten</taetigkeitsbeschreibung>
+  <bezeichnung>Packmitteltechnologe/-technologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23122">Papierverarb,Verpackungstechn.-Fachkraft</kldb>
+      <isco schluessel="8143">Paper products machine operators</isco>
+      <dkz codenr="23122-101" refid="1270">Verpackungsmittelmechaniker/in</dkz>
+      <dkz codenr="23122-102" refid="1273">Kartonagenmacher/in</dkz>
+      <dkz codenr="23122-109" refid="1332">Papierverarbeiter/in</dkz>
+      <dkz codenr="23122-114" refid="35267">Maschinen- und Anlagenführer/in - Druckweiter-,Papierverarb.</dkz>
+      <dkz codenr="23122-115" refid="90589">Packmitteltechnologe/-technologin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5210">Papierverarbeitungshelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5216">Mustermacher/in - Verpackungsmittelherstellung</abgrenzung>
+  <abgrenzung typ="mittel" refid="5211">Papiertechnologe/-technologin</abgrenzung>
+  <abgrenzung typ="mittel" refid="5237">Buchbinder/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3543</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der Leitung einer öffentlichen Verwaltungseinheit</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. ein Amt, eine Dienststelle oder Verwaltungseinrichtung leiten; die Verwaltungsgeschäfte führen und überwachen; Aktivitäten mit anderen leitenden Verwaltungsbediensteten und Beamten koordinieren; nationale, staatliche, regionale oder lokale Regierungen und Gesetzgeber in politischen Fragen beraten; Richtlinien für die Personalpolitik vorgeben sowie Personalentscheidungen treffen; das Amt, die Verwaltungseinrichtung oder die Bundesrepublik Deutschland nach außen vertreten</taetigkeitsbeschreibung>
+  <bezeichnung>Behördenleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73294">Führung - Verwaltung</kldb>
+      <isco schluessel="1112">Senior government officials</isco>
+      <dkz codenr="73294-100" refid="90625">Abteilungspräsident/in</dkz>
+      <dkz codenr="73294-104" refid="90666">Dienststellenleiter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3210">Top-Manager/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3203">Verbandsgeschäftsführer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3599">Personalleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

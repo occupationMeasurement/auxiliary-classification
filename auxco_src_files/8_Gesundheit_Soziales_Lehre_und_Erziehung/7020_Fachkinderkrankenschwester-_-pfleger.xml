@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7020</id>
+  <taetigkeit>Betreuung und Pflege von minderjährigen Patienten sowie die Unterstützung von Ärzten in Krankenhäusern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Gesundheitszustand von Säuglingen, Kindern und Jugendlichen überwachen; bei der Narkose oder Kathetisierungen assistieren; Medikamente verabreichen; Wiederbelebungsmaßnahmen oder künstliche Beatmung vornehmen; erkrankte Kinder und Jugendliche sowie deren Eltern psychosozial betreuen; Austausch mit ärtzlichen und ggf. therapeutischen Fachkräften</taetigkeitsbeschreibung>
+  <bezeichnung>Fachkinderkrankenschwester/ -pfleger</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81323">Berufe in der Fachkinderkrankenpflege - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3221">Nursing associate professionals</isco>
+      <dkz codenr="81323-112" refid="69690">Fachkinderkrankenschwester/-pfleger - Palliativ-/Hospizpfl.</dkz>
+      <dkz codenr="81323-111" refid="58797">Fachkinderkrankenschwester/-pfleger - Operations-/Endoskop.</dkz>
+      <dkz codenr="81323-110" refid="58795">Fachkinderkrankenschwester/-pfleger - Rehabil./Langzeitpfl.</dkz>
+      <dkz codenr="81323-100" refid="8811">Fachkinderkrankenschwester/-pfleger - Intensivpfl./Anästhes.</dkz>
+      <dkz codenr="81323-107" refid="14579">Fachkinderkrankenschwester/-pfleger - Onkologie</dkz>
+      <dkz codenr="81323-109" refid="14682">Fachkinderkrankenschwester/-pfleger - Nephrologie</dkz>
+      <dkz codenr="81323-103" refid="8821">Fachkinderkrankenschwester/-pfleger - Psychiatrie</dkz>
+      <dkz codenr="81323-105" refid="8827">Fachkinderkrankenschwester/-pfleger - Operationsdienst</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7017">Abmulante/r Pflegediensthelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7018">Krankenpflegehelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7104">Krankenschwester/-pfleger</abgrenzung>
+  <abgrenzung typ="mittel" refid="1827">Stationsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

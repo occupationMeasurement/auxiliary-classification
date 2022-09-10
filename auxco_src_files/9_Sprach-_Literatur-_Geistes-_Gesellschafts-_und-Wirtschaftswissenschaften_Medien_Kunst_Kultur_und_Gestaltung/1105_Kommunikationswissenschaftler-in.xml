@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1105</id>
+  <taetigkeit>Erforschung menschlicher Kommunikationsprozesse für Rückschlüsse auf die soziale Welt</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kommunikationsprozesse erforschen und analysieren sowie ihre Auswirkungen beschreiben; kulturpolitische Medienlandschaft analysieren; Kommunikationsprobleme identifizieren und vermittelnd tätig werden; wissenschaftliche Berichte erstellen; Theorien entwickeln</taetigkeitsbeschreibung>
+  <bezeichnung>Kommunikationswissenschaftler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="91244">Berufe in Medien- und Theaterwissenschaft - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2632">Sociologists, anthropologists and related professionals</isco>
+      <dkz codenr="91244-111" refid="58750">Kommunikationswissenschaftler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8037">Dozent/in / Professor/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1110">Soziologe/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

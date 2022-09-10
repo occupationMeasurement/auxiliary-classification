@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3533</id>
+  <taetigkeit>Leitung von Gerichtsverhandlungen sowie die Ermittlung und Verkündigung richterlicher Urteile</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Entscheidungen vor Gericht treffen, Urteile festsetzen und schriftlich verkünden; Fallakten studieren und vorliegende Fakten analysieren; Beweisaufnahmen durchführen; Maßnahmen zur Beweissicherung anordnen; Beweisergebnisse abwägen und würdigen; rechtliche Fragen erforschen und Gutachten über diese Fragen erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Richter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73154">Richter/innen- Experte</kldb>
+      <isco schluessel="2612">Judges</isco>
+      <dkz codenr="73154-100" refid="14069">Richter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3541">Justizverwaltungsbeamter/-beamtin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

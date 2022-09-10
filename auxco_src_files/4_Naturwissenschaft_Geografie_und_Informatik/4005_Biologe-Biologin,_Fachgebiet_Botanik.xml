@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4005</id>
+  <taetigkeit>Erforschung von Struktur, Zellen und Stoffwechselprozessen von Pflanzen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Pflanzenarten und ihre Verbreitung untersuchen und klassifizieren; pflanzliche Zellen und Gewebe analysieren; Experimente mit Pflanzen durchführen und auswerten; botanische Sammlungen pflegen; Fachtexte publizieren</taetigkeitsbeschreibung>
+  <bezeichnung>Biologe/Biologin, Fachgebiet Botanik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41244">Biologie (Botanik) - Experte</kldb>
+      <isco schluessel="2131">Biologen, Botaniker, Zoologen und verwandte Berufe</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1789">Biologisch-Technische/r Laborleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9204">Natur- und Landschaftspfleger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1056">Gartenbauingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

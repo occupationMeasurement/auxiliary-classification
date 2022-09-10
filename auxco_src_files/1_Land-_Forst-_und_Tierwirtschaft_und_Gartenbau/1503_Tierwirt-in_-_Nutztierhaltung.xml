@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1503</id>
+  <taetigkeit>Haltung und Zucht von Nutztieren, insbesondere von Rindern, Schafen und Schweinen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Weideland, Futter- und Wasserbestände bereitstellen und überwachen; Rinder, Schafe und Schweine und andere Nutztiere versorgen und füttern; Tiere treiben oder transportieren; Ställe oder Käfige instand halten; Gesundheit der Tiere überwachen; Aufgaben in Zucht und Reproduktion übernehmen; technische Geräte, bspw. Melkgeräte, bedienen und warten; Tiere bzw. Tierprodukte vermarkten</taetigkeitsbeschreibung>
+  <bezeichnung>Tierwirt/in - Nutztierhaltung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11212">Berufe in der Nutztierhaltung (außer Geflügelhaltung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6121">Livestock and dairy producers</isco>
+      <dkz codenr="11212-103" refid="307">Tierwirt/in - Rinderhaltung</dkz>
+      <dkz codenr="11212-104" refid="315">Tierwirt/in - Schäferei</dkz>
+      <dkz codenr="11212-106" refid="357">Tierwirt/in - Schweinehaltung</dkz>
+      <dkz codenr="11212-109" refid="520">Melker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1502">Helfer/in - Nutztierhaltung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1012">Landwirt/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1047">Tierpfleger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

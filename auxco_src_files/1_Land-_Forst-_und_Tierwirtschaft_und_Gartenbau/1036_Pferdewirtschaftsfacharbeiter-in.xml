@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1036</id>
+  <taetigkeit>Haltung von Pferden mit Fokus auf die Versorgung der Tiere</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Stallarbeiten ausführen; Koppelauslauf schaffen und Zäune kontrollieren; Pferdetransporte durchführen; Futtermittel beschaffen</taetigkeitsbeschreibung>
+  <bezeichnung>Pferdewirtschaftsfacharbeiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11302">Berufe in der Pferdewirtschaft (o.S.) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6121">Livestock and dairy producers</isco>
+      <dkz codenr="11302-103" refid="13661">Pferdewirt/in (mit Schwerpunkten)</dkz>
+      <dkz codenr="11302-104" refid="77691">Pferdewirt/in - Pferdehaltung und Service</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1035">Pferdepfleger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

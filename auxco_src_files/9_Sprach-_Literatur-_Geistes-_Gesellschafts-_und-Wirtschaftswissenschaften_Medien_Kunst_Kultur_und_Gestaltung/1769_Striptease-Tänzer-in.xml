@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1769</id>
+  <taetigkeit>Darbietung von erotischem Tanz professioneller Art</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden in Nachtclubs unterhalten; Tanzschritte und Körperbewegungen einüben; für Auftritte trainieren; den eigenen Körper zurechtmachen, pflegen und gestalten</taetigkeitsbeschreibung>
+  <bezeichnung>Striptease-Tänzer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94252">Berufe für personenbezogene Dienstleistungen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="2653">Dancers and choreographers</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1212">Striptease-Tänzer/in / Prostituierte/r</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5014</id>
+  <taetigkeit>Planung und Koordination der Abfertigung von Flugzeugen am Flughafen sowie die Unterstützung der Piloten bei der Flugplanung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Flugzeuge mit Treibstoff, Lebensmitteln und Druckluft versorgen lassen; das Be- und Entladen von Flugzeugen mit Frachtgütern oder Reisegepäck koordninieren; Gepäck wiegen und sortieren lassen; Passagierlisten führen; das Boarding der Passagiere einleiten und überwachen; Flugrouten festlegen; Flugplan für die Flugsicherung vorbereiten</taetigkeitsbeschreibung>
+  <bezeichnung>Ramp-Agent</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51532">Überwachung Luftverkehrsbetr.-Fachkraft</kldb>
+      <isco schluessel="4323">Transport clerks</isco>
+    </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Ist ein wesentlicher Bestandteil ihrer Arbeit, andere Arbeitnehmer zu beaufsichtigen oder als Führungskraft strategische Entscheidungen für das Unternehmen zu treffen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War ein wesentlicher Bestandteil ihrer Arbeit, andere Arbeitnehmer zu beaufsichtigen oder als Führungskraft strategische Entscheidungen für das Unternehmen zu treffen?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="keine Führungsverantwortung">
+      <text>weder Führungs- noch Aufsichtstätigkeit</text>
+      <kldb schluessel="51532">Überwachung Luftverkehrsbetr.-Fachkraft</kldb>
+      <isco schluessel="4323">Transport clerks</isco>
+      <dkz codenr="51532-102" refid="15354">Ramp-Agent/in</dkz>
+      <dkz codenr="51532-101" refid="7357">Flugdienstberater/in</dkz>
+      <dkz codenr="51532-103" refid="100789">Flugdatenbearbeiter/in</dkz>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Aufsichtstätigkeit mit Verantwortung für untergeordnetes Personal</text>
+      <kldb schluessel="51593">Aufsichtskräfte - Überwachung und Steuerung des Verkehrsbetriebs</kldb>
+      <isco schluessel="4323">Transport clerks</isco>
+    </antwort>
+    <antwort position="3" aufsicht="Führungskraft">
+      <text>Führungstätigkeit mit strategischer Entscheidungsbefugnis (z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen, oder zur Einstellung und Entlassung von Personal)</text>
+      <kldb schluessel="51594">Führungskräfte - Überwachung und Steuerung des Verkehrsbetriebs</kldb>
+      <isco schluessel="1324">Supply, distribution and related managers</isco>
+      <dkz codenr="51594-101" refid="7352">Flugbetriebsleiter/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5015">Fluglotse/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5101">Flugzeugabfertiger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5102">Technische/r Flugzeugprüfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1744">Flugsicherungstechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9900">Luftverkehrskaufmann/-frau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2101</id>
+  <taetigkeit>Fertigung, Montage und Instandhaltung von Elektromotoren, Generatoren, Aktuatoren und anderen elektrischen Maschinen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Wicklungen für beispielsweise Elektromotoren mittels selbst eingerichteten Fertigungsmaschinen herstellen; elektrische Maschinen oder Schaltschränke montieren; Mess-, Steuer- und Regelungssysteme montieren und verdrahten; Antriebssysteme für z.B. Förderbänder oder Toranlagen nach Vorgaben bauen</taetigkeitsbeschreibung>
+  <bezeichnung>Elektromaschinenbauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26222">Berufe in der Elektromaschinentechnik - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7412">Electrical mechanics and fitters</isco>
+      <dkz codenr="26222-101" refid="2838">Elektromaschinenbauer/in</dkz>
+      <dkz codenr="26222-102" refid="2844">Elektromaschinenmonteur/in</dkz>
+      <dkz codenr="26222-106" refid="15620">Elektroniker/in - Maschinen und Antriebstechnik</dkz>
+      <dkz codenr="26222-108" refid="35099">Elektrowickler/in</dkz>
+      <dkz codenr="26222-109" refid="35104">Motorenwickler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2102">Elektromaschinenbauer/in - Optimierung</abgrenzung>
+  <abgrenzung typ="hoch" refid="2109">Betriebselektriker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2059">Maschinenschlosser/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2094">Mechatroniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

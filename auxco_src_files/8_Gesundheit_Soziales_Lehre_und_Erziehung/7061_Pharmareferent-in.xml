@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7061</id>
+  <taetigkeit>Verkauf von pharmazeutischen Produkten an Ärzte, Apotheker und Heilpraktiker sowie Beratungsleistungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kontaktaufnahme und Terminvereinbarung mit Kunden; Verkaufsgespräche führen; Arzneimittel vorstellen und deren Wirkungsweise erklären; Arzneimittelmuster zur Verfügung stellen; Werbematerialien hinterlassen; Bestellungen für Arzneimittel entgegennehmen; Besuchsprotokolle anfertigen</taetigkeitsbeschreibung>
+  <bezeichnung>Pharmareferent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81883">Berufe in der Pharmazie (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2433">Technical and medical sales professionals (excluding ICT)</isco>
+      <dkz codenr="81883-100" refid="6733">Pharmareferent/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7057">Apotheker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7121">Apothekenleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

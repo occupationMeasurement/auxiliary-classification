@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4030</id>
+  <taetigkeit>Erforschung von Fragestellungen der Geographie und ihrer Teilgebiete</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Verbreitung von Populationen erforschen; nachhaltige Veränderungen an Flora und Fauna erfassen; Pläne für die räumliche Entwicklung der Umwelt erarbeiten; Systemzusammenhänge zwischen Mensch und Natur analysieren; Beratungen durchführen; Daten erheben und bewerten</taetigkeitsbeschreibung>
+  <bezeichnung>Geograph/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="42134">Geografie - Experte</kldb>
+      <isco schluessel="2632">Sociologists, anthropologists and related professionals</isco>
+      <dkz codenr="42134-102" refid="58701">Geograf/in</dkz>
+      <dkz codenr="42134-103" refid="59647">Wirtschaftsgeograf/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4029">Geologe/Geologin</abgrenzung>
+  <abgrenzung typ="hoch" refid="5279">Ingenieur/in - Stadt- und Regionalplanung</abgrenzung>
+  <abgrenzung typ="mittel" refid="4028">Geotechnikingenieur/in - Bau</abgrenzung>
+  <abgrenzung typ="mittel" refid="4042">Geoinformatiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4055</id>
+  <taetigkeit>Entwicklung, Installation und Instandhaltung von Datenbanksystemen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Datenbanken bedarfsgerecht konzipieren, installieren und testen; Störungen wahrnehmen und deren Risikopotenzial analysieren; Datensicherungs- und Backup-Konzepte erarbeiten; Data-Warehouse-Systeme entwickeln; Datenbankzugriffe analysieren; Changemanagement von Datenbanken betreiben</taetigkeitsbeschreibung>
+  <bezeichnung>Datenbankentwickler/in /-administrator/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43353">Datenbankentwick.,-administr.-Spezialist</kldb>
+      <isco schluessel="2521">Database designers and administrators</isco>
+      <dkz codenr="43353-101" refid="14993">Data-Warehouse-Analyst/in</dkz>
+      <dkz codenr="43353-102" refid="15267">Wissensmanagementsystementwickler/in</dkz>
+      <dkz codenr="43353-103" refid="15288">Datenbankadministrator/in</dkz>
+      <dkz codenr="43353-104" refid="15294">Datenbankentwickler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4062">Organisationsprogrammierer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4252">IT-Projektleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4038</id>
+  <taetigkeit>Branchenübergreifende Entwicklung, Programmierung und Modifizierung von Hardware, Software und kompletten IT-Systemen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Programmiersprache einsetzen; Entwicklung neuer informationstechnischer Konzepte und Systeme; Beratung von Anwendern; Betriebs- und Informationssysteme installieren; Computer- und Softwaresysteme erweitern und modifizieren; anwendungsgerechte und ergonomische Bedienoberflächen entwickeln; Problemanalysen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Informatiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43103">Informatik (o.S.) - Spezialist</kldb>
+      <isco schluessel="2511">Systems analysts</isco>
+      <dkz codenr="43102-114" refid="67612">Assistent/in - Informatik (allgemeine Informatik)</dkz>
+      <dkz codenr="43102-102" refid="7817">Fachinformatiker/in - Systemintegration</dkz>
+      <dkz codenr="43102-107" refid="7833">Fachberater/in - Integrierte Systeme</dkz>
+      <dkz codenr="43103-104" refid="15324">Informatiker/in (Weiterbildung)</dkz>
+      <dkz codenr="43104-121" refid="58711">Informatiker/in (Hochschule)</dkz>
+    </default>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>In welchem Bereich sind Sie vorwiegend tätig?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>In welchem Bereich waren Sie vorwiegend tätig?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Konzeption von speziellen IT-Systemen für verschiedene Aufgaben und Anwenderbedürfnisse</text>
+      <isco schluessel="2511">Systems analysts</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Technischer Support für Problemdiagnosen und Fehlerbehebungen</text>
+      <isco schluessel="3512">Information and communications technology user support technicians</isco>
+    </antwort>
+    <antwort position="3">
+      <text>Errichtung und Verwaltung von Computernetzwerken</text>
+      <isco schluessel="3513">Computer network and systems technicians</isco>
+    </antwort>
+    <antwort position="4">
+      <text>Wartung und Administration von Webseiten</text>
+      <isco schluessel="3514">Web technicians</isco>
+    </antwort>
+    <antwort position="5">
+      <text>Entwurf und Entwicklung von Computersoftware</text>
+      <isco schluessel="2512">Software developers</isco>
+    </antwort>
+    <antwort position="6">
+      <text>Schreiben und Wartung von Programmcode</text>
+      <isco schluessel="2514">Application Programmers</isco>
+    </antwort>
+    <antwort position="7">
+      <text>Entwicklung, Kontrolle und Wartung von Datenbanken</text>
+      <isco schluessel="2521">Database Designers and Administrators</isco>
+    </antwort>
+    <antwort position="8">
+      <text>Wartung und Verwaltung von informationstechnischen Systemen</text>
+      <isco schluessel="2522">Systems Administrators</isco>
+    </antwort>
+    <antwort position="9">
+      <text>Erforschung und Weiterentwicklung von Netzwerkarchitekturen zur Leistungsoptimierung</text>
+      <isco schluessel="2523">Computer Network Professionals</isco>
+    </antwort>
+    <antwort position="10">
+      <text>Oder etwas anderes?</text>
+      <isco schluessel="????">Freitextantwort</isco>
+    </antwort>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="43102">Informatik (o.S.) - Fachkraft</kldb>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine vertiefende berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="43103">Informatik (o.S.) - Spezialist</kldb>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium in Informatik, Medieninformatik oder ein vergleichbares Studium</text>
+      <kldb schluessel="43103">Informatik (o.S.) - Spezialist</kldb>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium in Informatik, Medieninformatik oder ein vergleichbares Studium</text>
+      <kldb schluessel="43104">Informatik (o.S.) - Experte</kldb>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1770">ERP-Anwendungsentwickler</abgrenzung>
+  <abgrenzung typ="mittel" refid="4061">Softwareentwickler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4046">IT-Systemanalytiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4250">Leiter/in - Informatik und Informationsmanagement</abgrenzung>
+  <abgrenzung typ="mittel" refid="4062">Organisationsprogrammierer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4047">Techniker/in im IT-Kundensupport</abgrenzung>
+  <abgrenzung typ="mittel" refid="4054">System-/ Netzwerkadministrator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4035">Betriebsinformatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4037">Technische/r Informatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4043">Medieninformatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4040">Bioinformatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4041">Medizininformatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4042">Geoinformatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4048">IT-Berater/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1772">IT-Netzwerktechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4052">IT-Qualitätssicherer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4053">EDV Operator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4055">Datenbankentwickler/in /administrator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4056">Webadministrator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1771">IT-Sicherheitstechniker/in</abgrenzung>
+  <notes>
+    <note date="2022-09-09">halboffene Folgefrage macht technische Schwierigkeiten und ist nicht umgesetzt</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

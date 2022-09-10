@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1775</id>
+  <taetigkeit>Unterstützung von Bauingenieuren und Architekten bei der Planung, Durchführung und Abnahme von Bauleistungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Material einkaufen und prüfen; technisches Wissen über Bau und bautechnische Grundsätze und Praktiken zur Identifizierung und Lösung entstehender Probleme anwenden; Boden- und Materialproben nehmen und untersuchen; Kontakt mit externen Unternehmen halten; Bauvorhaben und Baukonstruktion entwerfen, planen und berechnen; Baustellen organisieren und koordinieren; die Einhaltung der Termine, Material- und Arbeitsstandards sowie Sicherheitsvorschriften überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Bautechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="31102">Berufe in der Bauplanung und -überwachung (ohne Spezialisierung) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="31102-100" refid="5617">Techn. Assistent/in - Bautechnik</dkz>
+      <dkz codenr="31103-114" refid="30444">Beamt(er/in) - Gehobener bautechnischer Dienst</dkz>
+      <dkz codenr="31103-103" refid="5616">Techniker/in - Bautechnik (ohne Schwerpunkt)</dkz>
+      <dkz codenr="31103-105" refid="5629">Techniker/in - Bautechnik (Baubetrieb)</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" follow-up="FALSE" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="31102">Bauplanung,-überwachung (oS)-Fachkraft</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="31102-100" refid="5617">Techn. Assistent/in - Bautechnik</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="31103">Bauplanung,-überwachung (oS)-Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="31103-114" refid="30444">Beamt(er/in) - Gehobener bautechnischer Dienst</dkz>
+      <dkz codenr="31103-103" refid="5616">Techniker/in - Bautechnik (ohne Schwerpunkt)</dkz>
+      <dkz codenr="31103-105" refid="5629">Techniker/in - Bautechnik (Baubetrieb)</dkz>
+    </antwort>
+    <fragetext typ="spezialisierung">
+      <folgefrageAktuellerBeruf>Arbeiten Sie hauptsächlich an Projekten im Hochbau, im Tiefbau oder an Projekten im Hoch- und Tiefbau gleichermaßen?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie hauptsächlich an Projekten im Hochbau, im Tiefbau oder an Projekten im Hoch- und Tiefbau gleichermaßen gearbeitet?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>im Hochbau (d.h. Errichtung von Gebäuden)</text>
+      <kldb schluessel="32103">Berufe im Hochbau (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="32103-100" refid="5651">Techniker/in - Bautechnik (Hochbau)</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>im Tiefbau (d.h. Bauarbeiten an Rohrleitungen, Tunneln, Straßen, Brücken, Kanälen, Gleisen usw.)</text>
+      <kldb schluessel="32203">Berufe im Tiefbau (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="32203-100" refid="5668">Techniker/in - Bautechnik (Tiefbau)</dkz>
+    </antwort>
+    <antwort position="3">
+      <text>im Hoch- und Tiefbau gleichermaßen</text>
+      <kldb schluessel="31103">Bauplanung,-überwachung (oS)-Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="31103-114" refid="30444">Beamt(er/in) - Gehobener bautechnischer Dienst</dkz>
+      <dkz codenr="31103-103" refid="5616">Techniker/in - Bautechnik (ohne Schwerpunkt)</dkz>
+      <dkz codenr="31103-105" refid="5629">Techniker/in - Bautechnik (Baubetrieb)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5246">Bauingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1778">Hochbauingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1779">Tiefbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5351">Statiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5281">Baukontrolleur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5257">Leiter/in - Bauplanung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

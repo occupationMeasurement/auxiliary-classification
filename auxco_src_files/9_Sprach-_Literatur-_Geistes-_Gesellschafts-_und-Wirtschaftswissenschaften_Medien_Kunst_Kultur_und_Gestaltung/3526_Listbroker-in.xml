@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3526</id>
+  <taetigkeit>Recherche nach Privat- und Firmenadressen für den Verkauf oder die Vermietung an Unternehmen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Adressen interessanter Zielgruppen für ein Produkt bzw. ein Unternehmen recherchieren, zusammenstellen und aktualisieren; Adressen an Unternehmen verkaufen oder vermieten; elektronische Adressverzeichnisse anlegen; über die Preise und Nutzungsrechte von Adressen mit Kunden verhandeln; Werbemittel über Produkte per Post oder E-Mail versenden</taetigkeitsbeschreibung>
+  <bezeichnung>Listbroker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92384">Verlags-, Medienkaufleute (ssT)- Experte</kldb>
+      <isco schluessel="3339">Business services agents not elsewhere classified</isco>
+      <dkz codenr="92384-101" refid="14998">Listbroker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3509">Art-Buyer</abgrenzung>
+  <abgrenzung typ="mittel" refid="3505">Literaturagent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1019</id>
+  <taetigkeit>Tätigkeiten im gehobenen technischen Dienst bei einer Landwirtschaftsbehörde</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Qualitätsbewertungen durchführen; Umsetzung von Förderprogrammen</taetigkeitsbeschreibung>
+  <bezeichnung>Beamter/ Beamtin - Agrarverwaltung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11103">Berufe in der Landwirtschaft (o.S.) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2132">Farming, forestry and fisheries advisers</isco>
+      <dkz codenr="11103-101" refid="14101">Beamt(er/in) - Agrarverwaltung (geh. techn. Dienst)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1014">Anbauberater/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1018">Landwirtschaftlicher Gutachter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

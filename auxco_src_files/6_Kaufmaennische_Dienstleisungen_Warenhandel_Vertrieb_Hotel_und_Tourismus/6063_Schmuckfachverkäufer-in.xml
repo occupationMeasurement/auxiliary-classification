@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6063</id>
+  <taetigkeit>Verkauf von Schmuck und Uhren im Einzelhandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kundenwünsche ermitteln; Schmuck und Silberwaren präsentieren; Produkte für Kunden zusammenstellen; Rechnungen erstellen; Zahlungsmittel entgegennehmen; den Verkaufsraum ansprechend dekorieren; Reservierungen und Reklamationen entgegennehmen; Ware umtauschen; bei der Lagerhaltung, bei Produktinventarisierungen und bei Bestandsaufnahmen helfen</taetigkeitsbeschreibung>
+  <bezeichnung>Schmuckfachverkäufer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="62222">Verkauf (Schmuck, Uhren) - Fachkraft</kldb>
+      <isco schluessel="5223">Shop sales assistants</isco>
+      <dkz codenr="62222-100" refid="6576">Kaufmann/-frau - Einzelhandel (Uhren/Schmuck/Gold-/Silberw.)</dkz>
+      <dkz codenr="62222-101" refid="6654">Fachverkäufer/in - Schmuck/Uhren/Gold-/Silberw.</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

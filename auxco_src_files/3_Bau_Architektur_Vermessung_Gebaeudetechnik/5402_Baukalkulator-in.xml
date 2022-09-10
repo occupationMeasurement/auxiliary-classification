@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5402</id>
+  <taetigkeit>Kalkulation und Dokumentation von Kosten in Bauprojekten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kalkulationen anhand von Bauplänen, Entwürfen und statischen Berechnungen erstellen; Material-, Lohn- und Gerätekosten berechnen; finanzielle Aspekte bei der Aushandlung von Verträgen bearbeiten; Leistungen von Lieferanten und Subunternehmen dokumentieren; relevante Bestimmungen des Bau- und Architektenrechts anwenden</taetigkeitsbeschreibung>
+  <bezeichnung>Baukalkulator/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="31173">Berufe in der Bauabrechnung und -kalkulation - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="31173">Berufe in der Bauabrechnung und -kalkulation - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="31173">Berufe in der Bauabrechnung und -kalkulation - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="31173-102" refid="7963">Fachwirt/in - Bau</dkz>
+      <dkz codenr="31173-107" refid="27726">Bau- und Projektkaufmann/-frau</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="31173">Berufe in der Bauabrechnung und -kalkulation - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2149">Engineering Professionals Not Elsewhere Classified</isco>
+      <dkz codenr="31174-101" refid="59189">Betriebswirt/in (Hochschule) - Bauwirtschaft</dkz>
+      <dkz codenr="31173-100" refid="7673">Baukalkulator/in</dkz>
+      <dkz codenr="31173-101" refid="7675">Bauabrechner/in</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="31174">Berufe in der Bauabrechnung und -kalkulation - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2149">Engineering Professionals Not Elsewhere Classified</isco>
+      <dkz codenr="31174-101" refid="59189">Betriebswirt/in (Hochschule) - Bauwirtschaft</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5246">Bauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5254">Bausachverständiger/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

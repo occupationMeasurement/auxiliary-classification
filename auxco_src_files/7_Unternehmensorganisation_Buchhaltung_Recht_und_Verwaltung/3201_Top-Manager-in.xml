@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3201</id>
+  <taetigkeit>Leitung eines großen Unternehmens mit Unterstützung von untergeordneten Führungskräften</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Ziele und Strategien des Unternehmens festlegen und überprüfen; untergeordnete Führungskräfte koordinieren und überwachen; die Entwicklung des Unternehmens verantworten und an Aufsichtsgremien berichten; bereichsübergreifende Aktivitäten des Unternehmens planen und koordinieren; Beratungen mit leitenden Mitarbeitern durchführen; leitende Mitarbeiter auswählen</taetigkeitsbeschreibung>
+  <bezeichnung>Top-Manager/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71104">Geschäftsführer/innen und Vorstände - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="1120">Managing directors and chief executives</isco>
+      <dkz codenr="71104-100" refid="7469">Geschäftsführer/in</dkz>
+      <dkz codenr="71104-101" refid="29234">Manager/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2155">Leiter/in - Technische Produktionssteuerung und Qualitätssicherung</abgrenzung>
+  <abgrenzung typ="hoch" refid="3203">Verbandsgeschäftsführer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3210">Regionalleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

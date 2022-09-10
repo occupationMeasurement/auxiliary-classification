@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3507</id>
+  <taetigkeit>Betreuung von Anzeigenkunden sowie Verkauf von Anzeigeflächen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Anzeigeflächen für Print- und elektronische Medien verkaufen; das Neukundengeschäft ausbauen; über spezifische Werbewirkungen, die Verwendung von gestalterischen Elementen sowie über Größe und Preise der Anzeigen informieren; an der Gestaltung von Anzeigen mitwirken; Marketingmaßnahmen planen und durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Anzeigenverkäufer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92382">Verlags-, Medienkaufleute (ssT)- Fachkraft</kldb>
+      <isco schluessel="4419">Clerical support workers not elsewhere classified</isco>
+      <dkz codenr="92382-101" refid="7070">Anzeigenverkäufer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3506">Medienfachwirt/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3519">Medienkaufmann/-frau - Digital und Print</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

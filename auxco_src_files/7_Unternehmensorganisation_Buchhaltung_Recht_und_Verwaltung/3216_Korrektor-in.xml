@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3216</id>
+  <taetigkeit>Überprüfung und Korrektur von Texten vor deren Publikation</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. publikationsreife Texte lesen, korrigieren und zum Druck nach vorgegebenen Regeln markieren; orthografische, grammatikalische und typografischer Fehler korrigieren; in Zusammenarbeit mit der Redaktionsleitung einheitliche Schreibweisen festlegen</taetigkeitsbeschreibung>
+  <bezeichnung>Korrektor/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71442">Kodierer/innen, Korrekturleser/innen und verwandte Bürokräfte - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="4413">Coding, proof-reading and related clerks</isco>
+      <dkz codenr="71442-100" refid="1358">Korrektor/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Ist Ihre Tätigkeit auf die Überprüfung von Übersetzungen fremdsprachlicher Texte spezialisiert?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War Ihre Tätigkeit auf die Überprüfung von Übersetzungen fremdsprachlicher Texte spezialisiert?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Nein</text>
+      <kldb schluessel="71442">Kodierer/innen, Korrekturleser/innen und verwandte Bürokräfte - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="4413">Coding, proof-reading and related clerks</isco>
+      <dkz codenr="71442-100" refid="1358">Korrektor/in</dkz>
+    </antwort>
+    <antwort position="2">
+      <text>Ja</text>
+      <kldb schluessel="71412">Fremdsprachensekretäre/-sekretärinnen und Fremdsprachenkorrespondenten/-korrespondentinnen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="2643">Translators, Interpreters and Other Linguists</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3215">Steno- und Phonotypist/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3520">Verlagslektor/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

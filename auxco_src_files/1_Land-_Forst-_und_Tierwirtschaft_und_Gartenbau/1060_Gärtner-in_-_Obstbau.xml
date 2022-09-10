@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1060</id>
+  <taetigkeit>Anbau, Pflege und Ernte von Obst und Strauchfrüchten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Obstbäume und Sträucher anbauen; Früchte ernten, lagern, verpacken und kennzeichnen; Bäume und Sträucher schneiden</taetigkeitsbeschreibung>
+  <bezeichnung>Gärtner/in - Obstbau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="12112">Berufe im Obst- und Gemüsebau - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6112">Tree and shrub crop growers</isco>
+      <dkz codenr="12112-101" refid="608">Gärtner/in - Obstbau</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1059">Gärtner/in - Gemüsebau</abgrenzung>
+  <abgrenzung typ="hoch" refid="1061">Fachberater/in - Obst- und Gemüseanbau</abgrenzung>
+  <abgrenzung typ="hoch" refid="1054">Gärtner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1053">Gartenbauhelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

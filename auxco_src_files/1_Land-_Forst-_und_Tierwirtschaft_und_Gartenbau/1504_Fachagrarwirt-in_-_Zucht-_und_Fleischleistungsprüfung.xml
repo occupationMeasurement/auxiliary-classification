@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1504</id>
+  <taetigkeit>Prüfung der Qualität von Zucht-, Fleisch- oder Milchleistungen sowie die Beratung von tierwirtschaftlichen Betrieben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Zucht-, Fleisch- und Milchleistungsprüfungen durchführen um hochwertige Qualität zu gewährleisten; Fett- und Eiweißgehalt von Milchproben untersuchen; bakteriologische und serologische Beschaffenheit der Milch feststellen; Tierzucht optimieren und dazu Zuchtwerte ermitteln; Mastdauer und Kosten berechnen; Identitätssicherung der Tiere gewährleisten und dazu Ohrmarken anbringen; Dokumentationsunterlagen führen</taetigkeitsbeschreibung>
+  <bezeichnung>Fachagrarwirt/in - Zucht- und Fleischleistungsprüfung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11213">Berufe in der Nutztierhaltung  (außer Geflügelhaltung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3142">Agricultural technicians</isco>
+      <dkz codenr="11213-105" refid="467">Fachagrarwirt/in - Leistungs-,Quali.prüfung (Tierproduktion)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1505">Ingenieur/in - Vieh- und Fleischwirtschaft</abgrenzung>
+  <abgrenzung typ="mittel" refid="1508">Fachberater/in – Geflügelzucht</abgrenzung>
+  <abgrenzung typ="hoch" refid="1710">Tierwirtschaftsmeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

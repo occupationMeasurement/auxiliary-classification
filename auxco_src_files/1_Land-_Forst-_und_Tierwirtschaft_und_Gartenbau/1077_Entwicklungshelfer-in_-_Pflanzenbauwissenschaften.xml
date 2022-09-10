@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1077</id>
+  <taetigkeit>Entwicklungshilfe im landwirtschaftlichen Bereich</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. spezielle Aufgaben in der Pflanzenproduktion übernehmen; produktspezifische Vermarktungsstrategien entwickeln und koordinieren; Umwelteinflüsse untersuchen; Maßnahmen zur Schädlingsbekämpfung und vorbeugenden Schädlingsbekämpfung ergreifen und erforschen</taetigkeitsbeschreibung>
+  <bezeichnung>Entwicklungshelfer/in - Pflanzenbauwissenschaften</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11184">Berufe in der Landwirtschaft (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2132">farming, forestry and fisheries advisers</isco>
+      <dkz codenr="11184-102" refid="13985">Entwicklungshelfer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1076">Pflanzenarzt/-ärztin</abgrenzung>
+  <abgrenzung typ="mittel" refid="1851">Landwirtschaftliche/r Betriebsleiter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

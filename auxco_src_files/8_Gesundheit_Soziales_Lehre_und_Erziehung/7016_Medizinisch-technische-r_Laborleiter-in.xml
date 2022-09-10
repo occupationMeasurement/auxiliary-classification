@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7016</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in medizinischen Labors</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Personal anleiten; Bedarf an zusätzlichem Personal, Ausrüstung, Dienstleistungen beurteilen; Einhaltung der Hygienevorschriften sorgen; Laboratorium bei öffentlichen Auftritten vertreten; Budgetplanung kontrollieren</taetigkeitsbeschreibung>
+  <bezeichnung>Medizinisch-technische/r Laborleiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81294">Führungskräfte - Medizinisches Laboratorium</kldb>
+      <isco schluessel="1342">Health service managers</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7010">Facharzt/-ärztin für Mikrobiologie</abgrenzung>
+  <abgrenzung typ="mittel" refid="1832">Augenoptikermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1833">Hörgerätemeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1830">Orthopädietechnikermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1831">Zahntechnikermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7015">Veterinärmedizinische/r Laborant/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7009">Medizinisch-technische/r Laboratoriumsassistent/in (MTLA)</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

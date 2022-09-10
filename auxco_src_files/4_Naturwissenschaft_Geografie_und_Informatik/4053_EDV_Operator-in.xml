@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4053</id>
+  <taetigkeit>Überwachung der ordnungsgemäßen Funktionsweise von Peripheriegeräten, Hardware und Software</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Systeme in Hinblick auf Geräteversagen oder Betriebsstörungen überwachen; Befehle eingeben und Geräte in Betrieb nehmen; Gerätefehlfunktionen an Vorgesetzte melden; Programm-Output nach Bedarf wiederherstellen; Kontrollen an Computern und Peripheriegeräten aktivieren; Soft- und Hardware überprüfen</taetigkeitsbeschreibung>
+  <bezeichnung>EDV Operator/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43333">IT-Organisation - Spezialist</kldb>
+      <isco schluessel="3511">Information and communications technology operations technicians</isco>
+      <dkz codenr="43333-100" refid="7750">Operator/in (EDV)</dkz>
+      <dkz codenr="43333-103" refid="15056">EDV-Fachkraft</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1771">IT-Sicherheitstechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="4047">Techniker/in im IT-Kundensupport</abgrenzung>
+  <abgrenzung typ="hoch" refid="1772">IT-Netzwerktechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2047</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in der Metallbau- oder Schweißtechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Pläne für Metallbaukonstruktionen und Schweißarbeiten erstellen; Fach- und Führungsaufgaben bei der Fertigung von Metallkonstruktionen, Rohrleitungen und im Anlagenbau wahrnehmen; Durchführung besonders anspruchsvoller Schweiß- und Montagearbeiten; Produkt- und Materialdisposition überwachen; bei Qualitäts- und Abnahmeprüfungen mitwirken; Auszubildende unterweisen</taetigkeitsbeschreibung>
+  <bezeichnung>Metallbaumeister/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24493">Aufsichtskräfte - Metallbau und Schweißtechnik</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="24493-100" refid="2037">Schweißwerkmeister/in</dkz>
+      <dkz codenr="24493-103" refid="2264">Metallbauermeister/in</dkz>
+      <dkz codenr="24493-105" refid="6156">Industriemeister/in - Metall (Metall- u. Schiffbautechnik)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1846">Metallbautechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2122">Leiter/in - Metallbearbeitung</abgrenzung>
+  <abgrenzung typ="mittel" refid="1720">Schweißtechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

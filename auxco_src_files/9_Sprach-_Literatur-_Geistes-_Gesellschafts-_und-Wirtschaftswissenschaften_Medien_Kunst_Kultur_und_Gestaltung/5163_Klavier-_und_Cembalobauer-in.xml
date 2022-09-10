@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5163</id>
+  <taetigkeit>Fertigung und Reparatur von Klavieren und anderen Tasteninstrumenten und Überprüfung der Klangqualität</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Klaviere, Flügel, Cembali, Klavichorde, Hammerflügel, Tafelklaviere und Spinette herstellen; Hölzer für den Klangkörper auswählen; Holz für das Gehäuse sägen, hobeln, und bohren; Saitenrahmen aus Gusseisenteilen zusammenbauen und ins Klaviergehäuse schrauben; Springer mit Springerkästen anfertigen und einpassen; Gehäuse verzieren; Instrumente pflegen und stimmen</taetigkeitsbeschreibung>
+  <bezeichnung>Klavier- und Cembalobauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93642">Klavier- und Cembalobau - Fachkraft</kldb>
+      <isco schluessel="7312">Musical instrument makers and tuners</isco>
+      <dkz codenr="93642-101" refid="2642">Klavier- und Cembalobauer/in - Cembalobau</dkz>
+      <dkz codenr="93642-103" refid="2644">Klavier- und Cembalobauer/in - Klavierbau</dkz>
+      <dkz codenr="93642-104" refid="2645">Klavierstimmer/in</dkz>
+      <dkz codenr="93642-106" refid="35138">Klavierbauer/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5154">Musikinstrumentenbauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5164">Restaurator/in - Klavier- und Cembalo</abgrenzung>
+  <abgrenzung typ="mittel" refid="5165">Orgel- und Harmoniumbauer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

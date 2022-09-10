@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5146</id>
+  <taetigkeit>Entwurf von Prototypen für die industrielle Serienfertigung von Glasobjekten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Ziele und Beschränkungen der Entwurfsaufgabe durch Beratung mit Kunden und Beteiligten festlegen; Vasen, Schalen, Gläser, Christbaumschmuck, Glasschmuck, Glasfiguren oder Produktkollektionen nach eigenen Ideen oder Kundenwunsch entwerfen; fertigungstechnische Möglichkeiten und kaufmännische Bedingungen miteinkalkulieren; das gewählte Design für die Herstellung der Glasprodukte detailliert dokumentieren; den Herstellungsprozess begleiten; Ergebnisse überprüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Glasdesigner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93433">Kunsthandwerkl. Glasbläserei-Spezialist</kldb>
+      <isco schluessel="2163">Product and garment designers</isco>
+      <dkz codenr="93433-100" refid="8438">Techniker/in - Glastechnik (Glasgestaltung)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5145">Glasbläser/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9222">Glashüttentechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9223">Glasapparatebauer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

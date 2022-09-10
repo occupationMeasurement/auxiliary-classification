@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1828</id>
+  <taetigkeit>Durchführung von Ernährungsberatungen sowie die  Erstellung von Ernährungs- und Diätplänen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. zielgruppenspezifisches Ernährungstraining durchführen; Ernährungsgewohnheiten der Kunden analysieren; Gesundheits- und Leistungschecks durchführen; Inhaltsstoffe von Lebensmitteln erklären; physiologische Grundlagen der Ernährung vermitteln; bei der Erstellung von Ernährungsplänen mitwirken; Kurse zur gesunden, ausgewogenen Ernährung abhalten; Ernährungsverhalten der Patienten dokumentieren und auswerten</taetigkeitsbeschreibung>
+  <bezeichnung>Ernährungstrainer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82232">Berufe in der Ernährungsberatung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3259">Health associate professionals not elsewhere classified</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="82232">Berufe in der Ernährungsberatung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3259">Health associate professionals not elsewhere classified</isco>
+      <dkz codenr="82232-101" refid="90711">Ernährungsassistent/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="82233">Berufe in der Ernährungsberatung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2265">Dieticians and nutritionists</isco>
+      <dkz codenr="82233-100" refid="8902">Diätberater/in</dkz>
+      <dkz codenr="82233-101" refid="8903">Ernährungsberater/in</dkz>
+      <dkz codenr="82233-103" refid="15669">Ernährungs- und Fitnessberater/in (Gesundheit/Sport)</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="7051">Diätassistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7067">Gesundheitstrainer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6048">Fitnesstrainer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

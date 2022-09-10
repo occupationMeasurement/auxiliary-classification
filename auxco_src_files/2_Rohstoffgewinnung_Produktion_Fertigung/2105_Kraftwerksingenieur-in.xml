@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2105</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Anlagen zur Energiegewinnung aus fossilen Brennstoffen oder mittels Kernspaltung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. elektrotechnische Anlagen und Maschinen der Kraftwerks- und Reaktortechnik planen, berechnen und konstruieren; Umspann- und Schaltanlagen sowie Freileitungs- und Kabelnetze von Großanlagen planen; Betriebsbereitschaft der technischen Einrichtungen in Kraftwerken sicherstellen; wissenschaftliche Versuche und Forschung zur Effizienz und Zuverlässigkeit von Energieerzeugungsanlagen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Kraftwerksingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26234">Berufe in der Energie- und Kraftwerkstechnik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2151">Electrical engineers</isco>
+      <dkz codenr="26234-125" refid="59354">Ingenieur/in - Energietechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2104">Kraftwerker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1733">Elektrotechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1731">Solar- und Windenergietechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

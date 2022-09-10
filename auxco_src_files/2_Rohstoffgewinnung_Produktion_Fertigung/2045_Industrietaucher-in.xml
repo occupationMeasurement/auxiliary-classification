@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2045</id>
+  <taetigkeit>Durchführung von Bau-, Schweiß- und Instandhaltungsarbeiten unter Wasser</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. unter Wasser Fundamente legen, Brücken, Landungsstege und Hafenfundamente prüfen und reparieren; Gegenstände und Schiffe aus dem Wasser entfernen; Reparaturen z.B. an Schiffen unter Wasser durchführen; Baugruben vorbereiten und Unterwasserbeton einfüllen; Aufgaben im Zusammenhang mit Rettungsaktionen von Menschen durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Industrietaucher/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24432">Industrietaucher/innen und andere Taucherberufe - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7541">Underwater divers</isco>
+      <dkz codenr="24432-100" refid="2084">Unterwasserschweißer/in</dkz>
+      <dkz codenr="24432-101" refid="8205">Taucher/in</dkz>
+    </default>
+  </untergliederung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

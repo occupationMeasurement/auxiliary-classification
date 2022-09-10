@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4061</id>
+  <taetigkeit>Planung und Koordination der Entwicklung komplexer Softwaresysteme mit Methoden des Softwareengineerings</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Problemstellung und -lösung methodisch aufgliedern; Sollkonzepte, Leistungsbeschreibungen und Spezifikationen entwickeln; Algorithmen entwerfen; Datenstrukturen definieren; Richtlinien und Standards erstellen und pflegen; Projekte im Bereich Softwareentwicklung planen und organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Softwareentwickler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="43414">Softwareentwicklung - Experte</kldb>
+      <isco schluessel="2512">Software developers</isco>
+      <dkz codenr="43414-102" refid="15260">Softwareentwickler/in</dkz>
+      <dkz codenr="43414-103" refid="15271">E-Logistik-Entwickler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4253">Software-Projektleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1770">ERP-Anwendungsentwickler</abgrenzung>
+  <abgrenzung typ="mittel" refid="4038">Informatiker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5231</id>
+  <taetigkeit>Entwicklung, Analyse und Optimierung von Prozessen in der Foto- oder Medientechnik</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. spezielle Aufträge für analoge und digitale Fotolaborarbeiten koordinieren und ggf. selbst bearbeiten; hoch komplexe Foto- und Bildbearbeitungsprozesse sowohl im technischen als auch im kreativen Bereich durchführen und weiterentwickeln; bestehendes Filmmaterial untersuchen, Umgebungsbedingungen wie Feuchtigkeit, Temperatur und Lichtverhältnisse analy-sieren und optimieren; Konstruktion von Komponenten oder Geräten für die Fotografie und Kinematografie</taetigkeitsbeschreibung>
+  <bezeichnung>Ingenieur - Foto und Medientechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23314">Fototechnik - Experte</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5230">Foto- und Medientechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5232">Fotografenmeister/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

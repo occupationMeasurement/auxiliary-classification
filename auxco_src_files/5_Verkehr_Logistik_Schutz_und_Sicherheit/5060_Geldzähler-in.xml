@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5060</id>
+  <taetigkeit>Bedienung von Zählmaschinen und Geldbearbeitungsautomaten sowie die Überprüfung der Echtheit von Bargeld</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Hartgeldbestände rollen und einschweißen; Geldscheine banderolieren; Geld für den Transport verpacken; Geld, Wertpapiere und Wertgegenstände verladen und entladen; Transportfahrzeuge und Sicherheitseinrichtungen überprüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Geldzähler/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53111">Objekt-, Werte-, Personenschutz - Helfer</kldb>
+      <isco schluessel="9623">Meter readers and vending-machine collectors</isco>
+      <dkz codenr="53111-100" refid="7094">Geldzähler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5059">Spielhallenaufsicht</abgrenzung>
+  <abgrenzung typ="hoch" refid="5061">Sicherheitsdienstmitarbeiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5173">Parkplatz- und Parkhausaufsicht</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

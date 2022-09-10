@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4230</id>
+  <taetigkeit>Entwicklung und Anwendung physikalischer Methoden in der medizinischen Diagnostik und Therapie</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bestrahlungen von Krebspatienten auf der Grundlage physikalischer Berechnungen planen; Qualitätskontrollen und Weiterentwicklung von Tomografen, Lasern und Lithotriptoren durchführen; Strahlenanwendung in Therapie und Diagnostik erforschen; Einhaltung von Strahlenschutzvorschriften überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Medizinphysiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41484">Physik (s.s.T.) - Experte</kldb>
+      <isco schluessel="2111">Physicists and astronomers</isco>
+      <dkz codenr="41484-118" refid="59541">Medizinphysiker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1793">Physiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1796">Laborleiter/in - Physik, Werk- und Baustoffprüfung</abgrenzung>
+  <abgrenzung typ="mittel" refid="4019">Physik-Ingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

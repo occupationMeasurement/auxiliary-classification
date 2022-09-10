@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3223</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung bei der allgemeinen Leitung von Büroarbeiten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Aufgaben wie Textverarbeitung, das Führen von Aufzeichnungen, Dateneingabe oder Telefondienste den Mitarbeitern zuteilen und deren Arbeit überprüfen; Arbeitspläne und Verfahren festlegen und mit anderen Abteilungen koordinieren; Mitarbeiter anleiten oder Fortbildungen organisieren; Fortschritts- und andere Berichte erstellen und der Geschäftsleitung vorlegen</taetigkeitsbeschreibung>
+  <bezeichnung>Büroleiter/in </bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71493">Aufsichtskräfte - Büro- und Sekretariat</kldb>
+      <isco schluessel="3341">Office supervisors</isco>
+      <dkz codenr="71493-101" refid="15045">Büroleiter/in - Handwerk</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="3543">Behördenleiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="3211">Kaufmännische/r Betriebsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3222">Sekretär/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

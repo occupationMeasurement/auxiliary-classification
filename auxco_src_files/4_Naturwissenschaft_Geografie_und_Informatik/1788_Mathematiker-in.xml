@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1788</id>
+  <taetigkeit>Entwicklung von mathematischen Formeln, Theorien und Methoden in Wissenschaft und Forschung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fragestellungen der reinen Mathematik, z.B. der Algebra oder Geometrie, bearbeiten; mathematische Entscheidungsgrundlagen für Unternehmen entwickeln; mathematische Modelle und Simulationen für technische Anwendungen erstellen; Theorien und Techniken weiterentwickeln; Fachtexte publizieren; forschen</taetigkeitsbeschreibung>
+  <bezeichnung>Mathematiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41104">Mathematik (o.S.) - Experte</kldb>
+      <isco schluessel="2120">Mathematicians, actuaries and statisticians</isco>
+      <dkz codenr="41104-105" refid="59494">Mathematiker/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Mathematik erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium im Bereich Mathematik erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="41104">Mathematik (o.S.) - Experte</kldb>
+      <isco schluessel="2120">Mathematicians, actuaries and statisticians</isco>
+      <dkz codenr="41104-105" refid="59494">Mathematiker/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="41103">Berufe in der Mathematik (ohne Spezialisierung) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="2120">Mathematicians, actuaries and statisticians</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4206">Mathe- und Statistik Abteilungsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4203">Biomathematiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4204">Computer-/ Technomathematiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="4205">Wirtschaftsmathematiker/in / Aktuar/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

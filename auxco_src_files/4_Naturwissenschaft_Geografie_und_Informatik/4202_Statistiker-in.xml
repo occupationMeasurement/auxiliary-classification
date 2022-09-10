@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4202</id>
+  <taetigkeit>Entwicklung und Anwendung von statistischen Formeln, Theorien und Methoden zur Lösung von Problemen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. statistische Verfahren (weiter-)entwickeln und anwenden; Prognosen und Bewertung von Risiken erstellen; Software zur Darstellung und Analyse empirischer Daten einsetzen; Fachpublikationen zu statistischen Methoden erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Statistiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41114">Statistik - Experte</kldb>
+      <isco schluessel="2120">Mathematicians, actuaries and statisticians</isco>
+      <dkz codenr="41114-102" refid="6886">Risikoanalytiker/in (Versicherung)</dkz>
+      <dkz codenr="41114-103" refid="6889">Versicherungskalkulator/in</dkz>
+      <dkz codenr="41114-105" refid="9751">Wirtschafts- und Sozialstatistiker/in</dkz>
+      <dkz codenr="41114-108" refid="58778">Statistiker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1788">Mathematiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1111">Demograf/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1836">Fachangestellte/r - Markt- und Sozialforschung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

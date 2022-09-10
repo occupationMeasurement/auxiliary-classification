@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1786</id>
+  <taetigkeit>Planung, Koordination und Optimierung des Baus von Rohrleitungssystemen zum Transport von Wasser, Gas, Öl oder Fernwärme</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Berechnungen in Bezug auf Druck- und Strömungsverhältnisse oder Pumpenleistungen durchführen; Rohrnetze nach Verlegung und Anschluss überprüfen, abnehmen und in Betrieb nehmen; Rohrgräben und Netzteile, wie Abzweigungen, Absperr- und Druckreduzierungsanlagen, konzipieren; Kontrollsysteme festlegen zur Sicherstellung eines störungsfreien Transports von Wasser, Gas, Öl oder Fernwärme; Richtlinien und Standards für die Verlegung von Rohrleitungssystemen entwerfen und durchsetzen; Neu- und Weiterentwicklungen im Rohrleitungsbau erproben und in die Produktpalette aufnehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Rohrnetzingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="34324">Rohrleitungsbau - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="34324">Rohrleitungsbau - Experte</kldb>
+      <isco schluessel="2142">Civil engineers</isco>
+      <dkz codenr="34324-101" refid="90693">Rohrnetzingenieur/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="34323">Rohrleitungsbau - Spezialist</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5295">Rohrleitungsbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5346">Anlagenbautechniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5297">Gas- und Wasserinstallateur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5357">Leiter/in - Wasserversorgung und -entsorgung</abgrenzung>
+  <abgrenzung typ="hoch" refid="1754">Tunnelbautechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

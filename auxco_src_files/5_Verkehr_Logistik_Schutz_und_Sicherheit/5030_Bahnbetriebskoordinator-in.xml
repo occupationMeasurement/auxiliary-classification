@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5030</id>
+  <taetigkeit>Planung und Optimierung der Bereitstellung von Trassen und Zügen im Eisenbahnverkehr</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fahrpläne unter Berücksichtigung technischer und wirtschaftlicher Faktoren ausarbeiten; Transportvorgänge und Frachtabläufe analysieren und optimieren; Frachtbriefe ausstellen; Schienenwege ausbauen, planen und optimieren; Kosten-Leistungs-Rechnungen durchführen und Angebote ausarbeiten; Tarife und Mautgebühren errechnen; Berichte für die Geschäftsleitung erstellen; ggf. Mitarbeiter einteilen, überwachen und motivieren</taetigkeitsbeschreibung>
+  <bezeichnung>Bahnbetriebskoordinator/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="51633">Straße,Schienenverkehrskaufl.-Spezialist</kldb>
+      <isco schluessel="4323">Bürokräfte in der Transportwirtschaft und verwandte Berufe</isco>
+      <dkz codenr="51633-100" refid="14236">Fachwirt/in - Bahnbetrieb</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5031">Disponent/in für Eisenbahn und Straßenverkehr</abgrenzung>
+  <abgrenzung typ="hoch" refid="5022">Verkehrsbetriebswirt/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5023">Fachwirt/in - Personen- und Reiseverkehr</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

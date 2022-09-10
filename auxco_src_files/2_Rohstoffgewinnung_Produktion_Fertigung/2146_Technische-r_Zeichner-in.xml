@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2146</id>
+  <taetigkeit>Erstellung von Bauplänen, Karten oder anderen technischen Zeichnungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. nach Daten, Vorlagen oder Anweisungen von Konstrukteuren oder Architekten Zeichnungen anfertigen; Bauzeichnungen oder Montageskizzen für die Herstellung oder den Bau von Maschinen oder Gebäuden anfertigen; mit CAD-Systemen Ingenieure bei der Entwicklung von Einzelteilen von technischen Produkten unterstützen; vorwiegend rechnergestützt oder auch manuell zeichnen und erstellte Zeichnungen prüfen; Vermessungsarbeiten durchführen; technische Begleitunterlagen wie Übersichtspläne oder Tabellen erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Technische/r Zeichner/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="27212">Technische Zeichner/innen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3118">Draughtspersons</isco>
+      <dkz codenr="27212-101" refid="6466">Technische/r Zeichner/in - Maschinen- und Anlagentechnik</dkz>
+      <dkz codenr="27212-102" refid="6467">Technische/r Zeichner/in - Elektrotechnik</dkz>
+      <dkz codenr="27212-103" refid="6468">Technische/r Zeichner/in - Stahl- und Metallbautechnik</dkz>
+      <dkz codenr="27212-104" refid="6469">Technische/r Zeichner/in - Heizungs-/Klima-/Sanitärtechnik</dkz>
+      <dkz codenr="27212-107" refid="6475">Technische/r Zeichner/in - Holztechnik</dkz>
+      <dkz codenr="27212-109" refid="6484">Konstruktionszeichner/in</dkz>
+      <dkz codenr="27212-111" refid="6487">Bauzeichner/in - Ingenieurbau</dkz>
+      <dkz codenr="27212-113" refid="6489">Bauzeichner/in - Tief-, Straßen- u. Landschaftsbau</dkz>
+      <dkz codenr="27212-118" refid="13742">Bauzeichner/in</dkz>
+      <dkz codenr="27212-119" refid="15538">Bauzeichner/in - Architektur</dkz>
+      <dkz codenr="27212-132" refid="35077">Teilzeichner/in</dkz>
+      <dkz codenr="27212-131" refid="33219">Technische/r Produktdesigner/in (ohne Fachrichtungen)</dkz>
+      <dkz codenr="27212-134" refid="90569">Techn. Produktdesigner/in - Produktgestaltung u. -konstrukt.</dkz>
+      <dkz codenr="27212-135" refid="90570">Techn. Produktdesigner/in - Maschinen- u. Anlagenkonstrukt.</dkz>
+      <dkz codenr="27212-136" refid="90573">Technische/r Systemplaner/in - Elektrotechnische Systeme</dkz>
+      <dkz codenr="27212-139" refid="90579">Technische/r Systemplaner/in - Versorgungs- u. Ausrüstungst.</dkz>
+      <dkz codenr="27212-140" refid="90580">Technische/r Systemplaner/in - Stahl- und Metallbautechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="2154">Leiter/in - Technische Zeichnung, Konstruktion und Modellbau</abgrenzung>
+  <abgrenzung typ="hoch" refid="1737">Konstruktionstechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

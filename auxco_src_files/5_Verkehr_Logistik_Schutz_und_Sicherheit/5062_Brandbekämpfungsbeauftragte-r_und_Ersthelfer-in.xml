@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5062</id>
+  <taetigkeit>Sicherstellung der Brandschutzvorschriften in Betrieben sowie Ersthilfe bei Unfällen und Bränden</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Personal in Brandverhütungsvorschriften unterweisen; Feuerlöscher installieren, prüfen und warten sowie instandsetzen; im Brandfall Beschäftigte aus den Betriebsgebäuden evakuieren; mit dem Feuerlöscher Klein- und Entstehungsbrände bekämpfen; kleine Wunden verbinden; Unfallstellen absichern; ärztliche Hilfe rufen; Erste-Hilfe-Kästen auf Vollständigkeit überprüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Brandbekämpfungsbeauftragte/r und Ersthelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53122">Arbeitssicherh.,Sich.-technik-Fachkraft</kldb>
+      <isco schluessel="5414">Security guards</isco>
+      <dkz codenr="53122-100" refid="90720">Brandbekämpfungsbeauftragte/r und Ersthelfer/in</dkz>
+      <dkz codenr="53132-104" refid="27811">Kontrolleur/in - Feuerlöscher</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5064">Arbeitsschutzingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7105">Notfallsanitäter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5065">Feuerwehrmann/-frau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3598</id>
+  <taetigkeit>Beratung bei der Berufswahl und bei der Suche nach einem Arbeitsplatz</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Arbeitsmarktbeobachtungen und -berichterstattungen planen und durchführen; qualifizierte Auskünfte über die Anforderungen am Arbeitsmarkt und Möglichkeiten der Qualifizierung aufzeigen; Ausbildungs- und Arbeitsuchende umfassend beraten, vermitteln und integrieren; Arbeitnehmer bei der Karriereplanung unterstützen; bei der Erstellung von Bewerbungsunterlaen helfen</taetigkeitsbeschreibung>
+  <bezeichnung>Berufsberater/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71524">Personaldienstleistung - Experte</kldb>
+      <isco schluessel="2423">Personnel and careers professionals</isco>
+      <dkz codenr="71524-112" refid="59173">Arbeitsmarktmanager/in</dkz>
+      <dkz codenr="71524-113" refid="59177">Beschäftigungsorientierte/r Berater/in und Fallmanager/in</dkz>
+      <dkz codenr="71524-111" refid="58981">Personalreferent/in</dkz>
+      <dkz codenr="71524-108" refid="15001">Relocation-Specialist/-Manager/in</dkz>
+      <dkz codenr="71524-100" refid="7555">Personalberater/in</dkz>
+      <dkz codenr="71524-104" refid="9152">Ausbildungsberater/in</dkz>
+      <dkz codenr="71524-105" refid="9153">Bildungs-, Studienberater/in</dkz>
+      <dkz codenr="71524-114" refid="67308">Arbeitsvermittler/in</dkz>
+      <dkz codenr="71524-115" refid="67309">Berufsberater/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3597">Personalvermittler/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3596">Personalentwickler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

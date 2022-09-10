@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3520</id>
+  <taetigkeit>Planung, Koordination und Optimierung von Marketingstrategien in der Verlags- oder Medienwirtschaft</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. in der Verlags- und Medienwirtschaft Werberichtlinien und -kampagnen zur Unterstützung der Absatzziele planen und organisieren; Wachstum und Entwicklung eines Verlages durch Festlegung und Umsetzung von Marketingzielen, Richtlinien und Programmen unterstützen; die Verlagsleitung und Kunden hinsichtlich Strategien und Kampagnen zur Erreichung von Zielmärkten beraten; die Medienlandschaft und Konsumentenmuster und -präferenzen analysieren; Markterhebungen zur Identifikation von Marktchancen für Güter und Dienstleistungen durchführen bzw. durchführen lassen; Konsumtrends im Bereich der Mediennutzung prognostizieren; Beratungen hinsichtlich Produktmix, Werbung, Verkaufsförderung und Verkaufs- und Vertriebskanäle durchführen</taetigkeitsbeschreibung>
+  <bezeichnung>Medienmanager/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="92304">Verlags-, Medienkaufleute (oS) - Experte</kldb>
+      <isco schluessel="2431">Advertising and marketing professionals</isco>
+      <dkz codenr="92304-101" refid="14238">Medienmanager/in</dkz>
+      <dkz codenr="92304-107" refid="100519">Editionswissenschaftler/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3506">Medienfachwirt/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1837">Produktmanager/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3519">Medienkaufmann/-frau - Digital und Print</abgrenzung>
+  <abgrenzung typ="mittel" refid="3521">Verleger/in (Medien/Musik)</abgrenzung>
+  <abgrenzung typ="mittel" refid="6042">Buch- und Medienhandelsmanager/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

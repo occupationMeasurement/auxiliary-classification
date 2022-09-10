@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1761</id>
+  <taetigkeit>Überwachung von Verkaufsräumen zum Schutz vor Diebstählen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. in Kaufhäusern Waren gegen Diebstahl sichern, dabei Kunden sowie Verkaufsräume im Verkaufsraum oder mithilfe von Kameras überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Detektiv/in (Einzelhandel)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53152">Detektive/Detektivinnen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3411">Legal and related associate professionals</isco>
+      <dkz codenr="53152-102" refid="8084">Warenhausdetektiv/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5061">Sicherheitsdienstmitarbeiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5076">Aufsichtsleiter/in – Sicherheitswesen</abgrenzung>
+  <abgrenzung typ="mittel" refid="5079">Kriminalbeamter/-beamtin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

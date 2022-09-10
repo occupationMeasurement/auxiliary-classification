@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1039</id>
+  <taetigkeit>Pflege der Hufe von Pferden sowie Anfertigung und Befestigung von Hufeisen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. angepasste Hufeisen anfertigen, befestigen, pflegen und austauschen; Hufformen und - krankheiten erkennen; Hufformen korrigieren und Hufsohlen reinigen und ausschneiden</taetigkeitsbeschreibung>
+  <bezeichnung>Hufschmied/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11333">Hufbeschlagschmiede/innen - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="7221">Blacksmiths, hammer smiths and forging press workers</isco>
+      <dkz codenr="11333-101" refid="2123">Hufbeschlagschmied/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2007">Grob-/Hammerschmied/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3560</id>
+  <taetigkeit>Durchführung von Routine- und Verwaltungstätigkeiten im Service einer Bibliothek</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Medien der Bibliothek ausgeben und entgegennehmen; den Zustand der zurückgegebenen Medien kontrollieren; Zeitungsabonnements bearbeiten; im Benutzerservice mitarbeiten; den Bibliotheksbenutzern Hilfestellungen leisten; verwaltungstechnische Aufgaben erledigen</taetigkeitsbeschreibung>
+  <bezeichnung>Bibliotheksassistent/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="73322">Bibliothekswesen - Fachkraft</kldb>
+      <isco schluessel="4411">Library clerks</isco>
+      <dkz codenr="73322-101" refid="8326">Fachangestellte/r für Medien- u. Info.Dienste - Bibliothek</dkz>
+      <dkz codenr="73322-102" refid="14281">Beamt(er/in) - Bibliotheks-, Dokumentationsdienst (mittl.D.)</dkz>
+      <dkz codenr="73322-104" refid="35062">Assistent/in - Bibliotheken</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1825">Bibliotheksangestellte/r</abgrenzung>
+  <abgrenzung typ="mittel" refid="3553">Archivdienstbeamter/-beamtin</abgrenzung>
+  <abgrenzung typ="mittel" refid="3555">Rechercheur/in oder Dokumentar/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="6040">Buchhändler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

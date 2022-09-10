@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3573</id>
+  <taetigkeit>Bereitstellung betriebswirtschaftlicher Kennzahlen für das Management als Orientierungs- und Entscheidungsgrundlage</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Controlling-Systeme zur Planung, Steuerung und Kontrolle des betrieblichen Leistungsprozesses entwickeln und einsetzen; Betriebskennzahlen wie Umsatzrentabilität, Kapitalrentabilität, Finanzierung, Produktivität, Liquidität berechnen; Soll-Ist-Vergleiche im Bereich der Kosten- und Leistungsrechnung ausführen; die Planungsziele laufend kontrollieren und die wichtigsten Prozess- und Steuerungsgrößen überprüfen</taetigkeitsbeschreibung>
+  <bezeichnung>Controller/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="72233">Controlling - Spezialist</kldb>
+      <isco schluessel="3313">Accounting associate professionals</isco>
+      <dkz codenr="72233-105" refid="29399">Callcentercontroller/in</dkz>
+      <dkz codenr="72233-100" refid="7537">Betriebswirt/in (Fachschule) - Controlling</dkz>
+      <dkz codenr="72233-103" refid="15017">Assistent/in - Controlling</dkz>
+      <dkz codenr="72233-102" refid="7681">Fachwirt/in - Controlling</dkz>
+      <dkz codenr="72234-102" refid="34926">Vertriebscontroller/in</dkz>
+      <dkz codenr="72234-103" refid="51001">Controller/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Berichten Sie persönlich an das übergeordnete Management?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie persönlich an das übergeordnete Management berichtet?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="72234">Controlling - Experte</kldb>
+      <isco schluessel="2411">Accountants</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="72233">Controlling - Spezialist</kldb>
+      <isco schluessel="3313">Accounting associate professionals</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1824">Kalkulator/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3581">Wirtschaftsprüfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1823">Buchführungsfachkraft</abgrenzung>
+  <abgrenzung typ="hoch" refid="3570">Leiter/in Rechnungswesen/ Revision/ Controlling</abgrenzung>
+  <abgrenzung typ="hoch" refid="1747">Vertriebsspezialist/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

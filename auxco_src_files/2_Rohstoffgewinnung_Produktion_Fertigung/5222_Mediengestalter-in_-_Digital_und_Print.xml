@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5222</id>
+  <taetigkeit>Erstellung von druckfertigen Layouts für Printmedien und elektronische Medien</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Anzeigen, Prospekte, Zeitschriften, Plakate, Verpackungen oder Internetseiten grafisch gestalten; Text-, Bild-, Grafik-, Ton- und Videodaten bearbeiten und zu einem Produkt zusammenstellen; Layouts für Printmedien und multimediale Beiträge erstellen; über verschiedene Umsetzungsmöglichkeiten von Medienprojekten beraten; Gestaltungsvarianten entwickeln; fachspezifische Software zur Gestaltung einsetzen</taetigkeitsbeschreibung>
+  <bezeichnung>Mediengestalter/in - Digital und Print</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23212">Digital-,Printmediengestaltung-Fachkraft</kldb>
+      <isco schluessel="7321">Pre-press technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="23212">Digital-,Printmediengestaltung-Fachkraft</kldb>
+      <isco schluessel="7321">Pre-press technicians</isco>
+      <dkz codenr="23212-183" refid="57882">Mediengestalter/in Digital und Print - Gestaltung u. Technik</dkz>
+      <dkz codenr="23212-184" refid="57884">Mediengestalter/in Digital und Print - Konzept. u. Visualis.</dkz>
+      <dkz codenr="23212-100" refid="1337">Schriftsetzer/in - Montagetechnik</dkz>
+      <dkz codenr="23212-101" refid="1338">Schriftsetzer/in - Systemtechnik</dkz>
+      <dkz codenr="23212-102" refid="1339">Mediengestalter/in - Digital-/Printmedien - Mediendesign</dkz>
+      <dkz codenr="23212-103" refid="1340">Schriftsetzer/in</dkz>
+      <dkz codenr="23212-181" refid="35086">Werbevorlagenhersteller/in</dkz>
+      <dkz codenr="23212-110" refid="1360">Fotosetzer/in</dkz>
+      <dkz codenr="23212-114" refid="1367">Druckvorlagenhersteller/in</dkz>
+      <dkz codenr="23212-120" refid="1373">Reprohersteller/in - Druckformtechnik</dkz>
+      <dkz codenr="23212-124" refid="1377">Scanner-Operator/in</dkz>
+      <dkz codenr="23212-125" refid="1378">Mediengestalter/in - Digital-/Printmedien - Medienoperating</dkz>
+      <dkz codenr="23212-126" refid="1379">Werbe- u. Medienvorlagenhersteller/in - Medienoperating</dkz>
+      <dkz codenr="23212-127" refid="1380">Werbe- u. Medienvorlagenhersteller/in - Gestaltung</dkz>
+      <dkz codenr="23212-136" refid="4651">Dekorvorlagenhersteller/in</dkz>
+      <dkz codenr="23212-128" refid="1388">Druckformhersteller/in</dkz>
+      <dkz codenr="23212-130" refid="1408">Formstecher/in</dkz>
+      <dkz codenr="23212-131" refid="1409">Notenstecher/in</dkz>
+      <dkz codenr="23212-182" refid="35111">Stahlrollenstecher/in</dkz>
+      <dkz codenr="23212-132" refid="1477">Reprograf/in - Mikrografie</dkz>
+      <dkz codenr="23212-133" refid="1478">Reprograf/in - Reprografie</dkz>
+      <dkz codenr="23212-134" refid="1479">Mediengestalter/in - Digital-/Printmedien - Medientechnik</dkz>
+      <dkz codenr="23212-137" refid="6512">Gestaltungstechnische/r Assistent/in</dkz>
+      <dkz codenr="23212-141" refid="15419">DTP-Fachkraft</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine vertiefende berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
+      <kldb schluessel="23213">Digital,Printmediengestaltung-Spezialist</kldb>
+      <isco schluessel="7321">Pre-press technicians</isco>
+      <dkz codenr="23213-100" refid="1336">Layouter/in</dkz>
+      <dkz codenr="23213-101" refid="6672">Produktioner/in - Medien</dkz>
+      <dkz codenr="23213-102" refid="15503">Gestalter/in - Werbe- und Mediengestaltung</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="23213">Digital,Printmediengestaltung-Spezialist</kldb>
+      <isco schluessel="7321">Pre-press technicians</isco>
+      <dkz codenr="23213-100" refid="1336">Layouter/in</dkz>
+      <dkz codenr="23213-101" refid="6672">Produktioner/in - Medien</dkz>
+      <dkz codenr="23213-102" refid="15503">Gestalter/in - Werbe- und Mediengestaltung</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5219">Grafikdesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5234">Drucker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3503">Marketingassistent/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1839">Produkt- und Industriedesigner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5124">Ausstellungsgestalter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

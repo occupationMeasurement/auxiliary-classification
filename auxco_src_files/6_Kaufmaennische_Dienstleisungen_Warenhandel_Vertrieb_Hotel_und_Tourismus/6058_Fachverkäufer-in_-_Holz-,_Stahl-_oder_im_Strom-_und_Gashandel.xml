@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6058</id>
+  <taetigkeit>Verkauf von Waren und Dienstleistungen im Holz-, Stahl- oder im Strom- und Gashandel</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden im In- und Ausland betreuen und bezüglich der Waren und Dienstleistungen beraten; Kundenwünsche ermitteln; Kundenaufträge bearbeiten; Rechnungen schreiben und Zahlungsmittel entgegennehmen; Reklamationen und Schadensfälle entgegennehmen und bearbeiten; Bestellungen schreiben; bei der Lagerverwaltung, bei Bestandsaufnahmen und Produktinventarisierungen helfen; Liefertermine überwachen; Waren annehmen und kontrollieren; Warenmängel reklamieren; Waren ein- und auslagern und präsentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Fachverkäufer/in - Holz-, Stahl- oder im Strom- und Gashandel</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="61282">Kaufleute im Handel (s.s.T) - Fachkraft</kldb>
+      <isco schluessel="5223">Shop sales assistants</isco>
+      <dkz codenr="61282-112" refid="90793">Heizungs-/Sanitärkaufmann/-frau (Handel)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="6022">Sachbearbeiter/in im Groß- und Außenhandel</abgrenzung>
+  <abgrenzung typ="hoch" refid="6030">Verkäufer/in - Einzelhandel</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

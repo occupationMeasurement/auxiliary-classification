@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9215</id>
+  <taetigkeit>Technische Prüfung und Optimierung von Baustoffen zur Verwendung durch die Bauwirtschaft</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Baustoffe wie Zement, Beton, Terrazo, Bitumen, Asphalt und Ziegel entwickeln; Einsatz spezifischer Produktionsanlagen für die Herstellung von Baustoffen technisch analysieren und Produktivität optimieren</taetigkeitsbeschreibung>
+  <bezeichnung>Baustofftechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21223">Berufe in der Baustoffherstellung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="21223-105" refid="90812">Techniker/in - Baustofftechnologie</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1795">Baustoffprüfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1794">Werkstoffprüfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9217">Leiter/in - Baustoffherstellung</abgrenzung>
+  <abgrenzung typ="mittel" refid="9214">Arbeiter/in bei Herstellung von Baustoffen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

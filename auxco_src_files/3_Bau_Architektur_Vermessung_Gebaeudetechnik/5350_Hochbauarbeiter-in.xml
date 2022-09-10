@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5350</id>
+  <taetigkeit>Durchführung allgemeiner Arbeiten bei der Errichtung von Gebäuden und die Bedienung von Baugeräten und Baumaschinen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Baustellen einrichten; Absperrungen aufstellen; Geräte und Maschinen bereitstellen; Löcher und Gräben befüllen und Gruben gegen abrutschende Erde sichern; Betonpumpen, Verdichtungsgeräte, Handwerkzeuge führen, bedienen, reinigen und pflegen; Mörtelmischungen herstellen; Mauerwerke aus Steinen errichten; vorgefertigte Bauteile montieren; Decken und Wände betonieren; Untergründe vorbereiten; bestehende bauliche Strukturen mit den entsprechenden Materialien und Werkzeugen erhalten und reparieren; Estriche herstellen; Betonbauteile und andere Baumaterialien zu Fertighäusern zusammensetzen; Aufräumarbeiten durchführen; materialgerechte Entsorgung von Abfällen vornehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Hochbauarbeiter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32102">Hochbau (o.S.) - Fachkraft</kldb>
+      <isco schluessel="7111">House builders</isco>
+      <dkz codenr="32101-100" refid="3969">Helfer/in - Hochbau</dkz>
+      <dkz codenr="32102-103" refid="3931">Hochbaufacharbeiter/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine abgeschlossene Berufsausbildung als Hochbaufacharbeiter/in erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine abgeschlossene Berufsausbildung als Hochbaufacharbeiter/in erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>Ja</text>
+      <kldb schluessel="32102">Hochbau (o.S.) - Fachkraft</kldb>
+      <isco schluessel="7111">House builders</isco>
+      <dkz codenr="32102-103" refid="3931">Hochbaufacharbeiter/in</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="1">
+      <text>Nein</text>
+      <kldb schluessel="32101">Hochbau (o.S.) - Helfer</kldb>
+      <isco schluessel="9313">Building construction labourers</isco>
+      <dkz codenr="32101-100" refid="3969">Helfer/in - Hochbau</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1854">Bauhelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5262">Maurer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5282">Beton- und Stahlbetonbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5283">Dachdecker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5265">Fassadenmonteur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5316">Trockenbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1756">Helfer/in - Gebäudeausbau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

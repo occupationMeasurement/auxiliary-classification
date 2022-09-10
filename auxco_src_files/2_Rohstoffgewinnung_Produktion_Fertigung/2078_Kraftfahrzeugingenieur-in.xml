@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2078</id>
+  <taetigkeit>Entwicklung von Straßen- und Schienenfahrzeugen und deren Komponenten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Fahrzeuge für den Personen- und Güterverkehr mittels CAD-Systemen entwickeln und konstruieren; Fahrwerke, Antriebe und Ausstattungskomponenten planen und berechnen; mit Marketingabteilungen und Designern zusammenarbeiten; Qualitätsnormen und -standards sowie Servicekonzepte entwickeln; Anforderungen an elektrische und elektronische Bauteile spezifizieren; in der Forschung zur Kraftfahrzeugtechnik mitwirken</taetigkeitsbeschreibung>
+  <bezeichnung>Kraftfahrzeugingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25214">Berufe in der Kraftfahrzeugtechnik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2144">Mechanical engineers</isco>
+      <dkz codenr="25214-123" refid="58717">Ingenieur/in - Fahrzeugtechnik</dkz>
+      <dkz codenr="25214-114" refid="5230">Kraftfahrzeugsachverständige/r</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2077">Kraftfahrzeugtechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1736">Bordelektroniktechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

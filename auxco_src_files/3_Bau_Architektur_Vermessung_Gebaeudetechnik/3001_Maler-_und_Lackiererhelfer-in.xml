@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3001</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten bei Maler- und Lackiererarbeiten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Flächen reinigen; empfindliche Stellen abkleben; Farben und Lacke vorbereiten; Außenfassaden und Innenwände streichen; Heizkörper lackieren; Maschinen und Werkzeuge reinigen</taetigkeitsbeschreibung>
+  <bezeichnung>Maler- und Lackiererhelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="33211">Maler- und Lackiererarbeiten - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9313">Building construction labourers </isco>
+      <dkz codenr="33211-101" refid="90136">Helfer/in - Malerei, Lackiererei</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5185">Lackiererhelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="3023">Maler/in und Lackierer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5303">Restaurator/in - Maler- und Lackiererhandwerk</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5279</id>
+  <taetigkeit>Durchführung von Untersuchungen und Planungen zur Stadt- und Raumentwicklung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. öffentlichen Raum unter Berücksichtigung von umweltrechtlichen, sozialen und wirtschaftlichen Gesichtspunkten gestalten und Projekte entwickeln; Zahlen und Daten zur gesellschaftlichen, wirtschaftlichen, politischen, kulturellen, demografischen oder ökologischen Struktur sammeln; Struktur-und Standortanalysen erstellen;  Unternehmen, Gemeinden und Bürger zu städtischen und regionalen Planungsfragen beraten; Flächennutzungs- und Bebauungspläne ausarbeiten; Beratungsleistungen erbringen; Projekte zeichnerisch umsetzen; Grundstücksflächen für Parks, Schulen oder Wohnbaugrundstücke planen und entwickeln; Bau- und Architektenrecht berücksichtigen</taetigkeitsbeschreibung>
+  <bezeichnung>Ingenieur/in - Stadt- und Regionalplanung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="31124">Stadt- und Raumplanung - Experte</kldb>
+      <isco schluessel="2164">Town and traffic planners</isco>
+      <dkz codenr="31124-105" refid="15763">Ingenieur/in - Stadt- und Regionalplanung</dkz>
+      <dkz codenr="31124-114" refid="59411">Stadt- und Regionalplaner/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5252">Architekt/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1776">Verkehrswegeplaner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5246">Bauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5260">Vermessungstechniker/in oder -ingeneur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

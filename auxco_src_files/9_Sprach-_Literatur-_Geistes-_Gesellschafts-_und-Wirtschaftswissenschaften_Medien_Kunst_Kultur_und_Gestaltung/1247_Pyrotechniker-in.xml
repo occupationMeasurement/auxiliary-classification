@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1247</id>
+  <taetigkeit>Technische Planung und Durchführung von pyrotechnischen Darbietungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Ortsbesichtigungen durchführen und Aufträge mit Kunden besprechen; pyrotechnische Effekte auswählen und dramaturgisch zusammenstellen; Materialien und Abschussgeräte aufbauen und Steuergeräte programmieren; Einhaltung von Sicherheitsregeln gewährleisten</taetigkeitsbeschreibung>
+  <bezeichnung>Pyrotechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="94582">Berufe in der Veranstaltungs-, Kamera- und Tontechnik (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="3435">Artistic and cultural associate professionals not elsewhere classified</isco>
+      <dkz codenr="94582-100" refid="1158">Pyrotechniker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1231">Bühnenarbeiter/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1232">Veranstaltungstechnik - Fachkraft</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

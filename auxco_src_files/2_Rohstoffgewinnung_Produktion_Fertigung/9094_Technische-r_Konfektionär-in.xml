@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9094</id>
+  <taetigkeit>Fertigung technischer Konfektionsware, wie  Schutz- und Wetterkleidung, Zelt- und Lkw-Planen, Marktschirmen oder anderer technische Konfektionsware</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Material zuschneiden; Zuschneide- oder Stanzvorrichtungen einstellen; Schablonen erstellen und Materialbedarf ermitteln; ausgeschnittene Teile kennzeichnen und Flächen verbinden; Nähmaschinen einstellen, Nähmaterial auswählen und Näharbeiten ausführen; Kanten beschichteter Gewebe schweißen oder kleben; Zubehör anbringen; Produkte montieren und z.B. Planen an Lkws anbringen oder Zelte aufbauen; Qualitätskontrollen durchführen und Fehler ausbessern; Erzeugnisse reparieren; Werkzeuge, Maschinen und Anlagen warten und instand halten</taetigkeitsbeschreibung>
+  <bezeichnung>Technische/r Konfektionär/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="28232">Tech.Konfektionäre,Segelmacher-Fachkraft</kldb>
+      <isco schluessel="7533">Sewing, embroidery and related workers</isco>
+      <dkz codenr="28232-100" refid="1560">Schirmmacher/in</dkz>
+      <dkz codenr="28232-101" refid="3375">Gardinennäher/in</dkz>
+      <dkz codenr="28232-103" refid="3382">Technische/r Konfektionär/in</dkz>
+      <dkz codenr="28232-107" refid="3387">Kunststoff- u. Schwergewebekonfektionär/in</dkz>
+      <dkz codenr="28232-112" refid="35145">Zeltmacher/in</dkz>
+      <dkz codenr="28232-109" refid="4441">Polster- und Dekorationsnäher/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1739">Textiltechniker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9039">Lederwarenhersteller/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9046">Leiter/in - Textilverarbeitung</abgrenzung>
+  <abgrenzung typ="hoch" refid="3010">Rollladen- und Sonnenschutzmechatroniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9020">Textilverarbeitungshelfer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5131</id>
+  <taetigkeit>Herstellung von Figuren, Büsten, Reliefs oder Ornamente aus Stein nach Kundenwünschen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden über Gestaltung beraten; Qualität der einzelnen Natursteinblöcke prüfen; Steine behauen; geeignete Steingrößen durch Sägen, Spalten oder Trennschleifen herstellen; Inschriften gestalten und eingravieren;, Metallschriften am Stein anbringen; beschädigte Statuen und Steinbildwerke restaurieren bzw. wiederherstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Steinbildhauer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93312">Bildhauerei - Fachkraft</kldb>
+      <isco schluessel="7113">Stonemasons, stone cutters, splitters and carvers</isco>
+      <dkz codenr="93312-101" refid="855">Steinmetz/in und Steinbildhauer/in - Denkmalpflege</dkz>
+      <dkz codenr="93312-102" refid="857">Steinmetz/in und Steinbildhauer/in - Steinbildhauerarbeiten</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5127">Kunsthandwerker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5128">bildende/r Künstler/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5132">Skulpturenrestaurator/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="9216">Steinmetz/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="5129">Bildhauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5130">Holzbildhauer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

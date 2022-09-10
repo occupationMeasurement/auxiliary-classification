@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>8018</id>
+  <taetigkeit>Vermittlung religiöser Glaubensinhalte an eine Glaubensgemeinde sowie die Übernahme seelsorgerischer Aufgaben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. religiöse Traditionen, Praktiken und Überzeugungen pflegen; religiöse Feiern und Gottesdienste vorbereiten und abhalten; religiöse Reden verfassen; seelsorgerische Gespräche führen; karitative Aufgaben übernehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Pfarrer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="83314">Theologie - Experte</kldb>
+      <isco schluessel="2636">Religious professionals</isco>
+      <dkz codenr="83314-113" refid="74188">Rabbiner/in</dkz>
+      <dkz codenr="83314-111" refid="58749">Theologe/Theologin - katholisch</dkz>
+      <dkz codenr="83314-102" refid="9882">Pastoralreferent/in</dkz>
+      <dkz codenr="83314-104" refid="14078">Katholischer Pfarrer</dkz>
+      <dkz codenr="83314-105" refid="14079">Evangelische/r Pfarrer/in</dkz>
+      <dkz codenr="83314-106" refid="15460">Imam</dkz>
+      <dkz codenr="83314-110" refid="58699">Theologe/Theologin - evangelisch</dkz>
+      <dkz codenr="83314-112" refid="59633">Theologe/Theologin - orthodox</dkz>
+      <dkz codenr="83314-114" refid="90388">Theologe/Theologin - islamisch</dkz>
+      <dkz codenr="83314-115" refid="100512">Theologe/Theologin - Freikirchen</dkz>
+      <dkz codenr="83314-167" refid="122501">Theologe/Theologin - jüdisch</dkz>
+      <dkz codenr="83314-168" refid="126809">Pastor/in - Freikirchen</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="8026">Bischof/Bischöfin</abgrenzung>
+  <abgrenzung typ="hoch" refid="8044">Gemeindepädagoge/-pädagogin</abgrenzung>
+  <abgrenzung typ="mittel" refid="1101">Philosoph/in / Religionswissenschaftler/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

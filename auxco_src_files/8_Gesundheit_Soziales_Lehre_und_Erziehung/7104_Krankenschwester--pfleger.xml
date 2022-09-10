@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7104</id>
+  <taetigkeit>Betreuung und Pflege von Patienten sowie die Unterstützung von Ärzten in Krankenhäusern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. mit ärztlichen Fachkräften zusammenarbeiten und bei ärztlichen Maßnahmen assistieren; Medikamente verabreichen und den Gesundheitszustand von Patienten sowie ihre Reaktion auf Behandlungen überwachen; bei erforderlichen medizinischen Sofortmaßnahmen mitwirken; bei der Organisation und Planung von Pflegemaßnahmen und der Betreuung einzelner Patienten unterstützen</taetigkeitsbeschreibung>
+  <bezeichnung>Krankenschwester/-pfleger</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="81313">Fachkrankenpflege - Spezialist</kldb>
+      <isco schluessel="3221">Nursing associate professionals</isco>
+      <dkz codenr="81313-119" refid="69691">Fachkrankenschwester/-pfleger - Palliativ- und Hospizpflege</dkz>
+      <dkz codenr="81313-118" refid="58791">Fachkrankenschwester/-pfleger - Operations-/Endoskopiedienst</dkz>
+      <dkz codenr="81313-101" refid="8822">Fachkrankenschwester/-pfleger - Psychiatrie</dkz>
+      <dkz codenr="81313-103" refid="8826">Fachkrankenschwester/-pfleger - Operationsdienst</dkz>
+      <dkz codenr="81313-105" refid="8833">Fachkrankenschwester/-pfleger - Intensivpflege/Anästhesie</dkz>
+      <dkz codenr="81313-109" refid="8847">Fachkrankenschwester/-pfleger - Onkologie</dkz>
+      <dkz codenr="81313-110" refid="8848">Fachkrankenschwester/-pfleger - Nephrologie</dkz>
+      <dkz codenr="81313-115" refid="14450">Fachkrankenschwester/-pfleger - Rehabilitation/Langzeitpfl.</dkz>
+      <dkz codenr="81313-116" refid="27724">Fachkrankenschwester/-pfleger - Endoskopie</dkz>
+      <dkz codenr="81313-112" refid="8850">Fachkrankenschwester/-pfleger - Klinische Geriatrie</dkz>
+      <dkz codenr="81302-103" refid="27355">Gesundheits- und Krankenpfleger/in</dkz>
+      <dkz codenr="81302-100" refid="8791">Krankenschwester/-pfleger</dkz>
+      <dkz codenr="81302-101" refid="8818">Kinderkrankenschwester/-pfleger</dkz>
+      <dkz codenr="81302-104" refid="27356">Gesundheits- und Kinderkrankenpfleger/in</dkz>
+      <dkz codenr="81302-102" refid="8870">Nachtwache - Pflege</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel eine berufliche Weiterbildung als Fachkrankenschwester/-pfleger erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel eine berufliche Weiterbildung als Fachkrankenschwester/-pfleger erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="3">
+      <text>Ja</text>
+      <kldb schluessel="81313">Fachkrankenpflege - Spezialist</kldb>
+      <isco schluessel="3221">Nursing associate professionals</isco>
+    </antwort>
+    <antwort position="2" anforderungsniveau="2">
+      <text>Nein</text>
+      <kldb schluessel="81302">Gesundheits-,Krankenpflege(oS)-Fachkraft</kldb>
+      <isco schluessel="3221">Nursing associate professionals</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7017">Ambulante/r Pflegediensthelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7018">Krankenpflegehelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7020">Fachkinderkrankenschwester/ -pfleger</abgrenzung>
+  <abgrenzung typ="mittel" refid="1827">Stationsleiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7065">Altenpfleger/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="7001">Arzthelfer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7100">Werkpfleger/-schwester</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

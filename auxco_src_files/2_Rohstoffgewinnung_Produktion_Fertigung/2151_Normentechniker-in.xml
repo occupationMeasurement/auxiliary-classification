@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2151</id>
+  <taetigkeit>Überwachung der Einhaltung von DIN- und ISO-Normen sowie Festlegung eigener Werksnormen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. zur Optimierung von Produktionsabläufen technische Normen erarbeiten und festlegen; spezielle Geräte und Ausrüstungen zur Verringerung von Umweltverschmutzung prüfen und modifizieren; Zeichnungen und technische Unterlagen auf normgerechte Ausführung prüfen; technische Unterstützung im Bereich Konstruktions- und Modellbau bereitstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Normentechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="27283">Technisches Zeichnen, Konstruktion und Modellbau (sonstige spezifische Tätigkeitsangabe) - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <dkz codenr="27283-100" refid="6008">Normungsexperte/-expertin</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2150">Sportgerätebauer/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2152">Sportingenieur/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1737">Konstruktionstechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

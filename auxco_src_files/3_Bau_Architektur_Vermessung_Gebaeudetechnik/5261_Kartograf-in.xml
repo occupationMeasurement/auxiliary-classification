@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5261</id>
+  <taetigkeit>Erstellung von Landkarten und anderen kartografischen Produkten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Geodaten aufbereiten und in Geoinformationssysteme einspeisen; Geodaten bearbeiten und für die Visualsierung vorbereiten; Karten, Pläne, Kataster und andere kartografische Produkte in Print- und Multimediaform erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Kartograf/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="31223">Kartografie - Spezialist</kldb>
+      <isco schluessel="3118">Draughtspersons</isco>
+      <dkz codenr="31224-102" refid="58748">Kartograf/in</dkz>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="31222">Kartografie - Fachkraft</kldb>
+      <isco schluessel="3118">Draughtspersons</isco>
+      <dkz codenr="31222-104" refid="77488">Geomatiker/in</dkz>
+      <dkz codenr="31222-101" refid="6499">Kartograf/in</dkz>
+      <dkz codenr="31222-103" refid="28628">Assistent/in - Geovisualisierung</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="31223">Kartografie - Spezialist</kldb>
+      <isco schluessel="3118">Draughtspersons</isco>
+      <dkz codenr="31224-102" refid="58748">Kartograf/in</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="31223">Kartografie - Spezialist</kldb>
+      <isco schluessel="3118">Draughtspersons</isco>
+      <dkz codenr="31224-102" refid="58748">Kartograf/in</dkz>
+    </antwort>
+    <antwort position="4" anforderungsniveau="4">
+      <text>ein abgeschlossenes Masterstudium</text>
+      <kldb schluessel="31224">Kartografie - Experte</kldb>
+      <isco schluessel="2165">Cartographers and surveyors</isco>
+      <dkz codenr="31224-102" refid="58748">Kartograf/in</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4042">Geoinformatiker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5260">Vermessungstechniker/in oder -ingeneur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

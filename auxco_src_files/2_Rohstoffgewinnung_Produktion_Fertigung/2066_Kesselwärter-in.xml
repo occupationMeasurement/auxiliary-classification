@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2066</id>
+  <taetigkeit>Bedienung und Überwachung von Dampfkesselanlagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. mit Dampfkesselanlagen Wasserdampf erzeugen; Kesselanlagen an Leitständen bedienen und überwachen; auftretende Störungen melden oder beseitigen; kleinere Reparaturen an den Anlagen ausführen</taetigkeitsbeschreibung>
+  <bezeichnung>Kesselwärter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="25122">Maschinen- und Anlagenführer/innen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8182">Steam engine and boiler operators</isco>
+      <dkz codenr="25122-108" refid="4860">Kesselwärter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2059">Maschinenschlosser/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2104">Kraftwerker/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2063">Montagehelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

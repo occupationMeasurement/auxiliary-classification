@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5281</id>
+  <taetigkeit>Überwachung der Einhaltung von behördlichen und gesetzlichen Vorschriften auf Baustellen und nach Fertigstellung des Baus</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Bauobjekte auf Einhaltung des genehmigten Bauantrages und der vorgegebenen Bauvorschriften überprüfen; Einhaltung der Unfallverhütungs-, Arbeitsschutz- und Brandschutzvorschriften auf Baustellen überwachen; Bauprojekte bei Verletzung von Bauvorschriften oder aus ähnlichen Gründen gegebenenfalls stilllegen; Einhaltung der Standards betreffend der Qualität und Sicherheit von Gebäuden und Bauten während und nach der Errichtung kontrollieren; Rohbau- und Schlussabnahmen durchführen und dokumentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Baukontrolleur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="31163">Bausachverständige und Baukontrolleure/-kontrolleurinnen - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3112">Civil engineering technicians</isco>
+      <dkz codenr="31163-101" refid="8193">Baukontrolleur/in (Sicherheitskontrolleur/in)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5254">Bausachverständiger/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1775">Bautechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

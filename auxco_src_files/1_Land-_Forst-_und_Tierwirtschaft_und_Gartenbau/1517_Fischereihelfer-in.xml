@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1517</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten in Fischereibetrieben</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. bei der chemischen und biologischen Aufbereitung des Wassers helfen; beim Düngen von Gewässern und Bekämpfen von Algen mitwirken; Boote und Fanggeräte nach Anweisung reinigen; bei seemännischen Arbeiten mitwirken; Fang einholen und sortieren; Ware für den Verkauf verladen</taetigkeitsbeschreibung>
+  <bezeichnung>Fischereihelfer/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11401">Berufe in der Fischwirtschaft (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9216">Fishery and aquaculture labourers</isco>
+      <dkz codenr="11401-101" refid="394">Helfer/in - Fischwirtschaft</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1518">Fischer/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

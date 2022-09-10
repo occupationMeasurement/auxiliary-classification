@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5077</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Brandschutz oder im Rettungsdienst</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Dienst- und Einsatzpläne erstellen; bei Bränden, Explosionen, Umweltkatastrophen und Verkehrsunfällen das Team vor Ort koordinieren; Budget überwachen und verwalten; Qualitätsmanagement sicherstellen; Fortbildungen organisieren</taetigkeitsbeschreibung>
+  <bezeichnung>Leiter/in - Rettungsstelle</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53194">Führung-Objekt-,Brandschutz,Arbeitssich.</kldb>
+      <isco schluessel="1349">Professional services managers not elsewhere classified</isco>
+      <dkz codenr="53194-100" refid="7139">Einsatzleiter/in (Rettungsdienst)</dkz>
+      <dkz codenr="53194-101" refid="7152">Wachleiter/in - Rettungsdienst</dkz>
+      <dkz codenr="53194-103" refid="8169">Beamt(er/in) - Feuerwehr (höh. techn. Dienst)</dkz>
+      <dkz codenr="53194-104" refid="8170">Einsatzleiter/in (Feuerwehr)</dkz>
+      <dkz codenr="53194-105" refid="8172">Leiter/in - Rettungsstelle</dkz>
+      <dkz codenr="53133-100" refid="8173">Beamt(er/in) - Feuerwehr (geh. techn. Dienst)</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="5076">Aufsichtsleiter/in – Sicherheitswesen</abgrenzung>
+  <abgrenzung typ="mittel" refid="5075">Sicherheitsmanager/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5065">Feuerwehrmann/-frau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

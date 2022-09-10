@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3215</id>
+  <taetigkeit>Anfertigung von Abschriften gesprochenen Texts vor allem in Geschäftszusammenhängen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Diktate und Verhandlungen aufzeichnen und in Schriftstücke umwandeln; Diktiergeräte, stenografische Kurzschrift oder Stenografiermaschinen zur Aufzeichnung des gesprochenen Wortes verwenden; aufgezeichneten Text mit dem Computer niederschreiben; fertige Schriftstücke auf korrekte Rechtschreibung und Formatierung überprüfen und an den Auftraggeber weiterleiten</taetigkeitsbeschreibung>
+  <bezeichnung>Steno- und Phonotypist/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="71432">Steno- und Phonotypisten/-typistinnen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="4131">Typists and word processing operators</isco>
+      <dkz codenr="71432-100" refid="8022">Stenotypist/in</dkz>
+      <dkz codenr="71432-102" refid="8041">Phonotypist/in</dkz>
+      <dkz codenr="71433-100" refid="13994">Parlamentsstenograf/in</dkz>
+    </default>
+    <fragetext typ="sonstige">
+      <folgefrageAktuellerBeruf>Schreiben Sie Wortprotokolle mittels stenographischer Methoden von Verhandlungen in Parlamenten oder Gerichten?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Haben Sie Wortprotokolle mittels stenographischer Methoden von Verhandlungen in Parlamenten oder Gerichten geschrieben?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1">
+      <text>Ja</text>
+      <kldb schluessel="71433">Steno- und Phonotypisten/-typistinnen - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3343">Administrative and executive secretaries</isco>
+    </antwort>
+    <antwort position="2">
+      <text>Nein</text>
+      <kldb schluessel="71432">Steno- und Phonotypisten/-typistinnen - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="4131">Typists and word processing operators</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3221">Bürohilfskraft</abgrenzung>
+  <abgrenzung typ="hoch" refid="3220">Telefonist/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

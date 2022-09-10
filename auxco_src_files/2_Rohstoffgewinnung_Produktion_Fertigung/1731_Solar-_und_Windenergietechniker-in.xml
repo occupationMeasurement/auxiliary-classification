@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1731</id>
+  <taetigkeit>Planung, Koordination und Optimierung von betrieblichen Prozessen zur regenerativen Energiegewinnung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. unter Berücksichtigung bautechnischer und wirtschaftlicher Voraussetzungen Anlagen zur Energieerzeugung planen; Einspeisung der Energie in das Stromnetz organisieren; bereits bestehende Anlagen zur regenerativen Energieerzeugung optimieren; Montage von beispielsweise Windkraftanlagen überwachen sowie die Anlage prüfen und in Betrieb nehmen; Funktionsfähigkeit von Anlagen testen; Emissionen prüfen und dazu gesetzliche Vorgaben einhalten</taetigkeitsbeschreibung>
+  <bezeichnung>Solar- und Windenergietechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="26243">Berufe in der regenerativen Energietechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3113">Electrical engineering technicians</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für diese Tätigkeit in der Regel ein abgeschlossenes Masterstudium erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="4">
+      <text>Ja</text>
+      <kldb schluessel="26244">Berufe in der regenerativen Energietechnik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2151">Electrical engineers</isco>
+      <dkz codenr="26244-104" refid="59385">Ingenieur/in - Erneuerbare Energien</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="3">
+      <text>Nein</text>
+      <kldb schluessel="26243">Berufe in der regenerativen Energietechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3113">Electrical engineering technicians</isco>
+      <dkz codenr="26243-101" refid="29363">Techniker/in - Windenergietechnik</dkz>
+      <dkz codenr="26243-100" refid="15492">Solartechniker/in</dkz>
+      <dkz codenr="26243-108" refid="122261">Fachwirt/in - Solartechnik</dkz>
+      <dkz codenr="26243-109" refid="126754">Servicemonteur/in - Windenergieanlagentechnik</dkz>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2106">Technische/r Assistent/in für regenerative Energietechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="2104">Kraftwerker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2129">Leiter/in - Energietechnik</abgrenzung>
+  <abgrenzung typ="mittel" refid="2105">Kraftwerksingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

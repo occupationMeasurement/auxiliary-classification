@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4003</id>
+  <taetigkeit>Präparierung von menschlichem und tierischen Gewebe zu Übungszwecken sowie Unterstützung von Pathologen oder Rechtsmedizinern</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. biologisches Material katalogisieren und konservieren; Präparate zu medizinischen Übungszwecken herstellen; pathologische Gewebeproben entnehmen; chirurgische Instrumente für die Pathologie und Rechtsmedizin desinfizieren; Unterstützung von Fachärzten/-ärztinnen bei Leichenöffnungen</taetigkeitsbeschreibung>
+  <bezeichnung>Fachkraft für medizinisch-biologische Präparation</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41222">Biologische Präparation - Fachkraft</kldb>
+      <isco schluessel="3212">Medizintechniker im Bereich Labor und Pathologie</isco>
+      <dkz codenr="41222-100" refid="2712">Präparationstechnische/r Assistent/in</dkz>
+      <dkz codenr="41222-101" refid="9003">Medizinische/r Sektions- und Präparationsassistent/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="4001">Biologisch-Technische/r Assistent/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="7009">Medizinisch-technische/r Laboratoriumsassistent/in (MTLA)</abgrenzung>
+  <abgrenzung typ="mittel" refid="1301">Fachkraft - Präparator/in in Museen</abgrenzung>
+  <abgrenzung typ="hoch" refid="4999">Fachkraft für Präparation in naturkundlichen Museen</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

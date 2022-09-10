@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9213</id>
+  <taetigkeit>Reinigung, Sortierung und Aufbereitung von rohem Ton, Sand, Kies oder anderem Gestein</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rohstoffe zerkleinern, mischen, mahlen, extrahieren, separieren oder klassieren; Misch- und Scheideanlagen sowie Wasch-, Trocknungs- und Förderanlagen bedienen, reinigen und warten</taetigkeitsbeschreibung>
+  <bezeichnung>Aufbereitungsmechaniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="21212">Berufe in der Naturstein- und Mineralaufbereitung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8112">Mineral and stone processing plant operators</isco>
+    </default>
+    <fragetext typ="anforderungsniveau">
+      <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" anforderungsniveau="1">
+      <text>eine kurze Anlernphase</text>
+      <kldb schluessel="21201">Berufe in der Naturstein- und Mineralaufbereitung und -verarbeitung und Baustoffherstellung (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="9329">Manufacturing labourers not elsewhere classified</isco>
+      <dkz codenr="21201-101" refid="880">Helfer/in - Naturstein- und Mineralaufber., Baustoffherst.</dkz>
+    </antwort>
+    <antwort position="2" anforderungsniveau="2">
+      <text>eine abgeschlossene Berufsausbildung</text>
+      <kldb schluessel="21212">Berufe in der Naturstein- und Mineralaufbereitung - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="8112">Mineral and stone processing plant operators</isco>
+      <dkz codenr="21212-109" refid="816">Aufbereitungsmechaniker/in - Feuerfeste/keramische Rohstoffe</dkz>
+      <dkz codenr="21212-110" refid="817">Aufbereitungsmechaniker/in - Naturstein</dkz>
+      <dkz codenr="21212-111" refid="818">Aufbereitungsmechaniker/in - Sand und Kies</dkz>
+      <dkz codenr="21212-116" refid="844">Naturwerksteinmechaniker/in - Maschinenbearbeitungstechnik</dkz>
+      <dkz codenr="21212-118" refid="873">Natursteinschleifer/in</dkz>
+      <dkz codenr="21212-117" refid="845">Naturwerksteinmechaniker/in - Schleiftechnik</dkz>
+    </antwort>
+    <antwort position="3" anforderungsniveau="3">
+      <text>eine berufliche Weiterbildung</text>
+      <kldb schluessel="21213">Berufe in der Naturstein- und Mineralaufbereitung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3117">Mining and metallurgical technicians</isco>
+    </antwort>
+    <antwort position="4" anforderungsniveau="3">
+      <text>ein abgeschlossenes Bachelorstudium</text>
+      <kldb schluessel="21213">Berufe in der Naturstein- und Mineralaufbereitung - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3117">Mining and metallurgical technicians</isco>
+    </antwort>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9212">Kohleaufbereiter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9216">Steinmetz/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="9208">Bergmann/-frau</abgrenzung>
+  <abgrenzung typ="hoch" refid="1751">Helfer/in - Mineralgewinnung, -aufbereitung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

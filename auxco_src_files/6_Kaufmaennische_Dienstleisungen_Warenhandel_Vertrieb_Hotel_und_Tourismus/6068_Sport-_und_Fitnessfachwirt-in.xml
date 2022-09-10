@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>6068</id>
+  <taetigkeit>Organisation und Koordination von Angeboten und Dienstleistungen im Sport- und Fitnessbereich nach kaufmännischen Gesichtspunkten</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kontakte zu Sponsoring- und Werbepartnern herstellen und pflegen; die Geschäftskorrespondenz übernehmen; bei der Erstellungs von Budgets mitwirken und Kosten überwachen; den Materialbedarf von Sport- und Fitnessgeräten oder Massagebänken ermitteln; Massagen oder Sportartikelverkauf organisieren; Sportevents planen und die Umsetzung koordinieren; Verträge für Geschäftspartner entwerfen; die Arbeit von Sport- und Fitnesskaufleuten beaufsichtigen und koordinieren</taetigkeitsbeschreibung>
+  <bezeichnung>Sport- und Fitnessfachwirt/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="63123">Sport,Fitnesskaufl.Sportmanag-Spezialist</kldb>
+      <isco schluessel="3343">Administrative and executive secretaries</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="6067">Sport- und Fitnessökonom/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6053">Sport- und Fitnesskaufmann/-frau</abgrenzung>
+  <abgrenzung typ="mittel" refid="6048">Fitnesstrainer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="6102">Konferenz- und Veranstaltungsplaner</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

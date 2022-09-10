@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5084</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung in einer Justizvollzugsanstalt</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Vollzugsplanung übernehmen; Anordnung von Sicherheits- und Disziplinarmaßnahmen; Entscheidungen über Vollzugslockerungen treffen; Strategien und Maßnahmen zur Wiedereingliederung der Straftäter entwickeln; Mitarbeiter einteilen</taetigkeitsbeschreibung>
+  <bezeichnung>Gefängnisdirektor/in (höherer Dienst)</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="53244">Justizvollzugsdienst - Experte</kldb>
+      <isco schluessel="1349">Professional services managers not elsewhere classified</isco>
+      <dkz codenr="53244-100" refid="90612">Betriebsleiter/in - Justiz-, Strafvollzugsdienst</dkz>
+      <dkz codenr="53244-101" refid="90650">Gefängnisdirektor/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5082">Justizwachtmeister/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="8083">Justizvollzugsfachwirt/in (gehobener Justizvollzugsdienst)</abgrenzung>
+  <abgrenzung typ="mittel" refid="5078">Polizeivollzugsbeamter/-beamtin</abgrenzung>
+  <abgrenzung typ="mittel" refid="5079">Kriminalbeamter/-beamtin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2050</id>
+  <taetigkeit>Entwurf und Konstruktion von feinwerktechnischen Geräten, Systemen oder Systemteilen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. feinwerktechnische Geräte unter Berücksichtigung verschiedener Anforderungen entwerfen und dimensionieren; statische und dynamische Belastungen von Bauteilen berechnen; technische Prozesse wirtschaftlich und termingerecht planen; für Instandhaltung von Werkzeugen und Maschinen sorgen</taetigkeitsbeschreibung>
+  <bezeichnung>Feinwerktechniker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="24513">Berufe in der Feinwerktechnik - komplexe Spezialistentätigkeiten</kldb>
+      <isco schluessel="3115">Mechanical engineering technicians</isco>
+      <dkz codenr="24513-103" refid="5441">Techniker/in - Feinwerktechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="2048">Feinmechaniker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="2051">Feinwerktechnikingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="2058">Feinwerkmechanikermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1722">Maschinenbauingenieur/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1848">Waffentechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

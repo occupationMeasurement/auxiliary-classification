@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9047</id>
+  <taetigkeit>Planung, Koordination und Optimierung der Herstellungsprozesse von Astronautennahrung, Sportlernahrung, und ähnlicher Spezialnahrung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Lebensmittelproduktion planen, leiten und überwachen; Rohwaren einkaufen und Qualität beurteilen; Verträge mit Lieferanten schließen; Rezepturen für Trockennahrung entwickeln und verbessern; Verpackung bzw. Abfüllung der Lebensmittel steuern; Verpackungsmaschinen entwickeln und verbessern; Qualitätsstandards entwickeln und die Umsetzung kontrollieren; die Einhaltung der lebensmittelrechtlichen Bestimmungen und Qualitätsstandards sicherstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Lebensmittelingenieur/in für Spezialnahrung</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29284">Berufe in der Lebensmittelherstellung (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2145">Chemical engineers</isco>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="9049">Lebensmitteltechniker/in - Feinkost, Fertiggerichte, Obstverwertung</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

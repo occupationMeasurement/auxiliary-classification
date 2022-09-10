@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9041</id>
+  <taetigkeit>Ausführung von Hilfsarbeiten bei der Herstellung von Lebensmitteln</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Rohstoffe, Halbfertig- und Fertigprodukte annehmen und lagern; Zutaten für die Produktion bereitstellen; Fachkräfte beim Einrichten, Bedienen und Beschicken sowie beim Reinigen und Pflegen von Maschinen und Abfüllanlagen unterstützen; Filter-, Misch- und Umpumpanlagen der Getränketechnik nach Vorgabe bedienen; den Maschinenlauf überwachen und bei Störungen Fachkräfte informieren; Sortier- und Reinigungsaufgaben übernehmen; fertige Waren lagern; Maschinen zum Abfüllen, Verschließen und Etikettieren von Verpackungen bedienen und überwachen</taetigkeitsbeschreibung>
+  <bezeichnung>Helfer/in - Lebensmitteltechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="29201">Berufe in der Lebensmittelherstellung (ohne Spezialisierung) - Helfer-/Anlerntätigkeiten</kldb>
+      <isco schluessel="8160">Food and related products machine operators</isco>
+      <dkz codenr="29201-116" refid="58529">Helfer/in - Lebensmittelherstellung</dkz>
+      <dkz codenr="51311-103" refid="4710">Abfüller/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="9078">Küchenhilfe</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5169</id>
+  <taetigkeit>Führungsaufgaben mit Personalverantwortung im Musikinstrumentenbau</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Kunden beim Kauf von Musikinstrumenten beraten; Kostenvoranschläge erstellen; Hilfsmittel, Geräte und Maschinen auswählen und einkaufen; sicherstellen, dass Rohstoffe in ausreichender Menge vorrätig sind; über Investitionen und die Auswahl der Betriebsmittel entscheiden; Arbeitspläne für die Mitarbeiter/innen erstellen</taetigkeitsbeschreibung>
+  <bezeichnung>Meister/in- Musikinstrumentenbau</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="93693">Aufsicht - Musikinstrumentenbau</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+      <dkz codenr="93693-100" refid="2640">Klavier- und Cembalobauermeister/in</dkz>
+      <dkz codenr="93693-101" refid="2654">Orgel- und Harmoniumbauermeister/in</dkz>
+      <dkz codenr="93693-103" refid="2667">Metallblasinstrumentenmachermeister/in</dkz>
+      <dkz codenr="93693-104" refid="2671">Bogenmachermeister/in</dkz>
+      <dkz codenr="93693-105" refid="2672">Geigenbauermeister/in</dkz>
+      <dkz codenr="93693-106" refid="2678">Zupfinstrumentenmachermeister/in</dkz>
+      <dkz codenr="93693-107" refid="2684">Holzblasinstrumentenmachermeister/in</dkz>
+      <dkz codenr="93693-108" refid="2693">Handzuginstrumentenmachermeister/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5154">Musikinstrumentenbauer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5156">Ingenieur/in- Musikinstrumentenbau</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

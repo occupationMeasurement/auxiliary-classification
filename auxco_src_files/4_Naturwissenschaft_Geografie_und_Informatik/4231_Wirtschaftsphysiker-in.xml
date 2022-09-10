@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>4231</id>
+  <taetigkeit>Anwendung physikalischer Theorien und Methoden auf Wirtschafts- und Produktionsabläufe</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. neue Messgeräte für die optischen Industrie oder Halbleitertechnik entwickeln; Verkehrssituationen modellieren und so zur Optimierung von Verkehrsnetzen beitragen; mit Methoden der Mathematik, Statistik und Physik Prognosen zur Entwicklung ökonomischer Größen erstellen (z.B. für Börsenkurse)</taetigkeitsbeschreibung>
+  <bezeichnung>Wirtschaftsphysiker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="41484">Physik (s.s.T.) - Experte</kldb>
+      <isco schluessel="2111">Physicists and astronomers</isco>
+      <dkz codenr="41484-119" refid="59543">Wirtschaftsphysiker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1793">Physiker/in</abgrenzung>
+  <abgrenzung typ="hoch" refid="1796">Laborleiter/in - Physik, Werk- und Baustoffprüfung</abgrenzung>
+  <abgrenzung typ="mittel" refid="4019">Physik-Ingenieur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

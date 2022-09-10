@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5283</id>
+  <taetigkeit>Decken von Dächern und Montage von Dachfenstern, Dachrinnen, Blitzschutz- oder Solaranlagen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. temporäre Hilfskonstruktionen wie Dachaufzüge, Gerüste und Leitern aufstellen; Flach- und Steildächer mit Dachziegeln, Dachsteinen, Schiefer, Schindeln oder Reet eindecken; Dachdeckmaterial ausmessen und schneiden; Dachfenster und Dachrinnen einbauen; Wärmedämmungen und Dach-sowie Bauwerksabdichtungen anbringen; Flachdächer mit Oberflächenschutz versehen; Blitzschutzanlagen errichten; Bleche für Anschlüsse von Schornsteinen anbringen</taetigkeitsbeschreibung>
+  <bezeichnung>Dachdecker/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="32142">Berufe in der Dachdeckerei - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="7121">Roofers </isco>
+      <dkz codenr="32142-100" refid="4035">Dachdecker/in - Dach-, Wand- und Abdichtungstechnik</dkz>
+      <dkz codenr="32142-102" refid="4041">Schieferdachdecker/in</dkz>
+      <dkz codenr="32142-103" refid="4042">Ziegeldachdecker/in</dkz>
+      <dkz codenr="32142-104" refid="4044">Flachdachdecker/in</dkz>
+      <dkz codenr="32142-106" refid="4047">Dachdecker/in - Reetdachtechnik</dkz>
+      <dkz codenr="32142-108" refid="4051">Dachdecker/in und Bauklempner/in</dkz>
+      <dkz codenr="32142-110" refid="4057">Schindeldachdecker/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="1854">Bauhelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5292">Zimmerer/Zimmerin</abgrenzung>
+  <abgrenzung typ="mittel" refid="3024">Bauwerksabdichter/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5327">Klempner/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5265">Fassadenmonteur/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>2144</id>
+  <taetigkeit>Begleitung von patentrechtlichen Fragestellungen aus technischer Sicht</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. potentielle Erfindungen erkennen und die technischen Eigenschaften und deren Schutzwürdigkeit darstellen; Unternehmen oder Privatpersonen, die Erfindungen gemacht haben, von technischer Seite bezüglich der Schutzrechte betreuen und beraten; in Zusammenarbeit mit Juristen eingehende technische Patentanträge prüfen; Entwicklung von Prototypen leiten; die Ausstattung der Bundeswehr mit hochwertiger Technik und IT-Systemen sicherstellen; Produkte und Geräte der Tropentechnik entwickeln</taetigkeitsbeschreibung>
+  <bezeichnung>Patentingenieur/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="27184">Berufe in der technischen Forschung und Entwicklung (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="27184-101" refid="8254">Beamt(er/in) - Deutsches Patentamt (höh. Dienst)</dkz>
+      <dkz codenr="27184-116" refid="59395">Patentingenieur/in</dkz>
+      <dkz codenr="27184-117" refid="100528">Zulassungsbeauftragte/r</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3530">Rechtliche/r Berater/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

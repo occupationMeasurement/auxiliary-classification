@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>3586</id>
+  <taetigkeit>Planung, Koordination und Überwachung von Geschäftsaktivitäten in Versicherungen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. den Versicherungsmarkt analysieren; Privat- und Firmenkunden akquirieren und betreuen; Kunden bei Vertragsanpassungen und Schadensfällen beraten; Wirtschaftlichkeitsberechnungen von Versicherungskonzepten durchführen; Risikoanalysen erstellen und daraus Versicherungskonzepte ausarbeiten; Kunden über individuell zugeschnittenen Versicherungsschutz beraten; Ziele und Maßstäbe für das eigene Unternehmen formulieren</taetigkeitsbeschreibung>
+  <bezeichnung>Versicherungsberater/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="72134">Versicherungskaufleute - Experte</kldb>
+      <isco schluessel="2412">Financial and investment advisers</isco>
+      <dkz codenr="72134-105" refid="59227">Betriebswirt/in (Hochschule) - Versicherung</dkz>
+      <dkz codenr="72134-103" refid="6880">Versicherungsberater/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="3584">Versicherungsagent/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

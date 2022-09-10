@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>7096</id>
+  <taetigkeit>Planung, Koordination und Optimierung der Entwicklung und Produktion othopädietechnischer oder rehabilitationstechnischer Geräte</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Instandhaltungspläne und -programme entwerfen, planen und überwachen; potenzielle Gefahren der Geräte und Hilfsmittel identifizieren und dagegen vorgehen; die Einführung der neuen Geräte und Hilfsmittel planen und betreuen; Gerätebeschreibungen erarbeiten; Kunden über den richtigen Gebrauch beraten</taetigkeitsbeschreibung>
+  <bezeichnung>Ingenieur/in - Orthopädie- und Rehatechnik</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="82514">Berufe in der Orthopädie- und Rehatechnik - hoch komplexe Tätigkeiten</kldb>
+      <isco schluessel="2149">Engineering professionals not elsewhere classified</isco>
+      <dkz codenr="82514-102" refid="59393">Ingenieur/in - Orthopädie- und Rehatechnik</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="7094">Orthopädietechnik-Mechaniker/In</abgrenzung>
+  <abgrenzung typ="hoch" refid="1830">Orthopädietechnikermeister/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1829">Medizintechniker/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>1511</id>
+  <taetigkeit>Haltung und Zucht von Haustieren zum Verkauf oder zur Präsentation auf Leistungsschauen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. geeignete Tiere für die Zucht auswählen und Zuchtbuch führen; zeitgerechte Deckung organisieren; Geburtshilfe durchführen; Brutpaare betrachten; bei Bedarf Jungtiere von Hand aufziehen; Tiere artgerecht versorgen; Tierunterkünfte reinigen; Tiere an Endkunden oder Zoofachhandlungen verkaufen; Tiere auf Ausstellungen oder Zucht- und Leistungsschauen präsentieren</taetigkeitsbeschreibung>
+  <bezeichnung>Haustierzüchter/in</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="11282">Berufe in der Tierwirtschaft (sonstige spezifische Tätigkeitsangabe) - fachlich ausgerichtete Tätigkeiten</kldb>
+      <isco schluessel="6129">Animal producers not elsewhere classified</isco>
+      <dkz codenr="11282-103" refid="370">Vogelzüchter/in</dkz>
+      <dkz codenr="11282-105" refid="372">Hundezüchter/in</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="hoch" refid="1852">Zuchtbuchführer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="1512">Pelztierzüchter/in</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>

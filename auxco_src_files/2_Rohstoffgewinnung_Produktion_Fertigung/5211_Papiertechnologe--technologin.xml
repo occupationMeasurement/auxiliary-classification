@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>5211</id>
+  <taetigkeit>Bedienung, Kalibrierung und Überwachung von Papiermaschinen</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. Grundstoffe der Papierherstellung maschinell aufbereiten; Leim- und Farbstoffe je nach gewünschtem Ergebnis auswählen und zum Stoffgemisch geben; Maschinenteile je nach Anforderungen einbauen; Stoffgemische zur Papiermaschine pumpen; Lauf durch die Walzen der Pressen- und Trockenpartie überwachen und bei Störungen eingreifen; fertige Papierrollen zuschneiden, kontrollieren und verpacken</taetigkeitsbeschreibung>
+  <bezeichnung>Papiertechnologe/-technologin</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="23112">Papierherstellung - Fachkraft</kldb>
+      <isco schluessel="8171">Pulp and papermaking plant operators</isco>
+      <dkz codenr="23112-126" refid="78271">Papiertechnologe/-technologin</dkz>
+      <dkz codenr="23112-101" refid="1238">Papiermacher/in - Papier-Karton-Pappe</dkz>
+      <dkz codenr="23112-122" refid="33352">Papiertechnologe/-technologin - Papier-Karton-Pappe</dkz>
+      <dkz codenr="23112-100" refid="1237">Papiermacher/in - Zellstoff</dkz>
+      <dkz codenr="23112-123" refid="33354">Papiertechnologe/-technologin - Zellstoff</dkz>
+    </default>
+  </untergliederung>
+  <abgrenzung typ="mittel" refid="5210">Papierverarbeitungshelfer/in</abgrenzung>
+  <abgrenzung typ="mittel" refid="5212">Techniker/in - Papiertechnik</abgrenzung>
+  <abgrenzung typ="hoch" refid="5214">Packmitteltechnologe/-technologin</abgrenzung>
+  <notes>
+    <note date="1970-01-01">empty</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>
