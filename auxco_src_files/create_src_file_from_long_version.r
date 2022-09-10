@@ -1,3 +1,8 @@
+#####
+# file is not used regularly. It was used once to split up the single file into the current system.
+# It is now kept here in case we need to make write changes to all the files at once.
+
+
 # to replace complete hilfsklassifikation, replace line 8 with 'for (cat_num in 1:1132) {'
 library(xml2)
 library(data.table)
