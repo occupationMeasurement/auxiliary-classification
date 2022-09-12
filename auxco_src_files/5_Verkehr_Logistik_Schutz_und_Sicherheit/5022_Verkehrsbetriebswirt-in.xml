@@ -13,8 +13,8 @@
       <dkz codenr="51613-104" refid="14064">Fachwirt/in - Verkehr</dkz>
     </default>
     <fragetext typ="anforderungsniveau">
-      <folgefrageAktuellerBeruf>Ist für Ihrer Tätigkeit in der Regel ein abgeschlossenes Masterstudium der Verkehrswirtschaft erforderlich?</folgefrageAktuellerBeruf>
-      <folgefrageVergangenerBeruf>War für Ihrer Tätigkeit in der Regel ein abgeschlossenes Masterstudium der Verkehrswirtschaft erforderlich?</folgefrageVergangenerBeruf>
+      <folgefrageAktuellerBeruf>Ist für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium der Verkehrswirtschaft erforderlich?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>War für Ihre Tätigkeit in der Regel ein abgeschlossenes Masterstudium der Verkehrswirtschaft erforderlich?</folgefrageVergangenerBeruf>
     </fragetext>
     <antwort position="1" anforderungsniveau="4">
       <text>Ja</text>
