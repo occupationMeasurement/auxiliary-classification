@@ -383,7 +383,7 @@ auxco_categories[
   kldb_title_short := "Farb- und Lacktechnik (ohne Spezialisierung)"
 ]
 auxco_categories[
-  title %in% c("Helfer/in - Holz und Flechtwaren", 
+  title %in% c("Helfer/in - Holz und Flechtwaren",
   "Holzbearbeitungsmechaniker/in", "Holztechniker/in", "Holzingenieur/in"),
   kldb_title_short := "Holzbe- und -verarbeitung (ohne Spezialisierung)"
 ]
@@ -610,6 +610,7 @@ for (cat_num in seq_along(ids)) { #
             answer_kldb_id = "",
             answer_isco_id = "",
             explicit_has_followup = "",
+            corresponding_answer_level = "",
             list_of_answer_ids = NA
           )
         )
@@ -629,6 +630,41 @@ for (cat_num in seq_along(ids)) { #
         xml_attr("schluessel")
       if (length(answer_isco_id) == 0) answer_isco_id <- ""
 
+      # Convert certain answers with standardized levels
+      if (question_type %in% c("aufsicht", "anforderungsniveau")) {
+        answer_level_raw <- folgefrage_node |>
+          xml_attr(question_type)
+
+        # Recode to correspond to isco standards
+        level_conversions <- list(
+          aufsicht = c(
+            "keine Führungsverantwortung" = "isco_not_supervising",
+            "Aufsichtskraft" = "isco_supervisor",
+            "Führungskraft" = "isco_manager"
+          ),
+          anforderungsniveau = c(
+            "1" = "isco_skill_level_1",
+            "2" = "isco_skill_level_2",
+            "3" = "isco_skill_level_3",
+            "4" = "isco_skill_level_4"
+          )
+        )
+
+        stopifnot(
+          question_type %in% names(level_conversions) &&
+          answer_level_raw %in% names(level_conversions[[question_type]])
+        )
+
+        # Pick the correct level from level_conversions
+        corresponding_answer_level <- level_conversions[[
+          question_type
+        ]][
+          answer_level_raw
+        ]
+      } else {
+        corresponding_answer_level <- ""
+      }
+
       auxco_followup_questions <- rbind(
         auxco_followup_questions,
         cbind(data.table(
@@ -643,6 +679,7 @@ for (cat_num in seq_along(ids)) { #
           answer_kldb_id,
           answer_isco_id,
           explicit_has_followup,
+          corresponding_answer_level,
           list_of_answer_ids = NA
         ))
       )
@@ -686,6 +723,7 @@ for (cat_num in seq_along(ids)) { #
             answer_kldb_id = condition_kldb_id,
             answer_isco_id = condition_isco_id,
             explicit_has_followup = "",
+            corresponding_answer_level = "",
             list_of_answer_ids = list(aggregated_answer_ids)
           )
         )
