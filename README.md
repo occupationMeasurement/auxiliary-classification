@@ -1,7 +1,6 @@
 # German Auxiliary Classification of Occupations (AuxCO) // Berufs-Hilfsklassifikation mit Tätigkeitsbeschreibungen
 
 This folder contains the electronic appendix of the following publication:
-Dieser Ordner enthält den elektronischen Anhang zu folgender Publikation:
 
 Schierholz, Malte; Brenner, Lorraine; Cohausz, Lea; Damminger, Lisa; Fast, Lisa; Hörig, Ann-Kathrin; Huber, Anna-Lena; Ludwig, Theresa; Petry, Annabell; Tschischka, Laura (2018):
  Vorstellung einer Hilfsklassifikation mit Tätigkeitsbeschreibungen für Zwecke der Berufskodierung.
@@ -16,14 +15,16 @@ The folder ```auxco_src_files``` contains the auxiliary classification source fi
 
 ```
 install.packages(c("xml2", "data.table", "stringdist"))
-source("https://raw.githubusercontent.com/malsch/occupationCodingAuxco/master/generate_CSVs.R")
+source("https://raw.githubusercontent.com/occupationMeasurement/auxiliary-classification/master/generate_CSVs.R")
 ```
+
+There exists a brief [documentation](docs/generated_CSVs.md) of the tabular data files.
 
 # Changelog
 
 * 12.09.2022: Forked from https://github.com/malsch/occupationCodingAuxco/. Some content corrected (minor). AuxCo-Explorer no longer supported.
 
-* 12.09.2022: New format: one xml-file for each answer option; output tables revised
+* 12.09.2022: New format: one xml-file for each answer option; output tables revised, some content added that was previously not part of AuxCO
 
 # Mitwirkende
 Folgende Personen waren bei der Erstellung beteiligt.
