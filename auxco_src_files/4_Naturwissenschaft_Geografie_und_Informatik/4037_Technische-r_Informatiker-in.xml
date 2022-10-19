@@ -24,35 +24,27 @@
     </fragetext>
     <antwort position="1">
       <text>Konzeption von speziellen IT-Systemen für verschiedene Aufgaben und Anwenderbedürfnisse</text>
-      <isco schluessel="2511">Systems analysts</isco>
     </antwort>
     <antwort position="2">
       <text>Entwurf und Entwicklung von Computersoftware</text>
-      <isco schluessel="2512">Software developers</isco>
     </antwort>
     <antwort position="3">
       <text>Entwicklung von Steuerprogrammen für elektrotechnische Geräte und Maschinen</text>
-      <isco schluessel="2152">Electronics engineers</isco>
     </antwort>
     <antwort position="4">
       <text>Entwicklung und Wartung von Code</text>
-      <isco schluessel="2514">Application Programmers</isco>
     </antwort>
     <antwort position="5">
       <text>Verwaltung von Netzwerkdaten und Computernetzwerken</text>
-      <isco schluessel="3513">Computer network and systems technicians</isco>
     </antwort>
     <antwort position="6">
       <text>Überwachung von Hardware, Software und Computerzubehör; um optimale Leistung zu garantieren</text>
-      <isco schluessel="3511">Information and communications technology operations technicians</isco>
     </antwort>
     <antwort position="7">
       <text>Erforschung und Weiterentwicklung von Netzwerkarchitekturen zur Leistungsoptimierung</text>
-      <isco schluessel="2523">Computer Network Professionals</isco>
     </antwort>
     <antwort position="8">
       <text>Oder etwas anderes?</text>
-      <isco schluessel="????">Freitextantwort</isco>
     </antwort>
     <fragetext typ="anforderungsniveau">
       <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
@@ -60,20 +52,134 @@
     </fragetext>
     <antwort position="1" anforderungsniveau="2">
       <text>eine abgeschlossene Berufsausbildung</text>
-      <kldb schluessel="43122">Technische Informatik - Fachkraft</kldb>
     </antwort>
     <antwort position="2" anforderungsniveau="3">
       <text>eine vertiefende berufliche Weiterbildung mit Mindestdauer von 18 Monaten</text>
-      <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
     </antwort>
     <antwort position="3" anforderungsniveau="3">
       <text>ein abgeschlossenes Bachelorstudium in Informatik, Wirtschafsinformatik oder ein vergleichbares Studium</text>
-      <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
     </antwort>
     <antwort position="4" anforderungsniveau="4">
       <text>ein abgeschlossenes Masterstudium in Informatik, Wirtschafsinformatik oder ein vergleichbares Studium</text>
-      <kldb schluessel="43124">Technische Informatik - Experte</kldb>
     </antwort>
+
+    <aggregation>
+      <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="1">
+        <isco schluessel="2511">Systems analysts</isco>
+        <kldb schluessel="43122">Technische Informatik - Fachkraft</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="1">
+        <isco schluessel="2512">Software developers</isco>
+        <kldb schluessel="43122">Technische Informatik - Fachkraft</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="3" frage_2_antwort_pos="1">
+        <isco schluessel="2152">Electronics engineers</isco>
+        <kldb schluessel="43122">Technische Informatik - Fachkraft</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="4" frage_2_antwort_pos="1">
+        <isco schluessel="2514">Application Programmers</isco>
+        <kldb schluessel="43122">Technische Informatik - Fachkraft</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="5" frage_2_antwort_pos="1">
+        <isco schluessel="3513">Computer network and systems technicians</isco>
+        <kldb schluessel="43122">Technische Informatik - Fachkraft</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="6" frage_2_antwort_pos="1">
+        <isco schluessel="3511">Information and communications technology operations technicians</isco>
+        <kldb schluessel="43122">Technische Informatik - Fachkraft</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="7" frage_2_antwort_pos="1">
+        <isco schluessel="2523">Computer Network Professionals</isco>
+        <kldb schluessel="43122">Technische Informatik - Fachkraft</kldb>
+      </bedingung>
+
+      <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="2">
+        <isco schluessel="2511">Systems analysts</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="2">
+        <isco schluessel="2512">Software developers</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="3" frage_2_antwort_pos="2">
+        <isco schluessel="2152">Electronics engineers</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="4" frage_2_antwort_pos="2">
+        <isco schluessel="2514">Application Programmers</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="5" frage_2_antwort_pos="2">
+        <isco schluessel="3513">Computer network and systems technicians</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="6" frage_2_antwort_pos="2">
+        <isco schluessel="3511">Information and communications technology operations technicians</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="7" frage_2_antwort_pos="2">
+        <isco schluessel="2523">Computer Network Professionals</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+
+      <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="3">
+        <isco schluessel="2511">Systems analysts</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="3">
+        <isco schluessel="2512">Software developers</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="3" frage_2_antwort_pos="3">
+        <isco schluessel="2152">Electronics engineers</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="4" frage_2_antwort_pos="3">
+        <isco schluessel="2514">Application Programmers</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="5" frage_2_antwort_pos="3">
+        <isco schluessel="3513">Computer network and systems technicians</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="6" frage_2_antwort_pos="3">
+        <isco schluessel="3511">Information and communications technology operations technicians</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="7" frage_2_antwort_pos="3">
+        <isco schluessel="2523">Computer Network Professionals</isco>
+        <kldb schluessel="43123">Technische Informatik - Spezialist</kldb>
+      </bedingung>
+
+      <bedingung frage_1_antwort_pos="1" frage_2_antwort_pos="4">
+        <isco schluessel="2511">Systems analysts</isco>
+        <kldb schluessel="43124">Technische Informatik - Experte</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="2" frage_2_antwort_pos="4">
+        <isco schluessel="2512">Software developers</isco>
+        <kldb schluessel="43124">Technische Informatik - Experte</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="3" frage_2_antwort_pos="4">
+        <isco schluessel="2152">Electronics engineers</isco>
+        <kldb schluessel="43124">Technische Informatik - Experte</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="4" frage_2_antwort_pos="4">
+        <isco schluessel="2514">Application Programmers</isco>
+        <kldb schluessel="43124">Technische Informatik - Experte</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="5" frage_2_antwort_pos="4">
+        <isco schluessel="3513">Computer network and systems technicians</isco>
+        <kldb schluessel="43124">Technische Informatik - Experte</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="6" frage_2_antwort_pos="4">
+        <isco schluessel="3511">Information and communications technology operations technicians</isco>
+        <kldb schluessel="43124">Technische Informatik - Experte</kldb>
+      </bedingung>
+      <bedingung frage_1_antwort_pos="7" frage_2_antwort_pos="4">
+        <isco schluessel="2523">Computer Network Professionals</isco>
+        <kldb schluessel="43124">Technische Informatik - Experte</kldb>
+      </bedingung>
+    </aggregation>
   </untergliederung>
   <abgrenzung typ="hoch" refid="4038">Informatiker/in</abgrenzung>
   <abgrenzung typ="hoch" refid="4250">Leiter/in - Informatik und Informationsmanagement</abgrenzung>
