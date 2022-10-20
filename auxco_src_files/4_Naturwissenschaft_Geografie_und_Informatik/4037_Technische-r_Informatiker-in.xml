@@ -43,9 +43,6 @@
     <antwort position="7">
       <text>Erforschung und Weiterentwicklung von Netzwerkarchitekturen zur Leistungsoptimierung</text>
     </antwort>
-    <antwort position="8">
-      <text>Oder etwas anderes?</text>
-    </antwort>
     <fragetext typ="anforderungsniveau">
       <folgefrageAktuellerBeruf>Welche Art von Ausbildung ist für Ihre Tätigkeit in der Regel erforderlich?</folgefrageAktuellerBeruf>
       <folgefrageVergangenerBeruf>Welche Art von Ausbildung war für diese Tätigkeit in der Regel erforderlich?</folgefrageVergangenerBeruf>
