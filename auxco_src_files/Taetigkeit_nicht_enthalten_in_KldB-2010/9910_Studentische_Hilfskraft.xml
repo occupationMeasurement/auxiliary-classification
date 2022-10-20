@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kategorie>
+  <id>9910</id>
+  <taetigkeit>Tätigkeit als studentische Hilfskraft an einer wissenschaftlichen Einrichtung</taetigkeit>
+  <taetigkeitsbeschreibung>z.B. unterstützende Aufgaben in der Forschung wahrnehmen; Tutorien abhalten; in der Hochschulverwaltung oder in Bibliotheken administrative Aufgaben übernehmen</taetigkeitsbeschreibung>
+  <bezeichnung>Studentische Hilfskraft</bezeichnung>
+  <untergliederung>
+    <default>
+      <kldb schluessel="-0030">Studentische Hilfskraft</kldb>
+      <isco schluessel="-030">Student Assistant</isco>
+    </default>
+  </untergliederung>
+  <notes>
+    <note date="2022-10-20">Studentische Hilfskraft ist nicht in KldB/ISCO enthalten. Weitere Antwortmöglichkeiten hinzufügen? man könnte noch Hausmann/-frau, Rentner, Bufti/FSJ/Zivi, arbeitslos und Schüler ergänzen. Aber dazu fehlen uns Trainingsdaten, weshalb dies zum aktuellen Zeitpunkt keinen Sinn macht.</note>
+    <note date="1970-01-01">empty</note>
+  </notes>
+</kategorie>
