@@ -311,6 +311,7 @@ auxco_categories[
 auxco_categories <- merge(
   auxco_categories,
   kldb_10[level == 4, list(kldb_id, label)],
+  all.x = TRUE,
   by.x = "kldb_id_to_match",
   by.y = "kldb_id"
 )
