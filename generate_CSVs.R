@@ -317,6 +317,12 @@ auxco_categories <- merge(
 )
 setnames(auxco_categories, "label", "kldb_title_short")
 
+# Fill missing kldb titles using the auxco title
+auxco_categories[
+  is.na(kldb_title_short),
+  kldb_title_short := title
+]
+
 # Remove "(ohne Spezialisierung)" but correct this default for some titles
 # Zentrales Kriterium: Der Zusatz "ohne Spezialisierung" wird beibehalten,
 # wenn es stärker spezialsierte Berufe gibt. Wünschenswert wäre es in solchen
