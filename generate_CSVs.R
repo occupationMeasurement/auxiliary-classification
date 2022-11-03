@@ -311,10 +311,17 @@ auxco_categories[
 auxco_categories <- merge(
   auxco_categories,
   kldb_10[level == 4, list(kldb_id, label)],
+  all.x = TRUE,
   by.x = "kldb_id_to_match",
   by.y = "kldb_id"
 )
 setnames(auxco_categories, "label", "kldb_title_short")
+
+# Fill missing kldb titles using the auxco title
+auxco_categories[
+  is.na(kldb_title_short),
+  kldb_title_short := title
+]
 
 # Remove "(ohne Spezialisierung)" but correct this default for some titles
 # Zentrales Kriterium: Der Zusatz "ohne Spezialisierung" wird beibehalten,
