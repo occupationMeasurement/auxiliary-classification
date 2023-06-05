@@ -4,7 +4,7 @@ This folder contains the electronic appendix of the following publication:
 
 Schierholz, Malte; Brenner, Lorraine; Cohausz, Lea; Damminger, Lisa; Fast, Lisa; Hörig, Ann-Kathrin; Huber, Anna-Lena; Ludwig, Theresa; Petry, Annabell; Tschischka, Laura (2018):
  Vorstellung einer Hilfsklassifikation mit Tätigkeitsbeschreibungen für Zwecke der Berufskodierung.
- (IAB-Discussion Paper, 2018), Nürnberg, 45 S. https://www.iab.de/183/section.aspx/Publikation/k180509301
+ (IAB-Discussion Paper, 2018), Nürnberg, 45 S. https://iab.de/publikationen/publikation/?id=8427505
 
 A summarized description is published in
 
