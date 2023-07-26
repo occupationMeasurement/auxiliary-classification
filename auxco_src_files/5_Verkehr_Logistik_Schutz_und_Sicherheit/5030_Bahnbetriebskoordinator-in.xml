@@ -17,5 +17,6 @@
   <notes>
     <note date="1970-01-01">empty</note>
     <note date="1970-01-01">empty</note>
+    <note date="2023-07-23">KldB-Struktur ist hier schwer nachvollziehbar und es bestehen starke Überschneidungen zu 515XX. Hier gehen wir davon aus, dass 51523 sich mit der Weiterentwicklung des Verkehrssystems Schiene beschäftigt, wohingegen 51633 die Zugfahrten planen. Straßenverkehr wird hier ignoriert (denn er ist in anderen Kategorien bereits vorgesehen)</note>
   </notes>
 </kategorie>
