@@ -66,7 +66,7 @@
   <abgrenzung typ="mittel" refid="6022">Sacharbeiter/in im Groß- und Außenhandel</abgrenzung>
   <abgrenzung typ="mittel" refid="6018">Exportleiter/in</abgrenzung>
   <notes>
-    <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">Es ist unklar, was in der Kldb der Unterschied ist zwischen 61203/4 und 61213/4 bzw. warum es die 6120X-Kategorien braucht. Hier wird 6121X interpretiert als internationaler Groß- und Außenhandel, wohingegen 6120X dann der nationale Großhandel ist.</note>
     <note date="1970-01-01">empty</note>
   </notes>
 </kategorie>
