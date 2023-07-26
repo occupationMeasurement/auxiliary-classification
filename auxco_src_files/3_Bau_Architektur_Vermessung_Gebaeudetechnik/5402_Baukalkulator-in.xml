@@ -45,5 +45,6 @@
   <notes>
     <note date="1970-01-01">empty</note>
     <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">Isco 2411 ist KldB-Umsteigeschlüssel-default und wurde von uns auch ursprünglich verwendet. Bei der Erstellung wurde der Fokus mehr auf Kalkulation und weniger auf Abrechnung gelegt, damit diese ISCO-Zuordnung leichter fiel. Die Änderung erfolgte, da Infas 2142 als passenderen Code vorschlug. 2149 wurde dann gewählt, weil im ISCO manual (aber nicht in unserer elektronischen Fasung!) die Bezeichnung quantity surveyor (= Baukalkulator) der Kategorie 2149 zugeordnet ist. Erscheint weiterhin sinnvoll, ist aber in der ISCO sehr versteckt.</note>
   </notes>
 </kategorie>
