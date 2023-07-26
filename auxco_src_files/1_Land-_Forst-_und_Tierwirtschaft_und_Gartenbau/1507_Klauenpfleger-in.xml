@@ -7,7 +7,7 @@
   <untergliederung>
     <default>
       <kldb schluessel="11213">Berufe in der Nutztierhaltung  (außer Geflügelhaltung) - komplexe Spezialistentätigkeiten</kldb>
-      <isco schluessel="6121">Livestock and dairy producers</isco>
+      <isco schluessel="5164">Livestock and dairy producers</isco>
       <dkz codenr="11213-109" refid="34991">Fachagrarwirt/in - Klauenpflege</dkz>
       <dkz codenr="11213-110" refid="93275">Klauenpfleger/in</dkz>
     </default>
@@ -17,5 +17,6 @@
   <notes>
     <note date="1970-01-01">empty</note>
     <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">empty</note>
   </notes>
 </kategorie>
