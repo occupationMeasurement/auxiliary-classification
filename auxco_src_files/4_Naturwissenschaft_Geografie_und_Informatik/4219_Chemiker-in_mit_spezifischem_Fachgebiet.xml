@@ -52,7 +52,7 @@
     <antwort position="7">
       <text>Planung und Überwachung von Geschäfts- und Produktionsprozessen in der chemischen und pharmazeutischen Industrie</text>
       <kldb schluessel="41384">Chemie (s.s.T.) - Experte</kldb>
-      <isco schluessel="2113">Chemists</isco>
+      <isco schluessel="2145">Chemists</isco>
       <dkz codenr="41384-120" refid="59249">Wirtschaftschemiker/in</dkz>
     </antwort>
     <antwort position="8">
@@ -66,7 +66,7 @@
   <abgrenzung typ="hoch" refid="4012">Ingenieur/in - Chemietechnik</abgrenzung>
   <abgrenzung typ="mittel" refid="1792">Laborleiter/in in der Chemie</abgrenzung>
   <notes>
-    <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">empty</note>
     <note date="1970-01-01">empty</note>
   </notes>
 </kategorie>
