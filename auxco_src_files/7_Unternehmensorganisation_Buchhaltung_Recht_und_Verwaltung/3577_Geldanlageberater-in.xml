@@ -56,7 +56,7 @@
   <abgrenzung typ="hoch" refid="3581">Wirtschaftsprüfer/in</abgrenzung>
   <abgrenzung typ="mittel" refid="3591">Leasing-Berater/in</abgrenzung>
   <notes>
-    <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">Folgefrage lässt zu viel Interpretationsspielraum und beschreibt dahinterstehende ISCO-Kategorien nicht genau genug. "Sekretariatstätigkeiten" deutet auf 3343 hin (nicht sinnvoll). "Unterstützung" kann als Zuarbeit einer Bürokraft interpretiert werden (Isco 4312). Aber wie geht es besser? Die Schwierigkeit ist, dass 72122 und 4312 nicht deckungsgleich sind, denn 72122 kann mehr sein als ein Backoffice und stattdessen auch in der Kundenberatung tätig sein. Aber was unterscheidet dann die Kombi 72122/3311 von 72123/3311? Mir fehlen Ideen, wie man eine entsprechende Antwort sauber formulieren kann. Oder man macht zwei Folgefragen, einmal für ISCO (4312 = nur administrativ tätig vs. 3311 = aktiv Käufe durchführen/Empfehlungen abgeben) und einmal für die KldB.</note>
     <note date="1970-01-01">empty</note>
   </notes>
 </kategorie>
