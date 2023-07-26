@@ -7,7 +7,7 @@
   <untergliederung>
     <default>
       <kldb schluessel="81764">Berufe in der Diät- und Ernährungstherapie - hoch komplexe Tätigkeiten</kldb>
-      <isco schluessel="3434">Chefs</isco>
+      <isco schluessel="2265">Chefs</isco>
       <dkz codenr="81764-100" refid="8894">Verpflegungsmanager/in (Diätküchenleiter/in)</dkz>
     </default>
   </untergliederung>
@@ -17,6 +17,6 @@
   <abgrenzung typ="mittel" refid="7070">Gesundheitsförderer/-förderin</abgrenzung>
   <notes>
     <note date="1970-01-01">empty</note>
-    <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">Isco 3434 ist sehr naheliegend, aber wegen der Spezialisierung ist 2265 vmtl. besser.</note>
   </notes>
 </kategorie>
