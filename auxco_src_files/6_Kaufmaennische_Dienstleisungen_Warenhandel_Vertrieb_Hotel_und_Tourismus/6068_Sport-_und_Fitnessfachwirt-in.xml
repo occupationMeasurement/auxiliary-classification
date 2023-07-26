@@ -7,7 +7,7 @@
   <untergliederung>
     <default>
       <kldb schluessel="63123">Sport,Fitnesskaufl.Sportmanag-Spezialist</kldb>
-      <isco schluessel="3343">Administrative and executive secretaries</isco>
+      <isco schluessel="3332">Administrative and executive secretaries</isco>
     </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="6067">Sport- und Fitnessökonom/in</abgrenzung>
@@ -17,5 +17,6 @@
   <notes>
     <note date="1970-01-01">empty</note>
     <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">Schwierige, aber auch schlecht umgesetzte Kategorie. Eine Folgefrage wurde direkt nach der Erstellung gestrichen: Sind Sie außerdem für die Planung und Organisation von Sportevents- und Dienstleistungen zuständig? Ja -> 3332/nein -> 3343. Aber Zuordnung in ISCO ist allgemein schwierig. KldB-Umsteigeschlüssel (und DKZ) nennt 3343, 3332 und 3423. Auch das Anforderungsniveau lässt sich aus der Tätigkeit nicht hinreichend genau herauslesen. ID 6068 löschen und in verwandte IDs für 63122 und 63124 einarbeiten?</note>
   </notes>
 </kategorie>
