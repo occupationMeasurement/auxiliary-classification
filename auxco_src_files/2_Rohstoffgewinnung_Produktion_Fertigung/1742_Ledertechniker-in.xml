@@ -16,7 +16,7 @@
     <antwort position="1" anforderungsniveau="4">
       <text>Ja</text>
       <kldb schluessel="28314">Lederherstellung - Experte</kldb>
-      <isco schluessel="2149">Industrial and production engineers</isco>
+      <isco schluessel="2149">Engineering Professionals Not Elsewhere Classified</isco>
       <dkz codenr="28314-101" refid="58728">Ingenieur/in - Ledertechnik</dkz>
     </antwort>
     <antwort position="2" anforderungsniveau="3">
