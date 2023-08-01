@@ -7,7 +7,7 @@
   <untergliederung>
     <default>
       <kldb schluessel="72132">Versicherungskaufleute - Fachkraft</kldb>
-      <isco schluessel="3315">Insurance representatives</isco>
+      <isco schluessel="3315">Valuers and Loss Assessors</isco>
       <dkz codenr="72132-107" refid="6861">Versicherungskaufmann/-frau</dkz>
       <dkz codenr="72132-108" refid="6864">Versicherungsfachmann/-frau</dkz>
       <dkz codenr="72132-111" refid="6890">Versicherungsleistungssachbearbeiter/in</dkz>
@@ -33,12 +33,12 @@
     <antwort position="2" anforderungsniveau="3">
       <text>eine berufliche Weiterbildung</text>
       <kldb schluessel="72133">Versicherungskaufleute - Spezialist</kldb>
-      <isco schluessel="3315">Insurance representatives</isco>
+      <isco schluessel="3315">Valuers and Loss Assessors</isco>
     </antwort>
     <antwort position="3" anforderungsniveau="3">
       <text>ein abgeschlossenes Bachelorstudium</text>
       <kldb schluessel="72133">Versicherungskaufleute - Spezialist</kldb>
-      <isco schluessel="3315">Insurance representatives</isco>
+      <isco schluessel="3315">Valuers and Loss Assessors</isco>
     </antwort>
   </untergliederung>
   <abgrenzung typ="hoch" refid="3586">Versicherungsberater/in</abgrenzung>
