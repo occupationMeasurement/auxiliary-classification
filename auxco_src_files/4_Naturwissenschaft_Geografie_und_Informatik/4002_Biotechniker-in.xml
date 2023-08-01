@@ -29,7 +29,7 @@
     <antwort position="3" anforderungsniveau="4">
       <text>ein abgeschlossenes Masterstudium im Bereich Biotechnologie oder ein vergleichbares Studium</text>
       <kldb schluessel="41214">Biologisch-techn.Laboratorium-Experte</kldb>
-      <isco schluessel="2131">Biotechniker (ohne medizinische Fachberufe)</isco>
+      <isco schluessel="2131">Biologists, Botanists, Zoologists and Related Professionals</isco>
       <dkz codenr="41214-109" refid="58691">Ingenieur/in - Biotechnologie</dkz>
     </antwort>
   </untergliederung>
