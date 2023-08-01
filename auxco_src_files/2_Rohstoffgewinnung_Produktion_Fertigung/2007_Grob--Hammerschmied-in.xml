@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>2007</id>
-  <taetigkeit>Hämmern und Schmieden von Metallgegenständen mit handwerklichen Verfahren</taetigkeit>
+  <taetigkeit> Hämmern und Schmieden zur Umformung von Metall mit handwerklichen Verfahren</taetigkeit>
   <taetigkeitsbeschreibung>z.B. Drahtziehen; Erhitzen von Metall in Schmiedeöfen; Metallgegenstände aus erhitztem Metall formen</taetigkeitsbeschreibung>
   <bezeichnung>Grob-/Hammerschmied/in</bezeichnung>
   <untergliederung>
@@ -18,7 +18,7 @@
   <abgrenzung typ="mittel" refid="2010">Gießereimechaniker/in</abgrenzung>
   <abgrenzung typ="mittel" refid="2014">Gießereiformer/in</abgrenzung>
   <notes>
-    <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">empty</note>
     <note date="1970-01-01">empty</note>
   </notes>
 </kategorie>

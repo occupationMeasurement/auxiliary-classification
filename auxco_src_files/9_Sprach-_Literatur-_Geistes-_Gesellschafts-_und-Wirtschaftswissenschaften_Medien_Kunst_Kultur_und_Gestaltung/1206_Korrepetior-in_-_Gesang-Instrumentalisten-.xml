@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1206</id>
-  <taetigkeit>Begleitung von Sängern und Instrumentalisten am Klavier</taetigkeit>
+  <taetigkeit>Begleitung von Sängern, Instrumentalisten und Tänzern am Klavier</taetigkeit>
   <taetigkeitsbeschreibung>z.B. Sänger oder Instrumentalisten begleiten; Künstlern Hilfestellungen geben z.B. Einsätze vorgeben und korrigieren; schwierige Partien einstudieren</taetigkeitsbeschreibung>
   <bezeichnung>Korrepetior/in - Gesang/Instrumentalisten/</bezeichnung>
   <untergliederung>
@@ -40,5 +40,6 @@
   <notes>
     <note date="1970-01-01">empty</note>
     <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">empty</note>
   </notes>
 </kategorie>

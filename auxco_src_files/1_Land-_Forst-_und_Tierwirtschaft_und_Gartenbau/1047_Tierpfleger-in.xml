@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1047</id>
-  <taetigkeit>Betreuung und Zucht von Tieren in Tierheimen, Zoos oder Zuchtbetrieben</taetigkeit>
+  <taetigkeit>Versorgung und Pflege von Tieren in Tierheimen, Zoos oder Zuchtbetrieben</taetigkeit>
   <taetigkeitsbeschreibung>z.B. Tierunterkünfte einrichten und reinigen; Futterrationen planen und Tiere füttern; Tierverhalten beobachten und dokumentieren; Tiere trainieren; Tiere auf Krankheiten untersuchen; in der betrieblichen Verwaltung mitarbeiten; Kunden/innen und Besucher/innen beraten</taetigkeitsbeschreibung>
   <bezeichnung>Tierpfleger/in</bezeichnung>
   <untergliederung>
@@ -37,5 +37,6 @@
   <notes>
     <note date="1970-01-01">empty</note>
     <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">empty</note>
   </notes>
 </kategorie>

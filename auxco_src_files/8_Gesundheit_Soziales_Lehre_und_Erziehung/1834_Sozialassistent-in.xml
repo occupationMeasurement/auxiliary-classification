@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1834</id>
-  <taetigkeit>Pflege und hauswirtschaftliche Unterstützung von hilfsbedürftigen Personen in Privathaushalten</taetigkeit>
+  <taetigkeit>Ambulante Pflege und hauswirtschaftliche Unterstützung von hilfsbedürftigen Personen in Privathaushalten</taetigkeit>
   <taetigkeitsbeschreibung>z.B. bei der Körperpflege, Essen oder dem Anziehen der Patienten behilflich sein; Behandlungspflege nach ärztlicher Verordnung übernehmen; Wohnung sauber halten; Familienangehörige unterweisen, betreuen und beraten; Aufzeichnungen über die Pflege und Betreuung führen</taetigkeitsbeschreibung>
   <bezeichnung>Sozialassistent/in</bezeichnung>
   <untergliederung>
@@ -37,7 +37,7 @@
   <abgrenzung typ="hoch" refid="8006">Heilerziehungspfleger/in in Privathaushalten</abgrenzung>
   <abgrenzung typ="mittel" refid="8062">Hauswirtschafter/in in sozialen und gewerblichen Einrichtungen</abgrenzung>
   <notes>
-    <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">empty</note>
     <note date="1970-01-01">empty</note>
   </notes>
 </kategorie>
