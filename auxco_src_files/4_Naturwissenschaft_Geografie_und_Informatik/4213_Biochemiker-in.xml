@@ -7,7 +7,7 @@
   <untergliederung>
     <default>
       <kldb schluessel="41284">Biologie (s.s.T.) - Experte</kldb>
-      <isco schluessel="2131">Chemists</isco>
+      <isco schluessel="2131">Biologists, Botanists, Zoologists and Related Professionals</isco>
       <dkz codenr="41284-118" refid="58688">Biochemiker/in</dkz>
     </default>
   </untergliederung>
