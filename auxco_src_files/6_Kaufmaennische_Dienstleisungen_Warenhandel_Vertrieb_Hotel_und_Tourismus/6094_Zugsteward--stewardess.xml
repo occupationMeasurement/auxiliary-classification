@@ -7,7 +7,7 @@
   <untergliederung>
     <default>
       <kldb schluessel="63382">Gastronomie (s.s.T.) - Fachkraft</kldb>
-      <isco schluessel="5131">Travel attendants and travel stewards</isco>
+      <isco schluessel="5131">Waiters, Waitresses and Bartenders</isco>
       <dkz codenr="63382-103" refid="10052">Zugsteward/-stewardess</dkz>
     </default>
   </untergliederung>
