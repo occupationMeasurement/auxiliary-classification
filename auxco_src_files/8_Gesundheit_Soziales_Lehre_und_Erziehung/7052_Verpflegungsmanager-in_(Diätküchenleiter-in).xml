@@ -7,7 +7,7 @@
   <untergliederung>
     <default>
       <kldb schluessel="81764">Berufe in der Diät- und Ernährungstherapie - hoch komplexe Tätigkeiten</kldb>
-      <isco schluessel="2265">Chefs</isco>
+      <isco schluessel="2265">Dieticians and Nutritionists</isco>
       <dkz codenr="81764-100" refid="8894">Verpflegungsmanager/in (Diätküchenleiter/in)</dkz>
     </default>
   </untergliederung>
