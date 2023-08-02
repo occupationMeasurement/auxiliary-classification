@@ -7,7 +7,7 @@
   <untergliederung>
     <default>
       <kldb schluessel="54101">Reinigung (o.S.) - Helfer</kldb>
-      <isco schluessel="9112">Elementary Workers Not Elsewhere Classified</isco>
+      <isco schluessel="9112">Cleaners and Helpers in Offices, Hotels and Other Establishments</isco>
       <dkz codenr="54101-103" refid="10223">Helfer/in - Reinigung</dkz>
     </default>
   </untergliederung>
