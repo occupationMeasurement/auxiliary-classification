@@ -7,7 +7,7 @@
   <untergliederung>
     <default>
       <kldb schluessel="23293">Aufsichtskräfte - Technische Mediengestaltung</kldb>
-      <isco schluessel="3122">Graphic and multimedia designers</isco>
+      <isco schluessel="3122">Manufacturing Supervisors</isco>
     </default>
     <fragetext typ="aufsicht">
       <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
@@ -22,7 +22,7 @@
     <antwort position="2" aufsicht="Aufsichtskraft">
       <text>Nein</text>
       <kldb schluessel="23293">Aufsichtskräfte - Technische Mediengestaltung</kldb>
-      <isco schluessel="3122">Graphic and multimedia designers</isco>
+      <isco schluessel="3122">Manufacturing Supervisors</isco>
       <dkz codenr="23293-107" refid="77112">Industriemeister/in - Printmedien</dkz>
       <dkz codenr="23293-100" refid="1341">Schriftsetzermeister/in</dkz>
       <dkz codenr="23293-101" refid="1402">Flexografenmeister/in</dkz>
