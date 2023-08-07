@@ -7,7 +7,7 @@
   <untergliederung>
     <default>
       <kldb schluessel="93312">Bildhauerei - Fachkraft</kldb>
-      <isco schluessel="7319">Machine-tool Setters and Setter-operators</isco>
+      <isco schluessel="7319">Handicraft Workers not Elsewhere Classified</isco>
       <dkz codenr="93312-101" refid="855">Steinmetz/in und Steinbildhauer/in - Denkmalpflege</dkz>
       <dkz codenr="93312-102" refid="857">Steinmetz/in und Steinbildhauer/in - Steinbildhauerarbeiten</dkz>
     </default>

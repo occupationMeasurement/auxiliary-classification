@@ -51,10 +51,8 @@
     </antwort>
     <antwort position="7">
       <text>nur diätische Mahlzeiten</text>
-      <kldb schluessel="29322">Grill-, Braten-, Fischköche - Fachkraft</kldb>
+      <kldb schluessel="29382">Köche/Köchinnen (sonstige spezifische Tätigkeitsangabe) – fachlich ausgerichtete Tätigkeiten</kldb>
       <isco schluessel="5120">Cooks</isco>
-      <dkz codenr="29322-100" refid="3729">Grilleur/in</dkz>
-      <dkz codenr="29322-102" refid="3731">Rotisseur/in</dkz>
     </antwort>
     <antwort position="8">
       <text>oder trifft nichts davon auf Sie zu?</text>
