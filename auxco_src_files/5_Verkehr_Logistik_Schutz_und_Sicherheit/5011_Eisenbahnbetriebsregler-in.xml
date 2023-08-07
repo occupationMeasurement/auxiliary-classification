@@ -44,5 +44,6 @@
   <notes>
     <note date="1970-01-01">empty</note>
     <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">Ursprungsformulierung war: "Regelung eines reibungslosen Ablaufs des Personen- und Gütertransports im Schienenverkehr" und der KldB-Umsteigeschlüssel verweist nur auf 8312. Die aktuelle Formulierung der taetigkeit lässt aber verschiedene Interpretationen zu, insbesondere Isco 4323 klingt plausibel. Zum einen gibt es das Planen der Zugroute (4323), zum anderen die Steuerung von Weichen und Signalen (8312). Taetigkeit sollte präziser formuliert werden - dabei auch eine weitere Auxco-Kategorie für 51522/4323-Kombi anlegen?</note>
   </notes>
 </kategorie>

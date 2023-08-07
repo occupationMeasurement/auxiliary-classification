@@ -17,5 +17,6 @@
   <notes>
     <note date="1970-01-01">empty</note>
     <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">Taetigkeit muss geändert werden, da sie nach Isco 2133 klingt. ISCO 2133 ist bereits berücksichtigt bei ID 1774. Ursprüngliche Tätigkeit hier war "Beratung von Anlagenbetreibern und Werkleitern in sicherheitstechnischer Hinsicht" (Störfallbeauftragter), was später abgeändert/verschlechtert wurde. Zuordnung zur 2263 (aus DKZ-Umsteigeschlüssel) ist aber notwendig, denn sobald die Störfälle nicht nur Auswirkungen auf die Umwelt sondern auch direkte AUswirkungen auf die menschliche Gesundheit haben, trifft 2263 zu. Bessere Formulierung der Tätigkeit ist aber erforderlich, vgl. dazu Störfallbeauftragter im Berufenet. Vermutlich sollte auch hervorgehoben werden, dass es sich um innerbetriebliche Vorsorge handel</note>
   </notes>
 </kategorie>

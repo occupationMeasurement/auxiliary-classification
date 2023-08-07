@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>9003</id>
-  <taetigkeit>Planung, Koordination und Überwachung von Fertigungsprozessen in der Schuhfertigung</taetigkeit>
+  <taetigkeit>Planung, Koordination und Optimierung von Fertigungsprozessen in der Schuhfertigung</taetigkeit>
   <taetigkeitsbeschreibung>z.B. Fertigungstermine bestimmen und betriebliche Abläufe koordinieren; Modelle und Vorgaben für die Fertigung erarbeiten; Produktionskosten kalkulieren; für die rechtzeitige Bereitstellung von Materialien sorgen; Qualitätskontrollen durchfühern; Fertigung überwachen; Stoffe prüfen; Zeitfenster und Fertigungstermine überwachen; Musterkollektionen für Messen zusammenstellen; Einhaltung von rechtlichen Bestimmungen bezüglich Sicherheit, Umwelt- und Arbeitsschutz durchsetzen</taetigkeitsbeschreibung>
   <bezeichnung>Schuhtechniker/in</bezeichnung>
   <untergliederung>
@@ -17,6 +17,6 @@
   <abgrenzung typ="hoch" refid="9002">Schuhmodelleur/in</abgrenzung>
   <notes>
     <note date="1970-01-01">empty</note>
-    <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">28333 umfasst laut Kldb die "Organisation und Überwachung von Fertigungsabläufen"  - das klingt sehr nach einer Aufsichtskraft und überschneidet sich mit 28393. Wenn man es als Aufsichtskraft interpretiert, trifft ISCO 3122 zu (entspricht dem KldB-Umsteigeschlüssel, aber es ist inkonsistent damit in der Kldb keine 28393 zu vergeben)</note>
   </notes>
 </kategorie>

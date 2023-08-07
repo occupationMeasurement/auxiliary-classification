@@ -7,7 +7,7 @@
   <untergliederung>
     <default>
       <kldb schluessel="83131">Heilerziehungspflege, Sonderpäd. -Helfer</kldb>
-      <isco schluessel="5321">Health care assistants</isco>
+      <isco schluessel="5322">Home-based Personal Care Workers</isco>
       <dkz codenr="83131-100" refid="6963">Reisehelfer/in für Menschen mit Behinderung</dkz>
       <dkz codenr="83131-102" refid="9141">Heilerziehungspflegehelfer/in</dkz>
       <dkz codenr="83132-101" refid="9103">Erzieher/in - sonderpädagogische Einrichtungen</dkz>
@@ -25,7 +25,7 @@
     <antwort position="2" anforderungsniveau="1">
       <text>Nein</text>
       <kldb schluessel="83131">Heilerziehungspflege, Sonderpäd. -Helfer</kldb>
-      <isco schluessel="5321">Health care assistants</isco>
+      <isco schluessel="5322">Home-based Personal Care Workers</isco>
     </antwort>
   </untergliederung>
   <abgrenzung typ="hoch" refid="8008">Heilpädagoge/ -pädagogin</abgrenzung>
