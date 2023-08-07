@@ -11,7 +11,7 @@ A summarized description is published in
 Schierholz, Malte (2018): Eine Hilfsklassifikation mit Tätigkeitsbeschreibungen für Zwecke der Berufskodierung. AStA Wirtschafts- und Sozialstatistisches Archiv 12(3-4). 14 S. https://doi.org/10.1007/s11943-018-0231-2
 
 # Usage
-The folder ```auxco_src_files``` contains the auxiliary classification source files. We run the following R code to convert the source files into four easy-to-read tables. They can be immediately downloaded under "Releases".
+The folder ```auxco_src_files``` contains the auxiliary classification source files. We run the following R code to convert the source files into five easy-to-read tables. They can be immediately downloaded under "Releases".
 
 ```
 install.packages(c("xml2", "data.table", "stringdist"))
