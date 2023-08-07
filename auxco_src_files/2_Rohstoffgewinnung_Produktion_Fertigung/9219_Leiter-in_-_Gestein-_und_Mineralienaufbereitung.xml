@@ -10,11 +10,27 @@
       <isco schluessel="3122">Manufacturing supervisors</isco>
       <dkz codenr="21293-108" refid="6129">Industriemeister/in - Naturwerkstein</dkz>
     </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="21293">Aufsichtskräfte - Naturstein- und Mineralaufbereitung und -verarbeitung und Baustoffherstellung</kldb>
+      <isco schluessel="1321">Manufacturing Managers</isco>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="21293">Aufsichtskräfte - Naturstein- und Mineralaufbereitung und -verarbeitung und Baustoffherstellung</kldb>
+      <isco schluessel="3122">Manufacturing supervisors</isco>
+    </antwort>
   </untergliederung>
+  <abgrenzung typ="hoch" refid="9211">Leiter/in - Berg- und Tagebau</abgrenzung>
+  <abgrenzung typ="hoch" refid="9217">Leiter/in - Baustoffherstellung</abgrenzung>
+  <abgrenzung typ="hoch" refid="9218">Steinmetzmeister/in</abgrenzung>
   <abgrenzung typ="mittel" refid="9212">Kohleaufbereiter/in</abgrenzung>
-  <abgrenzung typ="mittel" refid="9216">Steinmetz/in</abgrenzung>
   <notes>
     <note date="1970-01-01">empty</note>
-    <note date="2023-07-26">In der KldB gibt es keine Kategorie 21294. Daher als Aufsichtskraft interpretiert und 3122 gewählt. Folgefrage zur Unterscheidung zwischen Aufsichtskraft und Führungskraft (1322) sollte eingefügt werden.</note>
+    <note date="2023-07-26">In der KldB gibt es keine Kategorie 21294, daher wurde auch für Führungskräfte die 21293 eingesetzt. Beachte, dass Gewinnung von Sanden und Gesteinen bei der KldB 21193/4 einzuordnen wäre (hohe Verwechslungsgefahr).</note>
   </notes>
 </kategorie>
