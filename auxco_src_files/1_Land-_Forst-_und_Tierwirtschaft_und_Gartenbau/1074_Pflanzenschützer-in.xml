@@ -15,7 +15,7 @@
   <abgrenzung typ="mittel" refid="1014">Landwirtschaftsberater/in</abgrenzung>
   <abgrenzung typ="mittel" refid="1076">Pflanzenarzt/-ärztin</abgrenzung>
   <notes>
-    <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">taetigkeit ist so für die KldB optimiert, dass in ISCO keine gut passende Kategorie vorhanden ist. 3142 passt am besten zur Tätigkeit. Aber: Anforderungsniveau in ISCO und KldB widersprüchlich. Man könnte auch eine Folgefrage zum Anforderungsniveau nutzen und auf isco 6111 (oder 6130?) und Kldb 11183 verweisen. Passt aber nicht dazu, dass ISCO taetigkeitsorientiert ist.</note>
     <note date="1970-01-01">empty</note>
   </notes>
 </kategorie>

@@ -47,7 +47,7 @@
   <abgrenzung typ="hoch" refid="6006">Automatenfachmann/ -frau</abgrenzung>
   <abgrenzung typ="hoch" refid="1722">Maschinenbauingenieur/in</abgrenzung>
   <notes>
-    <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">In 25132 NAME.docx wurde begründet, dass 7233 nicht berücksichtigt wurde weil Land- und Baumaschinen in anderen KldB-Kategorien berücksichtigt sind. Implizit wird hier davon ausgegangen, dass alle Maschinen und Anlagensysteme elektrisch sind. Aber das sollte vermutlich verschriftlicht werden (in der taetigkeit oder mittels Folgefrage).</note>
     <note date="1970-01-01">empty</note>
   </notes>
 </kategorie>

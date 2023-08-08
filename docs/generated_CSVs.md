@@ -25,6 +25,7 @@ Main table. Contains all answer options from the auxiliary classification.
 - **default_kldb_id**: The KldB 2010 id associated with this AuxCO category by default. Depending on follow-up questions a different KldB 2010 id might be coded in the end.
 - **default_isco_id**: The ISCO-08 id associated with this AuxCO category by default. Depending on follow-up questions a different KldB 2010 id might be coded in the end.
 - **kldb_title_short**: Brief summary of the area of work. Derived from KldB 2010 (4-digit category names).
+- **notes**: Comments from AuxCO creators. It may provide the rationale why the selected category is correct and a different category is considered wrong. If an answer option is problematic for some reason and might be improved, this is highlighted.
 
 
 ### Description of Table `auxco_distinctions.csv`

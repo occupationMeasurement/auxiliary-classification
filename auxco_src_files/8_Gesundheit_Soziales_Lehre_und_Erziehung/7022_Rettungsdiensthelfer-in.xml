@@ -32,6 +32,6 @@
   <abgrenzung typ="hoch" refid="7106">Disponent/in in einer Rettungsleitstelle</abgrenzung>
   <notes>
     <note date="1970-01-01">empty</note>
-    <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">Kategorie/Folgefragen müssen noch einmal mit mehr Überblick über die relevanten Kategorien neu erstellt werden. (dabei auch 81342 berücksichtigen). 5329 wurde bisher aufgrund eines Fehlers unsererseits ignoriert. Die Folgefrage beruht auf der Note zu 3258 "Ambulance drivers who do not provide health care are classified in unit group 8322" (und DKZ-Beruf Rettungshelfer wird dort eingeordnet). Sehr schlecht formulierte Folgefrage, da ja das Autofahren (KldB 52182/ISCO 8322) im Vordergrund stehen soll. Ggf. braucht man aber auch noch eine zweite Folgefrage um die Unterschiede zwischen 3258 und 8322 herauszuarbeiten. </note>
   </notes>
 </kategorie>

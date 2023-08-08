@@ -16,6 +16,6 @@
   <abgrenzung typ="hoch" refid="8014">Hauswirtschafter/in in Privathaushalten</abgrenzung>
   <notes>
     <note date="1970-01-01">empty</note>
-    <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">ID besser löschen? Starke Überschneidungen mit KldB-Kategorien zu Hauswirtschaft (83212) und Altenpflege (82102), wobei es hier wegen ISCO 5322 explizit nicht um Pflege gehen soll. Aber wenn Pflege nur untergeordneter Bestandteil ist, aber auch keine reine Hauswirtschaft gemeint ist, was ist mit 83143 dann gemeint? Weil dies unklar ist, lässt sich der aus der KldB übernommene Text "vorübergehende Notsituationen" auch nicht präzisieren.</note>
   </notes>
 </kategorie>

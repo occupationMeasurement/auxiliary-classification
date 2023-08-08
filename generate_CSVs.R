@@ -255,7 +255,7 @@ load_kldb <- function() {
   return(kldb_data)
   # nolint end
 }
-
+version
 ##############################################
 ### Write data to excel file, listing all auxiliary categories order by id
 ### Every category from the auxiliary classification must appear exactly once
@@ -283,6 +283,21 @@ for (cat_num in seq_along(ids)) {
     xml_attr("schluessel")
   default_isco_id <- xml_find_all(category_node, xpath = ".//default/isco") |>
     xml_attr("schluessel")
+  
+  notes_date <- xml_find_all(category_node, xpath = ".//notes/note") |>
+    xml_attr("date")
+  notes_content <- xml_find_all(category_node, xpath = ".//notes/note") |>
+    xml_text()
+
+  ind_to_remove <- which(notes_date == "1970-01-01" | notes_content == "empty")
+  notes_content <- notes_content[-ind_to_remove]
+  notes_date <- notes_date[-ind_to_remove]
+  if (length(notes_date) == 0) {
+    notes <- ""
+  } else {
+    notes <- paste0(notes_content, " (", notes_date, ")", collapse = " || ")
+  }
+
   auxco_categories <- rbind(
     auxco_categories,
     data.table(
@@ -291,7 +306,8 @@ for (cat_num in seq_along(ids)) {
       task,
       task_description,
       default_kldb_id,
-      default_isco_id
+      default_isco_id,
+      notes
     )
   )
 }
@@ -525,6 +541,8 @@ auxco_categories[
 
 # Remove the level 4 kldb_ids again
 auxco_categories[, kldb_id_to_match := NULL]
+
+auxco_categories <- auxco_categories[, .(auxco_id, title, task, task_description, default_kldb_id, default_isco_id, kldb_title_short, notes)]
 
 fwrite(
   auxco_categories,

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kategorie>
   <id>1206</id>
-  <taetigkeit>Begleitung von Sängern und Instrumentalisten am Klavier</taetigkeit>
+  <taetigkeit>Begleitung von Sängern, Instrumentalisten und Tänzern am Klavier</taetigkeit>
   <taetigkeitsbeschreibung>z.B. Sänger oder Instrumentalisten begleiten; Künstlern Hilfestellungen geben z.B. Einsätze vorgeben und korrigieren; schwierige Partien einstudieren</taetigkeitsbeschreibung>
-  <bezeichnung>Korrepetior/in - Gesang/Instrumentalisten/</bezeichnung>
+  <bezeichnung>Korrepetitor/in</bezeichnung>
   <untergliederung>
     <default>
       <kldb schluessel="94184">Musik-, Gesangs- und Dirigententätigkeiten (sonstige spezifische Tätigkeiten) - hoch komplexe Tätigkeiten</kldb>
@@ -12,27 +12,9 @@
       <dkz codenr="94184-105" refid="78166">Gesangsrepetitor/in</dkz>
       <dkz codenr="94184-103" refid="77749">Instrumentalrepetitor/in</dkz>
       <dkz codenr="94184-104" refid="77788">Solorepetitor/in</dkz>
-    </default>
-    <fragetext typ="sonstige">
-      <folgefrageAktuellerBeruf>Wen begleiten Sie mit dem Klavier?</folgefrageAktuellerBeruf>
-      <folgefrageVergangenerBeruf>Wen haben Sie mit dem Klavier begleitet?</folgefrageVergangenerBeruf>
-    </fragetext>
-    <antwort position="1">
-      <text>Tänzer/innen</text>
-      <kldb schluessel="94184">Musik-, Gesangs- und Dirigententätigkeiten (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
-      <isco schluessel="2653">Dancers and choreographers</isco>
       <dkz codenr="94184-100" refid="8363">Ballettrepetitor/in</dkz>
       <dkz codenr="94184-102" refid="59456">Korrepetitor/in</dkz>
-    </antwort>
-    <antwort position="2">
-      <text>Sänger/innen oder ähnliches</text>
-      <kldb schluessel="94184">Musik-, Gesangs- und Dirigententätigkeiten (sonstige spezifische Tätigkeitsangabe) - hoch komplexe Tätigkeiten</kldb>
-      <isco schluessel="2652">Musicians, singers and composers</isco>
-      <dkz codenr="94184-106" refid="78413">Studienleiter/in (Musik)</dkz>
-      <dkz codenr="94184-105" refid="78166">Gesangsrepetitor/in</dkz>
-      <dkz codenr="94184-103" refid="77749">Instrumentalrepetitor/in</dkz>
-      <dkz codenr="94184-104" refid="77788">Solorepetitor/in</dkz>
-    </antwort>
+    </default>
   </untergliederung>
   <abgrenzung typ="hoch" refid="1205">Musik- und Sounddesigner/in</abgrenzung>
   <abgrenzung typ="hoch" refid="1200">Musiker/in</abgrenzung>

@@ -22,7 +22,7 @@
     <antwort position="2" anforderungsniveau="3">
       <text>Nein</text>
       <kldb schluessel="27223">Berufe in der Konstruktion und im Gerätebau - komplexe Spezialistentätigkeiten</kldb>
-      <isco schluessel="3119">Physical and engineering science technicians not elsewhere classified</isco>
+      <isco schluessel="3118">Draughtspersons</isco>
       <dkz codenr="27223-157" refid="58453">CAD-Fachkraft (ohne Schwerpunkt)</dkz>
       <dkz codenr="27223-106" refid="5349">Konstrukteur/in - Werkzeugmaschinenbau/Formentechnik</dkz>
       <dkz codenr="27223-108" refid="5353">Konstrukteur/in</dkz>
@@ -47,7 +47,7 @@
   <abgrenzung typ="hoch" refid="2146">Technische/r Zeichner/in</abgrenzung>
   <abgrenzung typ="hoch" refid="2154">Leiter/in - Technische Zeichnung, Konstruktion und Modellbau</abgrenzung>
   <notes>
-    <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">empty</note>
     <note date="1970-01-01">empty</note>
   </notes>
 </kategorie>

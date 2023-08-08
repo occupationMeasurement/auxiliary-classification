@@ -10,6 +10,20 @@
       <isco schluessel="4323">Transport clerks</isco>
       <dkz codenr="51393-102" refid="7147">Ladebetriebsleiter/in</dkz>
     </default>
+    <fragetext typ="aufsicht">
+      <folgefrageAktuellerBeruf>Sind Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageAktuellerBeruf>
+      <folgefrageVergangenerBeruf>Waren Sie befugt strategische Entscheidungen zu treffen, z.B. zur Einführung neuer Verfahren, zu finanziellen Investitionen oder zur Einstellung und Entlassung von Personal?</folgefrageVergangenerBeruf>
+    </fragetext>
+    <antwort position="1" aufsicht="Führungskraft">
+      <text>Ja</text>
+      <kldb schluessel="51394">Führungskräfte - Lagerwirtschaft, Post und Zustellung, Güterumschlag</kldb>
+      <isco schluessel="1324">Supply, distribution and related managers</isco>
+    </antwort>
+    <antwort position="2" aufsicht="Aufsichtskraft">
+      <text>Nein</text>
+      <kldb schluessel="51393">Aufsichtskräfte - Lagerwirtschaft, Post und Zustellung, Güterumschlag</kldb>
+      <isco schluessel="4323">Transport clerks</isco>
+    </antwort>
   </untergliederung>
   <abgrenzung typ="hoch" refid="1005">Lagerleiter/in</abgrenzung>
   <abgrenzung typ="hoch" refid="5014">Ramp-Agent</abgrenzung>

@@ -19,6 +19,6 @@
   <abgrenzung typ="hoch" refid="9029">Textilhilfsarbeiter/in</abgrenzung>
   <notes>
     <note date="1970-01-01">empty</note>
-    <note date="1970-01-01">empty</note>
+    <note date="2023-07-26">28101 (Textiltechnik und -produktion) und 28221 überschneiden sich stark und sind daher leicht zu verwechseln. Zusätzlich gibt es folgende Inkonsistenz in der Kldb: 28221 trägt zwar die Überschrift Bekleidungsherstellung, aber in der zugehörigen Beschreibung sind auch Polstereien erwähnt. 28221 wurde daher interpretiert als Helferberufe Textilverarbeitung (was eigentlich den KldB-Code 28201 haben müsste). Evtl. wären Folgefragen hilfreich um zusätzlich noch zwischen mehreren möglichen ISCO-Kategorien zu unterscheiden (z.B. 8153 Bediener von Nähmaschinen)?</note>
   </notes>
 </kategorie>
